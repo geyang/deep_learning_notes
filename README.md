@@ -18,3 +18,7 @@ structure). Like this one below, it shows how a simple network can be trained
 to emulate a given target function.
 
 [![network trained to emulate function](trained%20neural%20net%20emulate%20a%20step%20function.png)](004%20-%20optimize%20batch%20training.ipynb)
+
+## Todos:
+
+- [ ] work on optimize batch training.
