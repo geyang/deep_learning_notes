@@ -11,7 +11,7 @@ These are the notes that I left working through Nielson's [neural Net and Deep L
 - [003 - use perceptrons to target arbitrary function](003%20-%20use%20perceptrons%20to%20target%20arbitrary%20function.ipynb)
 - [004 - optimize batch training](004%20-%20optimize%20batch%20training.ipynb)
 - [005 - Tensorflow Intro](005%20-%20Tensorflow%20Intro.ipynb)
-- [006 - Tensorflow Softmax Regression](005%20-%20Tensorflow%20Softmax%20Regression.ipynb)
+- [006 - Tensorflow Softmax Regression](006%20-%20Tensorflow%20Softmax%20Regression.ipynb)
 
 ## Fun Highlights
 
