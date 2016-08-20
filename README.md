@@ -23,4 +23,8 @@ to emulate a given target function.
 
 ## Todos:
 
-- [ ] work on optimize batch training.
+- [ ] add convNet MNIST example with Tensorflow
+
+### Done:
+
+- [x] work on optimize batch training.
