@@ -1,0 +1,9 @@
+[W 05:04:24.410 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[W 05:04:24.410 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using authentication. This is highly insecure and not recommended.
+[I 05:04:24.410 NotebookApp] The port 9000 is already in use, trying another random port.
+[I 05:04:24.412 NotebookApp] Serving notebooks from local directory: /home/ge/projects/deep_learning_notes
+[I 05:04:24.412 NotebookApp] 0 active kernels 
+[I 05:04:24.412 NotebookApp] The Jupyter Notebook is running at: http://[all ip addresses on your system]:9001/
+[I 05:04:24.412 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 05:06:00.055 NotebookApp] received signal 15, stopping
+[I 05:06:00.056 NotebookApp] Shutting down kernels
