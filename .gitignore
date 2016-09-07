@@ -1,5 +1,6 @@
 .idea
 nohup.out
 .ipynb_checkpoints/
+data
 
 MNIST_data
