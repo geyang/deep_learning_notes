@@ -14,6 +14,7 @@ These are the notes that I left working through Nielson's [neural Net and Deep L
 ### Chapter 2: Intro to Tensorflow
 - [005 - Tensorflow Intro](Ch2%20Intro%20to%20Tensorflow/005%20-%20Tensorflow%20Intro.ipynb)
 - [006 - Tensorflow Softmax Regression](Ch2%20Intro%20to%20Tensorflow/006%20-%20Tensorflow%20Softmax%20Regression.ipynb)
+- [007 - tensorflow API exploration](Ch2%20Intro%20to%20Tensorflow/007%20-%20tensorflow%20API%20exploration.ipynb)
 
 ## Fun Highlights
 
