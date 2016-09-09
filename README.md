@@ -24,10 +24,26 @@ to emulate a given target function.
 
 [![network trained to emulate function](trained%20neural%20net%20emulate%20a%20step%20function.png)](004%20-%20optimize%20batch%20training.ipynb)
 
-## Todos:
+## Todos (9/9/2016):
 
-- [ ] add convNet MNIST example with Tensorflow
+- [ ] L2 Regularization with Logistic Regression
+- [ ] MNIST Perceptron logging and visualization with tensorboard
+- [ ] LeNet traing
+- [ ] LeNet++ training
+- [ ] Adversarial Hardened LeNet++
+- [ ] Adversarial Test of Hardened LeNet++
+
+### More Deep Neural Net Learnings
+- [ ] Feedforward Neural Network (Multilayer Perceptron)
+- [ ] Deep Feedforward Neural Network (Multilayer Perceptron with 2 Hidden Layers O.o)
+- [ ] Convolutional Neural Network
+- [ ] Denoising Autoencoder
+- [ ] Recurrent Neural Network (LSTM)
+- [ ] Word2vec
+- [ ] TensorBoard
+- [ ] Save and restore net
 
 ### Done:
 
-- [x] work on optimize batch training.
+- [x] work on optimize batch training. (numpy neural net)
+- [x] add convNet MNIST example with Tensorflow
