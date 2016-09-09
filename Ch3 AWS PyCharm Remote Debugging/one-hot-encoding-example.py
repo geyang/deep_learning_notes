@@ -20,20 +20,36 @@ def one_hot_encoding_batch(batch, batch_size, num_labels):
     return tf.reshape(sparse_to_dense, [batch_size, num_labels])
 
 
-with tf.Session() as sess:
-    labels = one_hot_encoding_batch([0, 1, 2, 3, 4], 5, 10)
-    print('label one hot dimension', labels.get_shape())
-    result = sess.run(labels)
+if __name__ == '__main__':
+    with tf.Session() as sess:
+        labels = one_hot_encoding_batch([0, 1, 2, 3, 4], 5, 10)
+        print('label one hot dimension', labels.get_shape())
+        output = sess.run(labels)
 
-    assert result[0, 0], 'First label should be 1 (0)'
-    assert result[1, 1], 'Second label should be 1 (1)'
-    assert result[2, 2], 'Third label should be 1 (2)'
-    assert result[3, 3], 'Fourth label should be 1 (3)'
+        assert output[0, 0], 'First label should be 1 (0)'
+        assert output[1, 1], 'Second label should be 1 (1)'
+        assert output[2, 2], 'Third label should be 1 (2)'
+        assert output[3, 3], 'Fourth label should be 1 (3)'
 
+        # Now, tensorflow has the `tf.one_hot` function which does the same thing (for the most part)
+        # instead of above, you can:
 
-    batch_size = 2
-    num_labels = 3
-    concat = tf.concat(0, [[batch_size], [num_labels]])
-    output_shape = tf.reshape(concat, [2])
-    result = sess.run(output_shape)
-    print(result)
+        labels = tf.one_hot(
+            indices=[0, 2, -1, 1],
+            depth=3,
+            on_value=5.0,
+            off_value=0.0,
+            axis=-1
+        )
+        output = sess.run(labels)
+        print(output)
+        # output =
+        # [5.0 0.0 0.0]  // one_hot(0)
+        # [0.0 0.0 5.0]  // one_hot(2)
+        # [0.0 0.0 0.0]  // one_hot(-1)
+        # [0.0 5.0 0.0]  // one_hot(1)
+
+        assert output[0, 0], 'First label should be 1 (0)'
+        assert output[1, 1], 'Second label should be 1 (1)'
+        assert output[2, 2], 'Third label should be 1 (2)'
+        assert output[3, 3], 'Fourth label should be 1 (3)'
