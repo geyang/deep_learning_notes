@@ -30,7 +30,7 @@ to emulate a given target function.
 - [ ] L2 Regularization with Logistic Regression
 - [ ] MNIST Perceptron logging and visualization with tensorboard
 [tensorboard doc](https://www.tensorflow.org/versions/r0.10/resources/faq.html#frequently-asked-questions)
-- [ ] LeNet traing
+- [ ] LeNet training [ConvNet doc](https://www.tensorflow.org/versions/r0.10/tutorials/deep_cnn/index.html)
 - [ ] LeNet++ training
 - [ ] Adversarial Hardened LeNet++
 - [ ] Adversarial Test of Hardened LeNet++
