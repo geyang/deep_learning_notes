@@ -26,6 +26,7 @@ to emulate a given target function.
 
 ## Todos (9/9/2016):
 
+- [ ] multi-GPU setup [tensorflow doc](https://www.tensorflow.org/versions/r0.10/how_tos/using_gpu/index.html)
 - [ ] L2 Regularization with Logistic Regression
 - [ ] MNIST Perceptron logging and visualization with tensorboard
 - [ ] LeNet traing
