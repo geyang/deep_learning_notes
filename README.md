@@ -31,14 +31,14 @@ to emulate a given target function.
 
 ## Todos (9/9/2016):
 
-- [ ] multi-GPU setup [tensorflow doc](https://www.tensorflow.org/versions/r0.10/how_tos/using_gpu/index.html)
-- [ ] L2 Regularization with Logistic Regression
+- [ ] multi-GPU setup [tensorflow doc](https://www.tensorflow.org/versions/r0.10/how_tos/using_gpu/index.html) [0.5 - 1.0]
+- [ ] L2 Regularization with Logistic Regression [1.0]
 - [ ] MNIST Perceptron logging and visualization with tensorboard
-[tensorboard doc](https://www.tensorflow.org/versions/r0.10/resources/faq.html#frequently-asked-questions)
-- [ ] LeNet training [ConvNet doc](https://www.tensorflow.org/versions/r0.10/tutorials/deep_cnn/index.html)
-- [ ] LeNet++ training
-- [ ] Adversarial Hardened LeNet++
-- [ ] Adversarial Test of Hardened LeNet++
+[tensorboard doc](https://www.tensorflow.org/versions/r0.10/resources/faq.html#frequently-asked-questions) [2.0]
+- [ ] LeNet training [ConvNet doc](https://www.tensorflow.org/versions/r0.10/tutorials/deep_cnn/index.html) [1.0]
+- [ ] LeNet++ training [1.0]
+- [ ] Adversarial Hardened LeNet++ [1.0]
+- [ ] Adversarial Test of Hardened LeNet++ [1.0]
 
 ### More Deep Neural Net Learnings
 - [ ] Feedforward Neural Network (Multilayer Perceptron)
