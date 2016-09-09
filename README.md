@@ -47,3 +47,7 @@ to emulate a given target function.
 
 - [x] work on optimize batch training. (numpy neural net)
 - [x] add convNet MNIST example with Tensorflow
+
+## More Useful Links:
+- Useful examples: [@Aymericdamien's TensorFlow-Example](https://github.com/aymericdamien/TensorFlow-Examples)
+- More useful examples: [@nlintz's TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials)
