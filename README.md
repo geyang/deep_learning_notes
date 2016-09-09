@@ -29,6 +29,7 @@ to emulate a given target function.
 - [ ] multi-GPU setup [tensorflow doc](https://www.tensorflow.org/versions/r0.10/how_tos/using_gpu/index.html)
 - [ ] L2 Regularization with Logistic Regression
 - [ ] MNIST Perceptron logging and visualization with tensorboard
+[tensorboard doc](https://www.tensorflow.org/versions/r0.10/resources/faq.html#frequently-asked-questions)
 - [ ] LeNet traing
 - [ ] LeNet++ training
 - [ ] Adversarial Hardened LeNet++
