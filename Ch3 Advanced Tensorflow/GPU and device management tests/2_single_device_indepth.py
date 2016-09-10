@@ -47,7 +47,7 @@ config.gpu_options.per_process_gpu_memory_fraction = 0.4
 session = tf.Session(config=config, ...)
 """
 
-### Use other devices if specified device is not available
+### Allow non-default manual device selection. Flag needed for manual device selection
 # Creates a graph.
 with tf.device('/gpu:5'):
   a = tf.constant([1.0, 2.0, 3.0, 4.0, 5.0, 6.0], shape=[2, 3], name='a')
