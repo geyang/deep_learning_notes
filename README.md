@@ -17,9 +17,9 @@ These are the notes that I left working through Nielson's [neural Net and Deep L
 - [007 - tensorflow API exploration](Ch2%20Intro%20to%20Tensorflow/007%20-%20tensorflow%20API%20exploration.ipynb)
 
 ### Chapter 3: Training on An GPU AWS instance with PyCharm Remote Interpreter
-- [MNIST Logistic Regression](Ch3%20AWS%20PyCharm%20Remote%20Debugging/1%20-%20MNIST%20Logistic%20Regression.py)
-- [MNIST Logistic Regression with L2 Regularization](Ch3%20AWS%20PyCharm%20Remote%20Debugging/2%20-%20MNIST%20Logistic%20Regression%20L2%20Regularization.py)
-- [MNIST 1 Hidden Layer with Perceptron](Ch3%20AWS%20PyCharm%20Remote%20Debugging/3%20-%20MNIST%201%20Hidden%20Layer%20Perceptron.py)
+- [MNIST Logistic Regression](Ch3%20Advanced%20Tensorflow/1%20-%20MNIST%20Logistic%20Regression.py)
+- [MNIST Logistic Regression with L2 Regularization](Ch3%20Advanced%20Tensorflow/2%20-%20MNIST%20Logistic%20Regression%20L2%20Regularization.py)
+- [MNIST 1 Hidden Layer with Perceptron](Ch3%20Advanced%20Tensorflow/3%20-%20MNIST%201%20Hidden%20Layer%20Perceptron.py)
 
 ## Fun Highlights
 
