@@ -16,7 +16,7 @@ These are the notes that I left working through Nielson's [neural Net and Deep L
 - [006 - Tensorflow Softmax Regression](Ch2%20Intro%20to%20Tensorflow/006%20-%20Tensorflow%20Softmax%20Regression.ipynb)
 - [007 - tensorflow API exploration](Ch2%20Intro%20to%20Tensorflow/007%20-%20tensorflow%20API%20exploration.ipynb)
 
-### Chapter 3: Training on An GPU AWS instance with PyCharm Remote Interpreter
+### Chapter 3: Advanced Tensorflow with GPU AWS Instance and PyCharm Remote Interpreter.
 - [MNIST Logistic Regression](Ch3%20Advanced%20Tensorflow/1%20-%20MNIST%20Logistic%20Regression.py)
 - [MNIST Logistic Regression with L2 Regularization](Ch3%20Advanced%20Tensorflow/2%20-%20MNIST%20Logistic%20Regression%20L2%20Regularization.py)
 - [MNIST 1 Hidden Layer with Perceptron](Ch3%20Advanced%20Tensorflow/3%20-%20MNIST%201%20Hidden%20Layer%20Perceptron.py)
@@ -31,14 +31,13 @@ to emulate a given target function.
 
 ## Todos (9/9/2016):
 
-- [ ] CFAR Example [4.0]
-- [ ] L2 Regularization with Logistic Regression [1.0]
 - [ ] MNIST Perceptron logging and visualization with tensorboard
 [tensorboard doc](https://www.tensorflow.org/versions/r0.10/resources/faq.html#frequently-asked-questions) [2.0]
 - [ ] LeNet training [ConvNet doc](https://www.tensorflow.org/versions/r0.10/tutorials/deep_cnn/index.html) [1.0]
 - [ ] LeNet++ training [1.0]
 - [ ] Adversarial Hardened LeNet++ [1.0]
 - [ ] Adversarial Test of Hardened LeNet++ [1.0]
+- [ ] L2 Regularization with Logistic Regression [1.0]
 
 ### More Deep Neural Net Learnings
 - [ ] Feedforward Neural Network (Multilayer Perceptron)
@@ -55,6 +54,7 @@ to emulate a given target function.
 - [x] work on optimize batch training. (numpy neural net)
 - [x] add convNet MNIST example with Tensorflow
 - [x] multi-GPU setup [tensorflow doc](https://www.tensorflow.org/versions/r0.10/how_tos/using_gpu/index.html) [0.5 - 1.0]
+- [x] CFAR Example [4.0]
 
 ## More Useful Links:
 - Useful examples: [@Aymericdamien's TensorFlow-Example](https://github.com/aymericdamien/TensorFlow-Examples)

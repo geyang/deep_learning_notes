@@ -67,7 +67,7 @@ tf.app.flags.DEFINE_boolean('run_once', False,
                             """Whether to run eval only once.""")
 
 ### configure devices for this eval script.
-USE_DEVICE = '/gpu:1'
+USE_DEVICE = '/gpu:3'
 session_config = tf.ConfigProto(log_device_placement=True)
 session_config.gpu_options.allow_growth = True
 # this is required if want to use GPU as device.
