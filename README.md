@@ -31,7 +31,7 @@ to emulate a given target function.
 
 ## Todos (9/9/2016):
 
-- [ ] multi-GPU setup [tensorflow doc](https://www.tensorflow.org/versions/r0.10/how_tos/using_gpu/index.html) [0.5 - 1.0]
+- [ ] CFAR Example [4.0]
 - [ ] L2 Regularization with Logistic Regression [1.0]
 - [ ] MNIST Perceptron logging and visualization with tensorboard
 [tensorboard doc](https://www.tensorflow.org/versions/r0.10/resources/faq.html#frequently-asked-questions) [2.0]
@@ -54,6 +54,7 @@ to emulate a given target function.
 
 - [x] work on optimize batch training. (numpy neural net)
 - [x] add convNet MNIST example with Tensorflow
+- [x] multi-GPU setup [tensorflow doc](https://www.tensorflow.org/versions/r0.10/how_tos/using_gpu/index.html) [0.5 - 1.0]
 
 ## More Useful Links:
 - Useful examples: [@Aymericdamien's TensorFlow-Example](https://github.com/aymericdamien/TensorFlow-Examples)
