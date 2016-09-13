@@ -41,11 +41,12 @@ def loss(logits):
     #     batch_labels * tf.log(logits),
     #     reduction_indices=[1]
     # )
-    return batch_labels, tf.reduce_mean(cross_entropy, name='xentropy_mean')
+    loss_op = tf.reduce_mean(cross_entropy, name='xentropy_mean')
+    tf.scalar_summary(loss_op.op.name, loss_op)
+    return batch_labels, loss_op
 
 
 def training(loss, learning_rate):
-    # tf.scalar_summary(loss.op.name, loss)
     optimizer = tf.train.GradientDescentOptimizer(learning_rate)
     train_op = optimizer.minimize(loss)
     return train_op
@@ -58,6 +59,8 @@ def evaluation(logits, labels):
 
 
 BATCH_SIZE = 250
+SUMMARIES_DIR = os.path.dirname(os.path.abspath(__file__))
+
 if __name__ == "__main__":
     with tf.Graph().as_default() as g:
         input, logits = neural_net_inference()
@@ -68,6 +71,12 @@ if __name__ == "__main__":
         init = tf.initialize_all_variables()
 
         with tf.Session() as sess:
+            # Merge all the summaries and write them out to /tmp/mnist_logs (by default)
+            # to see the tensor graph, fire up the tensorboard with --logdir="./train"
+            merged = tf.merge_all_summaries()
+            train_writer = tf.train.SummaryWriter(SUMMARIES_DIR + '/train', sess.graph)
+            test_writer = tf.train.SummaryWriter(SUMMARIES_DIR + '/test')
+
             sess.run(init)
             for i in range(300):
                 batch_xs, batch_labels = mnist.train.next_batch(BATCH_SIZE)
