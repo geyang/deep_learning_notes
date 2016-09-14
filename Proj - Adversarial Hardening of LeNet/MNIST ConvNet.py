@@ -72,17 +72,13 @@ def inference():
     stage_3_pool = max_pool_2x2(layer_conv_3)
     stage_3_pool_flat = tf.reshape(stage_3_pool, [-1, 7 * 7 * 64])
 
-    W_fc1 = weight_variable([7 * 7 * 64, 200])
-    b_fc1 = bias_variable([200])
+    W_fc1 = weight_variable([7 * 7 * 64, 1024])
+    b_fc1 = bias_variable([1024])
     h_fc1 = tf.nn.relu(tf.matmul(stage_3_pool_flat, W_fc1) + b_fc1)
 
-    W_fc2 = weight_variable([200, 2])
-    b_fc2 = bias_variable([2])
-    h_fc2 = tf.matmul(h_fc1, W_fc2) + b_fc2
-
-    W_output = weight_variable([2, 10])
+    W_output = weight_variable([1024, 10])
     b_output = bias_variable([10])
-    output = tf.nn.relu(tf.matmul(h_fc2, W_output) + b_output)
+    output = tf.nn.relu(tf.matmul(h_fc1, W_output) + b_output)
 
     return x, output
 
@@ -137,13 +133,13 @@ if __name__ == "__main__":
             test_writer = tf.train.SummaryWriter(SUMMARIES_DIR + '/convNet_test')
 
             sess.run(init)
-            for i in range(3000):
+            for i in range(300):
                 batch_xs, batch_labels = mnist.train.next_batch(BATCH_SIZE)
                 sess.run(train, feed_dict={
                     input: batch_xs,
                     labels: batch_labels
                 })
-                if i % 100 == 0:
+                if i % 10 == 0:
                     output, loss_value, accuracy = sess.run([logits, loss_op, eval], feed_dict={
                         input: batch_xs,
                         labels: batch_labels
