@@ -2,9 +2,9 @@ import os, sys, numpy as np, tensorflow as tf
 from pathlib import Path
 
 sys.path.append(str(Path(__file__).resolve().parents[1]))
-import convnet_2_hidden
+import convnet
 
-__package__ = 'convnet_2_hidden'
+__package__ = 'convnet'
 from . import network
 
 from tensorflow.examples.tutorials.mnist import input_data

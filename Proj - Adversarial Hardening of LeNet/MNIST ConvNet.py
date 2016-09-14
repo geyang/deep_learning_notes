@@ -104,6 +104,7 @@ def evaluation(logits, labels):
 
 
 import os
+
 BATCH_SIZE = 250
 SUMMARIES_DIR = os.path.dirname(os.path.abspath(__file__))
 

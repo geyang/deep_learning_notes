@@ -57,5 +57,5 @@ if __name__ == "__main__":
                     input: mnist.test.images,
                     labels: mnist.test.labels
                 })
-                print("MNIST Test accuracy is ", accuracy / TEST_BATCH_SIZE)
+                print("- MNIST Test accuracy is ", accuracy / TEST_BATCH_SIZE)
                 time.sleep(5.0)
