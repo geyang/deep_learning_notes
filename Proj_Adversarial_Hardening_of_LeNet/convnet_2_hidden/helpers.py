@@ -1,13 +1,11 @@
 import tensorflow as tf
-from math import sqrt
 
 
-def weight_variable(shape, name=None):
+def weight_variable(shape, name="W"):
     # initial = tf.truncated_normal(shape, stddev=0.1, mean=1 / sqrt(fan_out))
     # return tf.Variable(initial)
     xavier = tf.contrib.layers.xavier_initializer()
-    tf.get_variable(name, shape=[784, 256],
-                    initializer=xavier)
+    return tf.get_variable(name, shape=shape, initializer=xavier)
 
 
 def bias_variable(shape):
@@ -20,7 +18,7 @@ def max_pool_2x2(x):
                           strides=[1, 2, 2, 1], padding='SAME')
 
 
-def conv2d(x, W, name=None):
+def conv2d(x, W, name="conv2d"):
     return tf.nn.conv2d(x, W, strides=[1, 1, 1, 1], padding='SAME', name=name)
 
 
