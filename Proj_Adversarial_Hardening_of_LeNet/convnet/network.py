@@ -32,37 +32,43 @@ def inference():
     x = tf.placeholder(tf.float32, shape=[None, 784], name='input')
     image = tf.reshape(x, [-1, 28, 28, 1])
 
-    W_conv1 = helpers.weight_variable([5, 5, 1, 32])
-    b_conv1 = helpers.bias_variable([32])
-    layer_conv_1 = tf.nn.relu(helpers.conv2d(image, W_conv1) + b_conv1)
-    stage_1_pool = helpers.max_pool_2x2(layer_conv_1)
+    with tf.name_scope('conv_layer1'):
+        W_conv1 = helpers.weight_variable([5, 5, 1, 32], 'W_conv1')
+        b_conv1 = helpers.bias_variable([32])
+        layer_conv_1 = tf.nn.relu(helpers.conv2d(image, W_conv1) + b_conv1)
+        stage_1_pool = helpers.max_pool_2x2(layer_conv_1)
 
-    W_conv3 = helpers.weight_variable([5, 5, 32, 64])
-    b_conv3 = helpers.bias_variable([64])
-    layer_conv_3 = tf.nn.relu(helpers.conv2d(stage_1_pool, W_conv3) + b_conv3)
-    stage_3_pool = helpers.max_pool_2x2(layer_conv_3)
-    stage_3_pool_flat = tf.reshape(stage_3_pool, [-1, 7 * 7 * 64])
+    with tf.name_scope('conv_layer2'):
+        W_conv3 = helpers.weight_variable([5, 5, 32, 64], 'W_conv3')
+        b_conv3 = helpers.bias_variable([64])
+        layer_conv_3 = tf.nn.relu(helpers.conv2d(stage_1_pool, W_conv3) + b_conv3)
+        stage_3_pool = helpers.max_pool_2x2(layer_conv_3)
+        stage_3_pool_flat = tf.reshape(stage_3_pool, [-1, 7 * 7 * 64])
 
-    W_fc1 = helpers.weight_variable([7 * 7 * 64, 200])
-    b_fc1 = helpers.bias_variable([200])
-    h_fc1 = tf.nn.relu(tf.matmul(stage_3_pool_flat, W_fc1) + b_fc1)
+    with tf.name_scope('fc_layer1'):
+        W_fc1 = helpers.weight_variable([7 * 7 * 64, 1024], 'W_fc1')
+        b_fc1 = helpers.bias_variable([500])
+        h_fc1 = tf.nn.relu(tf.matmul(stage_3_pool_flat, W_fc1) + b_fc1)
 
-    W_fc2 = helpers.weight_variable([200, 2])
-    b_fc2 = helpers.bias_variable([2])
-    h_fc2 = tf.matmul(h_fc1, W_fc2) + b_fc2
+    with tf.name_scope('fc_layer2'):
+        W_output = helpers.weight_variable([1024, 10], 'W_fc2')
+        b_output = helpers.bias_variable([10])
 
-    W_output = helpers.weight_variable([2, 10])
-    b_output = helpers.bias_variable([10])
-    output = tf.nn.relu(tf.matmul(h_fc2, W_output) + b_output)
+    with tf.name_scope('output_layer'):
+        output = tf.nn.relu(tf.matmul(h_fc1, W_output) + b_output)
 
     return x, output
 
 
 def loss(logits):
+    # todo: add L2 normalization, and test the convergence.
     batch_labels = tf.placeholder(tf.float32, name='labels')
     cross_entropy = tf.nn.sparse_softmax_cross_entropy_with_logits(
         logits, tf.argmax(batch_labels, dimension=1), name='xentropy')
-    return batch_labels, tf.reduce_mean(cross_entropy, name='xentropy_mean')
+
+    # avoid_zero = tf.div(tf.constant(1, dtype=tf.float32), tf.reduce_mean(tf.square(logits), reduction_indices=[1]))
+    # norm_regularization = tf.reduce_mean(tf.square(logits), reduction_indices=[1])
+    return batch_labels, tf.reduce_mean(cross_entropy, name='xentropy_mean') # + avoid_zero # + norm_regularization
 
 
 def training(loss, learning_rate):

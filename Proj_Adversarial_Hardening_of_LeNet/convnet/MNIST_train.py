@@ -1,5 +1,6 @@
 import os, sys, numpy as np, tensorflow as tf
 from pathlib import Path
+from pprint import pprint
 
 sys.path.append(str(Path(__file__).resolve().parents[1]))
 import convnet
@@ -18,7 +19,7 @@ SUMMARIES_DIR = SCRIPT_DIR
 SAVE_PATH = SCRIPT_DIR + "/network.ckpt"
 
 ### configure devices for this eval script.
-USE_DEVICE = '/gpu:1'
+USE_DEVICE = '/gpu:3'
 session_config = tf.ConfigProto(log_device_placement=True)
 session_config.gpu_options.allow_growth = True
 # this is required if want to use GPU as device.
@@ -46,11 +47,14 @@ if __name__ == "__main__":
             saver = tf.train.Saver()
 
             sess.run(init)
+
+            # NOTE: comment these lines out to restart training.
             try:
                 saver.restore(sess, SAVE_PATH)
             except ValueError:
                 print('checkpoint file not found. Moving on to training.')
-            for i in range(3000):
+
+            for i in range(30000):
 
                 batch_xs, batch_labels = mnist.train.next_batch(BATCH_SIZE)
                 sess.run(train, feed_dict={
@@ -58,20 +62,26 @@ if __name__ == "__main__":
                     labels: batch_labels
                 })
                 if i % 100 == 0:
-                    output, loss_value, accuracy = sess.run([logits, loss_op, eval], feed_dict={
+                    outputs, loss_value, accuracy = sess.run([logits, loss_op, eval], feed_dict={
                         input: batch_xs,
                         labels: batch_labels
                     })
+                    print("=====================")
                     print("training accuracy is ", accuracy / BATCH_SIZE)
+                    print("loss is ", loss_value)
+                    print("=> ", outputs[100])
 
-                if i % 500 == 0:
+                if i % 1000 == 0:
                     saver.save(sess, SAVE_PATH)
                     print('=> saved network in checkfile.')
 
             # now let's test!
-            TEST_BATCH_SIZE = np.shape(mnist.test.labels)[0]
-            output, loss_value, accuracy = sess.run([logits, loss_op, eval], feed_dict={
+            TEST_BATCH_SIZE = float(np.shape(mnist.test.labels)[0])
+            outputs, loss_value, accuracy = sess.run([logits, loss_op, eval], feed_dict={
                 input: mnist.test.images,
                 labels: mnist.test.labels
             })
-            print("MNIST Test accuracy is ", accuracy / TEST_BATCH_SIZE)
+            print("MNIST Test accuracy is ", accuracy / TEST_BATCH_SIZE, accuracy, ' out of ', TEST_BATCH_SIZE)
+            for output, label in list(zip(outputs, mnist.test.labels))[:5]:
+                print(output)
+                # pprint(output, label)

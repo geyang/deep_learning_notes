@@ -43,19 +43,22 @@ def inference():
     stage_3_pool = helpers.max_pool_2x2(layer_conv_3)
     stage_3_pool_flat = tf.reshape(stage_3_pool, [-1, 7 * 7 * 64])
 
-    W_fc1 = helpers.weight_variable([7 * 7 * 64, 1024])
-    b_fc1 = helpers.bias_variable([1024])
+    W_fc1 = helpers.weight_variable([7 * 7 * 64, 200])
+    b_fc1 = helpers.bias_variable([200])
     h_fc1 = tf.nn.relu(tf.matmul(stage_3_pool_flat, W_fc1) + b_fc1)
 
-    W_output = helpers.weight_variable([1024, 10])
-    b_output = helpers.bias_variable([10])
-    output = tf.nn.relu(tf.matmul(h_fc1, W_output) + b_output)
+    W_fc2 = helpers.weight_variable([200, 2])
+    b_fc2 = helpers.bias_variable([2])
+    h_fc2 = tf.nn.relu(tf.matmul(h_fc1, W_fc2) + b_fc2)
 
-    return x, output
+    W_output = helpers.weight_variable([2, 10])
+    b_output = helpers.bias_variable([10])
+    output = tf.nn.relu(tf.matmul(h_fc2, W_output) + b_output)
+
+    return x, h_fc2, output
 
 
 def loss(logits):
-    # todo: add L2 normalization, and test the convergence.
     batch_labels = tf.placeholder(tf.float32, name='labels')
     cross_entropy = tf.nn.sparse_softmax_cross_entropy_with_logits(
         logits, tf.argmax(batch_labels, dimension=1), name='xentropy')

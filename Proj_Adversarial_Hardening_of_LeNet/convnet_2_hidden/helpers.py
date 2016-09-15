@@ -1,9 +1,13 @@
 import tensorflow as tf
+from math import sqrt
 
 
-def weight_variable(shape):
-    initial = tf.truncated_normal(shape, stddev=0.1)
-    return tf.Variable(initial)
+def weight_variable(shape, name=None):
+    # initial = tf.truncated_normal(shape, stddev=0.1, mean=1 / sqrt(fan_out))
+    # return tf.Variable(initial)
+    xavier = tf.contrib.layers.xavier_initializer()
+    tf.get_variable(name, shape=[784, 256],
+                    initializer=xavier)
 
 
 def bias_variable(shape):
