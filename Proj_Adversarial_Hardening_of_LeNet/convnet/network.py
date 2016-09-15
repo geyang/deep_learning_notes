@@ -47,7 +47,7 @@ def inference():
 
     with tf.name_scope('fc_layer1'):
         W_fc1 = helpers.weight_variable([7 * 7 * 64, 1024], 'W_fc1')
-        b_fc1 = helpers.bias_variable([500])
+        b_fc1 = helpers.bias_variable([1024])
         h_fc1 = tf.nn.relu(tf.matmul(stage_3_pool_flat, W_fc1) + b_fc1)
 
     with tf.name_scope('fc_layer2'):

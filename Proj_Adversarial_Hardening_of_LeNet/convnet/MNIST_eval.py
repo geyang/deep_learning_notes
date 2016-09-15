@@ -1,5 +1,6 @@
 import os, sys, numpy as np, tensorflow as tf
 from pathlib import Path
+from pprint import pprint
 
 import time
 
@@ -33,7 +34,7 @@ if __name__ == "__main__":
         # inference()
         input, logits = network.inference()
         labels, loss_op = network.loss(logits)
-        train = network.training(loss_op, 1e-1)
+        # train = network.training(loss_op, 1e-1)
         eval = network.evaluation(logits, labels)
 
         init = tf.initialize_all_variables()
@@ -56,8 +57,9 @@ if __name__ == "__main__":
                 input: mnist.test.images,
                 labels: mnist.test.labels
             })
+            print('-------------')
             print("MNIST Test accuracy is ", accuracy / TEST_BATCH_SIZE, accuracy, ' out of ', TEST_BATCH_SIZE)
-            for output, label in list(zip(outputs, mnist.test.labels))[:5]:
-                print(output, label)
+            for output, label in list(zip(outputs, mnist.test.labels))[:2]:
+                print('output => [', ', '.join(map(str, output)), ']')
+                print('label =>', label)
                 # pprint(output, label)
-
