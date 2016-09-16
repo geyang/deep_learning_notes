@@ -7,7 +7,7 @@ features instead of 2.
 
 The network topology look like this:
 
-![network with 10 deep features](Proj_Centroid_Loss_LeNet/convnet_10_hidden/figures/Screenshot%202016-09-16%2011.34.23.png)
+![network with 10 deep features](figures/Screenshot%202016-09-16%2011.34.23.png)
 
 ## Todos
 - [ ] try to get the network to converge during training.
