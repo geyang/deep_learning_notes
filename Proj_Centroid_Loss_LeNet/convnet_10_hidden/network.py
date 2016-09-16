@@ -48,19 +48,19 @@ def inference():
         stage_2_pool = helpers.max_pool_2x2(layer_conv_2)
         stage_2_pool_flat = tf.reshape(stage_2_pool, [-1, 7 * 7 * 64])
 
-    with tf.name_scope('conv_layer_3'):
-        W_conv3 = helpers.weight_variable([5, 5, 64, 128], "W_conv3")
-        b_conv3 = helpers.bias_variable([128], 'bias_conv3')
-        # alphas_conv3 = helpers.bias_variable([64], 'alpha_conv3')
-        layer_conv_3 = tf.nn.softplus(helpers.conv2d(stage_2_pool, W_conv3) + b_conv3)
-        stage_3_pool = helpers.max_pool_2x2(layer_conv_3)
-
-        stage_3_pool_flat = tf.reshape(stage_3_pool, [-1, 4 * 4 * 128])
+    # with tf.name_scope('conv_layer_3'):
+    #     W_conv3 = helpers.weight_variable([5, 5, 64, 128], "W_conv3")
+    #     b_conv3 = helpers.bias_variable([128], 'bias_conv3')
+    #     # alphas_conv3 = helpers.bias_variable([64], 'alpha_conv3')
+    #     layer_conv_3 = tf.nn.softplus(helpers.conv2d(stage_2_pool, W_conv3) + b_conv3)
+    #     stage_3_pool = helpers.max_pool_2x2(layer_conv_3)
+    #
+    #     stage_3_pool_flat = tf.reshape(stage_3_pool, [-1, 4 * 4 * 128])
 
     with tf.name_scope('fc_layer_1'):
-        W_fc1 = helpers.weight_variable([4 * 4 * 128, 2], "W_fc1")
-        b_fc1 = helpers.bias_variable([2], 'bias_fc1')
-        output = tf.nn.softplus(tf.matmul(stage_3_pool_flat, W_fc1) + b_fc1)
+        W_fc1 = helpers.weight_variable([7 * 7 * 64, 10], "W_fc1")
+        b_fc1 = helpers.bias_variable([10], 'bias_fc1')
+        output = tf.nn.softplus(tf.matmul(stage_2_pool_flat, W_fc1) + b_fc1)
 
     # with tf.name_scope('fc_output'):
     #     W_output = helpers.weight_variable([500, 10], "W_putput")
@@ -78,7 +78,7 @@ def inference():
 def loss(deep_features):
     with tf.name_scope('softmax_loss'):
         batch_labels = tf.placeholder(tf.float32, name='labels')
-        W_loss = helpers.weight_variable([2, 10], "W_loss")
+        W_loss = helpers.weight_variable([10, 10], "W_loss")
         bias_loss = tf.Variable(
             tf.truncated_normal(shape=[10], stddev=1e-2, mean=1e-1), 'bias_loss')
         # Note: we don't use the bias here because it does not affect things. removing the

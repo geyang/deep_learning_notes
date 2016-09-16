@@ -3,9 +3,9 @@ from pathlib import Path
 from termcolor import colored as c, cprint
 
 sys.path.append(str(Path(__file__).resolve().parents[1]))
-import convnet_2_hidden
+import convnet_10_hidden
 
-__package__ = 'convnet_2_hidden'
+__package__ = 'convnet_10_hidden'
 from . import network
 
 from tensorflow.examples.tutorials.mnist import input_data
@@ -19,7 +19,7 @@ SUMMARIES_DIR = SCRIPT_DIR
 SAVE_PATH = SCRIPT_DIR + "/network.ckpt"
 
 ### configure devices for this eval script.
-USE_DEVICE = '/gpu:1'
+USE_DEVICE = '/gpu:0'
 session_config = tf.ConfigProto(log_device_placement=True)
 session_config.gpu_options.allow_growth = True
 # this is required if want to use GPU as device.
@@ -81,8 +81,9 @@ if __name__ == "__main__":
 
             # now let's test!
             TEST_BATCH_SIZE = np.shape(mnist.test.labels)[0]
-            logits_output, loss_value, accuracy = sess.run([logits, loss_op, eval], feed_dict={
+            summaries, logits_output, loss_value, accuracy = sess.run([all_summary, logits, loss_op, eval], feed_dict={
                 input: mnist.test.images,
                 labels: mnist.test.labels
             })
+            test_writer.add_summary(summaries, i)
             print("MNIST Test accuracy is ", accuracy)
