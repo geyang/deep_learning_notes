@@ -1,5 +1,6 @@
 import os, sys, numpy as np, tensorflow as tf
 from pathlib import Path
+from termcolor import colored as c, cprint
 
 sys.path.append(str(Path(__file__).resolve().parents[1]))
 import convnet_2_hidden
@@ -11,7 +12,7 @@ from tensorflow.examples.tutorials.mnist import input_data
 
 mnist = input_data.read_data_sets("MNIST_data/", one_hot=True)
 
-BATCH_SIZE = 250
+BATCH_SIZE = 500
 FILENAME = os.path.basename(__file__)
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 SUMMARIES_DIR = SCRIPT_DIR
@@ -29,9 +30,9 @@ if __name__ == "__main__":
 
     with tf.Graph().as_default() as g, tf.device(USE_DEVICE):
         # inference()
-        input, classify_2d, logits = network.inference()
-        labels, loss_op = network.loss(logits)
-        train = network.training(loss_op, 1e-1)
+        input, deep_feature = network.inference()
+        labels, logits, loss_op = network.loss(deep_feature)
+        train = network.training(loss_op, 1e-3)
         eval = network.evaluation(logits, labels)
 
         init = tf.initialize_all_variables()
@@ -46,31 +47,38 @@ if __name__ == "__main__":
             saver = tf.train.Saver()
 
             sess.run(init)
-            try:
-                saver.restore(sess, SAVE_PATH)
-            except ValueError:
-                print('checkpoint file not found. Moving on to training.')
+            # try:
+            #     saver.restore(sess, SAVE_PATH)
+            # except ValueError:
+            #     print('checkpoint file not found. Moving on to training.')
 
-            for i in range(3000):
+            for i in range(5000):
                 batch_xs, batch_labels = mnist.train.next_batch(BATCH_SIZE)
-                sess.run(train, feed_dict={
-                    input: batch_xs,
-                    labels: batch_labels
-                })
                 if i % 100 == 0:
-                    output, loss_value, accuracy = sess.run([logits, loss_op, eval], feed_dict={
+                    logits_output, loss_value, accuracy = sess.run([logits, loss_op, eval], feed_dict={
                         input: batch_xs,
                         labels: batch_labels
                     })
-                    print("training accuracy is ", accuracy / BATCH_SIZE)
+                    cprint(
+                        c("training accuracy", 'green') + " is " +
+                        c(accuracy / BATCH_SIZE, 'red') + ", " +
+                        c("loss", 'green') + " is " +
+                        c(loss_value, 'red')
+                    )
+                    print('logits => ', logits_output[0])
 
                 if i % 500 == 0:
                     saver.save(sess, SAVE_PATH)
                     print('=> saved network in checkfile.')
 
+                sess.run(train, feed_dict={
+                    input: batch_xs,
+                    labels: batch_labels
+                })
+
             # now let's test!
             TEST_BATCH_SIZE = np.shape(mnist.test.labels)[0]
-            output, loss_value, accuracy = sess.run([logits, loss_op, eval], feed_dict={
+            logits_output, loss_value, accuracy = sess.run([logits, loss_op, eval], feed_dict={
                 input: mnist.test.images,
                 labels: mnist.test.labels
             })

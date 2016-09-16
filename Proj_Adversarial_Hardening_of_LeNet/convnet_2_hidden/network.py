@@ -32,43 +32,66 @@ def inference():
     x = tf.placeholder(tf.float32, shape=[None, 784], name='input')
     image = tf.reshape(x, [-1, 28, 28, 1])
 
-    W_conv1 = helpers.weight_variable([5, 5, 1, 32])
-    b_conv1 = helpers.bias_variable([32])
-    layer_conv_1 = tf.nn.relu(helpers.conv2d(image, W_conv1) + b_conv1)
-    stage_1_pool = helpers.max_pool_2x2(layer_conv_1)
+    with tf.name_scope('conv_layer_1'):
+        W_conv1 = helpers.weight_variable([5, 5, 1, 32], 'W_conv1')
+        b_conv1 = helpers.bias_variable([32], 'bias_conv1')
+        # alphas_conv1 = helpers.bias_variable([32], 'alpha_conv1')
+        layer_conv_1 = tf.nn.softplus(helpers.conv2d(image, W_conv1) + b_conv1)
+        stage_1_pool = helpers.max_pool_2x2(layer_conv_1)
 
-    W_conv3 = helpers.weight_variable([5, 5, 32, 64])
-    b_conv3 = helpers.bias_variable([64])
-    layer_conv_3 = tf.nn.relu(helpers.conv2d(stage_1_pool, W_conv3) + b_conv3)
-    stage_3_pool = helpers.max_pool_2x2(layer_conv_3)
-    stage_3_pool_flat = tf.reshape(stage_3_pool, [-1, 7 * 7 * 64])
+    with tf.name_scope('conv_layer_2'):
+        W_conv3 = helpers.weight_variable([5, 5, 32, 64], "W_conv3")
+        b_conv3 = helpers.bias_variable([64], 'bias_conv3')
+        # alphas_conv3 = helpers.bias_variable([64], 'alpha_conv3')
+        layer_conv_3 = tf.nn.softplus(helpers.conv2d(stage_1_pool, W_conv3) + b_conv3)
+        stage_3_pool = helpers.max_pool_2x2(layer_conv_3)
+        stage_3_pool_flat = tf.reshape(stage_3_pool, [-1, 7 * 7 * 64])
 
-    W_fc1 = helpers.weight_variable([7 * 7 * 64, 200])
-    b_fc1 = helpers.bias_variable([200])
-    h_fc1 = tf.nn.relu(tf.matmul(stage_3_pool_flat, W_fc1) + b_fc1)
+    with tf.name_scope('fc_layer_1'):
+        W_fc1 = helpers.weight_variable([7 * 7 * 64, 500], "W_fc1")
+        b_fc1 = helpers.bias_variable([500], 'bias_fc1')
+        h_fc1 = tf.nn.softplus(tf.matmul(stage_3_pool_flat, W_fc1) + b_fc1)
 
-    W_fc2 = helpers.weight_variable([200, 2])
-    b_fc2 = helpers.bias_variable([2])
-    h_fc2 = tf.nn.relu(tf.matmul(h_fc1, W_fc2) + b_fc2)
+    with tf.name_scope('fc_output'):
+        W_output = helpers.weight_variable([500, 2], "W_putput")
+        b_output = helpers.bias_variable([2], 'bias_output')
+        output = tf.nn.softplus(tf.matmul(h_fc1, W_output) + b_output)
 
-    W_output = helpers.weight_variable([2, 10])
-    b_output = helpers.bias_variable([10])
-    output = tf.nn.relu(tf.matmul(h_fc2, W_output) + b_output)
+    # with tf.name_scope('output'):
+    #     W_output = helpers.weight_variable([2, 10], "W_output")
+    #     b_output = helpers.bias_variable([10])
+    #     output = tf.nn.relu(tf.matmul(h_fc2, W_output) + b_output)
 
-    return x, h_fc2, output
+    return x, output
 
 
-def loss(logits):
-    batch_labels = tf.placeholder(tf.float32, name='labels')
-    cross_entropy = tf.nn.sparse_softmax_cross_entropy_with_logits(
-        logits, tf.argmax(batch_labels, dimension=1), name='xentropy')
-    return batch_labels, tf.reduce_mean(cross_entropy, name='xentropy_mean')
+def loss(deep_features):
+    with tf.name_scope('softmax_loss'):
+        batch_labels = tf.placeholder(tf.float32, name='labels')
+        W_loss = helpers.weight_variable([2, 10], "W_loss")
+        # Note: we don't use the bias here because it does not affect things. removing the
+        #       bias also makes the analysis simpler.
+        # tf.nn.
+        logits = tf.nn.relu(tf.matmul(deep_features, W_loss))
+        cross_entropy = - tf.reduce_mean(
+                tf.mul(batch_labels, tf.nn.log_softmax(logits)),
+                reduction_indices=[1]
+        )
+
+        return batch_labels, logits, tf.reduce_mean(cross_entropy)
 
 
 def training(loss, learning_rate):
     # tf.scalar_summary(loss.op.name, loss)
-    optimizer = tf.train.GradientDescentOptimizer(learning_rate)
-    train_op = optimizer.minimize(loss)
+    optimizer = tf.train.AdamOptimizer(learning_rate)
+    # optimizer = tf.train.GradientDescentOptimizer(learning_rate)
+    train_op = optimizer.minimize(
+        tf.clip_by_value(
+            loss,
+            1e-10,
+            1e10,
+        )
+    )
     return train_op
 
 

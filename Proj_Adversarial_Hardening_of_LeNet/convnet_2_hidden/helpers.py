@@ -1,4 +1,5 @@
 import tensorflow as tf
+from math import sqrt
 
 
 def weight_variable(shape, name="W"):
@@ -8,9 +9,13 @@ def weight_variable(shape, name="W"):
     return tf.get_variable(name, shape=shape, initializer=xavier)
 
 
-def bias_variable(shape):
-    initial = tf.constant(0.1, shape=shape)
-    return tf.Variable(initial)
+def bias_variable(shape, name):
+    initial = tf.truncated_normal(shape=shape, stddev=0.1, mean=1 / sqrt(shape[0]))
+    return tf.Variable(initial, name)
+
+
+def prelu(z, alpha):
+    return tf.sub(tf.nn.relu(z), tf.mul(alpha, tf.nn.relu(-z)))
 
 
 def max_pool_2x2(x):
