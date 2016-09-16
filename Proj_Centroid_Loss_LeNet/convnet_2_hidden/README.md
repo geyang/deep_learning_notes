@@ -2,12 +2,15 @@
 
 @episodeyang 2016.
 
-This is a package of a simple ConvNet that learns the MNIST digit
-dataset. 
+This is a package of a toy implementation of LeNet++ with 10 deep 
+features instead of 2. 
+
+The network topology look like this:
+
+![network with 10 deep features](Proj_Centroid_Loss_LeNet/convnet_10_hidden/figures/Screenshot%202016-09-16%2011.34.23.png)
 
 ## Todos
-- [ ] use `tensorflow` app and FLAGS for the static parameters, to
-reduce boilerplate code.
+- [ ] try to get the network to converge during training.
 
 ## Usage
 
