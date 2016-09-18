@@ -23,11 +23,21 @@ These are the notes that I left working through Nielson's [neural Net and Deep L
 
 ## Fun Highlights
 
+### A simple toy example
 some of the figures can be found scattered in the folder (I believe in a flat folder 
 structure). Like this one below, it shows how a simple network can be trained 
 to emulate a given target function.
 
 [![network trained to emulate function](trained%20neural%20net%20emulate%20a%20step%20function.png)](004%20-%20optimize%20batch%20training.ipynb)
+
+### MNIST ConvNet with TensorFlow
+
+This example does:
+- uses different GPUs for training and evaluation
+- persist network parameters in check files
+- pushes loss and accuracy to summary, which can be visualized by tensorboard
+
+![MNIST ConvNet Tensorflow](Proj_Centroid_Loss_LeNet/convnet_10_hidden/figures/Screenshot%202016-09-16%2011.29.47.png)
 
 ## Todos (9/9/2016):
 
