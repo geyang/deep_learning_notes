@@ -32,7 +32,7 @@ if __name__ == "__main__":
         # inference()
         input, deep_feature = network.inference()
         labels, logits, loss_op = network.loss(deep_feature)
-        train = network.training(loss_op, 1)
+        train = network.training(loss_op, 1e-1)
         eval = network.evaluation(logits, labels)
 
         init = tf.initialize_all_variables()
