@@ -95,14 +95,16 @@ def loss(deep_features):
 
 
 def training(loss, learning_rate):
-    # optimizer = tf.train.GradientDescentOptimizer(learning_rate)
-    optimizer = tf.train.AdamOptimizer(learning_rate)
-    train_op = optimizer.minimize(loss)
-    # optimizer = tf.train.GradientDescentOptimizer(learning_rate)
-    # grads_and_vars = optimizer.compute_gradients(loss, tf.trainable_variables())
-    # capped_grads_and_vars = [(tf.clip_by_value(grads, 1e-10, 1e10), vars) for grads, vars in grads_and_vars]
-    # train_op = optimizer.apply_gradients(capped_grads_and_vars)
-    return train_op
+    with tf.name_scope('training'):
+        global_step = tf.Variable(0, name='global_step', trainable=False)
+        # optimizer = tf.train.GradientDescentOptimizer(learning_rate)
+        optimizer = tf.train.AdamOptimizer(learning_rate)
+        train_op = optimizer.minimize(loss, global_step=global_step)
+        # optimizer = tf.train.GradientDescentOptimizer(learning_rate)
+        # grads_and_vars = optimizer.compute_gradients(loss, tf.trainable_variables())
+        # capped_grads_and_vars = [(tf.clip_by_value(grads, 1e-10, 1e10), vars) for grads, vars in grads_and_vars]
+        # train_op = optimizer.apply_gradients(capped_grads_and_vars)
+    return train_op, global_step
 
 
 def evaluation(logits, labels):

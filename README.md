@@ -62,7 +62,7 @@ This example does:
 ### Done:
 
 - [x] work on optimize batch training. (numpy neural net)
-- [x] add convNet MNIST example with Tensorflow
+- [x] add summary MNIST example with Tensorflow
 - [x] multi-GPU setup [tensorflow doc](https://www.tensorflow.org/versions/r0.10/how_tos/using_gpu/index.html) [0.5 - 1.0]
 - [x] CFAR Example [4.0]
 

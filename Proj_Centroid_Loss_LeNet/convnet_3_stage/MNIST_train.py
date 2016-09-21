@@ -3,16 +3,16 @@ from pathlib import Path
 from termcolor import colored as c, cprint
 
 sys.path.append(str(Path(__file__).resolve().parents[1]))
-import convnet_10_hidden
+import convnet_3_stage
 
-__package__ = 'convnet_10_hidden'
+__package__ = 'convnet_3_stage'
 from . import network
 
 from tensorflow.examples.tutorials.mnist import input_data
 
 mnist = input_data.read_data_sets("MNIST_data/", one_hot=True)
 
-BATCH_SIZE = 500
+BATCH_SIZE = 64
 FILENAME = os.path.basename(__file__)
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 SUMMARIES_DIR = SCRIPT_DIR
@@ -32,7 +32,7 @@ if __name__ == "__main__":
         # inference()
         input, deep_feature = network.inference()
         labels, logits, loss_op = network.loss(deep_feature)
-        train, global_step = network.training(loss_op, 1e-3)
+        train, global_step = network.training(loss_op, 1)
         eval = network.evaluation(logits, labels)
 
         init = tf.initialize_all_variables()
@@ -53,7 +53,7 @@ if __name__ == "__main__":
             #     sess.run(init)
             sess.run(init)
 
-            for i in range(5000):
+            for i in range(500000):
                 batch_xs, batch_labels = mnist.train.next_batch(BATCH_SIZE)
                 if i % 100 == 0:
                     summaries, step, logits_output, loss_value, accuracy = \
@@ -88,8 +88,8 @@ if __name__ == "__main__":
             summaries, step, logits_output, loss_value, accuracy = \
                 sess.run(
                     [all_summary, global_step, logits, loss_op, eval], feed_dict={
-                    input: mnist.test.images,
-                    labels: mnist.test.labels
-                })
+                        input: mnist.test.images,
+                        labels: mnist.test.labels
+                    })
             test_writer.add_summary(summaries, global_step=step)
             print("MNIST Test accuracy is ", accuracy)

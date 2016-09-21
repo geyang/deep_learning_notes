@@ -41,8 +41,8 @@ if __name__ == "__main__":
             # Merge all the summaries and write them out to /tmp/mnist_logs (by default)
             # to see the tensor graph, fire up the tensorboard with --logdir="./train"
             all_summary = tf.merge_all_summaries()
-            train_writer = tf.train.SummaryWriter(SUMMARIES_DIR + '/convNet_train', sess.graph)
-            test_writer = tf.train.SummaryWriter(SUMMARIES_DIR + '/convNet_test')
+            train_writer = tf.train.SummaryWriter(SUMMARIES_DIR + '/summaries/train', sess.graph)
+            test_writer = tf.train.SummaryWriter(SUMMARIES_DIR + '/summaries/test')
 
             saver = tf.train.Saver()
 

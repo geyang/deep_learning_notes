@@ -19,7 +19,7 @@ SUMMARIES_DIR = SCRIPT_DIR
 SAVE_PATH = SCRIPT_DIR + "/network.ckpt"
 
 ### configure devices for this eval script.
-USE_DEVICE = '/gpu:1'
+USE_DEVICE = '/gpu:2'
 session_config = tf.ConfigProto(log_device_placement=True)
 session_config.gpu_options.allow_growth = True
 # this is required if want to use GPU as device.
@@ -32,7 +32,7 @@ if __name__ == "__main__":
         # inference()
         input, deep_feature = network.inference()
         labels, logits, loss_op = network.loss(deep_feature)
-        train = network.training(loss_op, 1e-1)
+        train, global_step = network.training(loss_op, 1)
         eval = network.evaluation(logits, labels)
 
         init = tf.initialize_all_variables()
@@ -41,25 +41,29 @@ if __name__ == "__main__":
             # Merge all the summaries and write them out to /tmp/mnist_logs (by default)
             # to see the tensor graph, fire up the tensorboard with --logdir="./train"
             all_summary = tf.merge_all_summaries()
-            train_writer = tf.train.SummaryWriter(SUMMARIES_DIR + '/convNet_train', sess.graph)
-            test_writer = tf.train.SummaryWriter(SUMMARIES_DIR + '/convNet_test')
+            train_writer = tf.train.SummaryWriter(SUMMARIES_DIR + '/summaries/train', sess.graph)
+            test_writer = tf.train.SummaryWriter(SUMMARIES_DIR + '/summaries/test')
 
             saver = tf.train.Saver()
 
-            sess.run(init)
             # try:
             #     saver.restore(sess, SAVE_PATH)
             # except ValueError:
-            #     print('checkpoint file not found. Moving on to training.')
+            #     print('checkpoint file not found. Moving on to initializing automatically.')
+            #     sess.run(init)
+            sess.run(init)
 
             for i in range(500000):
                 batch_xs, batch_labels = mnist.train.next_batch(BATCH_SIZE)
                 if i % 100 == 0:
-                    summaries, logits_output, loss_value, accuracy = sess.run([all_summary, logits, loss_op, eval], feed_dict={
-                        input: mnist.test.images,
-                        labels: mnist.test.labels
-                    })
-                    test_writer.add_summary(summaries, i)
+                    summaries, step, logits_output, loss_value, accuracy = \
+                        sess.run(
+                            [all_summary, global_step, logits, loss_op, eval],
+                            feed_dict={
+                                input: mnist.test.images,
+                                labels: mnist.test.labels
+                            })
+                    test_writer.add_summary(summaries, global_step=step)
                     cprint(
                         c("#" + str(i), 'grey') +
                         c(" training accuracy", 'green') + " is " +
@@ -73,16 +77,19 @@ if __name__ == "__main__":
                     saver.save(sess, SAVE_PATH)
                     print('=> saved network in checkfile.')
 
-                summaries, _ = sess.run([all_summary, train], feed_dict={
+                summaries, step, _ = sess.run([all_summary, global_step, train], feed_dict={
                     input: batch_xs,
                     labels: batch_labels
                 })
-                train_writer.add_summary(summaries, i)
+                train_writer.add_summary(summaries, global_step=step)
 
             # now let's test!
             TEST_BATCH_SIZE = np.shape(mnist.test.labels)[0]
-            logits_output, loss_value, accuracy = sess.run([logits, loss_op, eval], feed_dict={
-                input: mnist.test.images,
-                labels: mnist.test.labels
-            })
+            summaries, step, logits_output, loss_value, accuracy = \
+                sess.run(
+                    [all_summary, global_step, logits, loss_op, eval], feed_dict={
+                        input: mnist.test.images,
+                        labels: mnist.test.labels
+                    })
+            test_writer.add_summary(summaries, global_step=step)
             print("MNIST Test accuracy is ", accuracy)

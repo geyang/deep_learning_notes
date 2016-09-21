@@ -4,9 +4,9 @@ from pathlib import Path
 import time
 
 sys.path.append(str(Path(__file__).resolve().parents[1]))
-import convnet_2_deep
+import convnet_3_layer
 
-__package__ = 'convnet_2_deep'
+__package__ = 'convnet_3_layer'
 from . import network
 
 from tensorflow.examples.tutorials.mnist import input_data
