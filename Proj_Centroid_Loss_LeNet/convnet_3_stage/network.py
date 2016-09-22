@@ -67,19 +67,19 @@ def inference():
         # alphas_conv3 = helpers.bias_variable([64], 'alpha_conv3')
         layer_conv_3 = tf.nn.relu(helpers.conv2d(stage_2_pool, W_conv3) + b_conv3)
 
-        stage_3_pool = helpers.max_pool_2x2(layer_conv_3)
-        stage_3_pool_flat = tf.reshape(stage_3_pool, [-1, 4 * 4 * 256])
+        # stage_3_pool = helpers.max_pool_2x2(layer_conv_3)
+        # stage_3_pool_flat = tf.reshape(stage_3_pool, [-1, 4 * 4 * 256])
 
-        # W_conv3_b = helpers.weight_variable([5, 5, 128, 1], "W_conv3_b")
-        # b_conv3_b = helpers.bias_variable([128], 'bias_conv3_b')
-        # # alphas_conv3 = helpers.bias_variable([64], 'alpha_conv3')
-        # layer_conv_3_b = tf.nn.relu(helpers.conv2d(layer_conv_3, W_conv3_b) + b_conv3_b)
-        #
-        # stage_3_pool = helpers.max_pool_2x2(layer_conv_3_b)
-        # stage_3_pool_flat = tf.reshape(stage_3_pool, [-1, 4 * 4 * 128])
+        W_conv3_b = helpers.weight_variable([5, 5, 256, 512], "W_conv3_b")
+        b_conv3_b = helpers.bias_variable([512], 'bias_conv3_b')
+        # alphas_conv3 = helpers.bias_variable([64], 'alpha_conv3')
+        layer_conv_3_b = tf.nn.relu(helpers.conv2d(layer_conv_3, W_conv3_b) + b_conv3_b)
+
+        stage_3_pool = helpers.max_pool_2x2(layer_conv_3_b)
+        stage_3_pool_flat = tf.reshape(stage_3_pool, [-1, 4 * 4 * 512])
 
     with tf.name_scope('fc_layer_1'):
-        W_fc1 = helpers.weight_variable([4 * 4 * 256, 25], "W_fc1")
+        W_fc1 = helpers.weight_variable([4 * 4 * 512, 25], "W_fc1")
         # W_fc1 = helpers.weight_variable([7 * 7 * 64, 2], "W_fc1")
         b_fc1 = helpers.bias_variable([25], 'bias_fc1')
         output = tf.nn.relu(tf.matmul(stage_3_pool_flat, W_fc1) + b_fc1)
