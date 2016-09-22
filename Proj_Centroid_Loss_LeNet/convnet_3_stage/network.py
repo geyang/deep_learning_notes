@@ -79,9 +79,9 @@ def inference():
         stage_3_pool_flat = tf.reshape(stage_3_pool, [-1, 4 * 4 * 1024])
 
     with tf.name_scope('fc_layer_1'):
-        W_fc1 = helpers.weight_variable([4 * 4 * 1024, 10], "W_fc1")
+        W_fc1 = helpers.weight_variable([4 * 4 * 1024, 2], "W_fc1")
         # W_fc1 = helpers.weight_variable([7 * 7 * 64, 2], "W_fc1")
-        b_fc1 = helpers.bias_variable([10], 'bias_fc1')
+        b_fc1 = helpers.bias_variable([2], 'bias_fc1')
         output = tf.nn.relu(tf.matmul(stage_3_pool_flat, W_fc1) + b_fc1)
 
     # with tf.name_scope('fc_output'):
@@ -99,7 +99,7 @@ def inference():
 def loss(deep_features):
     with tf.name_scope('softmax_loss'):
         batch_labels = tf.placeholder(tf.float32, name='labels')
-        W_loss = helpers.weight_variable([10, 10], "W_loss")
+        W_loss = helpers.weight_variable([2, 10], "W_loss")
         bias_loss = tf.Variable(
             tf.truncated_normal(shape=[10], stddev=1e-4, mean=1e-1), 'bias_loss')
         # Note: we don't use the bias here because it does not affect things. removing the
