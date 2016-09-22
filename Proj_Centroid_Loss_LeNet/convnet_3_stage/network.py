@@ -34,12 +34,12 @@ def inference():
     image = tf.reshape(x, [-1, 28, 28, 1])
 
     with tf.name_scope('conv_layer_1'):
-        W_conv1 = helpers.weight_variable([5, 5, 1, 16], 'W_conv1')
-        b_conv1 = helpers.bias_variable([16], 'bias_conv1')
+        W_conv1 = helpers.weight_variable([5, 5, 1, 32], 'W_conv1')
+        b_conv1 = helpers.bias_variable([32], 'bias_conv1')
         # alphas_conv1 = helpers.bias_variable([32], 'alpha_conv1')
         layer_conv_1 = tf.nn.relu(helpers.conv2d(image, W_conv1) + b_conv1)
 
-        W_conv1_b = helpers.weight_variable([5, 5, 16, 32], 'W_conv1_b')
+        W_conv1_b = helpers.weight_variable([5, 5, 32, 32], 'W_conv1_b')
         b_conv1_b = helpers.bias_variable([32], 'bias_conv1_b')
         # alphas_conv1 = helpers.bias_variable([32], 'alpha_conv1')
 
@@ -53,8 +53,8 @@ def inference():
         # alphas_conv3 = helpers.bias_variable([64], 'alpha_conv3')
         layer_conv_2 = tf.nn.relu(helpers.conv2d(stage_1_pool, W_conv2) + b_conv2)
 
-        W_conv2_b = helpers.weight_variable([5, 5, 64, 128], "W_conv2_b")
-        b_conv2_b = helpers.bias_variable([128], 'bias_conv2_b')
+        W_conv2_b = helpers.weight_variable([5, 5, 64, 64], "W_conv2_b")
+        b_conv2_b = helpers.bias_variable([64], 'bias_conv2_b')
         # # alphas_conv3 = helpers.bias_variable([64], 'alpha_conv3')
         layer_conv_2_b = tf.nn.relu(helpers.conv2d(layer_conv_2, W_conv2_b) + b_conv2_b)
 
@@ -62,26 +62,26 @@ def inference():
         # stage_2_pool_flat = tf.reshape(stage_2_pool, [-1, 7 * 7 * 64])
 
     with tf.name_scope('conv_layer_3'):
-        W_conv3 = helpers.weight_variable([5, 5, 128, 256], "W_conv3")
-        b_conv3 = helpers.bias_variable([256], 'bias_conv3')
+        W_conv3 = helpers.weight_variable([5, 5, 64, 128], "W_conv3")
+        b_conv3 = helpers.bias_variable([128], 'bias_conv3')
         # alphas_conv3 = helpers.bias_variable([64], 'alpha_conv3')
         layer_conv_3 = tf.nn.relu(helpers.conv2d(stage_2_pool, W_conv3) + b_conv3)
 
         # stage_3_pool = helpers.max_pool_2x2(layer_conv_3)
         # stage_3_pool_flat = tf.reshape(stage_3_pool, [-1, 4 * 4 * 256])
 
-        W_conv3_b = helpers.weight_variable([5, 5, 256, 512], "W_conv3_b")
-        b_conv3_b = helpers.bias_variable([512], 'bias_conv3_b')
+        W_conv3_b = helpers.weight_variable([5, 5, 128, 1024], "W_conv3_b")
+        b_conv3_b = helpers.bias_variable([1024], 'bias_conv3_b')
         # alphas_conv3 = helpers.bias_variable([64], 'alpha_conv3')
         layer_conv_3_b = tf.nn.relu(helpers.conv2d(layer_conv_3, W_conv3_b) + b_conv3_b)
 
         stage_3_pool = helpers.max_pool_2x2(layer_conv_3_b)
-        stage_3_pool_flat = tf.reshape(stage_3_pool, [-1, 4 * 4 * 512])
+        stage_3_pool_flat = tf.reshape(stage_3_pool, [-1, 4 * 4 * 1024])
 
     with tf.name_scope('fc_layer_1'):
-        W_fc1 = helpers.weight_variable([4 * 4 * 512, 25], "W_fc1")
+        W_fc1 = helpers.weight_variable([4 * 4 * 1024, 10], "W_fc1")
         # W_fc1 = helpers.weight_variable([7 * 7 * 64, 2], "W_fc1")
-        b_fc1 = helpers.bias_variable([25], 'bias_fc1')
+        b_fc1 = helpers.bias_variable([10], 'bias_fc1')
         output = tf.nn.relu(tf.matmul(stage_3_pool_flat, W_fc1) + b_fc1)
 
     # with tf.name_scope('fc_output'):
@@ -99,9 +99,9 @@ def inference():
 def loss(deep_features):
     with tf.name_scope('softmax_loss'):
         batch_labels = tf.placeholder(tf.float32, name='labels')
-        W_loss = helpers.weight_variable([25, 10], "W_loss")
+        W_loss = helpers.weight_variable([10, 10], "W_loss")
         bias_loss = tf.Variable(
-            tf.truncated_normal(shape=[10], stddev=1e-2, mean=1e-1), 'bias_loss')
+            tf.truncated_normal(shape=[10], stddev=1e-4, mean=1e-1), 'bias_loss')
         # Note: we don't use the bias here because it does not affect things. removing the
         #       bias also makes the analysis simpler.
         logits = tf.matmul(deep_features, W_loss) + bias_loss

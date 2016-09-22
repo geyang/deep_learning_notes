@@ -32,7 +32,7 @@ if __name__ == "__main__":
         # inference()
         input, deep_feature = network.inference()
         labels, logits, loss_op = network.loss(deep_feature)
-        train, global_step = network.training(loss_op, 0.1)
+        train, global_step = network.training(loss_op, 0.001)
         eval = network.evaluation(logits, labels)
 
         init = tf.initialize_all_variables()
@@ -60,8 +60,8 @@ if __name__ == "__main__":
                         sess.run(
                             [all_summary, global_step, logits, loss_op, eval],
                             feed_dict={
-                                input: mnist.test.images,
-                                labels: mnist.test.labels
+                                input: mnist.test.images[:5000],
+                                labels: mnist.test.labels[:5000]
                             })
                     test_writer.add_summary(summaries, global_step=step)
                     cprint(
@@ -88,8 +88,8 @@ if __name__ == "__main__":
             summaries, step, logits_output, loss_value, accuracy = \
                 sess.run(
                     [all_summary, global_step, logits, loss_op, eval], feed_dict={
-                        input: mnist.test.images,
-                        labels: mnist.test.labels
+                        input: mnist.test.images[:5000],
+                        labels: mnist.test.labels[:5000]
                     })
             test_writer.add_summary(summaries, global_step=step)
             print("MNIST Test accuracy is ", accuracy)
