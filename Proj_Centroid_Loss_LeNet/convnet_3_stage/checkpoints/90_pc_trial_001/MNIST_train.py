@@ -30,11 +30,9 @@ if __name__ == "__main__":
 
     with tf.Graph().as_default() as g, tf.device(USE_DEVICE):
         # inference()
-        input, deep_features = network.inference()
-        labels, logits, loss_op = network.loss(deep_features)
-        # train, global_step = network.training(loss_op, 0.1)
-        # train, global_step = network.training(loss_op, 0.03)
-        train, global_step = network.training(loss_op, 0.01)
+        input, deep_feature = network.inference()
+        labels, logits, loss_op = network.loss(deep_feature)
+        train, global_step = network.training(loss_op, 0.1)
         eval = network.evaluation(logits, labels)
 
         init = tf.initialize_all_variables()
@@ -56,7 +54,7 @@ if __name__ == "__main__":
                 sess.run(init)
             # sess.run(init)
 
-            for i in range(20000):
+            for i in range(500000):
                 batch_xs, batch_labels = mnist.train.next_batch(BATCH_SIZE)
                 accuracy = 0
                 if i % 100 == 0:
