@@ -17,4 +17,4 @@ figures/MNIST LeNet++ with 2 Deep Features.png
 network.ckpt
 network.ckpt.meta
 summaries/
-/Proj_Centroid_Loss_LeNet/convnet_3_stage/nohup.out
+/Proj_Centroid_Loss_LeNet/LeNet_plus/nohup.out

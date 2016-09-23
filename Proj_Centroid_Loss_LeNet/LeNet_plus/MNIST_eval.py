@@ -4,9 +4,9 @@ from pathlib import Path
 import time
 
 sys.path.append(str(Path(__file__).resolve().parents[1]))
-import convnet_3_stage
+import LeNet_plus
 
-__package__ = 'convnet_3_stage'
+__package__ = 'LeNet_plus'
 from . import network
 
 from tensorflow.examples.tutorials.mnist import input_data

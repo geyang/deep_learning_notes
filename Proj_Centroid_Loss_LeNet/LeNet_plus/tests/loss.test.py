@@ -4,9 +4,9 @@ from pathlib import Path
 # this one treats the parent as the working directory.
 # this hacky, yet simple and nice.
 sys.path.append(str(Path(__file__).resolve().parents[2]))
-import convnet_3_stage
+import LeNet_plus
 
-__package__ = 'convnet_3_stage'
+__package__ = 'LeNet_plus'
 from . import network
 
 with tf.Graph().as_default(), tf.device('/gpu:0'):

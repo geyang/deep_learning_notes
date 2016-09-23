@@ -1,4 +1,4 @@
-# convnet_3_stage README
+# LeNet_plus README
 
 @episodeyang 2016.
 
