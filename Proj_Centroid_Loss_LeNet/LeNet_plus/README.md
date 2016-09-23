@@ -2,12 +2,13 @@
 
 @episodeyang 2016.
 
-This is a package of a toy implementation of LeNet++ with 50 deep 
-features instead of 2, and three simple convolution layers.  
+This is a tensorflow implementation of the LeNet++ without the centroid
+loss from Yandong Wen's paper 
+[link](http://ydwen.github.io/papers/WenECCV16.pdf).
 
-During training, the accuracy should rise up to 96% within 400 steps.
+## Highlights
 
-## Todos
+![2 D Deep Features](figures/MNIST%20LeNet++%20with%202%20Deep%20Features%20(PReLU).png)
 
 ## Usage
 
