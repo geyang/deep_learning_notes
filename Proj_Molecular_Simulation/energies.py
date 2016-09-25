@@ -17,7 +17,7 @@ def interaction(xys):
     with tf.name_scope('Interaction_Energy'):
         r_ij = ops.r_ij(xys)
 
-        shape = xys.get_shape()
+        shape = r_ij.get_shape()
 
         interactive_energy = \
             tf.reduce_sum(
