@@ -8,6 +8,7 @@ configuration can be annealed even better.
 
 ## Motivations
 
+### CUDA Accelerated Scientific Computation without C++
 When writing fast, GPU accelerated scientific code, lots of time are spent on:
 
 1. writing CUDA code in c++ that are mission-specific.  
@@ -34,7 +35,8 @@ transportable.
  eliminates the need for you to manually write and validate the Jacobian
  of you SOE. 
 
-**Transparent Math**: One of the goals of this project is to expose the parts
+### Transparent Code That You Can Copy and Adapt
+One of the goals of this project is to expose the parts
 that you need to write a simple particle simulation with tensorflow. So the 
 code is done in such way that the logic between the moving parts is relatively 
 simple. You can take the code to run as-it-is, or you can look through the 
