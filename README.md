@@ -21,7 +21,25 @@ These are the notes that I left working through Nielson's [neural Net and Deep L
 - [MNIST Logistic Regression with L2 Regularization](Ch3%20Advanced%20Tensorflow/2%20-%20MNIST%20Logistic%20Regression%20L2%20Regularization.py)
 - [MNIST 1 Hidden Layer with Perceptron](Ch3%20Advanced%20Tensorflow/3%20-%20MNIST%201%20Hidden%20Layer%20Perceptron.py)
 
+### Project 1: Doing Particle Simulation with Tensorflow
+
+- [Annealing A 2-Dimensional Electron Ensemble with Tensorflow]()
+
 ## Fun Highlights
+
+### Particle Simulation with Tensorflow! (classical many body simulation 
+for my quantum computing research)
+
+<p align="center">
+   <img width="300px" height="300px"
+        alt="Electron Configuration During Simulation" 
+        src="Proj_Molecular_Simulation/figures/Electron%20Configuration%20Animated%20(WIP)%20small.gif"/>
+</p>
+
+### Projecting MNIST into a 2-Dimensional Deep Feature Space
+
+![](Proj_Centroid_Loss_LeNet/LeNet_plus/figures/MNIST%20LeNet++%20with%202%20Deep%20Features%20(PReLU).png)
+
 
 ### A simple toy example
 some of the figures can be found scattered in the folder (I believe in a flat folder 
@@ -38,6 +56,8 @@ This example does:
 - pushes loss and accuracy to summary, which can be visualized by tensorboard
 
 ![MNIST ConvNet Tensorflow](Proj_Centroid_Loss_LeNet/convnet_10_hidden/figures/Screenshot%202016-09-16%2011.29.47.png)
+
+
 
 ## Todos (9/9/2016):
 
