@@ -88,3 +88,10 @@ can just simply gradient descent.
 
 ## TODOs
 - [ ] **Sample and Figures** add more figures showing the annealed results.
+
+## Usage:
+
+### To Run A Simulation
+
+### To Visualize the result
+
