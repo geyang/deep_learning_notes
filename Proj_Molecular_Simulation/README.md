@@ -87,7 +87,7 @@ total_energy = energies.total(xys, static2)
 
 Now this total energy tensor has a automatically defined gradient that 
 the tensorflow optimizers can use. To find the lowest energy, you 
-can just simply gradient descent.
+can just gradient descent.
 
 ## TODOs
 - [ ] **Sample and Figures** add more figures showing the annealed results.
