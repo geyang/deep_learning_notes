@@ -91,7 +91,13 @@ can just gradient descent.
 
 ## Results
 
-![Electron Configuration During Simulation](figures/Electron%20Configuration%20Animated%20(WIP).gif)
+**note**: safari has a small bug with gif so the last few frames of this
+animation need to be viewd in Chrome.
+<p align="center">
+   <img width="300px" height="300px"
+        alt="Electron Configuration During Simulation" 
+        src="figures/Electron%20Configuration%20Animated%20(WIP).gif"/>
+</p>
 
 Here is how the electron configurations look like during the annealing. 
 At the end of the movie you can see the ensemble explore a few local 
