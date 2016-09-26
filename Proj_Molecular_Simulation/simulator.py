@@ -55,21 +55,24 @@ with tf.Session(config=config) as sess, tf.device('/gpu:0'):
 
     sess.run(init)
 
-    for i in range(10):
-        current_xys, interactive_energy_result, _ = sess.run([xys, interactive_energy, train_op])
-        cprint(c('interactive_energy_result ', 'grey') + c(interactive_energy_result, 'green') + ' eV')
+    for i in range(100000):
+        sess.run(train_op)
 
-        xs = current_xys[:, 0]
-        ys = current_xys[:, 1]
+        if i % 100 == 0:
+            current_xys, interactive_energy_result = sess.run([xys, interactive_energy])
+            cprint(c('interactive_energy_result ', 'grey') + c(interactive_energy_result, 'green') + ' eV')
 
-        plt.figure(figsize=(6, 6))
-        plt.scatter(xs, ys)
-        plt.xlim(-10e-5, 10e-5)
-        plt.ylim(-10e-5, 10e-5)
+            # xs = current_xys[:, 0]
+            # ys = current_xys[:, 1]
+            #
+            # plt.figure(figsize=(6, 6))
+            # plt.scatter(xs, ys)
+            # # plt.xlim(-10e-5, 10e-5)
+            # # plt.ylim(-10e-5, 10e-5)
+            #
+            # plt.xlim(np.min(xs), np.max(ys))
+            # plt.ylim(np.min(ys), np.max(ys))
+            # plt.savefig('dumps/temp_{}.png'.format(str(1000 + i)[-3:]))
 
-        # plt.xlim(np.min(xs), np.max(ys))
-        # plt.ylim(np.min(ys), np.max(ys))
-        plt.savefig('dumps/temp_{}.png'.format(str(1000 + i)[-3:]))
-
-        # with open('dumps/xys.dump.pkl', 'wb') as f:
-        #     pickle.dump(current_xys, f)
+            with open('dumps/xys_{}.dump.pkl'.format(str(1000000 + i)[-6:]), 'wb') as f:
+                pickle.dump(current_xys, f)
