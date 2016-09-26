@@ -17,8 +17,8 @@ When writing fast, GPU accelerated scientific code, lots of time are spent on:
    the same code on my working laptop, and vise versa. The code is simply not
    transportable.
 
-2. For an optimizer, writing the Jacobian of the system of equations(SOE) as well
-as the SOE itself.  
+2. For an optimizer, writing the Jacobian of the equations of motion(EOM) as well
+as the EOM itself.  
 
    This, again, is very model and mission specific, resulting in lots of 
    hard-to-debug, non-reusable code.
@@ -33,7 +33,7 @@ transportable.
  and they each come with a gradient definition. The tensorflow optimizers
  are able to take advantage of these gradients and the tensor flow, which 
  eliminates the need for you to manually write and validate the Jacobian
- of you SOE. 
+ of you EOM. 
 
 ### Transparent Code That You Can Copy and Adapt
 One of the goals of this project is to expose the parts
