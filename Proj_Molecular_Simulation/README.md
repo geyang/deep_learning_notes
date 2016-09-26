@@ -9,15 +9,17 @@ so that the final configuration can be annealed even better.
 
 When writing fast, GPU accelerated scientific code, lots of time are spent on:
 
-1. writing CUDA code in c++ that are mission-specific.\
-This means that if I write code for a GPU then I wouldn't be able to run
-the same code on my working laptop, and vise versa. The code is simply not
-transportable.
+1. writing CUDA code in c++ that are mission-specific.  
+
+   This means that if I write code for a GPU then I wouldn't be able to run
+   the same code on my working laptop, and vise versa. The code is simply not
+   transportable.
 
 2. For an optimizer, writing the Jacobian of the system of equations(SOE) as well
-as the SOE itself.\
- This, again, is very model and mission specific, resulting in lots of 
- hard-to-debug, non-reusable code.
+as the SOE itself.  
+
+   This, again, is very model and mission specific, resulting in lots of 
+   hard-to-debug, non-reusable code.
 
 Tensorflow solves both of these two problems. Tensorflow provides a useful 
 set of operators mostly modeled after the proven API of `numpy`. Each of 
