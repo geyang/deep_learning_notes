@@ -36,18 +36,16 @@ def get_summary(energy):
 
 
 def static(xy):
-    return 0.0733e-6 * tf.sqrt(
-        tf.reduce_sum(
+    return (0.0733e6**2) * tf.reduce_sum(
             tf.square(xy),
             reduction_indices=[0]
         )
-    )
 
 
 config = tf.ConfigProto(allow_soft_placement=True)
 with tf.Session(config=config) as sess, tf.device('/gpu:0'):
     xys = get_locations(200)
-    interactive_energy = energies.energy(xys, static)
+    interactive_energy = energies.total(xys, static)
     train_op = train(1e-5, interactive_energy)
 
     init = tf.initialize_all_variables()
@@ -55,7 +53,7 @@ with tf.Session(config=config) as sess, tf.device('/gpu:0'):
 
     sess.run(init)
 
-    for i in range(100000):
+    for i in range(10000):
         sess.run(train_op)
 
         if i % 100 == 0:

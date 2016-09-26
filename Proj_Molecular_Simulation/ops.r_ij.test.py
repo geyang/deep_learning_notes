@@ -22,6 +22,6 @@ with tf.Session() as sess:
         result,
         target_result,
         3,
-        'the resulting energy should be {}, but got {} instead. '
+        'the resulting total should be {}, but got {} instead. '
             .format(target_result, result)
     )

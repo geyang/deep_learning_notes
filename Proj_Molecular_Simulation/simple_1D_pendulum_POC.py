@@ -26,12 +26,12 @@ with tf.Session() as sess:
     sess.run(init)
 
     results = sess.run([energy])
-    cprint(c('initial energy is ', 'grey') + c(results[0], 'green'))
+    cprint(c('initial total is ', 'grey') + c(results[0], 'green'))
 
     decay = []
     for i in range(500):
         results = sess.run([energy, train_op])
-        # cprint(c('initial energy is ', 'grey') + c(results[0], 'green'))
+        # cprint(c('initial total is ', 'grey') + c(results[0], 'green'))
 
         decay.append(results[0])
     plt.plot(decay)
