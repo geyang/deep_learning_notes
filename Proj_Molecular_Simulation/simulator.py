@@ -26,7 +26,8 @@ def train(step, energy):
     # global_step can not be placed on GPU. with soft_placement will be placed on CPU.
     global_step = tf.Variable(0, name='global_step', dtype=tf.int32, trainable=False)
 
-    optimizer = tf.train.AdamOptimizer(step)
+    optimizer = tf.train.AdamOptimizer(step, 0.9)
+    # optimizer = tf.train.GradientDescentOptimizer(step)
     train_op = optimizer.minimize(energy, global_step=global_step)
     return train_op
 
@@ -36,27 +37,29 @@ def get_summary(energy):
 
 
 def static(xy):
-    return (0.0733e6**2) * tf.reduce_sum(
-            tf.square(xy),
-            reduction_indices=[0]
-        )
+    return (4 * 0.0733e6 ** 2) * tf.reduce_sum(
+        tf.square(xy),
+        reduction_indices=[0]
+    )
 
 
 config = tf.ConfigProto(allow_soft_placement=True)
 with tf.Session(config=config) as sess, tf.device('/gpu:0'):
-    xys = get_locations(200)
+    xys = get_locations(100)
     interactive_energy = energies.total(xys, static)
-    train_op = train(1e-5, interactive_energy)
+
+    step_size = tf.placeholder(dtype=tf.float32)
+    train_op = train(step_size, interactive_energy)
 
     init = tf.initialize_all_variables()
     # all_summaries = tf.merge_all_summaries()
 
     sess.run(init)
 
-    for i in range(10000):
-        sess.run(train_op)
+    for i in range(100001):
+        sess.run(train_op, feed_dict={step_size: 1e-1 * i / 1e5})
 
-        if i % 100 == 0:
+        if i % 1000 == 0:
             current_xys, interactive_energy_result = sess.run([xys, interactive_energy])
             cprint(c('interactive_energy_result ', 'grey') + c(interactive_energy_result, 'green') + ' eV')
 
