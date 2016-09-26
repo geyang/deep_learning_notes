@@ -1,7 +1,7 @@
 # Tensorflow Implementation of Electrons on Helium Simulation
 
 This project is a Electrons on Helium 2D simulation implemented with Tensorflow. 
-As of now, it correctly finds the 2D electron configuration corresponds to the
+As of now, it correctly finds the 2D electron configuration corresponding to the
 lowest energy. However some more work needs to be done to tweak the optimizers,
 so that the final configuration can be annealed even better.
 
