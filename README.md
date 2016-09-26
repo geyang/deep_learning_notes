@@ -25,7 +25,7 @@ These are the notes that I left working through Nielson's [neural Net and Deep L
 
 - [Annealing A 2-Dimensional Electron Ensemble with Tensorflow]()
 
-## Fun Highlights
+## Fun Highlights (Reverse Chronological Order)
 
 ### Particle Simulation with Tensorflow! (classical many body simulation 
 for my quantum computing research)
@@ -38,15 +38,10 @@ for my quantum computing research)
 
 ### Projecting MNIST into a 2-Dimensional Deep Feature Space
 
-![](Proj_Centroid_Loss_LeNet/LeNet_plus/figures/MNIST%20LeNet++%20with%202%20Deep%20Features%20(PReLU).png)
+<p align="center">
+    <img width="130px" height="130px" src="Proj_Centroid_Loss_LeNet/LeNet_plus/figures/MNIST%20LeNet++%20with%202%20Deep%20Features%20(PReLU).png"/>
+</p>
 
-
-### A simple toy example
-some of the figures can be found scattered in the folder (I believe in a flat folder 
-structure). Like this one below, it shows how a simple network can be trained 
-to emulate a given target function.
-
-[![network trained to emulate function](trained%20neural%20net%20emulate%20a%20step%20function.png)](004%20-%20optimize%20batch%20training.ipynb)
 
 ### MNIST ConvNet with TensorFlow
 
@@ -57,6 +52,12 @@ This example does:
 
 ![MNIST ConvNet Tensorflow](Proj_Centroid_Loss_LeNet/convnet_10_hidden/figures/Screenshot%202016-09-16%2011.29.47.png)
 
+### A simple toy example
+some of the figures can be found scattered in the folder (I believe in a flat folder 
+structure). Like this one below, it shows how a simple network can be trained 
+to emulate a given target function.
+
+[![network trained to emulate function](trained%20neural%20net%20emulate%20a%20step%20function.png)](004%20-%20optimize%20batch%20training.ipynb)
 
 
 ## Todos (9/9/2016):
