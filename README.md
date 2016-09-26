@@ -39,7 +39,7 @@ for my quantum computing research)
 ### Projecting MNIST into a 2-Dimensional Deep Feature Space
 
 <p align="center">
-    <img width="130px" height="130px" src="Proj_Centroid_Loss_LeNet/LeNet_plus/figures/MNIST%20LeNet++%20with%202%20Deep%20Features%20(PReLU).png"/>
+    <img width="174.4px" height="140.2px" src="Proj_Centroid_Loss_LeNet/LeNet_plus/figures/MNIST%20LeNet++%20with%202%20Deep%20Features%20(PReLU).png"/>
 </p>
 
 
