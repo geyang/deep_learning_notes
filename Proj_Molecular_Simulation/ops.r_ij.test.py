@@ -15,7 +15,7 @@ target_result = [
 ]
 
 with tf.Session() as sess:
-    r_ij = ops.r_ij(electron_xys)
+    r_ij = ops.r2_ij(electron_xys)
     result = sess.run(r_ij)
 
     np.testing.assert_array_almost_equal(

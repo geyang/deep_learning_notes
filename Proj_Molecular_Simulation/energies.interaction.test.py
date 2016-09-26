@@ -1,22 +1,25 @@
 import tensorflow as tf
 import numpy as np
+from termcolor import colored as c, cprint
 import Proj_Molecular_Simulation.energies as energies
 
 electron_xys = tf.constant([
     [0, 0],
-    [0, 1]
+    [-1, 0],
+    [-2, 0]
 ], dtype=tf.float32)
 
-target_result = 1.44e-9  # eV/m
+target_result = 1.44e-9 * 2.5  # eV/m
 
 with tf.Session() as sess:
-    interaction_energy = energies.interaction(electron_xys)
+    interaction_energy = energies.energy(electron_xys)
     result = sess.run(interaction_energy)
 
+    cprint(c(result, 'red'))
     np.testing.assert_almost_equal(
         result,
         target_result,
-        decimal=4,
-        'the resulting energy should be {}, but got {} instead. '
-            .format(target_result, result)
+        err_msg='the resulting energy should be {}, but got {} instead. ' \
+            .format(target_result, result),
+        decimal=10
     )
