@@ -2,8 +2,9 @@
 
 This project is a Electrons on Helium 2D simulation implemented with Tensorflow. 
 As of now, it correctly finds the 2D electron configuration corresponding to the
-lowest energy. However some more work needs to be done to tweak the optimizers,
-so that the final configuration can be annealed even better.
+lowest energy of interacting electrons in a given electrostatic trapping potential.
+However some more work needs to be done to tweak the optimizers so that the final
+configuration can be annealed even better.
 
 ## Motivations
 
@@ -23,9 +24,9 @@ as the SOE itself.
 
 Tensorflow solves both of these two problems. Tensorflow provides a useful 
 set of operators mostly modeled after the proven API of `numpy`. Each of 
- these operators comes with both CPU and GPU run time, and can be switch 
- by simply passing in a scope parameter, making your code a lot more 
- transportable.
+these operators comes with both CPU and GPU runtime, and can be switched
+in between by simply modifying a scope parameter, making your code a lot more 
+transportable.
  
  In addition, these operators provides a basis for a good level of abstraction, 
  and they each come with a gradient definition. The tensorflow optimizers
