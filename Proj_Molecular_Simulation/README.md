@@ -65,7 +65,7 @@ adding the interactive term and the static term.
 This is a nice and simple work around that allows us to avoid writing our
 own tensor operator in c++ with definition of the gradient. Doing so would've 
 defeated the purpose of this exercise, which is to use tensorflow's automatic 
-gradient calculation as stated in the [motiations](#Motivations) session.
+gradient calculation as stated in the [motiations](#motivations) session.
 
 ```python
 # Here we define the trap potential function for each xy pair (is a tensor).
