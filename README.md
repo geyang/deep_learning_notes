@@ -38,7 +38,7 @@ structure).
 Here is a 2D classical many body simulator I wrote for my quantum 
 computing research. In my lab, I am building a new type of qubits 
 by traping single electrons on the surface of super fluild helium. 
-You can read more about our progress in [this paper from PRX](http://journals.aps.org/prx/abstract/10.1103/PhysRevX.6.011031)
+You can read more about our progress in [this paper from PRX](http://journals.aps.org/prx/abstract/10.1103/PhysRevX.6.011031).
 
 In this new experiment, we want to construct a very small electro-static
 trap so that we can couple a microwave mirror to the dipole of a single 
@@ -57,7 +57,7 @@ to build a simple electro-static simulation.
 It turned out that you can constrict the feature space of a convolutional
 neural network, and project the MNIST dataset onto a 2-dimensional plane! 
 
-This is my attempt at reproducing the work from Yandong Wei's paper (link see project readme).
+This is my attempt at reproducing the work from Yandong Wei's paper (link see [project](https://github.com/episodeyang/deep_learning_notes/tree/master/Proj_Centroid_Loss_LeNet) readme (WIP)).
 
 <p align="center">
     <img width="348.8px" height="280.4px" src="Proj_Centroid_Loss_LeNet/LeNet_plus/figures/MNIST%20LeNet++%20with%202%20Deep%20Features%20(PReLU).png"/>
