@@ -18,7 +18,7 @@ small code base and adapt it to your own.
 When we calculate the pairwise interaction between the charges, the following
 matrix pops up:
 
-```
+```python
             [ 
                 [ 0,           1/ r_{0, 0}, 1/ r_{0, 1}, ... ],
                 [ 1/ r_{1, 0}, 0,           1/ r_{1, 2}, ... ],
@@ -31,7 +31,24 @@ matrix pops up:
 A naive implementation of the inverse pairwise distance matrix has a automatically
 generated gradient that goes to `nan`. This comes mostly from the square root 
 that is taken on the Distance^2 matrix. So in this working version, we postpone 
-taking the square root.
+taking the square root till after adding the interactive term and the static 
+term. 
+
+```python
+# Here we define the trap potential function for each xy pair (is a tensor).
+def static2(xy):
+    return trap_constant * tf.reduce_sum(
+        tf.square(xy),
+        reduction_index=[0]
+    )
+    
+xys = tf.Variable(some_init, name="electron_locations")
+total_energy = energies.total(xys, static2)
+```
+
+Now this total energy tensor has a automatically defined gradient that 
+the tensorflow optimizers can use. To find the lowest energy, you 
+can just simply gradient descent.
 
 ## TODOs
 - [ ] **Sample and Figures** add more figures showing the annealed results.
