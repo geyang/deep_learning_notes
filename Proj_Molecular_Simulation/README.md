@@ -91,12 +91,12 @@ can just gradient descent.
 
 ## Results
 
-**note**: safari has a small bug with gif so the last few frames of this
-animation need to be viewd in Chrome.
+**note**: *safari has a size limiting bug with gif so the last few frames of this
+animation might need to be viewed in Chrome.*
 <p align="center">
    <img width="300px" height="300px"
         alt="Electron Configuration During Simulation" 
-        src="figures/Electron%20Configuration%20Animated%20(WIP).gif"/>
+        src="figures/Electron%20Configuration%20Animated%20(WIP)%20small.gif"/>
 </p>
 
 Here is how the electron configurations look like during the annealing. 
