@@ -5,6 +5,32 @@ As of now, it correctly finds the 2D electron configuration corresponds to the
 lowest energy. However some more work needs to be done to tweak the optimizers,
 so that the final configuration can be annealed even better.
 
+## Motivations
+
+When writing fast, GPU accelerated scientific code, lots of time are spent on:
+
+1. writing CUDA code in c++ that are mission-specific.\
+This means that if I write code for a GPU then I wouldn't be able to run
+the same code on my working laptop, and vise versa. The code is simply not
+transportable.
+
+2. For an optimizer, writing the Jacobian of the system of equations(SOE) as well
+as the SOE itself.\
+ This, again, is very model and mission specific, resulting in lots of 
+ hard-to-debug, non-reusable code.
+
+Tensorflow solves both of these two problems. Tensorflow provides a useful 
+set of operators mostly modeled after the proven API of `numpy`. Each of 
+ these operators comes with both CPU and GPU run time, and can be switch 
+ by simply passing in a scope parameter, making your code a lot more 
+ transportable.
+ 
+ In addition, these operators provides a basis for a good level of abstraction, 
+ and they each come with a gradient definition. The tensorflow optimizers
+ are able to take advantage of these gradients and the tensor flow, which 
+ eliminates the need for you to manually write and validate the Jacobian
+ of you SOE. 
+
 **Transparent Math**: One of the goals of this project is to expose the parts
 that you need to write a simple particle simulation with tensorflow. So the 
 code is done in such way that the logic between the moving parts is relatively 
@@ -13,7 +39,7 @@ small code base and adapt it to your own.
 
 ## Tricky things
 
-### Inverse Pairwise Distance Matrix has poles
+### Inverse Pairwise Distance Matrix has a Faulty Gradient
 
 When we calculate the pairwise interaction between the charges, the following
 matrix pops up:
@@ -29,10 +55,14 @@ matrix pops up:
 ```
 
 A naive implementation of the inverse pairwise distance matrix has a automatically
-generated gradient that goes to `nan`. This comes mostly from the square root 
-that is taken on the Distance^2 matrix. So in this working version, we postpone 
-taking the square root till after adding the interactive term and the static 
-term. 
+generated gradient that goes to `nan`. This is a result of finite precision 
+artifacts of the quantity inside the square root operator, the Distance^2 matrix. 
+So in this working version, we postpone taking the square root till after 
+adding the interactive term and the static term. 
+
+This is a nice and simple work around that allows us to avoid writing our
+own tensor operator in c++ with definition of the backward gradient. The point of 
+this exercise is to use tensorflow's automatic gradient calculation
 
 ```python
 # Here we define the trap potential function for each xy pair (is a tensor).
