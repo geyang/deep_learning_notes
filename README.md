@@ -27,9 +27,25 @@ These are the notes that I left working through Nielson's [neural Net and Deep L
 
 ## Fun Highlights (Reverse Chronological Order)
 
-### Particle Simulation with Tensorflow! (classical many body simulation 
-for my quantum computing research)
+some of the figures can be found scattered in the folder (I believe in a flat folder 
+structure).
 
+### Particle Simulation with Tensorflow! (classical many body simulation for my quantum computing research)
+
+> It turned out that not needing to write the Jacobian of your 
+    equations of motion is a huge time saver in doing particle simulations.
+
+Here is a 2D classical many body simulator I wrote for my quantum 
+computing research. In my lab, I am building a new type of qubits 
+by traping single electrons on the surface of super fluild helium. 
+You can read more about our progress in [this paper from PRX](http://journals.aps.org/prx/abstract/10.1103/PhysRevX.6.011031)
+
+In this new experiment, we want to construct a very small electro-static
+trap so that we can couple a microwave mirror to the dipole of a single 
+electron. To understand where electrons are likely to go, I need 
+to build a simple electro-static simulation.
+
+[link to repo](https://github.com/episodeyang/deep_learning_notes/tree/master/Proj_Molecular_Simulation)
 <p align="center">
    <img width="300px" height="300px"
         alt="Electron Configuration During Simulation" 
@@ -38,24 +54,32 @@ for my quantum computing research)
 
 ### Projecting MNIST into a 2-Dimensional Deep Feature Space
 
+It turned out that you can constrict the feature space of a convolutional
+neural network, and project the MNIST dataset onto a 2-dimensional plane! 
+
+This is my attempt at reproducing the work from Yandong Wei's paper (link see project readme).
+
 <p align="center">
-    <img width="174.4px" height="140.2px" src="Proj_Centroid_Loss_LeNet/LeNet_plus/figures/MNIST%20LeNet++%20with%202%20Deep%20Features%20(PReLU).png"/>
+    <img width="348.8px" height="280.4px" src="Proj_Centroid_Loss_LeNet/LeNet_plus/figures/MNIST%20LeNet++%20with%202%20Deep%20Features%20(PReLU).png"/>
 </p>
 
 
 ### MNIST ConvNet with TensorFlow
 
+My first attempt at building a convolutional neural network with tensorflow.
+
 This example does:
-- uses different GPUs for training and evaluation
-- persist network parameters in check files
-- pushes loss and accuracy to summary, which can be visualized by tensorboard
+- uses different GPUs for training and evaluation (manual device placement)
+- persist network parameters in check files (session saving and restore)
+- pushes loss and accuracy to summary, which can be visualized by tensorboard (summary and tensorboard)
 
 ![MNIST ConvNet Tensorflow](Proj_Centroid_Loss_LeNet/convnet_10_hidden/figures/Screenshot%202016-09-16%2011.29.47.png)
 
 ### A simple toy example
-some of the figures can be found scattered in the folder (I believe in a flat folder 
-structure). Like this one below, it shows how a simple network can be trained 
-to emulate a given target function.
+
+This one below shows how a simple network can be trained 
+to emulate a given target function. Implemented with numpy without 
+the help of tensorflow.
 
 [![network trained to emulate function](trained%20neural%20net%20emulate%20a%20step%20function.png)](004%20-%20optimize%20batch%20training.ipynb)
 
