@@ -67,6 +67,9 @@ own tensor operator in c++ with definition of the gradient. Doing so would've
 defeated the purpose of this exercise, which is to use tensorflow's automatic 
 gradient calculation as stated in the [Motivations](#motivations) session.
 
+The usage is the following: you pass in the squared version of the static 
+(trap) potential into the totally energy operator:
+
 ```python
 # Here we define the trap potential function for each xy pair (is a tensor).
 def static2(xy):
