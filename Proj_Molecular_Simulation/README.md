@@ -89,6 +89,18 @@ Now this total energy tensor has a automatically defined gradient that
 the tensorflow optimizers can use. To find the lowest energy, you 
 can just gradient descent.
 
+## Results
+
+![Electron Configuration During Simulation](figures/Electron%20Configuration%20Animated%20(WIP).gif)
+
+Here is how the electron configurations look like during the annealing. 
+At the end of the movie you can see the ensemble explore a few local 
+minima and rearrange themselves vigorously. Since this simulator is not
+a full molecular dynamics simulator with concepts of kinetic energy and
+entropy, we have to use heuristics to decrease the training step-size 
+over time in order to stabilize the electron configurations. It is on 
+our todo list to design these heuristics more rigorously. 
+
 ## TODOs
 - [ ] **Sample and Figures** add more figures showing the annealed results.
 
