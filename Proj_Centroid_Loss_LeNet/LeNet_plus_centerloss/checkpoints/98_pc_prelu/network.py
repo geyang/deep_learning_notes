@@ -117,8 +117,7 @@ def loss(deep_features):
         return batch_labels, logits, xentropy_mean
 
 
-def training(loss):
-    learning_rate = tf.placeholder(tf.float32, name='learning_rate')
+def training(loss, learning_rate):
     with tf.name_scope('training'):
         global_step = tf.Variable(0, name='global_step', trainable=False)
         optimizer = tf.train.GradientDescentOptimizer(learning_rate)
@@ -128,7 +127,7 @@ def training(loss):
         # grads_and_vars = optimizer.compute_gradients(loss, tf.trainable_variables())
         # capped_grads_and_vars = [(tf.clip_by_value(grads, 1e-10, 1e10), vars) for grads, vars in grads_and_vars]
         # train_op = optimizer.apply_gradients(capped_grads_and_vars)
-    return learning_rate, train_op, global_step
+    return train_op, global_step
 
 
 def evaluation(logits, labels):

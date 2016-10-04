@@ -1,12 +1,11 @@
 import os, sys, numpy as np, tensorflow as tf
 from pathlib import Path
 from termcolor import colored as c, cprint
-import h5py
 
 sys.path.append(str(Path(__file__).resolve().parents[1]))
-import LeNet_plus
+import LeNet_plus_centerloss
 
-__package__ = 'LeNet_plus'
+__package__ = 'LeNet_plus_centerloss'
 from . import network
 
 from tensorflow.examples.tutorials.mnist import input_data
@@ -33,14 +32,14 @@ if __name__ == "__main__":
         # inference()
         input, deep_features = network.inference()
         labels, logits, loss_op = network.loss(deep_features)
-        learning_rate, train, global_step = network.training(loss_op)
+        # train, global_step = network.training(loss_op, 0.1)
         # train, global_step = network.training(loss_op, 0.03)
-        # train, global_step = network.training(loss_op, 0.01)
+        train, global_step = network.training(loss_op, 0.01)
         eval = network.evaluation(logits, labels)
 
         init = tf.initialize_all_variables()
 
-        with tf.Session(config=session_config) as sess, h5py.File('dumps/training.h5', 'a') as h5_file:
+        with tf.Session(config=session_config) as sess:
             # Merge all the summaries and write them out to /tmp/mnist_logs (by default)
             # to see the tensor graph, fire up the tensorboard with --logdir="./train"
             all_summary = tf.merge_all_summaries()
@@ -49,27 +48,26 @@ if __name__ == "__main__":
 
             saver = tf.train.Saver()
 
-            # try:
-            #     saver.restore(sess, SAVE_PATH)
-            #     cprint(c('successfully loaded checkpoint file.', 'green'))
-            # except ValueError:
-            #     cprint(c('checkpoint file not found. Moving on to initializing automatically.', 'red'))
-            #     sess.run(init)
-            sess.run(init)
-
-            step = global_step.eval()
+            try:
+                saver.restore(sess, SAVE_PATH)
+                cprint(c('successfully loaded checkpoint file.', 'green'))
+            except ValueError:
+                cprint(c('checkpoint file not found. Moving on to initializing automatically.', 'red'))
+                sess.run(init)
+            # sess.run(init)
 
             for i in range(20000):
                 batch_xs, batch_labels = mnist.train.next_batch(BATCH_SIZE)
+                accuracy = 0
                 if i % 100 == 0:
-                    summaries, step, logits_outputs, deep_features_outputs, loss_value, accuracy = \
+                    summaries, step, logits_output, loss_value, accuracy = \
                         sess.run(
-                            [all_summary, global_step, logits, deep_features, loss_op, eval], feed_dict={
+                            [all_summary, global_step, logits, loss_op, eval],
+                            feed_dict={
                                 input: mnist.test.images[:5000],
                                 labels: mnist.test.labels[:5000]
                             })
                     test_writer.add_summary(summaries, global_step=step)
-
                     cprint(
                         c("#" + str(i), 'grey') +
                         c(" training accuracy", 'green') + " is " +
@@ -77,33 +75,25 @@ if __name__ == "__main__":
                         c("loss", 'green') + " is " +
                         c(loss_value, 'red')
                     )
-
-                    cprint(c('logits => ', 'yellow') + str(logits_outputs[0]))
-
-                    group = h5_file.create_group('step_{}'.format(str(1000000 + step)[-6:]))
-                    group.create_dataset('deep_features', data=deep_features_outputs)
-                    group.create_dataset('logits', data=logits_outputs)
-                    group.create_dataset('target_labels', data=batch_labels)
+                    print('logits => ', logits_output[0])
 
                 if i % 500 == 0 and (accuracy > 0.6):
                     saver.save(sess, SAVE_PATH)
                     print('=> saved network in checkfile.')
 
-                if step < 5000:
-                    learning_rate_value = 0.1
-                elif step < 10000:
-                    learning_rate_value = 0.033
-                elif step < 15000:
-                    learning_rate_value = 0.01
-                else:
-                    learning_rate_value = 0.0033
-
-                summaries, step, _ = sess.run(
-                    [all_summary, global_step, train],
-                    feed_dict={
-                        learning_rate: learning_rate_value,
-                        input: batch_xs,
-                        labels: batch_labels
-                    })
-
+                summaries, step, _ = sess.run([all_summary, global_step, train], feed_dict={
+                    input: batch_xs,
+                    labels: batch_labels
+                })
                 train_writer.add_summary(summaries, global_step=step)
+
+            # now let's test!
+            TEST_BATCH_SIZE = np.shape(mnist.test.labels)[0]
+            summaries, step, logits_output, loss_value, accuracy = \
+                sess.run(
+                    [all_summary, global_step, logits, loss_op, eval], feed_dict={
+                        input: mnist.test.images[:5000],
+                        labels: mnist.test.labels[:5000]
+                    })
+            test_writer.add_summary(summaries, global_step=step)
+            print("MNIST Test accuracy is ", accuracy)

@@ -4,9 +4,9 @@ from termcolor import colored as c, cprint
 import h5py
 
 sys.path.append(str(Path(__file__).resolve().parents[1]))
-import LeNet_plus
+import LeNet_plus_centerloss
 
-__package__ = 'LeNet_plus'
+__package__ = 'LeNet_plus_centerloss'
 from . import network
 
 from tensorflow.examples.tutorials.mnist import input_data
@@ -20,7 +20,7 @@ SUMMARIES_DIR = SCRIPT_DIR
 SAVE_PATH = SCRIPT_DIR + "/network.ckpt"
 
 ### configure devices for this eval script.
-USE_DEVICE = '/gpu:0'
+USE_DEVICE = '/gpu:1'
 session_config = tf.ConfigProto(log_device_placement=True)
 session_config.gpu_options.allow_growth = True
 # this is required if want to use GPU as device.
@@ -33,9 +33,9 @@ if __name__ == "__main__":
         # inference()
         input, deep_features = network.inference()
         labels, logits, loss_op = network.loss(deep_features)
-        learning_rate, train, global_step = network.training(loss_op)
+        # train, global_step = network.training(loss_op, 0.1)
         # train, global_step = network.training(loss_op, 0.03)
-        # train, global_step = network.training(loss_op, 0.01)
+        train, global_step = network.training(loss_op, 0.01)
         eval = network.evaluation(logits, labels)
 
         init = tf.initialize_all_variables()
@@ -57,10 +57,9 @@ if __name__ == "__main__":
             #     sess.run(init)
             sess.run(init)
 
-            step = global_step.eval()
-
             for i in range(20000):
                 batch_xs, batch_labels = mnist.train.next_batch(BATCH_SIZE)
+                accuracy = 0
                 if i % 100 == 0:
                     summaries, step, logits_outputs, deep_features_outputs, loss_value, accuracy = \
                         sess.run(
@@ -89,19 +88,10 @@ if __name__ == "__main__":
                     saver.save(sess, SAVE_PATH)
                     print('=> saved network in checkfile.')
 
-                if step < 5000:
-                    learning_rate_value = 0.1
-                elif step < 10000:
-                    learning_rate_value = 0.033
-                elif step < 15000:
-                    learning_rate_value = 0.01
-                else:
-                    learning_rate_value = 0.0033
 
                 summaries, step, _ = sess.run(
                     [all_summary, global_step, train],
                     feed_dict={
-                        learning_rate: learning_rate_value,
                         input: batch_xs,
                         labels: batch_labels
                     })
