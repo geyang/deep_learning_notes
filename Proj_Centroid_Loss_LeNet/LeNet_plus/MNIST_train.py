@@ -61,12 +61,14 @@ if __name__ == "__main__":
 
             for i in range(20000):
                 batch_xs, batch_labels = mnist.train.next_batch(BATCH_SIZE)
-                if i % 100 == 0:
+                if i % 50 == 0:
+                    eval_labels = mnist.test.labels[:5000]
+                    eval_images = mnist.test.images[:5000]
                     summaries, step, logits_outputs, deep_features_outputs, loss_value, accuracy = \
                         sess.run(
                             [all_summary, global_step, logits, deep_features, loss_op, eval], feed_dict={
-                                input: mnist.test.images[:5000],
-                                labels: mnist.test.labels[:5000]
+                                input: eval_images,
+                                labels: eval_labels
                             })
                     test_writer.add_summary(summaries, global_step=step)
 
@@ -83,7 +85,7 @@ if __name__ == "__main__":
                     group = h5_file.create_group('step_{}'.format(str(1000000 + step)[-6:]))
                     group.create_dataset('deep_features', data=deep_features_outputs)
                     group.create_dataset('logits', data=logits_outputs)
-                    group.create_dataset('target_labels', data=batch_labels)
+                    group.create_dataset('target_labels', data=eval_labels)
 
                 if i % 500 == 0 and (accuracy > 0.6):
                     saver.save(sess, SAVE_PATH)
