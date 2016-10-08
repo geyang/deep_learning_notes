@@ -1,0 +1,3 @@
+ENV_FOO=something python cli_test.py
+ENV_FOO=something python cli_test.py
+ENV_FOO=something python cli_test.py

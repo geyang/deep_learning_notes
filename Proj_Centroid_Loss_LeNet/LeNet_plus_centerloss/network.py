@@ -116,14 +116,40 @@ def loss(deep_features):
 
     return batch_labels, logits, xentropy_mean
 
+
 def center_loss(deep_features, labels):
     with tf.name_scope('center_loss'):
-        spread =
+        features_expanded = tf.reshape(deep_features, shape=[-1, 2, 1])
+        labels_expanded = tf.reshape(labels, shape=[-1, 1, 10])
 
+        samples_per_label = tf.reduce_sum(
+            labels_expanded,
+            reduction_indices=[0]
+        )
+
+        centroids = \
+            tf.reduce_sum(
+                tf.reshape(deep_features, shape=[-1, 2, 1]) * \
+                labels_expanded,
+                reduction_indices=[0]
+            ) / samples_per_label
+
+        spread = \
+            tf.sqrt(
+                tf.reduce_mean(
+                    tf.square(
+                        features_expanded * labels_expanded - tf.reshape(centroids, shape=[1, 2, 10])
+                    )
+                ),
+                name='centroid_loss'
+            )
+
+        tf.scalar_summary(spread.op.name, spread)
     return spread
 
 
-def training(loss, learning_rate):
+def training(loss):
+    learning_rate = tf.placeholder(tf.float32, name='learning_rate')
     with tf.name_scope('training'):
         global_step = tf.Variable(0, name='global_step', trainable=False)
         optimizer = tf.train.GradientDescentOptimizer(learning_rate)
@@ -133,7 +159,7 @@ def training(loss, learning_rate):
         # grads_and_vars = optimizer.compute_gradients(loss, tf.trainable_variables())
         # capped_grads_and_vars = [(tf.clip_by_value(grads, 1e-10, 1e10), vars) for grads, vars in grads_and_vars]
         # train_op = optimizer.apply_gradients(capped_grads_and_vars)
-    return train_op, global_step
+    return learning_rate, train_op, global_step
 
 
 def evaluation(logits, labels):
