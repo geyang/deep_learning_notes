@@ -1,6 +1,6 @@
-chmod u+x MNIST_train.py
-
-# LAMBDA=0.001 DUMP_FILE=dumps/training_lambda_0.001.h5 ./MNIST_train.py
-# LAMBDA=0.01 DUMP_FILE=dumps/training_lambda_0.01.h5 ./MNIST_train.py
-# LAMBDA=0.1 DUMP_FILE=dumps/training_lambda_0.1.h5 ./MNIST_train.py
-# LAMBDA=0.5 DUMP_FILE=dumps/training_lambda_0.5.h5 ./MNIST_train.py
+# rm nohup.out
+# sleep 1.0
+# echo "nohup log has been removed"
+nohup sh train.sh &
+sleep 5.0
+tail -n 10 -f nohup.out

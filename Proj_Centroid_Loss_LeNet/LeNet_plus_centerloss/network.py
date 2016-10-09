@@ -6,7 +6,7 @@ from tensorflow.examples.tutorials.mnist import input_data
 
 mnist = input_data.read_data_sets("MNIST_data/", one_hot=True)
 
-from . import helpers
+import helpers
 
 ### helper functions
 from functools import reduce
@@ -36,27 +36,27 @@ def inference():
     with tf.name_scope('conv_layer_1'):
         W_conv1 = helpers.weight_variable([5, 5, 1, 32], 'W_conv1')
         b_conv1 = helpers.bias_variable([32], 'bias_conv1')
-        # alphas_conv1 = helpers.bias_variable([32], 'alpha_conv1')
-        layer_conv_1 = tf.nn.relu(helpers.conv2d(image, W_conv1) + b_conv1)
+        alphas_conv1 = helpers.bias_variable([32], 'alpha_conv1')
+        layer_conv_1 = helpers.prelu(helpers.conv2d(image, W_conv1) + b_conv1, alphas_conv1)
 
         W_conv1_b = helpers.weight_variable([5, 5, 32, 32], 'W_conv1_b')
         b_conv1_b = helpers.bias_variable([32], 'bias_conv1_b')
-        # alphas_conv1 = helpers.bias_variable([32], 'alpha_conv1')
+        alphas_conv1_b = helpers.bias_variable([32], 'alpha_conv1_b')
 
-        layer_conv_1_b = tf.nn.relu(helpers.conv2d(layer_conv_1, W_conv1_b) + b_conv1_b)
+        layer_conv_1_b = helpers.prelu(helpers.conv2d(layer_conv_1, W_conv1_b) + b_conv1_b, alphas_conv1_b)
 
         stage_1_pool = helpers.max_pool_2x2(layer_conv_1_b)
 
     with tf.name_scope('conv_layer_2'):
         W_conv2 = helpers.weight_variable([5, 5, 32, 64], "W_conv2")
         b_conv2 = helpers.bias_variable([64], 'bias_conv2')
-        # alphas_conv3 = helpers.bias_variable([64], 'alpha_conv3')
-        layer_conv_2 = tf.nn.relu(helpers.conv2d(stage_1_pool, W_conv2) + b_conv2)
+        alphas_conv2 = helpers.bias_variable([64], 'alpha_conv2')
+        layer_conv_2 = helpers.prelu(helpers.conv2d(stage_1_pool, W_conv2) + b_conv2, alphas_conv2)
 
         W_conv2_b = helpers.weight_variable([5, 5, 64, 64], "W_conv2_b")
         b_conv2_b = helpers.bias_variable([64], 'bias_conv2_b')
-        # # alphas_conv3 = helpers.bias_variable([64], 'alpha_conv3')
-        layer_conv_2_b = tf.nn.relu(helpers.conv2d(layer_conv_2, W_conv2_b) + b_conv2_b)
+        alphas_conv2_b = helpers.bias_variable([64], 'alpha_conv2_b')
+        layer_conv_2_b = helpers.prelu(helpers.conv2d(layer_conv_2, W_conv2_b) + b_conv2_b, alphas_conv2_b)
 
         stage_2_pool = helpers.max_pool_2x2(layer_conv_2_b)
         # stage_2_pool_flat = tf.reshape(stage_2_pool, [-1, 7 * 7 * 64])
@@ -64,16 +64,16 @@ def inference():
     with tf.name_scope('conv_layer_3'):
         W_conv3 = helpers.weight_variable([5, 5, 64, 128], "W_conv3")
         b_conv3 = helpers.bias_variable([128], 'bias_conv3')
-        # alphas_conv3 = helpers.bias_variable([64], 'alpha_conv3')
-        layer_conv_3 = tf.nn.relu(helpers.conv2d(stage_2_pool, W_conv3) + b_conv3)
+        alphas_conv3 = helpers.bias_variable([128], 'alpha_conv3')
+        layer_conv_3 = helpers.prelu(helpers.conv2d(stage_2_pool, W_conv3) + b_conv3, alphas_conv3)
 
         # stage_3_pool = helpers.max_pool_2x2(layer_conv_3)
         # stage_3_pool_flat = tf.reshape(stage_3_pool, [-1, 4 * 4 * 256])
 
         W_conv3_b = helpers.weight_variable([5, 5, 128, 128], "W_conv3_b")
         b_conv3_b = helpers.bias_variable([128], 'bias_conv3_b')
-        alphas_conv3 = helpers.bias_variable([128], 'alpha_conv3')
-        layer_conv_3_b = helpers.prelu(helpers.conv2d(layer_conv_3, W_conv3_b) + b_conv3_b, alphas_conv3)
+        alphas_conv3_b = helpers.bias_variable([128], 'alpha_conv3_b')
+        layer_conv_3_b = helpers.prelu(helpers.conv2d(layer_conv_3, W_conv3_b) + b_conv3_b, alphas_conv3_b)
 
         stage_3_pool = helpers.max_pool_2x2(layer_conv_3_b)
         stage_3_pool_flat = tf.reshape(stage_3_pool, [-1, 4 * 4 * 128])
@@ -135,11 +135,9 @@ def center_loss(deep_features, labels):
             ) / samples_per_label
 
         spread = \
-            tf.sqrt(
-                tf.reduce_mean(
-                    tf.square(
-                        features_expanded * labels_expanded - tf.reshape(centroids, shape=[1, 2, 10])
-                    )
+            tf.reduce_mean(
+                tf.square(
+                    features_expanded * labels_expanded - tf.reshape(centroids, shape=[1, 2, 10])
                 ),
                 name='centroid_loss'
             )
