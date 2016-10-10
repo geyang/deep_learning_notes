@@ -38,7 +38,7 @@ if __name__ == "__main__":
         # inference()
         input, deep_features = network.inference()
         labels, logits, cross_entropy = network.loss(deep_features)
-        centroid_loss = network.center_loss(deep_features, labels)
+        centroid_loss, centroids, spread = network.center_loss(deep_features, labels)
 
         # combine the two losses
         _lambda = tf.placeholder(dtype=tf.float32)
@@ -77,14 +77,17 @@ if __name__ == "__main__":
                 if i % 50 == 0:
                     eval_labels = mnist.test.labels[:5000]
                     eval_images = mnist.test.images[:5000]
-                    summaries, step, logits_outputs, deep_features_outputs, loss_value, accuracy = \
+                    summaries, step, logits_outputs, deep_features_outputs, loss_value, accuracy, centroids_output = \
                         sess.run(
-                            [all_summary, global_step, logits, deep_features, total_loss, eval], feed_dict={
+                            [all_summary, global_step, logits, deep_features, total_loss, eval, centroids],
+                            feed_dict={
                                 _lambda: LAMBDA,
                                 input: eval_images,
                                 labels: eval_labels
                             })
                     test_writer.add_summary(summaries, global_step=step)
+
+                    # cprint('centroid ===========> {}'.format(centroids_output), 'green')
 
                     cprint(
                         c("#" + str(i), 'grey') +
@@ -94,26 +97,30 @@ if __name__ == "__main__":
                         c(loss_value, 'red')
                     )
 
-                    cprint(c('logits => ', 'yellow') + str(logits_outputs[0]))
+                    # cprint(c('logits => ', 'yellow') + str(logits_outputs[0]))
 
+                    # record regardless of accuracy
                     try:
                         group_name = 'step_{}'.format(str(1000000 + step)[-6:])
                         group = h5_file.create_group(group_name)
                     except ValueError:
-                        cprint('group ' + group_name + ' already exists.', 'red')
-                        group = h5_file[group_name]
-
+                        cprint(c('group ' + group_name + ' already exists. ', 'grey') +
+                               c('now delete and recreate', 'red'))
+                        del h5_file[group_name]
+                        group = h5_file.create_group(group_name)
+                        # group = h5_file[group_name]
 
                     try:
                         group.create_dataset('lambda', data=LAMBDA)
                         group.create_dataset('learning_rate', data=learning_rate_value)
                         group.create_dataset('deep_features', data=deep_features_outputs)
+                        group.create_dataset('centroid', data=centroids_output)
                         group.create_dataset('logits', data=logits_outputs)
                         group.create_dataset('target_labels', data=eval_labels)
                     except RuntimeError:
                         print('dataset also exists')
 
-                if i % 500 == 0 and (accuracy > 0.6):
+                if i % 500 == 0 and accuracy > 0.6:
                     saver.save(sess, SAVE_PATH)
                     print('=> saved network in checkfile.')
 

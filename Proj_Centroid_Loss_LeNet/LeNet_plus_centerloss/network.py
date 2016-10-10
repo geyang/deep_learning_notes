@@ -126,7 +126,6 @@ def center_loss(deep_features, labels):
             labels_expanded,
             reduction_indices=[0]
         )
-
         centroids = \
             tf.reduce_sum(
                 tf.reshape(deep_features, shape=[-1, 2, 1]) * \
@@ -134,16 +133,20 @@ def center_loss(deep_features, labels):
                 reduction_indices=[0]
             ) / samples_per_label
 
+        centroids_expanded = tf.reshape(centroids, shape=[1, 2, 10]) * labels_expanded
+
         spread = \
             tf.reduce_mean(
-                tf.square(
-                    features_expanded * labels_expanded - tf.reshape(centroids, shape=[1, 2, 10])
-                ),
-                name='centroid_loss'
-            )
+                tf.reduce_sum(
+                    tf.square(
+                        features_expanded * labels_expanded - centroids_expanded
+                    ),
+                    reduction_indices=[1, 2]
+                )
+            ) / 2.0
 
         tf.scalar_summary(spread.op.name, spread)
-    return spread
+    return spread, centroids, spread
 
 
 def training(loss):
