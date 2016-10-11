@@ -37,15 +37,15 @@ def get_summary(energy):
 
 
 def static(xy):
-    return (4 * 0.0733e6 ** 2) * tf.reduce_sum(
+    return (4 * 0.0733e12) * tf.reduce_sum(
         tf.square(xy),
         reduction_indices=[0]
     )
 
 
 config = tf.ConfigProto(allow_soft_placement=True)
-with tf.Session(config=config) as sess, tf.device('/gpu:0'):
-    xys = get_locations(100)
+with tf.Session(config=config) as sess, tf.device('/cpu:0'):
+    xys = get_locations(21)
     interactive_energy = energies.total(xys, static)
 
     step_size = tf.placeholder(dtype=tf.float32)
@@ -62,7 +62,7 @@ with tf.Session(config=config) as sess, tf.device('/gpu:0'):
 
         if i % 100 == 0:
             current_xys, interactive_energy_result = sess.run([xys, interactive_energy])
-            cprint(c('interactive_energy_result ', 'grey') + c(interactive_energy_result, 'green') + ' eV')
+            cprint(c('#{} '.format(i), 'red') + c('interactive_energy_result ', 'grey') + c(interactive_energy_result, 'green') + ' eV')
 
-            with open('dumps/xys_{}.dump.pkl'.format(str(1000000 + i)[-6:]), 'wb') as f:
-                pickle.dump(current_xys, f)
+            # with open('dumps/xys_{}.dump.pkl'.format(str(1000000 + i)[-6:]), 'wb') as f:
+            #     pickle.dump(current_xys, f)
