@@ -1,6 +1,6 @@
 import tensorflow as tf
 import numpy as np
-import Proj_Molecular_Simulation.ops as ops
+import ops
 
 electron_xys = tf.constant([
     [0, 0],

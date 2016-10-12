@@ -2,9 +2,11 @@ import tensorflow as tf
 from termcolor import colored as c, cprint
 import pickle
 import numpy as np
-import Proj_Molecular_Simulation.energies as energies
+import energies as energies
 
 import matplotlib
+
+import time
 
 # Force matplotlib to not use any Xwindows backend.
 # Has to be done *before* importing pyplot.
@@ -58,11 +60,15 @@ with tf.Session(config=config) as sess, tf.device('/cpu:0'):
 
     total_steps = 70000
     for i in range(total_steps + 1):
-        sess.run(train_op, feed_dict={step_size: 1e-1 * np.min([12.5 * i, 700, 0.01 * (total_steps - i)]) / total_steps})
+        tick = time.clock()
+        sess.run(train_op,
+                 feed_dict={step_size: 1e-1 * np.min([12.5 * i, 700, 0.01 * (total_steps - i)]) / total_steps})
 
         if i % 100 == 0:
+            lapsed = (time.clock() - tick) / 100.
             current_xys, interactive_energy_result = sess.run([xys, interactive_energy])
-            cprint(c('#{} '.format(i), 'red') + c('interactive_energy_result ', 'grey') + c(interactive_energy_result, 'green') + ' eV')
+            cprint(c('{}sec '.format(str(lapsed)[:7]), 'yellow') + c('#{} '.format(i), 'red') + c('interactive_energy_result ', 'grey') + c(
+                interactive_energy_result, 'green') + ' eV')
 
             # with open('dumps/xys_{}.dump.pkl'.format(str(1000000 + i)[-6:]), 'wb') as f:
             #     pickle.dump(current_xys, f)

@@ -1,6 +1,6 @@
 import tensorflow as tf
-import Proj_Molecular_Simulation.ops as ops
-import Proj_Molecular_Simulation.constants as constants
+import ops
+import constants
 
 INTERACTIVE_CONSTANT = 1.6e-19
 

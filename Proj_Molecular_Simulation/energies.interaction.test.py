@@ -1,7 +1,7 @@
 import tensorflow as tf
 import numpy as np
 from termcolor import colored as c, cprint
-import Proj_Molecular_Simulation.energies as energies
+import energies
 
 electron_xys = tf.constant([
     [0, 0],
@@ -12,7 +12,7 @@ electron_xys = tf.constant([
 target_result = 1.44e-9 * 2.5  # eV/m
 
 with tf.Session() as sess:
-    interaction_energy = energies.total(electron_xys)
+    interaction_energy = energies.total(electron_xys, lambda xy: 0.0)
     result = sess.run(interaction_energy)
 
     cprint(c(result, 'red'))
