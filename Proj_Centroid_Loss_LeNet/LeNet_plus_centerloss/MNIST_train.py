@@ -87,8 +87,6 @@ if __name__ == "__main__":
                             })
                     test_writer.add_summary(summaries, global_step=step)
 
-                    # cprint('centroid ===========> {}'.format(centroids_output), 'green')
-
                     cprint(
                         c("#" + str(i), 'grey') +
                         c(" training accuracy", 'green') + " is " +
@@ -96,8 +94,6 @@ if __name__ == "__main__":
                         c("loss", 'green') + " is " +
                         c(loss_value, 'red')
                     )
-
-                    # cprint(c('logits => ', 'yellow') + str(logits_outputs[0]))
 
                     # record regardless of accuracy
                     try:
@@ -115,6 +111,7 @@ if __name__ == "__main__":
                         group.create_dataset('learning_rate', data=learning_rate_value)
                         group.create_dataset('deep_features', data=deep_features_outputs)
                         group.create_dataset('centroid', data=centroids_output)
+                        group.create_dataset('accuracy', data=accuracy)
                         group.create_dataset('logits', data=logits_outputs)
                         group.create_dataset('target_labels', data=eval_labels)
                     except RuntimeError:
@@ -123,15 +120,6 @@ if __name__ == "__main__":
                 if i % 500 == 0 and accuracy > 0.6:
                     saver.save(sess, SAVE_PATH)
                     print('=> saved network in checkfile.')
-
-                # if step < 5000:
-                #     learning_rate_value = 0.1
-                # elif step < 10000:
-                #     learning_rate_value = 0.033
-                # elif step < 15000:
-                #     learning_rate_value = 0.01
-                # else:
-                #     learning_rate_value = 0.0033
 
                 summaries, step, _ = sess.run(
                     [all_summary, global_step, train],

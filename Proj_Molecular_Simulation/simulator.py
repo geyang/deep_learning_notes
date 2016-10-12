@@ -46,7 +46,7 @@ def static(xy):
 
 
 config = tf.ConfigProto(allow_soft_placement=True)
-with tf.Session(config=config) as sess, tf.device('/cpu:0'):
+with tf.Session(config=config) as sess, tf.device('/gpu:0'):
     xys = get_locations(21)
     interactive_energy = energies.total(xys, static)
 

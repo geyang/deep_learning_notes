@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import numpy as np, tensorflow as tf
 from glob import glob
 from analysis import plot_deep_features, plot, smooth_ranges_2d, text
@@ -62,7 +64,7 @@ def make_frames(filepath, frame_prefix, title):
                     xlim=xrange,
                     ylim=yrange
                 )
-                print(list(step_entry.keys()))
+
                 centroid = step_entry['centroid']
                 plt.scatter(centroid[0], centroid[1], c='black')
 
@@ -72,10 +74,12 @@ def make_frames(filepath, frame_prefix, title):
 
 
                 logits = np.array(step_entry['logits'])
-                target_labels = np.array(step_entry['logits'])
+                target_labels = np.array(step_entry['target_labels'])
                 sample_number = np.shape(target_labels)[0]
-                accuracy = np.sum(np.equal(np.argmax(logits, axis=1), np.argmax(target_labels, axis=1))) / sample_number
-
+                accuracy = np.sum(
+                    np.equal(np.argmax(logits, axis=1), np.argmax(target_labels, axis=1)
+                             )
+                ) / sample_number
 
                 text('lambda: {}\nlearning rate: {}\naccuracy: {}'.format(str(_lambda), str(learning_rate),
                                                                           str(accuracy)), (0.95, 0.05), xrange,
