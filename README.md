@@ -2,7 +2,7 @@
 
 ## from the Author
 
-These are the notes that I left working through Nielson's [neural Net and Deep Learning book](https://neuralnetworksanddeeplearning.com). You can find a table of contents of this repo below.
+These are the notes that I left working through Nielsen's [neural Net and Deep Learning book](https://neuralnetworksanddeeplearning.com). You can find a table of contents of this repo below.
 
 ## Table of Contents
 ### Chapter 1: Intro to Deep Learning
