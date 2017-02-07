@@ -97,32 +97,35 @@ the help of tensorflow.
 [![network trained to emulate function](trained%20neural%20net%20emulate%20a%20step%20function.png)](004%20-%20optimize%20batch%20training.ipynb)
 
 
-## Todos (9/9/2016):
+## Todos (02/07/2017):
 
-- [ ] MNIST Perceptron logging and visualization with tensorboard
-[tensorboard doc](https://www.tensorflow.org/versions/r0.10/resources/faq.html#frequently-asked-questions) [2.0]
-- [ ] LeNet training [ConvNet doc](https://www.tensorflow.org/versions/r0.10/tutorials/deep_cnn/index.html) [1.0]
-- [ ] LeNet++ training [1.0]
+- [ ] LSTM
+- [ ] Attention Networks
+- [ ] Image Captioning
 - [ ] Adversarial Hardened LeNet++ [1.0]
 - [ ] Adversarial Test of Hardened LeNet++ [1.0]
 - [ ] L2 Regularization with Logistic Regression [1.0]
 
-### More Deep Neural Net Learnings
-- [ ] Feedforward Neural Network (Multilayer Perceptron)
-- [ ] Deep Feedforward Neural Network (Multilayer Perceptron with 2 Hidden Layers O.o)
-- [ ] Convolutional Neural Network
+### Bucket List and Things Ran-into During Readings (not in order)
 - [ ] Denoising Autoencoder
-- [ ] Recurrent Neural Network (LSTM)
 - [ ] Word2vec
-- [ ] TensorBoard
-- [ ] Save and restore net
 
 ### Done:
 
 - [x] work on optimize batch training. (numpy neural net)
 - [x] add summary MNIST example with Tensorflow
+- [x] Convolutional Neural Network
 - [x] multi-GPU setup [tensorflow doc](https://www.tensorflow.org/versions/r0.10/how_tos/using_gpu/index.html) [0.5 - 1.0]
 - [x] CFAR Example [4.0]
+- [x] Save and restore net
+- [x] MNIST Perceptron logging and visualization with tensorboard
+- [x] Feedforward Neural Network (Multilayer Perceptron)
+[tensorboard doc](https://www.tensorflow.org/versions/r0.10/resources/faq.html#frequently-asked-questions) [2.0]
+- [x] TensorBoard
+- [x] LeNet training [ConvNet doc](https://www.tensorflow.org/versions/r0.10/tutorials/deep_cnn/index.html) [1.0]
+- [x] LeNet++ training [1.0]
+- [x] Deep Feedforward Neural Network (Multilayer Perceptron with 2 Hidden Layers O.o)
+- [x] Vanilla Recurrent Neural Network
 
 ## More Useful Links:
 - Useful examples: [@Aymericdamien's TensorFlow-Example](https://github.com/aymericdamien/TensorFlow-Examples)
