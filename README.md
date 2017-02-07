@@ -83,7 +83,9 @@ This is my attempt at reproducing the work from Yandong Wei's paper (link see [p
 This makes very nice visualizations. Curious about how this embedding evolves during training, 
 I made a few movies. You can find them inside the [project folder](Proj_Centroid_Loss_LeNet/LeNet_plus_centerloss/figures/animation).
 
+<p align="center">
 ![network learning](Proj_Centroid_Loss_LeNet/LeNet_plus_centerloss/figures/animation/MNIST_LeNet_centroid_loss_lambda_0.001.gif)
+</p>
 
 ### MNIST ConvNet with TensorFlow
 
