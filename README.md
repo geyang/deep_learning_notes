@@ -40,7 +40,7 @@ extremely informative.
 
 ### Project: LeNet with Novel Loss Function 
 
-- [LeNet++ with center loss loss function]()
+- [LeNet++ with center loss loss function](Proj_Centroid_Loss_LeNet)
 
 ## Fun Highlights (Reverse Chronological Order)
 
@@ -80,6 +80,10 @@ This is my attempt at reproducing the work from Yandong Wei's paper (link see [p
     <img width="348.8px" height="280.4px" src="Proj_Centroid_Loss_LeNet/LeNet_plus/figures/MNIST%20LeNet++%20with%202%20Deep%20Features%20(PReLU).png"/>
 </p>
 
+This makes very nice visualizations. Curious about how this embedding evolves during training, 
+I made a few movies. You can find them inside the [project folder](Proj_Centroid_Loss_LeNet/LeNet_plus_centerloss/figures/animation).
+
+![network learning](Proj_Centroid_Loss_LeNet/LeNet_plus_centerloss/figures/animation/MNIST_LeNet_centroid_loss_lambda_0.001.gif)
 
 ### MNIST ConvNet with TensorFlow
 
