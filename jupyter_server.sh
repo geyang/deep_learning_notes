@@ -1,1 +1,2 @@
-jupyter notebook --ip=* --port=9000 --no-browser
+#!/usr/bin/env bash
+jupyter notebook --ip=* --port=5021 --no-browser
