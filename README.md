@@ -34,9 +34,13 @@ extremely informative.
 - [Implementing Optimization Algorithms and Hyper Parameter Search](Ch4_Simple_Recurrent_Networks/001_Optimization_Algorithms_and_Hyper-parameter_Search/Optimization_Algorithms_Variations_Hyper-paramter_Search.ipynb)
 - [Vanilla Recurrent Neural Networks](Ch4_Simple_Recurrent_Networks/002_vanila_RNN_with_edf/vanilla_RNN.ipynb)
 
-### Project 1: Doing Particle Simulation with Tensorflow
+### Project: Doing Particle Simulation with Tensorflow
 
-- [Annealing A 2-Dimensional Electron Ensemble with Tensorflow]()
+- [Annealing A 2-Dimensional Electron Ensemble with Tensorflow](Proj_Molecular_Simulation/README.md)
+
+### Project: LeNet with Novel Loss Function 
+
+- [LeNet++ with center loss loss function]()
 
 ## Fun Highlights (Reverse Chronological Order)
 
