@@ -27,10 +27,11 @@ by hand, but `Tensorflow` feels a bit too opaque. The `edf` framework by TTIC is
 `Tensorflow`, and it provides auto-differentiation via `component.backward()` method. So I 
 decided to go with it. 
 
-I also implemented variations of SGD methods by hand. It was extremely informative.
+I also implemented RMSProp and Adam by hand, and tried hyper-parameter search. It was 
+extremely informative.
 
 - [Multi-Layer Perceptron Intro to `edf` framework](Ch4_Simple_Recurrent_Networks/000_Multi-layer_Perceptron_intro_to_edf_framework/Simple_Multi-layer_Perceptron_MNIST_Example.ipynb)
-- [Implementing Optimization Algorithms and Variations of SGD](Ch4_Simple_Recurrent_Networks/001_Optimization_Algorithms_and_Variations_of_SGD/Optimization_Algorithms_Variations_of_SGD.ipynb)
+- [Implementing Optimization Algorithms and Hyper Parameter Search](Ch4_Simple_Recurrent_Networks/001_Optimization_Algorithms_and_Hyper-parameter_Search/Optimization_Algorithms_Variations_Hyper-paramter_Search.ipynb)
 - [Vanilla Recurrent Neural Networks](Ch4_Simple_Recurrent_Networks/002_vanila_RNN_with_edf/vanilla_RNN.ipynb)
 
 ### Project 1: Doing Particle Simulation with Tensorflow
