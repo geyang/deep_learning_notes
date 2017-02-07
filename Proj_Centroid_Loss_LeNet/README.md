@@ -15,7 +15,7 @@ results with a LeNet implemented in Tensorflow.
 visualization, and can be seen in this figure bellow. Each color corresponds to a different 
 class label. 
 
-<img width="300" height="200" alt="2 D Deep Features" src="LeNet_plus_centerloss/figures/MNIST%20LeNet%2B%2B%20with%202%20Deep%20Features%20(PReLU).png"/>
+<img width="400" height="322" alt="2 D Deep Features" src="LeNet_plus_centerloss/figures/MNIST%20LeNet%2B%2B%20with%202%20Deep%20Features%20(PReLU).png"/>
 
 - **Usage of PReLU** The paper uses PReLU activation function. At the time I used Xavier initialization,
 but He initialization would be more appropriate.
