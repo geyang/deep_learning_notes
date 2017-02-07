@@ -2,13 +2,28 @@
 
 @episodeyang 2016.
 
-This is a tensorflow implementation of the LeNet++ without the centroid
-loss from Yandong Wen's paper 
+This is a Tensorflow implementation Yandong Wen's paper with a novel contrastive loss function
 [link](http://ydwen.github.io/papers/WenECCV16.pdf).
 
-## Highlights
+In this paper, Wen *et.al.* attempt to achieve stronger inter-class differentiation by using a 
+novel loss function that penalizes intra-class spread. Here I attempt to replicate some of the 
+results with a LeNet implemented in Tensorflow.
 
-![2 D Deep Features](figures/MNIST%20LeNet++%20with%202%20Deep%20Features%20(PReLU).png)
+## Learnings
+
+- **2D feature embedding** The paper uses a very nice 2-D embedding for the feature layer. This makes an interesting 
+visualization, and can be seen in this figure bellow. Each color corresponds to a different 
+class label. 
+
+<img width="300" height="200" alt="2 D Deep Features" src="LeNet_plus_centerloss/figures/MNIST%20LeNet%2B%2B%20with%202%20Deep%20Features%20(PReLU).png"/>
+
+- **Usage of PReLU** The paper uses PReLU activation function. At the time I used Xavier initialization,
+but He initialization would be more appropriate.
+
+- **Evolution of embedding** Curious about the evolution of the network, I made a few videos showing
+how the embedding evolves during training. You can find a few here [here](LeNet_plus_centerloss/figures/animation/)
+
+![network learning](LeNet_plus_centerloss/figures/animation/MNIST_LeNet_centroid_loss_lambda_0.001.gif)
 
 ## Usage
 
