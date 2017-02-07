@@ -8,7 +8,9 @@ loss from Yandong Wen's paper
 
 ## Highlights
 
+<p align="center">
 ![2 D Deep Features](figures/MNIST%20LeNet++%20with%202%20Deep%20Features%20(PReLU).png)
+</p>
 
 ## Usage
 

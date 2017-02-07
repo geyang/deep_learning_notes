@@ -23,7 +23,9 @@ but He initialization would be more appropriate.
 - **Evolution of embedding** Curious about the evolution of the network, I made a few videos showing
 how the embedding evolves during training. You can find a few here [here](LeNet_plus_centerloss/figures/animation/)
 
-![network learning](LeNet_plus_centerloss/figures/animation/MNIST_LeNet_centroid_loss_lambda_0.001.gif)
+<p align="center">
+    ![network learning](LeNet_plus_centerloss/figures/animation/MNIST_LeNet_centroid_loss_lambda_0.001.gif)
+</p>
 
 ## Usage
 
