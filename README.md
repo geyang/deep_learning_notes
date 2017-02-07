@@ -21,6 +21,18 @@ These are the notes that I left working through Nielson's [neural Net and Deep L
 - [MNIST Logistic Regression with L2 Regularization](Ch3%20Advanced%20Tensorflow/2%20-%20MNIST%20Logistic%20Regression%20L2%20Regularization.py)
 - [MNIST 1 Hidden Layer with Perceptron](Ch3%20Advanced%20Tensorflow/3%20-%20MNIST%201%20Hidden%20Layer%20Perceptron.py)
 
+### Chapter 4: Recurrent Networks.
+Here I implemented a vanilla RNN from scratch. I didn't want to write the partial derivatives
+by hand, but `Tensorflow` feels a bit too opaque. The `edf` framework by TTIC is a poor-man's 
+`Tensorflow`, and it provides auto-differentiation via `component.backward()` method. So I 
+decided to go with it. 
+
+I also implemented variations of SGD methods by hand. It was extremely informative.
+
+- [Multi-Layer Perceptron Intro to `edf` framework](Ch4_Simple_Recurrent_Networks/000_Multi-layer_Perceptron_intro_to_edf_framework/Simple_Multi-layer_Perceptron_MNIST_Example.ipynb)
+- [Implementing Optimization Algorithms and Variations of SGD](Ch4_Simple_Recurrent_Networks/001_Optimization_Algorithms_and_Variations_of_SGD/Optimization_Algorithms_Variations_of_SGD.ipynb)
+- [Vanilla Recurrent Neural Networks](Ch4_Simple_Recurrent_Networks/002_vanila_RNN_with_edf/vanilla_RNN.ipynb)
+
 ### Project 1: Doing Particle Simulation with Tensorflow
 
 - [Annealing A 2-Dimensional Electron Ensemble with Tensorflow]()
