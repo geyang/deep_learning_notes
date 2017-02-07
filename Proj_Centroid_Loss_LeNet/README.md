@@ -27,19 +27,14 @@ how the embedding evolves during training. You can find a few here [here](LeNet_
 
 ## Usage
 
-### To Train
-
-run
+To **train** run:
 ```shell
-python3 MNIST_train.py
+python3 ./LeNet_plus_centerloss/MNIST_train.py
 ```
 
-
-### To Evaluate
-
-run
+To **evaluate** run:
 ```shell
-python3 MNIST_eval.py
+python3 ./LeNet_plus_centerloss/MNIST_eval.py
 ```
 
 ### Prerequisite
