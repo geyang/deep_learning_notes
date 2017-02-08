@@ -69,7 +69,7 @@ def bcast(x, y):
     return xred, yred
 
 
-################################################### Actual components #####################################################
+#### Actual components
 
 
 class Add:  # Add with broadcasting
@@ -106,7 +106,7 @@ class Add:  # Add with broadcasting
 class Mul:  # Multiply with broadcasting
     """
     Class Name: Mul
-    Class Usage: elementwise multiplication with two matrix 
+    Class Usage: elementwise multiplication with two matrix
     Class Functions:
         forward: compute the result x*y
         backward: compute the derivative w.r.t x and y
@@ -155,10 +155,20 @@ class VDot:  # Matrix multiply (fully-connected layer)
 
     def backward(self):
         if self.x.grad is not None:
-            self.x.grad = self.x.grad + np.matmul(self.y.value, self.grad.T).T
+            if len(self.y.value.shape) == 1:
+                nabla = np.matmul(self.y.value.reshape(list(self.y.value.shape) + [1]), self.grad.T).T
+            else:
+                nabla = np.matmul(self.y.value, self.grad.T).T
+
+            self.x.grad = self.x.grad + nabla
+
         if self.y.grad is not None:
-            nabla = np.matmul(self.x.value.T.reshape(list(self.x.value.shape) + [1]),
-                              self.grad.reshape([1] + list(self.grad.shape)))
+            if len(self.x.value.shape) == 1:
+                nabla = np.matmul(self.x.value.T.reshape(list(self.x.value.shape) + [1]),
+                                  self.grad.reshape([1] + list(self.grad.shape)))
+            else:
+                nabla = np.matmul(self.x.value.T, self.grad)
+
             self.y.grad = self.y.grad + nabla
 
 
@@ -366,11 +376,13 @@ class Mean:
         if self.x.grad is not None:
             self.x.grad = self.x.grad + self.grad * np.ones_like(self.x.value) / self.x.value.shape[0]
 
+
 class Sum:
     """
     Class Name: Sum
     Class Usage: compute the sum of a matrix.
     """
+
     def __init__(self, x):
         components.append(self)
         self.x = x
