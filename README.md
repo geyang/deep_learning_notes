@@ -109,8 +109,11 @@ the help of tensorflow.
 
 ## Todos (02/07/2017):
 
-- [ ] LSTM
-- [ ] Attention Networks
+- [ ] LSTM with `edf`
+- [ ] LSTM with 
+- [ ] Proj NLP: syntax highlighter for natural language
+- [ ] Restricted Boltzman Machine, and how it is used in deep belief to initialize auto-encoders [Hinton, 2006]
+- [ ] Attention Networks [Augmented RNN](http://distill.pub/2016/augmented-rnns/)
 - [ ] Image Captioning
 - [ ] Adversarial Hardened LeNet++ [1.0]
 - [ ] Adversarial Test of Hardened LeNet++ [1.0]
