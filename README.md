@@ -113,7 +113,7 @@ the help of tensorflow.
 
 - [ ] Wormhole RNN [[pdf]](Proj_Paper_Readings/1701.08718.wormhole_RNN.pdf)
 - [ ] Experiment with PyTorch
-- [x] LSTM with `edf`
+- [ ] Proj RNN: Teach RNN how to do math
 - [ ] Proj NLP: syntax highlighter for natural language
 - [ ] Restricted Boltzman Machine, and how it is used in deep belief to initialize auto-encoders [Hinton, 2006]
 - [ ] binary weight networks `XNOR net`
@@ -143,6 +143,9 @@ the help of tensorflow.
 - [x] LeNet++ training [1.0]
 - [x] Deep Feedforward Neural Network (Multilayer Perceptron with 2 Hidden Layers O.o)
 - [x] Vanilla Recurrent Neural Network
+- [x] regularization and batch normalization
+- [x] LSTM with `edf`
+- [x] GRU with `edf`
 
 ## More Useful Links:
 - Useful examples: [@Aymericdamien's TensorFlow-Example](https://github.com/aymericdamien/TensorFlow-Examples)
