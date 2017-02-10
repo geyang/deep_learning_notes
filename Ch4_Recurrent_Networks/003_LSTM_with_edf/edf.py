@@ -92,14 +92,15 @@ class Add:  # Add with broadcasting
 
     def backward(self):
         xred, yred = bcast(self.x.value, self.y.value)
+
         if self.x.grad is not None:
             self.x.grad = self.x.grad + np.reshape(
-                np.sum(self.grad, axis=xred, keepdims=True),
+                np.sum(self.grad, axis=xred, keepdims=True) * np.ones(self.x.value.shape),
                 self.x.value.shape)
 
         if self.y.grad is not None:
             self.y.grad = self.y.grad + np.reshape(
-                np.sum(self.grad, axis=yred, keepdims=True),
+                np.sum(self.grad, axis=yred, keepdims=True) * np.ones(self.y.value.shape),
                 self.y.value.shape)
 
 
@@ -528,7 +529,6 @@ def RMSProp(lr, g=0.9, ep=1e-8):
 
 
 def Adam(alpha=0.001, b1=0.9, b2=0.999, ep=1e-8):
-
     b1 = DT(b1)
     b2 = DT(b2)
     ep = DT(ep)

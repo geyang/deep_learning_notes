@@ -30,10 +30,11 @@ decided to go with it.
 I also implemented RMSProp and Adam by hand, and tried hyper-parameter search. It was 
 extremely informative.
 
-- [Multi-Layer Perceptron Intro to `edf` framework](Ch4_Simple_Recurrent_Networks/000_Multi-layer_Perceptron_intro_to_edf_framework/Simple_Multi-layer_Perceptron_MNIST_Example.ipynb)
-- [Implementing Optimization Algorithms and Hyper Parameter Search](Ch4_Simple_Recurrent_Networks/001_Optimization_Algorithms_and_Hyper-parameter_Search/Optimization_Algorithms_Variations_Hyper-paramter_Search.ipynb)
-- [Vanilla Recurrent Neural Networks](Ch4_Simple_Recurrent_Networks/002_vanila_RNN_with_edf/vanilla_RNN.ipynb)
-- [Long Short Term Memory (LSTM)](Ch4_Simple_Recurrent_Networks/003_LSTM_with_edf/LSTM_Long_Short_Term_Memory_with_edf.ipynb)
+- [Multi-Layer Perceptron Intro to `edf` framework](Ch4_Recurrent_Networks/000_Multi-layer_Perceptron_intro_to_edf_framework/Simple_Multi-layer_Perceptron_MNIST_Example.ipynb)
+- [Implementing Optimization Algorithms and Hyper Parameter Search](Ch4_Recurrent_Networks/001_Optimization_Algorithms_and_Hyper-parameter_Search/Optimization_Algorithms_Variations_Hyper-paramter_Search.ipynb)
+- [Vanilla Recurrent Neural Networks](Ch4_Recurrent_Networks/002_vanila_RNN_with_edf/vanilla_RNN.ipynb)
+- [Long Short Term Memory (LSTM)](Ch4_Recurrent_Networks/003_LSTM_with_edf/LSTM_Long_Short_Term_Memory_with_edf.ipynb)
+- [Gated Recurrent Unit (GRU)](Ch4_Recurrent_Networks/003_LSTM_with_edf/GRU_Gated_Recurrent_Unit_with_edf.ipynb)
 
 ### Project: Doing Particle Simulation with Tensorflow
 
@@ -110,12 +111,13 @@ the help of tensorflow.
 
 ## Todos (02/07/2017):
 
-- [ ] LSTM with `edf`
-- [ ] LSTM with 
+- [ ] Wormhole RNN [[pdf]](Proj_Paper_Readings/1701.08718.wormhole_RNN.pdf)
+- [ ] Experiment with PyTorch
+- [x] LSTM with `edf`
 - [ ] Proj NLP: syntax highlighter for natural language
 - [ ] Restricted Boltzman Machine, and how it is used in deep belief to initialize auto-encoders [Hinton, 2006]
 - [ ] binary weight networks `XNOR net`
-- [ ] Attention Networks [Augmented RNN](http://distill.pub/2016/augmented-rnns/)
+- [ ] Attention Networks: [link: Augmented RNN](http://distill.pub/2016/augmented-rnns/)
 - [ ] Image Captioning
 - [ ] Adversarial Hardened LeNet++ [1.0]
 - [ ] Adversarial Test of Hardened LeNet++ [1.0]
