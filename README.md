@@ -1,5 +1,13 @@
 # Notes on Deep Learning
 
+## New Repo of Deep Learning Papers! :star2: :boom:
+
+I moved my collection of deep learning and machine learning papers from DropBox to 
+this git repository! First blog post being planned is on "Boltzmann Machines, Statistical Mechanics
+and Maximum Likelihood Estimation". 
+
+**LINK**: [GitHub/episodeyang/deep_learning_papers_TLDR](https://github.com/episodeyang/deep_learning_papers_TLDR)
+
 ## from the Author
 
 These are the notes that I left working through Nielsen's [neural Net and Deep Learning book](https://neuralnetworksanddeeplearning.com). You can find a table of contents of this repo below.
