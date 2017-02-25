@@ -1,9 +1,9 @@
-# Notes on Deep Learning
+# Notes on Deep Learning [![](https://img.shields.io/badge/link_on-GitHub-brightgreen.svg?style=flat-square)](https://github.com/episodeyang/deep_learning_notes)
 
 ## New Repo of Deep Learning Papers! :star2: :boom:
 
 I moved my collection of deep learning and machine learning papers from DropBox to 
-this git repository! First blog post being planned is on "Boltzmann Machines, Statistical Mechanics
+this git repository! First blog post being planned is on "Boltzmann Machines, Statistical Mechanicsgit
 and Maximum Likelihood Estimation". 
 
 **LINK**: [GitHub/episodeyang/deep_learning_papers_TLDR](https://github.com/episodeyang/deep_learning_papers_TLDR)
