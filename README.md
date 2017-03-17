@@ -114,7 +114,7 @@ This one below shows how a simple network can be trained
 to emulate a given target function. Implemented with numpy without 
 the help of tensorflow.
 
-[![network trained to emulate function](trained%20neural%20net%20emulate%20a%20step%20function.png)](004%20-%20optimize%20batch%20training.ipynb)
+[![network trained to emulate function](Ch1 Intro to Deep Learning/trained neural net emulate a step function.png)](004%20-%20optimize%20batch%20training.ipynb)
 
 
 ## Todos (02/07/2017):
