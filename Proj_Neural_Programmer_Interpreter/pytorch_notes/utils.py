@@ -26,7 +26,7 @@ def backward_tracer(self, input, output):
     cprint(c("--> " + self.__class__.__name__, 'red') + " ===backward==> ")
 
 
-CHARS = ' ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz01234567890.,;:?"\'\n\r\t~!@#$%^&*()-=_+<>{}[]|\\`~\u00a0'
+CHARS = "\x00 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz01234567890.,;:?\"'\n\r\t~!@#$%^&*()-=_+<>{}[]|\\`~\xa0"
 CHAR_DICT = {ch: i for i, ch in enumerate(CHARS)}
 
 
