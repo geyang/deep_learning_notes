@@ -1,19 +1,21 @@
-import unicodedata
 import re
-from log import log
+
+import language
+from utils import ledger
 
 
 def normalize_strings(s):
     s = s.lower().strip()
     # http://stackoverflow.com/a/518232/2809427
-    s = ''.join(c for c in unicodedata.normalize('NFD', s) if unicodedata.category(c) != 'Mn')
-    s = re.sub(r"([.!?])", r" \1", s)
-    s = re.sub(r"[^a-zA-Z.!?]+", r" ", s)
+    # disable below since it can be learned.
+    # s = ''.join(c for c in unicodedata.normalize('NFD', s) if unicodedata.category(c) != 'Mn')
+    s = re.sub(r"([.!?;:@])", r" \1", s)
+    # s = re.sub(r"[^a-zA-Z.!?]+", r" ", s)
     return s
 
 
 def read_language(l1, l2, normalize_fn=None):
-    log('Reading Lines... ')
+    ledger.info('Reading Lines... ')
     with open('./data/{}-{}.txt'.format(l1, l2)) as f:
         lines = f.read().strip().split('\n')
         for l in lines:
@@ -23,18 +25,22 @@ def read_language(l1, l2, normalize_fn=None):
                 yield [normalize_fn(s) for s in l.split('\t')]
 
 
-def trim_by_length(length):
+def trim_by_length(length, token_sep=' '):
     def trim(p):
-        if len(p[0].split(' ')) > length or len(p[1].split(' ')) > length:
-            return False
-        else:
+        if length <= 0:
             return True
+        elif len(p[0].split(token_sep)) > length or len(p[1].split(token_sep)) > length:
+            return False
+        return True
 
     return trim
 
 
 def sentence_to_indexes(lang, sentence):
-    return [lang.word2index[w] for w in sentence.split(' ')]
+    if lang.name in language.CJK_LANGUAGES:
+        # ledger.warn('is CJK language!', lang.name)
+        return [lang.word2index[w] for w in language.tokenize(sentence, is_cjk=True)]
+    return [lang.word2index[w] for w in language.tokenize(sentence)]
 
 
 import math
@@ -48,6 +54,7 @@ def get_batch(pairs, batch_size):
         sent_2 = []
         # for batch_size 1 no padding is needed
         if batch_size == 1:
+            p = pairs[i]
             sent_1.append(p[0])
             sent_2.append(p[1])
             yield sent_1, sent_2
@@ -65,16 +72,11 @@ def get_batch(pairs, batch_size):
 
 
 if __name__ == "__main__":
-    log('Number of sentence pairs: {}'.format(len(list(read_language('eng', 'fra', normalize_strings)))))
+    ledger.green('Number of sentence pairs: {}'.format(len(list(read_language('eng', 'fra', normalize_strings)))))
     max_len = 10
 
     ps = filter(trim_by_length(max_len), read_language('eng', 'fra', normalize_strings))
-    log('Number of sentence pairs after filtering: {}'.format(len(list(ps))))
+    ps = list(ps)
+    ledger.green('Number of sentence pairs after filtering: {}'.format(len(ps)))
 
-    from language import get_language_pairs
-
-    l1, l2 = get_language_pairs('eng', 'fra', ps)
-
-    word_index_pairs = [sentence_to_indexes(l) for p in ps for l in p]
-
-    print(word_index_pairs[0])
+    l1, l2 = language.get_language_pairs('eng', 'fra', ps)

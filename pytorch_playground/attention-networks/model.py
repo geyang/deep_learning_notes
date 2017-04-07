@@ -66,7 +66,8 @@ class DecoderRNN(nn.Module):
         output, hidden = self.gru(embeded, hidden)
         output_embeded = self.output_embedding(output.view(-1, self.hidden_size)).view(batch_size, -1, self.n_words)
         output_softmax = self.softmax(output_embeded.view(-1, self.n_words))
-        output_words = output_softmax.multinomial(1).view(batch_size, -1)
+        _, output_words = output_softmax.topk(1, dim=1)#.view(batch_size, -1)
+        # output_words = output_softmax.multinomial(1).view(batch_size, -1)
         return output_words, \
                hidden, \
                output_softmax
@@ -111,7 +112,8 @@ class VanillaSequenceToSequence(nn.Module):
         batch_size = input.size()[0]
         encoder_output, encoded = self.encoder(input, hidden)
         start_input = Variable(torch.LongTensor([[self.output_lang.SOS_ind]] * batch_size))
-        output, hidden, output_softmax = self.decoder(start_input, encoded)
+        result = self.decoder(start_input, encoded)
+        output, hidden, output_softmax = result
         output_length = output.size()[1]
         if output_length == 1:
             last_output = output
@@ -149,3 +151,14 @@ class VanillaSequenceToSequence(nn.Module):
         self.optimizer.zero_grad()
         self.loss_fn = nn.CrossEntropyLoss()
         self.init_hidden_()
+
+    def load(self, fn):
+        checkpoint = torch.load(fn)
+        self.load_state_dict(checkpoint['state_dict'])
+        # self.losses = checkpoint['losses']
+
+    def save(self, fn="SeqToSeq.tar"):
+        torch.save({
+            "state_dict": self.state_dict(),
+            # "losses": self.losses
+        }, fn)

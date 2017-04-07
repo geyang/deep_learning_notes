@@ -1,4 +1,7 @@
 # Turn a Unicode string to plain ASCII, thanks to http://stackoverflow.com/a/518232/2809427
+from utils import ledger
+
+
 def unicodeToAscii(s):
     return ''.join(
         c for c in unicodedata.normalize('NFD', s)
@@ -12,6 +15,19 @@ def normalizeString(s):
     s = re.sub(r"([.!?])", r" \1", s)
     s = re.sub(r"[^a-zA-Z.!?]+", r" ", s)
     return s
+
+
+CJK_LANGUAGES = ['cmn', 'jpn']  # , 'kor']
+
+
+def tokenize(sentence, is_cjk=False):
+    if is_cjk:
+        tokens = [char for seg in sentence.split(' ') for char in seg]
+        return tokens
+    return sentence.split(' ')
+
+
+import utils
 
 
 class Language:
@@ -29,7 +45,7 @@ class Language:
         self.n_words = 3
 
     def add_sentence(self, sentence):
-        for word in sentence.split(' '):
+        for word in tokenize(sentence, is_cjk=(self.name in CJK_LANGUAGES)):
             self.add_word(word)
 
     def add_word(self, word):
@@ -40,6 +56,17 @@ class Language:
             self.n_words += 1
         else:
             self.word2count[word] += 1
+
+    def pad_target(self, target_unpadded):
+        return [
+            [self.SOS_ind] + s for s in target_unpadded
+        ]
+
+    def summarize(self):
+        utils.ledger.green('{}'.format(self.name), end=' ')
+        utils.ledger.print('has ', end=' ')
+        utils.ledger.green(self.n_words, end=' ')
+        utils.ledger.print('words', end='.\n')
 
 
 def get_language_pairs(name_1, name_2, sentence_pairs):
