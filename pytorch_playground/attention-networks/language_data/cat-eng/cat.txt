@@ -1,0 +1,588 @@
+Wow!	Carai!
+Really?	De veritat?
+Thanks.	Gràcies!
+Goodbye!	Adéu!
+Hurry up.	Afanya't.
+Too late.	Massa tard.
+Thank you.	Gràcies!
+Can I help?	Puc ajudar?
+I envy him.	L'envejo.
+Time flies.	El temps vola.
+I'm 17, too.	Jo també tinc 17 anys.
+I'm at home.	Estic a casa.
+Money talks.	Qui paga, mana.
+We love you.	T'estimem.
+We love you.	Us estimem.
+Who are you?	Qui ets tu?
+Who are you?	Qui és vostè?
+Who are you?	Qui ets?
+Who are you?	Qui sou?
+He has a dog.	Ell té un gos.
+She stood up.	Ella es va aixecar.
+Hi, everybody.	Hola a tots.
+I'm desperate.	Estic desesperat.
+Let me try it.	Deixa'm intentar-ho.
+You look good.	Tens bona cara.
+You look good.	Fas bona cara.
+You look good.	Fas bon aspecte.
+Are you insane?	Estàs boig?
+Can I help you?	Puc ajudar?
+I need a stamp.	Necessito un segell.
+I saw him jump.	El vaig veure saltar.
+Leave me alone!	Deixa'm en pau!
+Who painted it?	Qui ho ha pintat?
+I didn't say it.	No ho he dit pas.
+I felt the same.	Em sentia igual.
+I have two cats.	Tinc dos gats.
+I speak Swedish.	Parlo suec.
+It's cold today!	Avui fa fred!
+It's your fault.	És culpa teva.
+Who are you all?	Qui sou tots vosaltres?
+Who are you all?	Qui sou totes vosaltres?
+Here is your bag.	Aquí és la teva bossa.
+Here is your bag.	Ací està la teua bossa.
+Here is your bag.	Ací tens la teua bossa.
+I am now on duty.	Ara estic de servei.
+I ate the cheese.	Em vaig menjar el formatge.
+I have a problem.	Tinc un problema.
+I have a problem.	Tinc un maldecap.
+I have no family.	No tinc família.
+I work in a bank.	Jo treballo a un banc.
+I wrote a letter.	Vaig escriure una carta.
+I'm already late.	Ja faig tard.
+I'm not a doctor.	Jo no sóc metge.
+Let go of my arm.	Deixa'm anar el braç.
+She lives nearby.	Viu aquí prop.
+They're my books.	Són els meus llibres.
+This is your dog.	Aquest és el teu gos.
+Tom walked alone.	En Tom caminava sol.
+What is going on?	Què hi ha?
+What is going on?	Què passa?
+Who are you with?	Amb qui estàs?
+Who are you with?	Amb qui esteu?
+Answer in English.	Contesta en anglès!
+He went back home.	Ell va tornar a casa.
+I have an earache.	Tinc otitis.
+I have black eyes.	Tinc els ulls negres.
+I think he did it.	Crec que ho va fer ell.
+I'm a salesperson.	Sóc venedor.
+Let me have a try.	Deixa'm intentar-ho.
+Nobody is perfect.	Ningú és perfecte.
+She has long hair.	Ella té el cabell llarg.
+Tom doesn't drink.	Tom no beu.
+Why is snow white?	Per què és blanca la neu?
+You need to hurry.	T'has d'afanyar.
+Are you hungry now?	Tens fam, ara?
+Are you hungry now?	Teniu fam, ara?
+Are you hungry now?	Ara tens fam?
+Come along with me.	Acompanya'm.
+Do it by all means.	Fes-ho com sigui.
+Do it by all means.	Fes-ho peti qui peti.
+Everyone loves him.	Tots l'estimen.
+He speaks fluently.	Parla amb soltura.
+I don't have a cat.	No tinc cap gat.
+I don't want sugar.	No vull sucre.
+I have lost my key.	He perdut la meva clau.
+It was a nightmare.	Va ser un malson.
+Shut up and listen!	Calla i escolta!
+Shut up and listen.	Calla i escolta!
+Stay out of my way.	Fora del meu camí!
+This coat fits you.	Aquest abric et queda bé.
+Tom is a silly man.	En tom és un ximplet.
+What's the problem?	Quin problema hi ha?
+What's your secret?	Quin és el teu secret?
+You are a good boy.	Ets un bon noi.
+Europe is in crisis.	Europa està en crisi.
+Everybody loves him.	Tots l'estimen.
+He'll return at six.	Tornarà a les sis.
+He's the oldest son.	Ell és el fill gran.
+I can see the light.	Puc veure la llum.
+I want to stay here.	Vull quedar-me aquí.
+I'll call him later.	Li cridaré més tard.
+I've got a question.	Tinc una pregunta.
+She has a white cat.	Ella té un gat blanc.
+She raised her hand.	Ella va aixecar la mà.
+She raised her hand.	Ella va alçar la mà.
+She raised her hand.	Ella alçà la mà.
+She raised her hand.	Va alçar la mà.
+The bicycle is mine.	La bicicleta és meva.
+They were satisfied.	Estaven satisfets.
+They were satisfied.	Estaven cofois.
+Where are you going?	A on vas?
+Your father is tall.	Ton pare és alt.
+Birds fly in the sky.	Els ocells volen pel cel.
+Can he speak English?	Que parla anglès, ell?
+Do you live in Tokyo?	Vius a Tokyo?
+Fish live in the sea.	Els peixos viuen al mar.
+He is a good athlete.	Ell és un bon atleta.
+I dislike big cities.	No m'agraden les ciutats grans.
+I don't want to work.	No vull treballar.
+I have two daughters.	Tinc dues filles.
+I'm glad you're here.	M'alegra que estigues ací.
+I'm glad you're here.	M'alegra que estigueu ací.
+It's a piece of cake.	Això és bufar i fer ampolles.
+It's really annoying.	És realment molest.
+Sorry for being late.	Perdó pel retard.
+That's a bright idea.	És una idea brillant.
+The ground seems wet.	El sòl sembla mullat.
+Tom always says that.	Tom sempre diu això.
+Tom doesn't watch TV.	En Tom no mira la tele.
+Who's coming with me?	Qui ve amb mi?
+You can come with me.	Pots venir amb mi.
+Your son is a genius.	El vostre fill és un geni.
+Do you have two books?	Tens dos llibres?
+Does he speak English?	Que parla anglès, ell?
+Does he speak English?	Parla anglès?
+Does he speak English?	Ell parla anglès?
+His house was on fire.	La seva casa està en flames.
+I don't have time now.	Ara no tinc temps.
+I have to go to sleep.	He d'anar a dormir.
+I know these students.	conec aquests estudiants.
+I'd like some aspirin.	Voldria una aspirina.
+Money opens all doors.	Els diners obren totes les portes.
+She is a good swimmer.	És una bona nedadora.
+Thanks for everything.	Mercès per tot.
+The girl said nothing.	La nena no va dir res.
+Those are empty words.	Són paraules buides.
+We have two daughters.	Tenim dues filles.
+What's wrong with you?	Què et passa?
+You should eat slower.	Has de menjar més a poc a poc.
+You're taller than me.	Ets més alt que jo.
+Come whenever you like.	Vingui quan vulgui.
+Come whenever you like.	Veniu quan vulgueu.
+Come whenever you like.	Vine quan vulguis.
+Does the bus stop here?	L'autobús para ací?
+I didn't buy this book.	No vaig comprar aquest llibre.
+I think he has done it.	Crec que ell ho ha fet.
+Mary married for money.	La Mary es va casar per diners.
+They will not eat meat.	No menjaran carn.
+Tom wants to be famous.	Tom vol ser famós.
+We have to act quickly.	Hem d'actuar ràpid.
+What is wrong with him?	Què li passa?
+Ask me something easier.	Pregunta'm una cosa més fàcil.
+Do you have a cellphone?	Tens un mòbil?
+He died three years ago.	Va morir fa tres anys.
+I don't like big cities.	No m'agraden les ciutats grans.
+I felt like I would die.	Sentia que em moriria.
+I hope that I can do it.	Espere poder-ho fer.
+I listened to her story.	Vaig escoltar la història d'ella.
+I won't see him anymore.	No el veuré mai més.
+I'll start this evening.	Començaré aquest vespre.
+I'll start this evening.	Començaré esta vesprada.
+I'm sure of his success.	Estic segur del seu èxit.
+I've forgotten his name.	He oblidat el seu nom.
+Many sailors can't swim.	Molts mariners no saben nedar,
+My father quit drinking.	El meu pare va aturar de beure.
+My father quit drinking.	Mon pare va deixar de beure.
+She helped me willingly.	Ella em va ajudar de bon gust.
+Tell me when he returns.	Avisa'm quan torni.
+Tom is thirty years old.	Tom té trenta anys.
+What a beautiful sunset!	Quina posta de sol més bonica!
+What a beautiful sunset.	Quina posta més maca!
+What a beautiful sunset.	Quina posta de sol més bonica.
+Where are our umbrellas?	On estan els nostres paraigües?
+Would you draw me a map?	Em faríes un mapa?
+You will miss the train.	Perdràs el tren.
+Can your mom drive a car?	La teva mama sap conduir?
+Can your mom drive a car?	Ta mare sap conduir?
+Can your mom drive a car?	La teua mare sap conduir un cotxe?
+Can your mom drive a car?	La vostra mare sap conduir?
+Do you have a cell phone?	Tens un mòbil?
+Don't ever do that again.	No ho facis mai més.
+Fire is always dangerous.	El foc sempre és perillós.
+He fell and hurt his leg.	Ell es va caure i es va fer mal a la cama.
+He has never played golf.	Ell no ha jugat mai al golf.
+He looks like his father.	Ell s'assembla al seu pare.
+He speaks five languages.	Ell parla cinc idiomes.
+I can't stand that noise.	No puc aguantar aquest soroll.
+I didn't know what to do.	No sabia què fer.
+I don't know her address.	No sé la seva adreça.
+I made my son a new suit.	He fet un vestit nou per a mon fill.
+I only have eyes for you.	Aquí no veig ningú més que tu.
+I recognized him at once.	El vaig reconèixer de seguida.
+I'm talking on the phone.	Parlo per telèfon.
+I'm talking on the phone.	Estic parlant per telèfon.
+It doesn't sound natural.	No sona natural.
+It is nice and cool here.	Aquí fa fresca i s'hi està bé.
+My mother is always busy.	La meva mare sempre està ocupada.
+She had a strange hat on.	Ella portava un barret estrany.
+This is his car, I think.	Aquest és el seu cotxe, crec.
+Tom is a history teacher.	En Tom és un professor d'història.
+Tom visited Mary's grave.	En Tom va visitar la tomba de la Mary.
+Turn down the TV, please.	Baixa el volum del televisor.
+Turn the TV down, please.	Baixa el volum del televisor.
+You are everything to me.	Tu ets tot per mi.
+You don't have to eat it.	Vostè no ha de menjar-ho.
+I like to listen to music.	M'agrada escoltar música.
+I made a careless mistake.	Vaig cometre una negligència.
+I'm busy, so I can't help.	Estic ocupat, no puc ajudar-te.
+I'm busy, so I can't help.	Estic ocupat, no puc ajudar-vos.
+I'm standing in the shade.	M'estic dret a l'ombra.
+It's always been that way.	Sempre ha sigut així.
+That'll put you in danger.	Això et posarà en perill.
+We may be late for school.	Potser farem tard a l'escola.
+What a nice sounding word!	Què bé sona aquesta paraula!
+Where will you be staying?	On t'estaràs?
+Where will you be staying?	On t'allotjaràs?
+Where will you be staying?	On et quedaràs?
+Where will you be staying?	On us allotjareu?
+You agree with Tom, right?	Estàs d'acord amb Tom, oi?
+You agree with Tom, right?	Esteu d'acord amb Tom, veritat?
+You don't have to do this.	No has de fer-ho.
+You don't have to do this.	Això no ho has de fer.
+Do they have any good news?	Tens bones notícies?
+Do you come here every day?	Véns aquí cada dia?
+Do you come here every day?	Veniu ací tots els dies?
+Do you have a mobile phone?	Tens un mòbil?
+Do you know his birthplace?	Saps on va néixer?
+I have to buy one tomorrow.	He de comprar-ne un demà.
+I just want to be near you.	Només vull estar prop de tu.
+I know he likes jazz music.	Sé que li agrada el jazz.
+I'd rather do it by myself.	Prefereixo fer-lo pel meu compte.
+I'm afraid I caught a cold.	Em sembla que he agafat un constipat.
+It's all you can really do.	És tot el que pots fer.
+It's always been like that.	Sempre ha sigut així.
+She's Tom's younger sister.	És la germana petita d'en Tom.
+She's Tom's younger sister.	És la germana menuda de Tom.
+The bird's wing was broken.	L'ala de l'ocell estava trencada.
+The bird's wing was broken.	L'ocell tenia una ala trencada.
+The bird's wing was broken.	El pardal tenia una ala trencada.
+There were ten eggs in all.	Hi havia deu ous en total.
+There's no reason to worry.	No hi ha cap motiu per preocupar-se.
+Things are not that simple.	Les coses no són tan senzilles.
+This store sells old books.	Aquesta botiga ven llibres vells.
+You're not a child anymore.	Ja no ets un nen.
+Columbus discovered America.	Colón va descobrir Amèrica.
+Don't you like Chinese food?	No t'agrada el menjar xinès?
+France is in western Europe.	França és a l'Europa Occidental.
+He plays baseball every day.	Juga al beisbol tots el dies.
+He's the one who touched me.	Ell és el que em va tocar.
+I don't know if he knows it.	No sé si ho sap.
+I'll be back in ten minutes.	Tornaré en deu minuts.
+I'm the one who has the key.	Jo sóc qui té la clau.
+Take off your socks, please.	Sisplau, lleva't els mitjons.
+Take off your socks, please.	Lleva't els calcetins, per favor.
+Take off your socks, please.	Lleveu-vos els calcetins, per favor.
+The food was great in Italy.	El menjar va ser cosa fina a Itàlia.
+They work eight hours a day.	Treballen vuit hores al dia.
+What are you doing tomorrow?	Què fas demà?
+What is wrong with that guy?	Què li passa a aquet paio?
+Where will we go afterwards?	On anirem després?
+Do you know where she's gone?	Saps on ha anat ella?
+He goes to the office by car.	Va al despatx amb cotxe.
+He is the manager of a hotel.	És el director d'un hotel.
+He lost all the money he had.	Va perdre tots els diners que tenia.
+He plays the piano very well.	Ell toca el piano molt bé.
+I don't want to go to school.	No vull anar a l'escola.
+I have something to tell you.	T'he de dir una cosa.
+I have something to tell you.	Us he de dir una cosa.
+I have something to tell you.	Tinc una cosa a dir-te.
+I must have the wrong number.	Dec tenir el número equivocat.
+I never get tired of talking.	No em canso mai de parlar.
+I saw him tear up the letter.	El vaig veure estripar la carta.
+I will get in touch with you.	Em posaré en contacte amb tu.
+Japan is smaller than Canada.	El Japó és més petit que el Canadà.
+She sent you her best wishes.	Ella t'envia els seus millors desitjos.
+That's exactly what happened.	Això és exactament el què va passar.
+The girl didn't say anything.	La nena no va dir res.
+The soldier gave water to me.	El soldat m'ha donat aigua.
+We killed time playing cards.	Matàvem el temps jugant a les cartes.
+We must control our passions.	Hem de controlar les nostres passions.
+What you think is irrelevant.	El que penses és irellevant.
+Do you have medical insurance?	Teniu assegurança mèdica?
+He comes here every five days.	Ve aquí cada cinc dies.
+He left the book on the table.	Va deixar el llibre sobre la taula.
+How many children do you have?	Quants fills tens?
+I believe the choice is clear.	Crec que l'elecció està clara.
+I study for 3 hours every day.	Jo estudio 3 hores cada dia.
+It was cheaper than I thought.	És més barat del que em vaig pensar.
+Let me know whenever you come.	Quan vinguis, fes-m'ho saber.
+Most schools are closed today.	La majoria d'escoles avui estan tancades.
+My dad died before I was born.	Mon pare va morir abans del meu naixement.
+Nobody equals him in strength.	Ningú no li fa ombra.
+Nobody equals him in strength.	Ningú no li és rival.
+Our summer is short, but warm.	El nostre estiu és curt, però calorós.
+She didn't tell me her secret.	Ella no em va dir el seu secret.
+She is giving a party tonight.	Ella fa una festa aquesta nit.
+Tom wants to change the world.	En Tom vol canviar el món.
+Tom's arm had to be amputated.	Van haver d'amputar el braç al Tom.
+Tom's arm had to be amputated.	Li van haver d'amputar el braç a Tom.
+You agree with Tom, don't you?	Estàs d'acord amb Tom, no?
+He is a very thoughtful person.	És una persona molt considerada.
+I don't know when he will come.	No sé quan vindrà.
+I don't like it when you swear.	No m'agrada que digues paraulotes.
+I don't like it when you swear.	No m'agrada que digueu paraulotes.
+I have breakfast every morning.	Cada dia esmorzo.
+I have not seen him since then.	No l'he vist des d'aleshores.
+I opened the box. It was empty.	Vaig obrir la caixa. Estava buida.
+I wish I could buy that guitar.	Com voldria poder comprar aquesta guitarra.
+I wish I could buy that guitar.	M'agradaria poder comprar eixa guitarra.
+I wish I could buy that guitar.	Tant de bo pogués comprar aquesta guitarra.
+I wish I could buy that guitar.	Tant de bo poguera comprar eixa guitarra.
+I'm very glad to see you again.	Estic molt content de tornar-te a veure.
+Please circle the right answer.	Encercleu la resposta correcta, sisplau.
+He had a firm belief in his God.	Té una creença ferma en Déu.
+He is getting better bit by bit.	Ell s'està millorant poc a poc
+He is getting better bit by bit.	Està millorant poc a poc.
+He told me an interesting story.	M'ha contat una història interessant.
+Helen Keller was deaf and blind.	Hellen Keller era sorda i cega.
+How much does he earn per month?	Quant guanya al mes?
+I can repeat it again and again.	Puc repetir-ho vint vegades.
+I caught the ball with one hand.	Vaig agafar la pilota amb una mà.
+I heard him sing at the concert.	El vaig sentir cantant al concert.
+I was not aware of his presence.	Jo no era conscient que ell estava al davant.
+I wonder if he'll come tomorrow.	Em pregunto si vindrà demà.
+I'm a professional photographer.	Jo sóc fotògraf professional.
+Let me know when he will arrive.	Ja em diràs quan arriba.
+My mother speaks little English.	La meva mare parla una mica d'anglès.
+She made the same mistake again.	Ella va cometre una altra vegada la mateixa errada.
+She will have a baby next month.	Ella vol tenir un fill el mes vinent.
+The food didn't taste very good.	El menjar no tenia gaire bon gust.
+The food didn't taste very good.	El menjar no feia gaire bon gust.
+The sun appeared on the horizon.	El Sol apareix a l'horitzont.
+The sun appeared on the horizon.	El sol aparegué a l'horitzó.
+The sun gives us heat and light.	El Sol ens dóna calor i llum.
+The sun is larger than the moon.	El Sol és més gran que la Lluna.
+Tom is too young to drive a car.	Tom és massa jove per portar un cotxe.
+Tom was fired for a good reason.	Tom va ser despedit per una causa justa.
+You don't have to kick yourself.	No et facis mala sang.
+You should've told me yesterday.	M'ho hauries d'haver dit ahir.
+Your opinion is important to me.	La teua opinió és important per a mi.
+Asians generally have black hair.	Els asiàtics normalment tenen el cabell negre,
+Do you know who wrote this novel?	Saps qui va escriure aquesta novela?
+Do you know who wrote this novel?	Sabeu qui va escriure aquesta novel·la?
+Don't compare me to a movie star.	No em comparis amb una estrella de cinema.
+He went skiing during the winter.	Se'n va anar a esquiar a l'hivern.
+I have lived in Tokyo since 1985.	He viscut a Tokyo des de 1985.
+I saw the moon above the horizon.	Veig la lluna sobre l'horitzont.
+My brother-in-law is a policeman.	El meu cunyat és policia.
+My father died before I was born.	Mon pare va morir abans del meu naixement.
+My father died before I was born.	Mon pare va morir abans que jo nasquera.
+My father died before I was born.	El meu pare va morir abans de néixer jo.
+The bus arrived ten minutes late.	El bus va arribar deu minuts tard.
+The bus arrived ten minutes late.	L'autobús arribà deu minuts tard.
+The bus arrived ten minutes late.	L'autobús va arribar amb deu minuts de retard.
+The flood caused a lot of damage.	La riada va fer molt de mal.
+The flood caused a lot of damage.	La inundació va fer molt de mal.
+The rumor is true to some extent.	Fins a un cert punt, el rumor és cert.
+The teacher told me study harder.	El professor em va dir que estudiés molt.
+Tom and Mary acted like children.	En Tom i la Mary es portaven com nens.
+Tom couldn't hold back his tears.	Tom no va poder contenir les llàgrimes.
+Tom couldn't hold back his tears.	Tom no podia contenir les llàgrimes.
+Tom doesn't go to school anymore.	Tom ja no va a l'escola.
+Tom is no longer studying French.	En Tom ja no estudia francès.
+When can we see each other again?	On ens podem tornar a veure?
+Are we talking about the same Tom?	Estem parlant del mateix Tom?
+Are we talking about the same Tom?	Parlem del mateix Tom?
+Everyone hoped that she would win.	Tothom esperava que guanyés.
+He was willing to work for others.	Ell estava disposat a treballar per altres.
+I burned my fingers on a hot iron.	Em vaig cremar els dits amb un ferro roent.
+I burned my fingers on a hot iron.	Em vaig cremar els dits amb una planxa calenta.
+I have nothing in common with her.	No tinc res en comú amb ella.
+I spend money as soon as I get it.	Em gasto els diners de seguida que en tinc.
+I write letters that I never send.	Escric cartes que no envio mai.
+Is Flight 123 going to be delayed?	El vol 123, té retard?
+Last night we worked until 10 p.m.	Ahir a la nit vàrem treballar fins a les deu.
+My mother knows how to make cakes.	La meva mare sap com fer pastissos.
+Tell me your plans for the future.	Explica'm els teus plans per al futur.
+Tell me your plans for the future.	Conta'm els teus plans de futur.
+Tell me your plans for the future.	Expliqueu-me els vostres plans per al futur.
+Thank you so much for inviting me.	Moltes gràcies per la invitació.
+The plane took off exactly at six.	L'avió s'enlairà a les sis clavades.
+Today's meeting has been canceled.	La reunió d'avui ha sigut cancelada.
+Where's the nearest travel agency?	On és l'agència de viatges més propera?
+Bangkok is Thailand's capital city.	Bangkok és la capital de Tailàndia.
+Do you want to play tennis with us?	Vols jugar a tennis amb nosaltres?
+He helped poor people all his life.	Ell va ajudar els pobres tota la seva vida.
+Her husband is now living in Tokyo.	El seu marit viu a Tòkio ara.
+I can't remember where I bought it.	No puc recordar on el vaig comprar.
+I can't remember where I bought it.	No recorde on el vaig comprar.
+I can't remember where I bought it.	No recorde on ho vaig comprar.
+I can't remember where I bought it.	No recorde on la vaig comprar.
+I can't remember where I bought it.	No me'n recorde d'on ho vaig comprar.
+I can't remember where I bought it.	No recordo on el vaig comprar.
+I heard a beautiful song yesterday.	Ahir vaig sentir una cançó bonica.
+I thanked him for what he had done.	Li vaig agrair el que va fer.
+I'd like to meet your older sister.	Voldria trobar-me amb la teva germana gran.
+I'd like to meet your older sister.	M'agradaria conèixer la teva germana gran.
+I'm the one who pays all the bills.	Jo sóc qui paga totes les factures.
+I'm very slow at making up my mind.	Sóc molt lent a l'hora de prendre decisions.
+I, too, didn't understand anything.	Jo tampoc entenc res.
+Is there a post office around here?	Hi ha alguna oficina postal per aquí?
+Is there a post office around here?	Hi ha alguna oficina de correus prop d'ací?
+Is there a post office around here?	Hi ha per ací alguna oficina de correus?
+The door is locked at nine o'clock.	La porta es tanca amb clau a les nou.
+The lion is the king of the jungle.	El lleó és el rei de la selva.
+These questions are easy to answer.	Aquestes preguntes són fàcils de respondre.
+We are sorry for the inconvenience.	Ens sap greu la molèstia causada.
+We're not going to change anything.	No canviarem res.
+What little money I had was stolen.	Els pocs diners que tenia me'ls van robar.
+A lot of jobs are done by computers.	Moltes feines les fan els ordinadors.
+Do you wonder why no one trusts him?	T'estranya que ningú hi confiï?
+Don't go to sleep with the light on.	No et durmis amb el llum encès.
+I can't remember which is my racket.	No recorde quina és la meua raqueta.
+I don't think we can take that risk.	Crec que no podem córrer aquest risc.
+I don't think we can take that risk.	Crec que no podem córrer eixe risc.
+I have nothing to say to any of you.	No tinc res a dir-vos a cap de vosaltres.
+I was caught in a shower on the way.	M'ha enxampat un xàfec pel camí.
+I'd like to reserve a table for two.	M'agradaria reservar una taula per a dos.
+Look that word up in the dictionary.	Cerca aquella paraula al diccionari.
+My apartment is on the fourth floor.	El meu apartament està al quart pis.
+Night is when most people go to bed.	La nit és quan la majoria de la gent se'n va al llit.
+Take this medicine before each meal.	Preneu aquest medicament abans de cada àpat.
+Tom may talk to Mary if he wants to.	En Tom, si vol, pot parlar amb la Mary.
+Tom may talk to Mary if he wants to.	Tom pot parlar amb Mary, si vol.
+When did you come back from Germany?	Quan vas tornar d'Alemanya?
+Flowers die if they don't have water.	Sense aigua les flors es panseixen.
+His arrogance is no longer tolerable.	La seva arrogància ja no és tolerable.
+His courage is worthy of high praise.	La seva valentia mereix grans lloances.
+I planted an apple tree in my garden.	He plantat un pomer al meu jardí.
+I really must have my watch repaired.	He de dur el rellotge a arreglar.
+I'm sick. Will you send for a doctor?	Estic malalt. Oi que avisaràs un metge?
+I'm sure of winning the championship.	Estic segur de guanyar el campionat.
+It seems that he was a great athlete.	Sembla que va ser un gran atleta.
+It's easier to have fun than to work.	És més fàcil divertir-se que treballar.
+Please write to me from time to time.	Escriu-me de tant en tant, sí?
+What are you going to eat for dinner?	Que soparàs avui?
+What do you want to talk to me about?	De què vols parlar amb mi?
+What's your opinion of Japanese food?	Quina és la teva opinió sobre el menjar japonès?
+Everyone was listening very carefully.	Tots estaven escoltant atentament.
+He is three years younger than Father.	Ell és tres anys més jove que el pare.
+I don't know what has happened to him.	No sé què li ha passat.
+I was the one who knocked on the door.	Vaig ser jo qui va trucar a la porta.
+I'll make an exception just this once.	Faré una excepció només per aquesta vegada.
+I'm the one who takes out the garbage.	Jo sóc qui treu les escombraries.
+Japan imports a large quantity of oil.	El Japó importa una gran quantitat de petroli.
+Mary's doctor advised her to exercise.	El metge de la Mary li va aconsellar que fes exercici.
+Please correct me if I make a mistake.	Si us plau, corregeix-me si m'equivoco.
+Will the work be finished by tomorrow?	Estarà enllestida la feina per a demà?
+"Is she reading a book?" "Yes, she is."	"Està llegint un llibre?" "Sí."
+"Is she reading a book?" "Yes, she is."	"Està ella llegint un llibre?" "Sí."
+All my friends like playing videogames.	A tots els meus amics els agraden els videojocs.
+As long as there's life, there is hope.	Mentre hi ha vida, hi ha esperança.
+Blue lines on the map designate rivers.	Les línies blaves al mapa designen rius.
+How much time do you spend on Facebook?	Quant de temps passes a Facebook?
+I don't know whether it is true or not.	No sé si és veritat o no.
+I don't think Tom was talking about me.	No crec que Tom estigués parlant de mi.
+I have cookies for breakfast every day.	Cada dia menjo galetes per esmorzar.
+I would like to visit New York someday.	Un dia m'agradaria visitar New York.
+I've been waiting for this day to come.	He estat esperant que arribi aquest dia.
+In Japan there are four seasons a year.	Al Japó hi ha quatre estacions cada any.
+Mathematics is important in daily life.	Les matemàtiques són importants a la vida diària.
+The Japanese economy developed rapidly.	L'economia japonesa es va desenvolupar depressa.
+The class was divided into four groups.	La classe es va dividir en quatre grups.
+The earth is much larger than the moon.	La Terra és molt més gran que la Lluna.
+They arrived late because of the storm.	Ells van arribar tard a causa de la tempesta.
+They say golf is very popular in Japan.	Diuen que el golf és molt popular al Japó.
+This is the best book I have ever read.	És el millor llibre que he llegit mai.
+Tom is interested in French literature.	En Tom està interessat en la literatura francesa.
+Tom is making great progress in French.	En Tom està progressant molt amb el francès.
+He fought against racial discrimination.	Va lluitar contra la discriminació racial.
+I know that there was a big church here.	Sé que aquí hi havia una església gran.
+I noticed that she sat in the front row.	Vaig notar que ella va seure a la fila del davant.
+President Clinton denied the accusation.	El president Clinton va negar l'acusació.
+The men are wearing short sleeve shirts.	Els homes porten camises de màniga curta.
+What do these dots represent on the map?	Què signifiquen aquests punts al mapa?
+Will you please stop talking about food?	Podries deixar de parlar de menjar?
+German is the best language in the world.	L'alemany és la millor llengua del món.
+How many people are there in your family?	Quants són a la seva família?
+I asked him many questions about ecology.	Li vaig fer moltes preguntes sobre ecologia.
+I don't have the strength to keep trying.	No tinc la força per continuar triant.
+I started learning English six years ago.	Fa sis anys que vaig començar a aprendre anglès.
+I will ask him where he went last Sunday.	Li preguntaré on va anar el diumenge.
+I'm surprised that he accepted the offer.	Em sorprèn que acceptés l'oferiment.
+It is difficult to speak three languages.	És difícil parlar tres llengues.
+There are many beautiful parks in London.	A Londres hi han molts parcs bonics.
+Tom does everything he can to save money.	En Tom fa tot el que pot per estalviar.
+I am sure of his winning the tennis match.	Estic segur de la seva victòria al tennis.
+I don't know the reason why he went there.	No sé el motiu pel qual va anar-hi.
+I'd like to know when you can send it out.	M'agadaria saber quan ho pot enviar.
+Nothing happens unless you make it happen.	No passa res si tu no fas que passi.
+This is the best book that I've ever read.	És el millor llibre que he llegit mai.
+As we go up higher, the air becomes cooler.	Com més amunt anem, més fresc és l'aire.
+Do you support or oppose the death penalty?	Estàs a favor o en contra de la pena de mort?
+English is not easy, but it is interesting.	L'anglès no és fàcil, però és interessant.
+I don't have anything to say to any of you.	No tinc res a dir-vos a cap de vosaltres.
+I don't know for certain when he will come.	No sé del cert quan vindrà.
+I eat a boiled egg for breakfast every day.	Cada dia em menjo un ou dur per esmorzar.
+I have been studying French four years now.	Fa quatre anys que estudio francès.
+I told you to be here on time this morning.	Et vaig dir que havies de ser aquí puntual aquest matí.
+I'm fed up with him always preaching to me.	Estic tip que em sermonegi constantment.
+I'm fed up with him always preaching to me.	Estic tip dels seus sermons constants.
+It seems those two are made for each other.	Sembla que aquell parell estan fets l'un per l'altre.
+This is the place where my father was born.	Aquest és el lloc on va nèixer el meu pare.
+When will it be convenient for you to come?	Quan li convendria venir?
+Give him this message the moment he arrives.	Dóna-li aquest missatge quan arribi.
+I demanded that he pay the bill immediately.	Li vaig demanar de pagar la factura immediatament.
+I feel like telling him what I think of him.	Tinc ganes de dir-li què penso d'ell.
+I really need to take care of some business.	He de tenir cura d'alguns negocis.
+I refused to eat until my parents came home.	No vaig voler menjar fins que els meus pares no tornessin a casa.
+Japan imports great quantities of crude oil.	El Japó importa una gran quantitat de petroli.
+She makes him do his homework before dinner.	Ella l'obliga a fer els deures abans de sopar.
+They fell into the conversation immediately.	Van passar al tema a l'instant.
+You should pay more attention to what I say.	Deuries prestar més atenció a allò que dic.
+Both of them are unpredictable and impatient.	Tots dos són impredictibles i impacients.
+Her explanation of the problem made no sense.	La seva explicació del problema no tenia ni cap ni peus.
+I am going to do it whether you agree or not.	Ho faré, estigueu o no d'acord amb mi.
+I didn't know you were that kind of a person.	No sabia que eres així.
+I will take you to the zoo one of these days.	Un dia d'aquests et portaré al zoo.
+My son has gone to America to study medicine.	El meu fill ha anat a Amèrica a estudiar medicina.
+She says she brushes her teeth every morning.	Ella diu que es raspatlla les dents tots els dematins.
+We need to invest in clean, renewable energy.	Hem d'invertir en energia neta i renovable.
+He is one of the candidates running for mayor.	És un dels candidats que es presenta per alcalde.
+I haven't got the nerve to ask you for a loan.	No tinc valor per demanar-te un préstec.
+It is said that golf is very popular in Japan.	Es diu que el golf és molt popular al Japó.
+It seems I'm going to be up all night tonight.	Sembla que avui estaré despert tota la nit.
+Please wash your hands properly before eating.	Siusplau renteu-vos les mans com cal abans de menjar.
+The urban population of America is increasing.	La població urbana a Amèrica està creixent.
+I thought she was angry and would just go away.	Vaig pensar que s'havia enfadat i que se n'aniria.
+It doesn't matter whether he comes late or not.	No hi fa res si ve tard o no.
+She buys what she wants regardless of the cost.	Compra el que vol sense fixar-se en el que val.
+She's curious to find out who sent the flowers.	Ella té curiositat per saber qui va enviar les flors.
+Unfortunately, my birthday is only once a year.	Malauradament, el meu aniversario només succeeix una vegada a l'any.
+What would it cost to have this chair repaired?	Quant costaria arreglar aquesta cadira?
+Drink some coffee. It tastes very good, I think.	Pren una mica de cafè. Té molt bon gust, crec.
+He and his sisters are currently living in Tokyo.	En aquest moment, ell i les seves germanes viuen a Tòquio.
+He never fails to write to his mother every week.	No passa una setmana que no li escrigui a la seva mare.
+I'm not interested in going to the baseball game.	No tinc cap interès a anar al partit de beisbol.
+I'm sorry, but I can't find the book you lent me.	Em sap greu, però no trobo el llibre que em vas deixar.
+If only I knew, I would tell you all that I knew.	Si ho sabés, et diria tot el que sé.
+She tried to squeeze the juice out of the orange.	Va provar d'escórrer la taronja.
+This story is far more interesting than that one.	Aquesta història és molt més interessant que aquella.
+I took it for granted that he would pass the exam.	Dono per descomptat que aprovarà l'examen.
+They insisted on my making use of the opportunity.	Em varen insistir per a que aprofitès aquella oportunitat.
+Do you know which deity this temple is dedicated to?	Sabeu a quina divinitat està dedicat aquest temple?
+Why don't we see if Tom wants to play cards with us?	Perquè no mirem si en Tom vol jugar a les cartes amb niosaltres?
+I was glad to see that he finally came to his senses.	Vaig estar content de veure que al final va posar-hi seny.
+It's difficult for me to express myself in Esperanto.	Per mi és difícil expressar-me en esperanto.
+I want to live in a quiet city where the air is clean.	Vull viure a una ciutat tranquila amb l'aire pur.
+If you don't want to be alone, I can keep you company.	Si no vols estar sol, puc fer-te companyia.
+He will take over the business when his father retires.	Ell continuarà el negoci quan son pare es jubili.
+My mother likes tulips very much and so does my sister.	A ma mare li agraden molt les tulipes i a ma germana també.
+This cola has lost its fizz and doesn't taste any good.	Aquesta cola s'ha esbravat i no té bon gust.
+Tom is accustomed to calling up girls on the telephone.	En Tom acostuma a trucar noies.
+Cuzco is one of the most interesting places in the world.	Cuzco és un dels indrets més interessants del món.
+I stayed in bed one more day just to be on the safe side.	Em vaig quedar un dia més al llit per si de cas.
+Tom will likely be discharged from the hospital tomorrow.	Demà donaran d'alta de l'hospital en Tom.
+"How are you feeling this morning?" "Pretty good, thanks."	"Com et sents aquest matí?" "Bastant bé, gràcies."
+People of my generation all think the same way about this.	Tota la gent de la meva generació pensen igual sobre això.
+The only useful answers are those that raise new questions.	Les úniques respostes útils són les que creen noves preguntes.
+It takes us thirty minutes to walk from here to the station.	D'aquí a l'estació triguem mitja hora a peu.
+The secret of longevity is to choose your parents carefully.	El secret de la longevitat és triar amb compte els pares.
+It takes about 10 minutes to get to the train station by foot.	Tens uns 10 minuts d'aquí a l'estació a peu.
+This medicine must not be placed within the reach of children.	Aquest medicament no s'ha de deixar a la ma dels nins.
+You told her that you had finished the work three days before.	Li vas dir que havies enllestit la feina feia tres dies.
+His father died, and to make matters worse, his mother fell ill.	Son pare es va morir, i per acabar-ho d'adobar, sa mare es va posar malalta.
+Try to understand it in Spanish, without translating to English.	Tracta d'entendre-ho amb espanyol, sense traduïr-lo amb anglès.
+We lost our way, and what was worse, we were caught in a shower.	Ens vam perdre i, encara pitjor, ens va enxampar un xàfec.
+She's worried since she hasn't heard from her son for many months.	Està amoïnada perquè fa mesos que no té notícia del seu fill.
+I suspected that he was telling a lie, but that didn't surprise me.	Sospitava que m'estava dient una mentida, però això no em va sorprendre.
+My daughter won't find it easy to get accustomed to the new school.	La meva filla no trobarà fàcil per acostumar-se a la nova escola.
+The bullet penetrated his chest, leaving him in critical condition.	La bala va penetrar al seu pit i el va deixar en estat crític.
+I wanted to buy the book, but I found I had no more than 200 yen with me.	Volia comprar el llibre, però vaig adonar-me que no duia més de 200 iens.
+For the first time in more than 6 years, the unemployment rate is below 6%.	Per primera vegada en més de 6 anys, la taxa d'atur està per davall del 6%.
+We would have bought the plane tickets if the price had been a little lower.	Hauríem comprat els bitllets d'avió si el preu fos un pèl més baix.
+My friend has had three jobs in a year; he never sticks to anything for long.	El meu amic ha treballat a tres llocs diferents en un any; res no li dura gaire.
+You can't park in a handicapped parking space unless you have a special permit.	No pots aparcar a una plaça d'aparcament per discapacitats si no tens un permís especial.
+Drinking lots of water is good for you, sure, but one can't drink that much water at once.	Beure molta aigua és bo per tu, segur, però no es pot beure tanta aigua de cop.
+We're going to make sure that no one is taking advantage of the American people for their own short-term gain.	Ens assegurarem que ningú s'estiga aprofitant del poble americà per al seu propi interès a curt termini.

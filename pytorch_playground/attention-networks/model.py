@@ -2,6 +2,8 @@ import torch
 from torch.autograd import Variable
 import torch.nn as nn
 
+import utils
+
 
 class EncoderRNN(nn.Module):
     def __init__(self, n_words, embedding_size, n_layers=1, bidirectional=False):
@@ -57,20 +59,28 @@ class DecoderRNN(nn.Module):
         # add dropout
         self.gru = nn.GRU(embedding_size, embedding_size, batch_first=True)
         self.output_embedding = nn.Linear(self.hidden_size, n_words)
-        self.softmax = nn.Softmax()
+        self.output_softmax = nn.Softmax()
 
-    def forward(self, input, hidden):
+    def embed(self, input_word_indexes):
+        """word index to embedding"""
+        batch_size = input_word_indexes.size()[0]
+        embeded = self.embedding(input_word_indexes).view(batch_size, -1, self.hidden_size)
+        return embeded
+
+    def forward(self, embeded, hidden):
         """batch index goes first. Input and output are both size <,,n_words>"""
-        batch_size = input.size()[0]
-        embeded = self.embedding(input).view(batch_size, -1, self.hidden_size)
+        batch_size = embeded.size()[0]
         output, hidden = self.gru(embeded, hidden)
         output_embeded = self.output_embedding(output.view(-1, self.hidden_size)).view(batch_size, -1, self.n_words)
-        output_softmax = self.softmax(output_embeded.view(-1, self.n_words))
-        _, output_words = output_softmax.topk(1, dim=1)#.view(batch_size, -1)
-        # output_words = output_softmax.multinomial(1).view(batch_size, -1)
-        return output_words, \
-               hidden, \
-               output_softmax
+        return output_embeded, hidden
+
+    def extract(self, output_embeded):
+        """word embedding to class indexes"""
+        b_size, seq_len, n_words = output_embeded.size()
+        output_softmax = self.output_softmax(output_embeded.view(-1, n_words))
+        # TODO: alternatively: output_words = output_softmax.multinomial(1).view(batch_size, -1)
+        _, output_word_indexes = output_softmax.topk(1, dim=1)  # .view(batch_size, -1)
+        return output_word_indexes.view(b_size, seq_len)
 
 
 def init_hidden(self, batch_size, random=False):
@@ -103,48 +113,50 @@ class VanillaSequenceToSequence(nn.Module):
         self.encoder = EncoderRNN(input_lang.n_words, hidden_size, n_layers, bidirectional)
         self.decoder = DecoderRNN(output_lang.n_words, hidden_size, n_layers, bidirectional)
 
-    # parameter collection is done automatically
-    # def parameters(self):
-    #     return [*self.encoder.parameters(), *self.decoder.parameters()]
-
-    def forward(self, input, hidden, target, teacher_r):
-        """target: [[int,],]"""
-        batch_size = input.size()[0]
-        encoder_output, encoded = self.encoder(input, hidden)
-        start_input = Variable(torch.LongTensor([[self.output_lang.SOS_ind]] * batch_size))
-        result = self.decoder(start_input, encoded)
-        output, hidden, output_softmax = result
-        output_length = output.size()[1]
-        if output_length == 1:
-            last_output = output
-        else:
-            last_output = output.index_select(1, Variable(torch.LongTensor([output_length - 1])))
-        outputs = [last_output]
-        output_softmaxes = [output_softmax]
-        seq_length = target.size()[1]
-        for i in range(seq_length):
-            target_slice = torch.index_select(target, 1, Variable(torch.LongTensor([i]), requires_grad=False))
-            # Advanced Indexing look here: https://discuss.pytorch.org/t/select-specific-columns-of-each-row-in-a-torch-tensor/497/2
-            last_output, hidden, output_softmax = self.decoder(outputs[-1]
-                                                               if random.random() > teacher_r else
-                                                               target_slice, encoded)
-            outputs.append(last_output)
-            output_softmaxes.append(output_softmax)
-        return outputs, output_softmaxes
-
     def init_hidden(self, batch_size):
         return self.encoder.init_hidden(batch_size)
 
-    def _evaluate(self, input, hidden, max_output_length=100):
+    def get_SOS_vec(self, batch_size):
+        return Variable(torch.LongTensor([[self.output_lang.SOS_ind]] * batch_size))
+
+    def forward(self, input, hidden, target=None, teacher_r=0, max_output_length=None):
+        # DONE: Should really use Module.train and Module.eval to set the training flag, then handle the different logic inside the forward function. This separate evaluation function is repetitive and will not needed in that case.
+        # NOTE: hidden always has second index being the batch index.
+        batch_size = hidden.size()[1]
+        target_size = 0 if target is None else target.size()[1]
         encoder_output, encoded = self.encoder(input, hidden)
-        sentence = []
-        i = 0
+        slices = []
+        embeded_outputs = []
         hidden = encoded
-        word = self.SOS
-        while i <= max_output_length and word != self.output_lang.EOS_ind:
-            word, hidden = self.decoder(word, hidden)
-            sentence.append(word)
-        return sentence
+        output_word_batch = self.get_SOS_vec(batch_size)
+        # TODO: make it so end of sentence for all elements in batch trigger end of while loop.
+        eos_flags = list(range(batch_size))
+        while len(slices) < (max_output_length or self.args.MAX_OUTPUT_LEN) \
+                and len(eos_flags) != 0:
+            # word_slice size(b_size, 1), is correct
+            ## This is where you add teacher forcing
+            index = len(slices)
+            i_vec = Variable(torch.LongTensor([index]))
+            # TODO: use tensor combine/add_with_mask operator here instead.
+            output_slice_forced = output_word_batch \
+                if random.random() > teacher_r or index >= target_size \
+                else target.index_select(1, i_vec)
+            output_embedded, hidden = self.decoder(self.decoder.embed(output_slice_forced), hidden)
+            # convert embedded to class_index here
+            output_word_batch = self.decoder.extract(output_embedded)
+
+            # Now add the slices to the output stack. word_slice(b_size, 1) -> size(b_size)
+            slices.append(output_word_batch.view(batch_size))
+            embeded_outputs.append(output_embedded.view(batch_size, -1))
+
+            for ind, s in enumerate(output_word_batch):
+                s_index = int(s.data.numpy()[0])
+                if ind in eos_flags:
+                    if s_index == self.output_lang.EOS_ind:
+                        eos_flags.remove(ind)
+
+        # TODO: fix mismatch output between evaluate and forward.
+        return torch.stack(slices, dim=1), hidden, torch.stack(embeded_outputs, dim=1)
 
     def setup_training(self, learning_rate):
         self.optimizer = torch.optim.Adam(self.parameters(), lr=learning_rate)
@@ -155,10 +167,11 @@ class VanillaSequenceToSequence(nn.Module):
     def load(self, fn):
         checkpoint = torch.load(fn)
         self.load_state_dict(checkpoint['state_dict'])
-        # self.losses = checkpoint['losses']
+        return checkpoint
 
-    def save(self, fn="SeqToSeq.tar"):
-        torch.save({
-            "state_dict": self.state_dict(),
-            # "losses": self.losses
-        }, fn)
+    def save(self, fn="seq-to-seq.cp", meta=None, **kwargs):
+        d = {k: kwargs[k] for k in kwargs}
+        d["state_dict"] = self.state_dict()
+        if meta is not None:
+            d['meta'] = meta
+        torch.save(d, fn)

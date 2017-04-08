@@ -17,17 +17,9 @@ def normalizeString(s):
     return s
 
 
-CJK_LANGUAGES = ['cmn', 'jpn']  # , 'kor']
-
-
-def tokenize(sentence, is_cjk=False):
-    if is_cjk:
-        tokens = [char for seg in sentence.split(' ') for char in seg]
-        return tokens
-    return sentence.split(' ')
-
-
 import utils
+
+CJK_LANGUAGES = ['cmn', 'jpn']  # , 'kor']
 
 
 class Language:
@@ -41,11 +33,16 @@ class Language:
         self.SOS_ind = 1
         self.EOS = '<EOS>'
         self.EOS_ind = 2
-        self.index2word = {self.NULL_ind: self.NULL, self.SOS_ind: self.SOS, self.EOS_ind: self.EOS}
+        self.index2word = {
+            self.NULL_ind: self.NULL,
+            self.SOS_ind: self.SOS,
+            self.EOS_ind: self.EOS
+        }
         self.n_words = 3
+        self.CJK_LANGUAGES = CJK_LANGUAGES
 
     def add_sentence(self, sentence):
-        for word in tokenize(sentence, is_cjk=(self.name in CJK_LANGUAGES)):
+        for word in self.tokenize(sentence):
             self.add_word(word)
 
     def add_word(self, word):
@@ -57,10 +54,22 @@ class Language:
         else:
             self.word2count[word] += 1
 
-    def pad_target(self, target_unpadded):
-        return [
-            [self.SOS_ind] + s for s in target_unpadded
-        ]
+    def tokenize(self, sentence):
+        is_cjk = self.name in self.CJK_LANGUAGES
+        if is_cjk:
+            # ledger.warn('is CJK language!', lang.name)
+            return [char for seg in sentence.split(' ') for char in seg]
+        return sentence.split(' ')
+
+    def sentence_to_indexes(self, sentence):
+        return [self.word2index[w] for w in self.tokenize(sentence)]
+
+    def indexes_to_sentence(self, indexes):
+        ledger.debug(indexes[0])
+        is_cjk = self.name in self.CJK_LANGUAGES
+        if is_cjk:
+            return ''.join([self.index2word[i] for i in indexes])
+        return ' '.join([self.index2word[i] for i in indexes])
 
     def summarize(self):
         utils.ledger.green('{}'.format(self.name), end=' ')

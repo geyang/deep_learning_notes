@@ -1,0 +1,1896 @@
+Who?	¿Quién?
+I lost.	Ya perde yo.
+Listen.	Oí!
+I'm sad.	Triste yo.
+Cuff him.	Poné posas cunele.
+Hurry up.	Apurá.
+I'm sure.	Siguráo yo.
+I've won.	Ya ganá yo.
+Kiss Tom.	Besá cun Tom.
+Kiss Tom.	Man-kiss cun Tom.
+They won.	Ya ganá silá.
+Don't run.	No corré!
+Forget it!	Olvidá ya cunaquel!
+We can go.	Puede kitá andá.
+Who's ill?	Quien enfermo?
+Birds sing.	Mga pajaro ta cantá.
+Bring wine.	Llevá vino.
+Don't move!	No mové!
+I am tired.	Cansáo yo.
+I love you.	Ta amá yo contigo.
+I'm so fat.	Bien gordo gayót yo.
+Is Tom ill?	Enfermo ba si Tom?
+Where am I?	Donde yo?
+Are you fat?	Gordo tu?
+He's a slob.	Haragán ele.
+He's a slob.	Ele un haragán.
+How are you?	¿Qué tal?
+How are you?	¿Qué tal, usted?
+I eat bread.	Ta comé yo pan.
+I have eyes.	Tiene yo ojos.
+I have eyes.	Tiene yo maga ojos.
+I like milk.	Quiere quiere yo leche.
+I saw a dog.	Ya mirá yo un perro.
+I trust you.	Ta confiá yo contigo.
+I work here.	Aqui yo ta trabajá.
+I'll buy it.	Ay cumprá yo cunese.
+I'm a woman.	Mujer yo.
+I'm unlucky.	Malas yo.
+Is that all?	Amó lang ese?
+It's a fish.	Pescáo ese.
+That is wet.	Mojáo se.
+Tom coughed.	Ya tosé si Tom.
+Who are you?	Quien tu?
+Who said it?	Quien ya hablá?
+Are you busy?	¿Ocupao usted?
+Are you busy?	¿Ocupao tú?
+Are you busy?	¿Ocupao vos?
+Are you busy?	¿Usted ocupado?
+Are you busy?	¿Tú ocupado?
+Are you busy?	¿Evos ocupado?
+Are you home?	Tallí tu na casa?
+Are you sure?	Siguráo tu?
+Come with me.	Siguí comigo.
+Count to ten.	Contá hasta diez.
+Don't litter!	No butá basura!
+Grab a spoon.	Sacá cuchara.
+Have a snack.	Merendá.
+I drank milk.	Ya tomá yo leche.
+I have a pen.	Tiene yo bolpen.
+I like bread.	Quiere quiere yo pan.
+I like candy.	Quiere quiere yo candy.
+I need sugar.	Necesita yo azúcar.
+I read books.	Ta lé yo maga libro.
+I understood.	Ya entendé yo.
+I've decided.	Ya decidi yo.
+Is this true?	Deberasan ba esté?
+Is this wine?	Vino esté?
+My eyes itch.	Rasca de mío maga ojos.
+My legs hurt.	Ta duelé de mío maga pierna.
+Wake up, Tom.	Tom, despertá.
+We have wine.	Tiene kamé vino.
+What's wrong?	Cosa el problema?
+Are you crazy?	Loco loco ba tu?
+Don't kill me.	No cumigo matá.
+Don't kiss me.	No cumigo besá.
+He fooled her.	Ya hacé le loco cunele.
+He hugged her.	Ya abrazá le cunele.
+He needs help.	Necesita ele ayuda.
+His nose bled.	Ya salé sangre de suyo nariz.
+I already ate.	Ya comé ya yo.
+I am studying.	Ta estudiá yo.
+I am to blame.	De mío el culpa.
+I found these.	Ya encontrá yo cunestos.
+I have to eat.	Necesita yo comé.
+I have to run.	Necesita yo corré.
+I have to try.	Necesita yo prubá.
+I have to win.	Necesita yo ganá.
+I made coffee.	Ya templá yo café.
+I saw a mouse!	Ya mirá yo ratón!
+I smell blood.	Ta ulí yo sangre.
+I want coffee.	Quiere yo café.
+I was ashamed.	Yan juyá yo.
+I'm not blind.	Hindé yo bulág.
+I've got wine.	Tiene yo vino.
+Is that blood?	Sangre ese?
+Is this yours?	De tuyo esté?
+Just take one.	Uno lang sacá.
+Let him do it.	Dejá cunele hacé cunese.
+Let's go back.	Virá kitá olét.
+My back hurts.	Ta duelé de mío costáo.
+My back hurts.	Ta duelé de mío atrás.
+My neck hurts.	Ta duelé de mío pescuezo.
+That's a book.	Libro ese.
+They are here.	Taquí silá.
+They're early.	Temprano silá.
+They're wrong.	Malí silá.
+Tom asked why.	Ya priguntá si Tom por qué.
+Tom went pale.	Yam puklá si Tom.
+Tom went pale.	Ya quedá puklá si Tom.
+We need paper.	Necesita kamé papel.
+We're nervous.	Ta nerviá kamé.
+You're a slob.	Usted un haragán.
+You're a slob.	Tú un haragán.
+You're a slob.	Vos un haragán.
+You're a slob.	Evos un haragán.
+You're a slob.	Haragán usted.
+You're a slob.	Haragán Tú.
+You're a slob.	Haragán vos.
+Are you hungry?	Cun hambre tu?
+Be careful, OK?	Tiene cuidáo, ha?
+Close the book.	Cerrá el libro.
+Get everything.	Saca todo.
+Get me a towel.	Sacá cumigo un toalla.
+Good afternoon.	¡Buenas tardes!
+He saw it, too.	Ya mirá tamén le cunaquel.
+He sells fruit.	Ta vendé le frutas.
+He was panting.	Ta hipá ele.
+I ate an apple.	Ya comé yo un manzanas.
+I ate the meat.	Ya comé yo cunel carne.
+I brought wine.	Ya llevá yo vino.
+I drank coffee.	Ya tomá yo café.
+I drink coffee.	Ta tomá yo café.
+I have to help.	Necesita yo ayudá.
+I have to hide.	Necesita yo escondé.
+I have to know.	Necesita yo sabé.
+I have to rest.	Necesita yo descansá.
+I have to stay.	Necesita yo quedá.
+I have to wait.	Necesita yo esperá.
+I have to work.	Necesita yo trabajá.
+I left my wife.	Ya dejá yo cunel de mío esposa.
+I need a towel.	Necesita yo un toalla.
+I smell coffee.	Ta puede yo ulí café.
+I'll stay home.	Ay quedá yo na casa.
+I've found Tom.	Ya encontrá yo cun Tom.
+Is that a ring?	Anillo ese?
+Is that coffee?	Café ese?
+It's not blood.	HIndê 'se sangre.
+It's not clean.	Hindê se limpio.
+My nose itches.	Rasca de mio nariz.
+No one can say.	Nuay quien puede hablá.
+Open this door.	Abri este puerta.
+Open your eyes.	Abri tu ojos.
+Pigs can't fly.	No puede volá el maga puerco.
+She cooks well.	Bueno le cusí.
+She kissed him.	Ya besá le conele.
+Sugar is sweet.	Dulce el azúcar.
+Tell the truth.	Habla tu el verdad.
+The tea is hot.	Caliente el cha.
+This is normal.	Normal lang esté.
+Tom can't come.	No puede vené si Tom.
+Tom drank milk.	Ya tomá si Tom leche.
+Tom drank milk.	Ya tomá leche si Tom.
+Tom gave blood.	Ya doná sangre si Tom.
+Tom has asthma.	Tiene asma si Tom.
+Tom is nervous.	Ta nerviá si Tom.
+Tom is reading.	Ta lé si Tom.
+Tom isn't home.	Nuáy si Tom na casa.
+Tom likes wine.	Quiere quiere si Tom vino.
+We're up early.	Temprano kamé ya dispiertá.
+Where are they?	Donde ya silá?
+Where is Paris?	Donde puedé encontrá cunel Paris?
+Why do you ask?	Por que tu ta priguntá?
+You're nervous.	Ta nerviá tu.
+Are you Chinese?	Chino tu?
+Are you Chinese?	Chino ustedes?
+Bend your knees.	Dublá de tuyo rodillas.
+Bend your knees.	Dublá de tuyo dos tuhúd.
+Call the police!	Llamá cunel policía!
+Can you breathe?	Ta puedé tu resollá?
+Count to thirty.	Cuntá hasta treinta.
+Do you eat meat?	Ta comé tu carne?
+Do you know why?	Sabe tu por que?
+Do you remember?	Ta acordá tu?
+Don't be afraid.	No tené miedo.
+Drink your milk.	Tomá de tuyo leche.
+Get out of here.	Salé aqui.
+He bought a car.	Ya comprá le coche.
+His name is Tom.	Tom de suyo nombre.
+How old are you?	¿Cuántos años ya usted?
+How old are you?	¿Cuántos años ya tú?
+How old are you?	¿Cuántos años ya vos?
+How old are you?	¿Cuántos años ya evos?
+How old are you?	¿Usted, cuántos años ya?
+How old are you?	¿Tú, cuántos años ya?
+How old are you?	¿Vos, cuántos años ya?
+How old are you?	¿Evos, cuántos años ya?
+I don't need it.	Hindé yo necesita cunese.
+I have ten pens.	Tiene yo diez ballpen.
+I have to agree.	Necesita yo conformá.
+I have to hurry!	Necesita yo apurá!
+I have to leave.	Necesita ya yo andá.
+I have to sleep.	Necesita yo durmí.
+I have to think.	Necesita yo pensá.
+I have two sons.	Tiene yo dos anák hombre.
+I hope Tom wins.	Ta esperanzá yo ganá si Tom.
+I just got home.	Nuevo lang yo ya llegá na casa.
+I need a hammer.	Necesita yo un martillo.
+I need scissors.	Necesita yo tijeras.
+I need you here.	Necesita yo cuntigo aquí.
+I only want one.	Uno lang yo quiere.
+I tried to help.	Ya pricurá yo ayudá.
+Is he breathing?	Ta resollá le?
+Is this a dream?	Sueño ba esté?
+It's not a game.	Hindé se juego.
+It's only blood.	Sangre lang ese.
+It's your money.	De tuyo se sen.
+It's your money.	De tuyo se dinero.
+That's not easy.	Hindê se fácil.
+The leaves fell.	El maga hojas ya caé.
+The leaves fell.	El mana hojas ya caé.
+They'll kill me.	Ay matá silá comigo.
+This is our bag.	Este diamon bag.
+Tom died in bed.	Ya murí si Tom na cama.
+Tom drinks wine.	Ta tomá si Tom vino.
+Tom drinks wine.	Ta tomá vino si Tom.
+Tom felt guilty.	Ya sintí culpable si Tom.
+Tom sells fruit.	Ta vendé frutas si Tom.
+Tom wants to go.	Quiere andá si Tom.
+Tom was furious.	Bien rabiao gayot si Tom.
+We have bananas.	TIene kamé ságuing.
+What time is it?	Que hora ya?
+You may go home.	Puede ya tu volvé na casa.
+A lion is strong.	Mafuersa el león.
+Are you still up?	Despierto pa tu?
+Are you studying?	¿Ta estudía usted?
+Are you studying?	¿Ta estudía tú?
+Are you studying?	¿Ta estudía vos?
+Are you studying?	¿Usted ta estudía?
+Are you studying?	¿Tú ta estudía?
+Are you studying?	¿Vos ta estudía?
+Are you studying?	¿Evos ta estudía?
+Aren't you tired?	Hindê tu cansao?
+Breathe normally.	Resollá normalmente.
+Cows supply milk.	Ta dale leche el maga vaca.
+Did the dog bark?	Ya ladrá el perro?
+Do you have a TV?	Tiene tu TV?
+Do you want wine?	Quiere tu vino?
+Don't look at it.	Numá mirá cunese.
+Give me the wine.	Dale cumigo el vino.
+Give me the wine.	Alcanzá cumigo el vino.
+He comes at noon.	Mediodía le ta vené.
+He moves quickly.	Ligiero ele mové.
+He needs a towel.	Necesita le toalla.
+He went far away.	Ya andá le bien lejos.
+Her hair is long.	Largo de suyo pelo.
+I bought a watch.	Ya comprá yo reloj de mano.
+I can't remember.	No puede yo acordá.
+I can't remember.	Hindé yo ta acordá.
+I closed my eyes.	Ya cerrá yo de mi mga ojos.
+I don't eat meat.	Hindé yo ta comé carne.
+I drank the wine.	Ya tomá yo cunel vino.
+I have to cancel.	Necesita yo cancelá.
+I have to change.	Necesita yo cambiá.
+I have two books.	Tiene yo dos libro.
+I know I'm early.	Sabe yo temprano yo ya llegá.
+I know the owner.	Conoce yo cunel dueño.
+I made a mistake.	Yan kamalí yo.
+I might be wrong.	Baká malí yo.
+I sell umbrellas.	Ta vendé yo maga páyung.
+I was young once.	Joven yo antes.
+I won't be there.	Ay hindé yo abuyá allá.
+Is Tom in charge?	Si Tom el encargáo?
+Is this your car?	De tuyo esté coche?
+Is this your car?	De ustedes esté coche?
+It's almost noon.	Cerca ya mediodía.
+It's ten to nine.	Diez minutos para alas nueve ya.
+Its color is red.	Colorao el color de ese.
+Listen carefully.	Oí enbuenamente.
+Look at the moon.	Mirá tu cunel luna.
+My uncle is rich.	Rico de mío tío.
+Now I understand.	Ta entendé ya yo ahora.
+She is obstinate.	Durocabeza le.
+The door is open.	Abierto el puerta.
+The room is dark.	Escuro el cuarto.
+The towel is dry.	Seco el toalla.
+The towel is wet.	Mojao el toalla.
+The wind stopped.	Ya pará el viento.
+This isn't funny.	Hindê esté makarisas.
+Tom began to run.	Ya principiá corré si Tom.
+Tom began to run.	Ya empezá corré si Tom.
+Tom eyes widened.	Ya ardé el ojos de Tom.
+Tom fed the pigs.	Ya dale comé si Tom cunel maga puerco.
+Tom is a fat man.	Gordo gente si Tom.
+Tom is breathing.	Ta resollá si Tom.
+Tom is terrified.	Tiene miedo si Tom.
+Tom isn't inside.	Nuáy adentro si Tom.
+Tom was prepared.	Preparáo si Tom.
+We just finished.	Nuevo lang kamé ya acabá.
+What did you buy?	Cosa tu ya comprá?
+What did you say?	Cosa tu ya hablá?
+What do you want?	Cosa tu quiere?
+What is the news?	Cosa el noticia?
+Where is my comb?	Donde ya de mío peine?
+Where is the cat?	Donde el gato?
+Where's the exit?	Donde el salida?
+You are children.	Mga bata kamó.
+You can't say no.	No puede tu man hendé.
+You have a guest.	Tiene tu visita.
+You're so skinny.	Flaco gayot tu.
+You're so skinny.	Bien flaco man tu.
+Add a little milk.	Aumentá un poco leche.
+Birds build nests.	Ta hacé pugarán el maga pajaro.
+Breathe in deeply.	Resollá hondo.
+Choose one person.	Escogí un gente.
+Do they like wine?	Quiere quiere silá vino?
+Do you drink wine?	Ta tomá tu vino?
+Do you have a car?	Tiene tu coche?
+Do you have money?	Tiene tu sen?
+Do you know where?	Sabe tu donde?
+Do you see a rose?	Ta mirá tu un rosas?
+Do you sell fruit?	Ta vendé tu frutas?
+Don't wake him up.	No cunele despiertá.
+Don't wake him up.	No despertá cunele.
+Give me the knife.	Dale cumigo el cuchillo.
+Give me the spoon.	Dale cumigo el cuchara.
+Hand me the knife.	Alcanzá cumigo el cuchillo.
+He does not smoke.	Hindê le ta fumá.
+He kissed my neck.	Ya besá le de mío pescuezo.
+He started to cry.	Ya principiá le llorá.
+Her nails are red.	Colorao de suyo maga uñas.
+Her skirt is long.	Largo de suyo falda.
+His eyes are blue.	Azul de suyo ojos.
+How's your mother?	Que tal de tuyo nana?
+I am baking bread.	Ta cucí yo pan.
+I ate a hamburger.	Ya comé yo hamburger.
+I covered my ears.	Ya tapá yo de mio mga orejas.
+I cried all night.	Entero noche yo ya llorá.
+I cried all night.	Ya llorá yo entero noche.
+I found the money.	Ya encontrá yo cunel dinero.
+I found the money.	Ya encontrá yo cunel sen.
+I have a blue car.	Tiene yo un coche azul.
+I have to find it.	Necesita yo encontrá cunaquel.
+I need a calendar.	Necesita yo un calendario.
+I saw him running.	Ya mira yo conele ta corre.
+I want to be rich.	Quiere yo quedá rico.
+I won the lottery.	Ya ganá yo na loto.
+I'm all right now.	OK ya yo ahora.
+I'm still thirsty.	Uháw pa yo siempre.
+I've visited Nara.	Ya visitá yo cun Nara.
+Is that your wife?	Amó se de tuyo mujer?
+Is that your wife?	Amó se de tuyo esposa?
+Is this your wine?	De tuyo esté vino?
+Is this your wine?	Este de tuyo vino?
+It's not done yet.	Nuáy pa acabá.
+It's on the table.	Tallá encima del mesa.
+My dogs are white.	Blanco de mio mga perro.
+My knife is sharp.	Agudo el cuchillo.
+She has long hair.	Tiene le largo pelo.
+That won't happen.	Ay hindê se sucedé.
+The coffee is hot.	Caliente el café.
+The knife is dull.	Mapurúl el cuchillo.
+The market is big.	Grande el tiángue.
+The party is over.	Ya acabá ya el party.
+The sun is rising.	Ta salé ya el sol.
+They drank coffee.	Ya tomá silá café.
+They kidnapped me.	Ya abductá silá cumigo.
+They're using you.	Ta usá silá cuntigo.
+Tom borrowed mine.	Ya prestá si Tom el de mío.
+Tom coughed again.	Ya tosé olét si Tom.
+Tom drinks coffee.	Ta tomá si Tom café.
+Tom is undressing.	Ta desnudá si Tom.
+Tom loved bananas.	Quiere quiere si Tom ságuing.
+Tom seems nervous.	Dol ta nerviá si Tom.
+Tom speaks loudly.	Todas tan cuento si Tom.
+We can't help Tom.	No puede kamé ayudá cun Tom.
+We can't help Tom.	No puede kitá ayudá cun Tom.
+What is your name?	¿Cósa es tu nombre?
+What is your name?	¿Cósa de usted nombre?
+What is your name?	¿Cósa de tu nombre?
+What is your name?	¿Cósa de vos nombre?
+What is your name?	¿De usted nombre, cósa?
+What is your name?	¿De tu nombre, cósa?
+What's the number?	Cosa el número?
+Where's the bread?	Donde ya el pan?
+Where's the knife?	Donde el cuchillo?
+Who ate the bread?	Quien ya comé cunel pan?
+Who broke the cup?	Quien ya asé quebra conel vaso?
+Won't you come in?	Hindé tu entrá?
+Wood burns easily.	Pronto quemá el palo.
+You can sleep now.	Puede ya tu durmí ahora.
+You can't sell it.	No puede tu cunese vendé.
+You must hurry up.	Necesita tu apurá.
+You must see this.	Necesita tu mirá cuneste.
+Are you hungry now?	Cun ambre ya tu?
+Are you in a hurry?	Apuráo tu?
+Bananas are yellow.	Amarillo el maga ságuing.
+Can I get a tattoo?	Puede yo mandá man tatú?
+Check the calendar.	Chequeá na calendario.
+Do I have to study?	Necesita ba yo estudiá?
+Does he have a dog?	Tiene ba ele perro?
+Don't ask me again.	Numá cumigo priguntá olet.
+Give me the shovel.	Dale cumigo el pala.
+He has a long neck.	Tiene le largo pescuezo.
+He heard the noise.	Ya oí le el alboroto.
+He raised his hand.	Ya alsá le de suyo mano.
+He showed it to me.	Ya dale le mirá cumigo aquel.
+He started singing.	Ya principiá le cantá.
+He went for a walk.	Ya andá le paseá.
+He's not my father.	Hindé ele de mío tata.
+How is your sister?	Que tal tuyo hermana?
+I am not a teacher.	Hinde yo maestro.
+I coughed up blood.	Ya tosé yo sangre.
+I don't have vodka.	Nuay yo vodka.
+I don't want to go.	No quiere yo andá.
+I have to eat, too.	Necesita tamén yo comé.
+I have to paint it.	Necesita yo pintá cunese.
+I have to rehearse.	Necesita yo man-practice.
+I have two cousins.	Tiene yo dos primo.
+I haven't told Tom.	No hay yo ablá cun Tom.
+I know what I want.	Sabe yo cosa yo quiere.
+I left my bag here.	Aquí yo ya dejá de mío bag.
+I saw the man jump.	Ya mirá yo cunel gente saltá.
+I use it every day.	Todo'l dia yo ta usá cunese.
+I want a boyfriend.	Quiere yo tené un novio.
+I want to help you.	Quiere yo ayudá cuntigo.
+I'm angry with her.	Rabiao yo conele.
+I'm going in first.	Yo una entrá.
+It's not important.	Hindê se importante.
+Maybe it was a cat.	Baká gato aquel.
+Milk is nutritious.	Nutricioso el leche.
+Milk is nutritious.	Ma-sustancia el leche.
+My apples are gone.	Perdido de mío maga manzanas.
+My legs feel heavy.	Ta sintí yo pesao de mío maga pierna
+My legs still hurt.	Ta duelé siempre de mío maga pierna.
+No one noticed Tom.	Nuay quien ya golé cun Tom.
+Please make coffee.	Favor templá café.
+She was born blind.	Ya nacé le bulág.
+Shut up and listen.	Callá boca y oí!
+Tell me what it is.	Hablá cumigo cosa aquel.
+The car hit a tree.	Yam banggá el coche na un ponô.
+The car was stolen.	Ya rubá cunel coche.
+The coffee is cold.	Frío el café.
+The dog is barking.	Ta ladrá el perro.
+The knife is dirty.	Mabuling el cuchillo.
+The moon is bright.	Claro el luna.
+The skirt is green.	Color verde el falda.
+The spoon is dirty.	Mabuling el cuchara.
+The tree fell down.	Ya tumbá el ponô.
+The window is open.	Abierto el ventana.
+The woman is naked.	Borles el mujer.
+They eat chocolate.	Ta comé silá chocolate.
+They're mad at you.	Loco sila contigo.
+They're mad at you.	Loco sila con usted.
+They're mad at you.	Loco sila con vos.
+This fork is dirty.	Mabuling esté tenedor.
+This fork is dirty.	Ma-sucio esté tenedor.
+This is my bicycle.	Esté de mío bike.
+This is my brother.	Este de mio hermano.
+Those are my pants.	De mio aquél pantalón.
+Tom became nervous.	Ya nerviá si Tom.
+Tom freed the bird.	Ya largá si Tom cunel pajaro.
+Tom hugged his dog.	Ya abrazá si Tom de suyo perro.
+Tom is my neighbor.	Vecinos de mío si Tom.
+Tom is on the roof.	Tallá si Tom arriba techo.
+Tom is really rich.	Bien rico gayót si Tom.
+Tom is still angry.	Rabiáo pa siempre si Tom.
+Tom is very stingy.	Bien kuríput si Tom.
+Tom kicked the can.	Ya pateá si Tom cunel lata.
+Tom needs help now.	Necesita si Tom ayuda ahora.
+Tom screamed again.	Ya gritá olét si Tom.
+Tom whistled again.	Ya chiplá olét si Tom.
+Was that your plan?	Amó aquel de tuyo plano?
+We have a surprise.	Tiene kamé sorpresa.
+We know what to do.	Sabe kamé cosa hacé.
+We must follow Tom.	Debe kamé siguí cun Tom.
+We prayed for rain.	Ya resá kamé para cai ulán.
+We've done our job.	Ya hacé ya kamé de amon trabajo.
+What are those for?	Para cosa esos?
+What were you told?	Cosa cuntigo ya hablá?
+When can I see you?	Cuando kitá puede man mirahan?
+When will you come?	Cuando tu vené?
+Where are you from?	¿De dónde usted?
+Where are you from?	¿De dónde tú?
+Where are you from?	¿De dónde vos?
+Where are you from?	¿De dónde evos?
+Where are you from?	¿Usted, de dónde?
+Where are you from?	¿Tú, de dónde?
+Where are you from?	¿Vos, de dónde?
+Where are you from?	¿Evos, de dónde?
+Where could Tom be?	Donde ya gahá si Tom?
+Where do you study?	Donde tu ta entrá escuela?
+Where is my pencil?	Donde ya de mío lápiz?
+Where's the doctor?	Donde ya el doctor?
+Whose book is this?	De quien libro esté?
+Whose wine is this?	De quien esté vino?
+Why are you crying?	Por que tu ta llorá?
+Why do you like it?	Por que tu quiere cunese?
+You broke your arm.	Ya quebrá de tuyo braso.
+You bumped into me.	Yambanggá tu cumigo.
+You look exhausted.	Dol bien cansáo man tu.
+You're not like me.	Hindé tu igual cumigo.
+You're too nervous.	Nervioso gayót tu.
+Are these your keys?	De tuyo esté mga llave?
+Can you play guitar?	Sabe tu tocá guitarra?
+Can you reach those?	Puede tu alcanzá cunesos?
+Climb onto the roof.	Subí na techo.
+Did you come for me?	Ya vené tu por causa cumigo?
+Do you drink coffee?	Ta tomá tu café?
+Do you drink coffee?	Ta tomá ustedes café?
+Do you drink coffee?	Ta tomá vosotros café?
+Do you have a knife?	Tiene tu cuchillo?
+Don't trust anybody.	Numá confiá masquín cun quien.
+Don't you feel cold?	Hindé tu ta sintí frio?
+Give them my number.	Dale kanila el de mío número.
+He boarded the ship.	Ya subí le na barco.
+He got on the train.	Ya entrá le na tren.
+He is very busy now.	Bien busy gayot le ahora.
+He went to the shop.	Ya andá le na tienda.
+He's really selfish.	Bien lagák gayót le.
+Here's what we know.	Esté el cosa kamé sabe.
+I arrived yesterday.	Ayer yo ya llegá.
+I climbed the fence.	Ya subí yo na corral.
+I did not know this.	Nuáy man yo sabé cunese.
+I don't want to cry.	No quiere yo llorá.
+I folded the towels.	Ya doblá yo cunel maga toalla.
+I have many friends.	Manada yo amigo.
+I have to apologize.	Necesita yo pidí disculpá.
+I have to help Mary.	Necesita yo ayudá cun María.
+I have to thank him.	Necesita yo rindí gracias cunele.
+I have to visit Tom.	Necesita yo visitá cun Tom.
+I just want to know.	Quiere lang yo sabé.
+I know what Tom did.	Sabe yo cosa ya hacé si Tom.
+I know you're angry.	Sabe yo rabiao tu.
+I said I would help.	Ya hablá yo ayudá yo.
+I speak French, too.	Sabe también yo man cuento French.
+I tried to help Tom.	Ya pricurá yo ayudá cun Tom.
+I want to eat pizza.	Quiere yo comé pizza.
+I want to play, too.	Quiere también yo jugá.
+I went to the river.	Ya andá yo na río.
+I will miss you all.	Ay man miss yo cun ustedes todo.
+I'll buy a calendar.	Ay cumprá yo un calendario.
+I'll dance with Tom.	Ay bailá kamé dos de Tom.
+I'll never tell you.	Nunca yo ay hablá cuntigo.
+I'll take you there.	Ay llevá yo cuntigo allá.
+I'll wait till noon.	Ay esperá yo hasta mediodía.
+I'm bigger than you.	Mas grande yo contra cuntigo.
+I'm in the hospital.	Na ospital yo.
+I've changed my job.	Ya cambiá yo mío trabajo.
+Is it going to rain?	Man ulán gahá?
+Is it going to rain?	Ay cáe gahá ulán?
+Is it sweet or sour?	Dulce se o ágrio?
+Is it windy outside?	Maviento afuera?
+It's happened to me.	Ya sucedé ese cumigo.
+Let's try this cake.	Prubá kitá cuneste cake.
+My fingers are numb.	Intumido de mío maga dedo.
+My neck still hurts.	Ta duelé siempre de mío pescuezo.
+My wife is a doctor.	Un doctora de mío esposa.
+No one believes you.	Nuáy quien ta cré cuntigo.
+One fork is missing.	Falta un tenedor.
+One of you is lying.	Uno diinyo tan embusterías.
+Please drive safely.	Por favor manejá cun cuidáo.
+Put the shovel down.	Largá cunel pala.
+Put the shovel down.	Poné abajo cunel pala.
+Sharpen your pencil.	Amulá de tuyo lápiz.
+She has two sisters.	Tiene le dos hermana.
+She studies English.	Ta estudiá le inglés.
+Should I be jealous?	Necesita ba yo man celos?
+Show me the picture.	Dale cumigo mirá el retrato.
+Something's burning.	Tiene cosa ta quemá.
+Tell us where to go.	Hablá kanamon donde kamé andá.
+The new car is hers.	De suyo el nuevo coche.
+The ship is sinking.	Ta sumí el barco.
+The soup's very hot.	Bien caliente el caldo.
+The trees are green.	Verde el mga pono.
+There's nobody home.	Nuáy gente na casa.
+This apple is sweet.	Dulce este manzanas.
+This is Tom's knife.	Cuchillo esté de Tom.
+This is not a tiger.	Hinde este tigre.
+This is their house.	Éste deíla casa.
+This paper is rough.	Makasap este papel.
+Tom arrived at 2:30.	Alas 2:30 si Tom ya llegá.
+Tom bites his nails.	Ta mordé si Tom de suyo maga uñas.
+Tom called the cops.	Ya llamá si Tom cunel mga pulís.
+Tom closed his eyes.	Ya cerrá si Tom de suyo mga ojos.
+Tom didn't get paid.	Nuáy recibí si Tom cunel pago.
+Tom ducked his head.	Ya agachá si Tom de suyo cabeza.
+Tom eats like a pig.	Dol puerco si Tom si ta comé.
+Tom gave us the key.	Ya dale si Tom el llave kanamon.
+Tom has a black dog.	Tiene si Tom un perro negro.
+Tom hid his weapons.	Ya escondé si Tom cunel maga armas de suyo.
+Tom is a politician.	Político si Tom.
+Tom is good-looking.	Pogi si Tom.
+Tom licked his lips.	Ya lambé si Tom de suyo mga labios.
+Tom sat at his desk.	Ya sintá si Tom na de suyo mesa.
+Tom speaks too fast.	Bien paspás gayot man cuento si Tom.
+Tom's not breathing.	Hindê ta resollá si Tom.
+We need to find Tom.	Necesita kitá encontrá cun Tom.
+We need to find Tom.	Necesita kamé encontrá cun Tom.
+We're Tom's parents.	Kamé el tata'y nana de Tom.
+We've been so lucky.	Bien suerte kitá.
+We've been so lucky.	Bien suerte kamé.
+We've got a visitor.	Tiene kitá visita.
+We've got a visitor.	Tiene kamé visita.
+We've got a witness.	Tiene kamé testigo.
+What do you call it?	Cosa tu ta llamá cunese?
+What's your opinion?	Cosa de tuyo opinión?
+When do we get paid?	Cuando kamé recibí el pago?
+Where are the forks?	Donde ya el maga tenedor?
+Where are the shoes?	Donde ya el maga zapatos?
+Where's my umbrella?	Donde ya de mío páyung?
+Where's the airport?	Donde parte el aeropuerto?
+Who owns this house?	Quien ta dueñá cuneste casa?
+Who were those guys?	Quien aquellos mga gente?
+Why did you give up?	Por que tu ya rindí?
+You can't deny that.	No puede tu negá cunese.
+You don't know that.	Nusabe tu cunese.
+You saved our lives.	Ya salvá tu diámon vida.
+Your friend is here.	Taqui de tuyo amigo.
+Add sugar to the tea.	Aumentá azúcar na chá.
+Are you still hungry?	Cun hambre pa tu siempre?
+Both dogs are asleep.	Ambos magá perro ta durmí.
+But you're not there.	Pero no hay tu allá.
+Can we come with you?	Puede kamé siguí cuntigo?
+Can we come with you?	Puede kamé siguí cun ustedes?
+Can we rest a moment?	Puede kitá descansá un rato?
+Can we rest a moment?	Puede kamé descansá un rato?
+Can you come with me?	Puede tu siguí cumigo?
+Can you come with me?	Puede ustedes siguí cumigo?
+Can you help me here?	Puede tu ayudá cumigo aquí?
+Did I give it to you?	Ya dale yo cuntigo?
+Did Tom see anything?	Tiene si Tom cosa ya puede mirá?
+Did you buy any eggs?	Ya cumprá tu huevos?
+Did you use my knife?	Ya usá tu de mío cuchillo?
+Do you know who I am?	Sabe tu quien yo?
+Do you like my shoes?	Ya gustá tu de mío sapatos?
+Give me another nail.	Dale cumigo otro clavo.
+Give me the notebook.	Dale cumigo el cuaderno.
+Give us what we want.	Dale kanamon cosa kamé quiere.
+He crossed the river.	Ya travesá le na río.
+He had fifty dollars.	Tiene le cincuenta dollares.
+He has a hairy chest.	Ma-pelo de suyo pecho.
+He married my cousin.	Ya casá le de mío prima.
+He needs an umbrella.	Necesita le páyung.
+He picked up a stone.	Ya pipiná le un piedra.
+He works at the bank.	Ta trabajá le na banco.
+He's in the hospital.	Talla le na hospital.
+He's in the hospital.	Ele na hospital.
+He's in the hospital.	Na hospital ele.
+He's in the hospital.	Na hospital le.
+He's in the hospital.	Ele tallá na hospital.
+He's in the hospital.	Tallá le na hospital.
+He's in the hospital.	Tallá ele na hospital.
+His blood is boiling.	Ta herví de suyo sangre.
+How did you get here?	Pakimodo tu ya llegá aquí?
+How much is this hat?	¿Cuánto este sombrero?
+I ate fish yesterday.	Ya comé yo pescao ayer.
+I ate three hot dogs.	Ya comé yo tres hotdog.
+I bought an umbrella.	Ya comprá yo un páyung.
+I came here with Tom.	Ya vené yo aquí cun Tom.
+I closed my umbrella.	Ya cerrá yo de mío páyung.
+I don't want to stay.	No quiere yo quedá.
+I don't want to stop.	No quiere yo pará.
+I don't want to swim.	No quiere yo nadá.
+I don't want to wait.	No quiere yo esperá.
+I don't want to work.	No quiere yo trabajá.
+I forget who said it.	Ya olvidá yo quien ya hablá cunaquel.
+I have a sharp knife.	Tiene yo un cuchillo agudo.
+I have to wear boots.	Necesita yo usá botas.
+I love fried bananas.	Quiere gayot yo frito ságuing.
+I made a paper plane.	Ya hacé yo eroplano de papel.
+I saw Tom last night.	Ya mirá yo cun Tom anoche.
+I saw a sleeping dog.	Ya mirá yo un perro durmido.
+I want you to use it.	Quiere yo usá tu cunese.
+I'll be home by noon.	Taquí ya yo mediodía.
+I'll get you a towel.	Ay sacá yo toalla para cuntigo.
+I'll get you a towel.	Anda yo sacá toalla cuntigo.
+I'm allergic to corn.	Allergic yo na maíz.
+I'm allergic to corn.	Alérgico yo na maíz.
+I'm glad to be alive.	Alegre yo que vivo yo.
+I'm not Tom's mother.	Hindé yo el nana de Tom.
+I've been busy today.	Busy yo este día.
+Is this pencil yours?	De tuyo esté lápiz?
+It looks like a duck.	Dol pato man ese.
+It looks like a duck.	Hechura'y pato man ese.
+Just get out of here.	Basta, salé aquí.
+Let's clean our room.	Nya! Limpiá kitá diaton cuarto.
+Let's meet on Sunday.	Man mirahan kitá na Domingo.
+Let's meet on Sunday.	Man mirahan kitá Domingo.
+Many trees fell down.	Manada ponô ya tumbá.
+Many trees fell down.	Ya tumbá manada ponô.
+Milk makes us strong.	Ta hacé kanaton fuerte el leche.
+My elbow still hurts.	Ta duelé pa siempre mío codo.
+No one will harm you.	Nuáy quien ay hacé cuntigo sintí duele.
+Nobody owns the moon.	Nuay quien ta dueñá cunel luna.
+Put your wig back on.	Usá olét tuyu peluca.
+She always buys milk.	Pirmi le ta comprá leche.
+She became a postman.	Ya quedá le cartera.
+She bought a chicken.	Ya comprá le un gallina.
+Somebody just called.	Tiene quien ya llamá, nuevo lang.
+The fan doesn't work.	Hindê ta andá el ventilador.
+The fan doesn't work.	Hindê ta funcioná el ventilador.
+The house is burning.	Ta quemá el casa.
+The milk tastes sour.	Agrio man el leche.
+The moon's so bright.	Bien claro el luna.
+The towels are dirty.	Mabuling el maga toalla.
+The towels are dirty.	Ma-sucio el maga toalla.
+The window is closed.	Cerrao el ventana.
+The windows are open.	Abierto el maga ventana.
+There's nothing left.	Nuáy cosa ya quedá.
+They love each other.	Ta amá silá uno'y otro.
+They went to the zoo.	Ya andá silá na zoo.
+This milk tastes odd.	Otro man el sabor deste leche.
+This tree looks dead.	Dol muerto man esté ponô.
+Tom boarded the ship.	Ya embarcá si Tom na barco.
+Tom climbed the tree.	Ya subí si Tom na ese ponô.
+Tom got into the cab.	Ya entrá adentro del taxi si Tom.
+Tom has a full beard.	Barba cerrada si Tom.
+Tom knows what I did.	Sabe si Tom cosa yo ya hacé.
+Tom put his hands up.	Ya alzá si Tom de suyo dos mano.
+Tom told Mary a joke.	Yan broma si Tom cun Mary.
+Tom wants us to wait.	Quiere si Tom na esperá kamé.
+Tom wore black pants.	Ya usá si Tom pantalón negro.
+Try to open the door.	Prubá abré cunel puerta.
+We can't do this now.	No puede kitá hacé cuneste ahora.
+We can't go in there.	No puede kamé andá allí adentro.
+We have plenty money.	Manada kitá sen.
+We have plenty money.	Manada kitá dinero.
+We met at the church.	Yan mirahan kamé na iglesia.
+We shouldn't do that.	No kitá debe hacé cunaquel.
+We want what we want.	Quiere kamé el cosa kamé quiere.
+We'll never find Tom.	Nunca kitá ay puede encontrá cun Tom.
+What do I need to do?	Cosa yo necesita hacé?
+What'll happen to me?	Cosa ay pasá cumigo?
+When did you come in?	Cuando tu ya entrá?
+When did you see him?	Cuando tu ya mirá cunele?
+Where are my glasses?	Donde ya de mío antipara?
+Where's the restroom?	Donde el CR?
+Who broke the window?	Quien ya hacé quebrá cunel ventana?
+Who planted the tree?	Quien ya siembrá cunel ponô?
+Whose pencil is this?	De quien esté lápiz?
+Whose pencil is this?	De quien lápiz esté?
+Why are you laughing?	Por que tu ta ré?
+Why did you go there?	Por qué tu ya andá allá?
+You can come out now.	Puede ya tu salé ahora.
+You don't need to go.	Hindê tu necesita andá.
+You need to get help.	Necesita tu pidí ayuda.
+You need to help Tom.	Necesita tu ayudá cun Tom.
+You're not my mother.	Hindé tu de mío nana.
+You're the lucky one.	Tu el suerte.
+Are these your things?	De tuyo estos las cosas?
+Are you free tomorrow?	Libre tu mañana?
+Bring me the scissors.	Llevá cumigo el tijeras.
+Come here and help me.	Vené aquí y ayudá cumigo.
+Did you get a haircut?	Ya mandá tu cortá pelo?
+Did you say something?	Tiene ba tu cosa ya ablá?
+Did you see the knife?	Ya mirá tu cunel cuchillo?
+Did you take him home?	Ya llevá tu cunele volvé na casa?
+Forty people attended.	Cuarenta gente ya atendé.
+He licked his fingers.	Ya lambé le de suyo dedo.
+I am tired of my work.	Cansáo ya yo trabajá.
+I ate curry yesterday.	Ya comé yo karí-karí ayer.
+I can't find my watch.	No puede yo encontrá de mío reloj.
+I don't like studying.	No quiere yo estudia.
+I don't want to dance.	No quiere yo bailá.
+I don't want to drive.	No quiere yo manejá.
+I don't want to shout.	No quiere yo gritá.
+I have a lot of books.	Tiene yo manada libro.
+I have to get dressed.	Necesita yo mudá.
+I have to lose weight.	Necesita yo quedá flaco.
+I know what they said.	Sabe yo cosa silá ya hablá.
+I know where you live.	Sabe yo donde tu ta quedá.
+I prefer fish to meat.	Mas quiere pa yo pescáo que carne.
+I remember this place.	Ta acordá yo cuneste lugar.
+I thought it was true.	Pensaba yo deverasan aquel.
+I turned off my phone.	Ya apagá yo de mío cellphone.
+I was at your wedding.	Tallá yo na de tuyo casamiento.
+I will go if you come.	Ay andá yo, si vené tu.
+I'll call you at noon.	Ay llamá yo cuntigo mediodía.
+I've lost my appetite.	Ya perde de mio gana.
+Is that what Tom says?	Amó se cosa ta hablá si Tom?
+Is that what happened?	Amó se cosa ya pasá?
+Is that what you said?	Amó se cosa tu ya hablá?
+Is this your umbrella?	De tuyo esté páyung?
+It's Claudine's house.	Casa se de Claudine.
+It's my favorite song.	Ese de mio favorito canción.
+Mom is older than Dad.	Mas mayor pa si Mamang que con Papang.
+No one speaks with me.	No hay quien tan cuento cumigo.
+Not all birds can fly.	Hindé todo pajaro ta puede volá.
+Please do not kill me.	No mata comigo por favor.
+Please don't leave me.	Numá cumigo dejá, favor!
+She is sewing a dress.	Ta cusí le un camisa.
+She reported the news.	Ya reportá le cunel noticia.
+She's my older sister.	Ele de mio hermana mayor.
+Something stinks here.	Tiene yede aquí.
+The ceiling fan is on.	Abierto el ceiling fan.
+The ceiling fan is on.	Ta corré el ceiling fan.
+The room is too small.	Bien diútay gayót este cuarto.
+They are the same age.	Igual igual diila mga edad.
+They sat under a tree.	Ya sintá silá abajo del ponô.
+They tasted the bread.	Ya prubá silá cunel pan.
+This soup tastes good.	Sabroso este sopas.
+This spoon is for tea.	Para chá este cuchara.
+This wine tastes good.	Bueno el sabor deste vino.
+Tom and I are married.	Casáo kamé de Tom.
+Tom can't forget Mary.	No puede si Tom olvidá cun Mary.
+Tom doesn't like beef.	No quiere carne vaca si Tom.
+Tom eats like a horse.	Como caballo ta come si Tom.
+Tom hid behind a tree.	Ya escondé si Tom detrás de un ponô.
+Tom is drinking water.	Ta tomá água si Tom.
+Tom is in the kitchen.	Tallá na cucina si Tom.
+Tom likes to eat fast.	Quiere quiere si Tom comé paspás.
+Tom needs a dry towel.	Necesita si Tom un toalla seco.
+Tom needs a dry towel.	Necesita si Tom un seco toalla.
+Tom put his fork down.	Ya largá si Tom de suyo tenedor.
+Tom scrubbed the sink.	Ya hacé kuskús cunel lavabo si Tom.
+Tom sold the bracelet.	Ya vendé si Tom cunel pulseras.
+Tom stopped breathing.	Ya pará el resuello de Tom.
+Tom threw me an apple.	Ya gueriá un mansanas si Tom para cumigo.
+Tom turned on the fan.	Ya cindí si Tom cunel ventilador.
+We have to be careful.	Necesita kitá tiene cuidáo.
+We know what you want.	Sabe kamé cosa tu quiere.
+We watch TV every day.	Ta mirá kamé TV todo'l día.
+What did they ask you?	Cosa silá ya preguntá cuntigo?
+When is your birthday?	Cuando de tuyo cumpleaño?
+Where are the cookies?	Donde ya el mga biscuít?
+Where is the bathroom?	Donde el baño?
+Where is your brother?	Donde ya de tuyo hermano?
+Where's the president?	Donde el presidente?
+Who raised these pigs?	Quien ya cuidá cunestos maga puerco?
+Why can't we talk now?	Por que no puede kitá man cuento ahora?
+Why didn't you accept?	Por que nuáy tu acceptá?
+Why didn't you ask me?	Por que tu nuáy preguntá cumigo?
+Why is she doing this?	Por que le ta hacé cunesté?
+You are a good person.	Buen gente tu.
+You have until Monday.	Tiene tu hasta Lunes.
+You're bleeding again.	Ta sangrechá ya también tu.
+You're not my brother.	Hindé tu de mío hermano.
+Your nose is bleeding.	Ta sangrechá de tuyo nariz.
+A stone does not float.	Hindê tan lútang el piedra.
+All people breathe air.	Todo'l gente ta resollá aire.
+Are these bananas ripe?	Maduro este maga ságuing?
+Call me when it's done.	Llamá cumigo si acabao ya.
+Can you climb the tree?	Puede tu subí na ese ponô?
+Can you say that again?	Puede tu ripití el cosa tu ya ablá?
+Choose books carefully.	Escují maga libro enbuenamente.
+Do you have a calendar?	Tiene tu calendario?
+Do you know what I did?	Sabe tu cosa yo ya hacé?
+Do you know what to do?	Sabe tu cosa hacé?
+Do you know who Tom is?	Sabe tu quien si Tom?
+Do you know who he was?	Sabe tu quien aquel ele?
+Do you want to be rich?	Quiere tu quedá rico?
+Do you want to be rich?	Quiere ustedes quedá rico?
+Do you want to come in?	Quiere tu entrá?
+Do you want to hear it?	Quiere tu oí cunaquel?
+Does Tom like tomatoes?	Quiere si Tom tomates?
+Does he live near here?	Aquí le cerca ta quedá?
+Don't throw trash here.	No butá basura aquí.
+He bought a dozen eggs.	Ya comprá le un docena huevos.
+He did the right thing.	Ya hace le el lo que debe.
+He fell into the river.	Ya cae le para na río.
+He hid behind the tree.	Ya escondé le atrás del ponô.
+He is washing your car.	Ta lavá le de tuyo coche.
+I bought this from Tom.	Ya comprá yo cuneste desde cun Tom.
+I can help if you want.	Si quiere tu, puede yo ayudá.
+I can't stand the cold.	Hinde yo kaya conel frialdad.
+I decided to buy a car.	Ya decidí yo comprá un coche.
+I decided to try again.	Ya decidi yo prova otra vez.
+I didn't pay attention.	Nuáy yo poné atención.
+I don't have a bicycle.	Nuáy yo bike.
+I don't want to buy it.	No quiere yo comprá cunese.
+I don't want to forget.	No quiere yo olvidá.
+I don't want to go out.	No quiere yo salé afuera.
+I don't want to see it.	No quiere yo mirá cunese.
+I don't want to suffer.	No quiere yo sufrí.
+I have to change tires.	Necesita yo cambiá rueda.
+I have to comb my hair.	Necesita yo peiná de mío pelo.
+I knew you'd like that.	Sabe yo quiere tu cunakel.
+I know how old you are.	Sabe yo cuanto años ya tu.
+I prefer working alone.	Mas quiere yo trabajá solo solo.
+I said you could leave.	Abla yo, puede ya tu andá.
+I saw a woman in black.	Ya puede yo mirá mujer de negro.
+I turned off the radio.	Ya apagá yo cunel radio.
+I want an electric fan.	Quiere yo un ventilador.
+I want an electric fan.	Quiere yo un electric fan.
+I want him to go there.	Quiere yo andá ele allá.
+I want to drink coffee.	Quiere yo tomá café.
+I was in the mountains.	Tallá yo na monte.
+I was in the mountains.	Tallá yo aquel na monte.
+I will be very careful.	Ay tené gayót yo mucho cuidáo.
+My neck hurts a little.	Ta duelé un poco de mío pescuezo.
+Nobody understands you.	Nuáy quien ta entendé cuntigo.
+Nobody understands you.	Nuáy quien ta entendé cun ustedes.
+Open your eyes, please.	Favor, abrí de tuyo ojos.
+Sharks can sense blood.	Ta puedé ulí sangre el maga tiburón.
+She gave him a massage.	Yan masaje le cunele.
+She really wants to go.	Quiere gayot le andá.
+She shaved her armpits.	Ya raspá le el de suyo subaco.
+She was breathing hard.	Duro le ta resollá.
+That is not your knife.	Hindé ese de tuyo cuchillo.
+The clouds hid the sun.	Ya tapá el maga celaje cunel sol.
+The knife is not sharp.	Hindé agudo el cuchillo.
+The pig is growing fat.	Ta quedá ya gordo el puerco.
+The river has dried up.	Ya secá el río.
+The ship came in sight.	Ya puede columbrá cunel barco.
+The ships reached port.	Ya llegá el mga barco na puerto.
+The wind grew stronger.	Ya quedá más fuerte el viento.
+The wind is cold today.	Frío el viento éste día.
+These scissors are new.	Nuevo esté tijeras.
+They admire each other.	Ta admirá sila a unos otros.
+They admire each other.	Ellos ta admirá a unos otros.
+They admire each other.	Sila ta admirá a unos otros.
+They cut down the tree.	Ya cortá silá cunel ponô.
+This spoon is for soup.	Para caldo este cuchara.
+Tom and I ate together.	Junto kamé ya comé de Tom.
+Tom and Mary are early.	Temprano si Tom y Mary.
+Tom didn't get a reply.	Nuáy si Tom ricibí reply.
+Tom has three brothers.	Tiene tres hermano si Tom.
+Tom ironed his clothes.	Ya planchá si Tom de suyo maga ropa.
+Tom is a very good man.	Bien buen gente si Tom.
+Tom is fanning himself.	Tan paypáy si Tom de suyo cuerpo.
+Tom is holding a knife.	Ta agarrá si Tom un cuchillo.
+Tom looked at the moon.	Ya mirá si Tom cunel luna.
+Tom stole the necklace.	Ya rubá si Tom cunel cadenita.
+Tom turned off the fan.	Ya apagá si Tom cunel ventilador.
+Tom wants to come home.	Quiere volvé si Tom.
+We are to meet at noon.	Ay man mirahan kamé mediodía.
+Where did you buy them?	Donde tu ya cumprá cunesos?
+Where's Tom's umbrella?	Donde ya el payung de Tom?
+Why are you busy today?	Por que tu busy este día?
+Why aren't you working?	Por que tu hindé ta trabajá?
+Why don't they like me?	Por que no quiere silá cumigo?
+Why don't they like me?	Por que hindé silá ta gustá cumigo?
+Why would Tom be angry?	¿Por que man ay rabiá si Tom?
+Are you afraid of death?	Tiene tu miedo murí?
+Are you afraid of death?	Tiene tu miedo na muerte?
+Can you lift this stone?	Puede tu alzá cuneste piedra?
+Do you have a cellphone?	Tiene tu cellphone?
+Do you have any pencils?	Tiene tu masquín cosa lápiz?
+Do you have the picture?	Tallí cuntigo el retrato?
+Do you know how to swim?	Sabe tu nadá?
+Do you know what we did?	Sabe tu cosa kamé ya hacé?
+Do you know who made it?	Sabe tu quien ya hacé cunese?
+Do you like fruit salad?	Quiere quiere tu fruit salad?
+Does milk spoil quickly?	Pronto lang quedá malo el leche?
+Don't speak in Japanese.	No man cuento Nihongo.
+Eat a lot of vegetables.	Comé manada guláy.
+He drowned in the river.	Yan lumús le na río.
+He gave the child a toy.	Ya dale le jurgueza cunel batâ.
+He promised not to tell.	Ya prometé le hindé ablá.
+He was knee deep in mud.	Hasta rodillas de suyo el lodo.
+Help me move this stone.	Ayudá cumigo mové cuneste piedra.
+How do you go to school?	Pakimodo tu ta andá na escuela?
+I arrived here just now.	Ahora lang yo ya llegá aquí.
+I do not like the house.	Hindé yo ta gustá cunel casa.
+I don't know what to do.	Nusabe yo cosa hacé.
+I don't know where I am.	Nusabe yo donde yo.
+I don't know who it was.	Nusabe yo quien aquel.
+I don't like fried fish.	No quiere yo pescao frito.
+I don't want to be here.	No quiere yo está aquí.
+I don't want to be late.	No quiere yo man-late.
+I don't want to be late.	No quiere yo atrasá.
+I don't want to be rich.	No quiere yo quedá rico.
+I don't want to do that.	No quiere yo hacé cunese.
+I don't want to go back.	No quiere yo virá.
+I don't want to go home.	No quiere yo volvé.
+I don't want to hear it.	No quiere yo oí cunese.
+I don't want to see Tom.	No quiere yo mirá cun Tom.
+I have to clean my room.	Necesita yo limpiá mio cuarto.
+I know I made a mistake.	Sabe yo na yan kamalí yo.
+I left my watch at home.	Ya dejá yo de mío reloj na casa.
+I lent my pencil to him.	Ya dale yo prestá de mío lápiz cunele.
+I slept aboard the ship.	Ya durmí yo na barco.
+I slept aboard the ship.	Ya durmí yo abordo na barco.
+I thought Tom was funny.	Pensaba yo makarisas si Tom.
+I'll give you a present.	Ay dalé yo cuntigo un regalo.
+I'll lend you this book.	Dale yo cuntigo prestá este libro.
+I'm looking for a house.	Ta buscá yo un casa.
+Is Tom aboard that ship?	Abordo si Tom naquel barco?
+Is it OK if I stay here?	OK lang ba si quedá yo aquí?
+It's your favorite song.	Amó se el de tuyo favorito canción.
+Lunch is served at noon.	Mediodía ta sirví cunel comida.
+May I borrow your knife?	Puede yo prestá de tuyo cuchillo?
+Must I go there at once?	Necesita yo anda alla dayun?
+Peel two of the bananas.	Cascá dos ságuing.
+Please close the window.	Favor cerrá cunel ventana.
+Please listen carefully.	Favor oí enbuenamente.
+She has attractive eyes.	Bonito de suyo ojos.
+Show me what you bought.	Dale cumigo mirá el cosa tu ya comprá.
+That boy looks like Tom.	Ta semejá ese batâ hombre cun Tom.
+The bird is in its nest.	Tallá na de suyo pugarán el pajaro.
+The printer needs paper.	Necesita el printer papel.
+They abandoned the ship.	Ya abandoná silá cunel barco.
+They have a large house.	Tiene silá grande casa.
+They offered assistance.	Ya ofrecé silá asistencia.
+They're always fighting.	Pirmi silá tan peleahan.
+This book is very small.	Bien diútay este libro.
+This bread is delicious.	Sabroso esté pan.
+This flower smells nice.	Oloroso este flores.
+Those flowers have died.	Ya murí esos maga flores.
+Tom ducked Mary's punch.	Ya man-ílag si Tom el golpe de María.
+Tom gave Mary his knife.	Ya dale si Tom de suyo cuchillo cun María
+Tom is in the warehouse.	Tallá na bodega si Tom.
+Tom needs a sharp knife.	Necesita si Tom cuchillo agudo.
+Tom picked up the knife.	Ya pipiná si Tom cunel cuchillo.
+Tom says he needs a hat.	Ya hablá si Tom necesita daw le sombrero.
+Tom sharpened his knife.	Ya amulá si Tom de suyo cuchillo.
+Tom used to be a waiter.	Waiter de antes si Tom.
+We are all going to die.	Todo kitá ay murí.
+We have no school today.	No hay kamé clase este dia.
+We have no trust in him.	Nuáy kamé confianza cunele.
+What color is your hair?	Cosa el color de tuyo pelo?
+What time does it start?	Que hora kel ta principiá?
+Where do you want to go?	Donde tu quiere andá?
+Who wrote these letters?	Quien ya escribí cunestos magá carta?
+Why do people tell lies?	Por que ta man imbusterías el magá gente?
+Why don't you let us go?	Por que hindé tu kanamon mandá andá?
+You don't have the time.	Nuáy tu tiempo.
+You don't have to study.	Usted jendêh necesita estudía.
+You don't have to study.	Tú jendêh necesita estudía.
+You don't have to study.	Vos jendêh necesita estudía.
+You don't have to study.	Evos jendêh necesita estudía.
+You don't have to study.	Jendêh usted necesita estudía.
+You don't have to study.	Jendêh tú necesita estudía.
+You don't have to study.	Jendêh vos necesita estudía.
+You dropped your pencil.	Ya cae de tuyo lápiz.
+Are my socks dry already?	Seco ya de mío mga calcetín?
+Are my socks dry already?	Seco ya de mío mga medias?
+Are you coming in or not?	Entrá tu o hindé?
+Are you paying attention?	Ta poné tu atención?
+Can I ask you a question?	Puede yo priguntá cuntigo?
+Can you taste the garlic?	Puede tu prubá cunel ajos?
+Christmas is coming soon.	Cerca ya el Pascua.
+Did she hurt that kitten?	Ya asé le sintí duele cunaquel gato diútay?
+Did you sew this by hand?	De mano lang tu cuneste ya cusí?
+Do you have a red pencil?	Tiene tu lápiz colorao?
+Do you know Tom's secret?	Sabe tu el sicreto de Tom?
+Do you know where I live?	Sabe tu donde yo ta quedá?
+Do you know where Tom is?	Sabe tu donde ya si Tom?
+Do you know why I'm here?	Sabe tu por qué yo taquí?
+Do you need an ambulance?	Necesita tu un ambulancia?
+Don't forget who you are.	No tu olvidá quien tu.
+Have you had your supper?	Ya cená ya tu?
+He bought a plane ticket.	Ya comprá le ticket para eroplano.
+He bought a plane ticket.	Ya comprá le ticket de eroplano.
+He threw the banana away.	Ya butá le cunel ságuing.
+He'll be here until noon.	Taquí le hasta mediodía.
+Hold your breath, please.	No resollá, favor.
+How did you get up there?	Pakimodo tu ya subí alí arriba?
+How does this soup taste?	Cosa el sabor de este sopas?
+How does this soup taste?	Cosa el sabor d'este sopas?
+I cannot lift this stone.	No puede yo alzá cuneste piedra.
+I don't know who you are.	Nusabe yo quien ustedes.
+I don't want to die here.	No quiere yo murí aquí.
+I don't want to eat here.	No quiere yo comé aquí.
+I don't want to eat this.	No quiere yo comé cunesté.
+I don't want to get sick.	No quiere yo enfermá.
+I don't want to go there.	No quiere yo andá allí.
+I don't want to hurt her.	No quiere yo cunele hacé sentí duele.
+I don't want to kill you.	No quiere yo matá cuntigo.
+I don't want to lie down.	No quiere yo acustá.
+I don't want to remember.	No quiere yo acordá.
+I don't want to tell you.	No quiere yo hablá cuntigo.
+I have a rash on my neck.	Tiene yo rasquina na pescuezo.
+I have many things to do.	Manada yo cosa necesita hacé.
+I know this is difficult.	Sabe yo dificil esté.
+I left my key in my room.	Ya dejá yo de mío llave na de mío cuarto.
+I made a lot of mistakes.	Manada yo malí ya hacé.
+I sat waiting on a bench.	Ya sinta yo na un banco esperando.
+I saw him cross the road.	Ya mirá yo cunele ta travesá na camino.
+Is it OK if I open a can?	Okey lang si abrí yo un lata?
+Is the rat alive or dead?	Muerto o vivo el ratón?
+May I ask some questions?	Puede yo preguntá?
+May I use your car today?	Puede ba yo usá de tuyo coche este dia?
+My sister is so annoying.	Bien makaimpestiá gayót de mío hermana.
+Please come back at once.	Favor virá aquí ahora mismo.
+She and I are classmates.	Ele patí yo, classmate kamé dos.
+Someone broke the window.	Tiene quien ya hacé quebrá cunel ventana.
+Someone is looking at me.	Tiene quien ta mirá cumigo.
+Tell her to come at noon.	Hablá cunele vené le mediodía.
+The book is on the table.	Tallá encima del mesa el libro.
+The car is in the garage.	Na garaje el coche.
+The flower pot is broken.	Quebrao el pasó.
+The ship was not damaged.	Nuay sostené daños el barco.
+The train is due at noon.	Mediodia ay llega el tren.
+The women have umbrellas.	Tiene páyung el maga mujer.
+There is a spoon missing.	Tiene un cuchara perdido.
+These are not your forks.	Hindê esté de tuyo maga tenedor.
+They want to be with you.	Quiere sila man junto contigo.
+This knife is very sharp.	Bien agudo esté cuchillo.
+To relax, breathe slowly.	Para relajá, resollá hinay-hinay.
+Tom doesn't drink coffee.	Hindé ta tomá café si Tom.
+Tom gave Mary a necklace.	Ya dale si Tom cun María un cadenita.
+Tom is afraid of spiders.	Tiene si Tom miedo na maga gagamba.
+Tom is always in a hurry.	Apuráo pirmi si Tom.
+Tom is reading the Bible.	Ta lé si Tom cunel Biblia.
+Tom trimmed his mustache.	Ya menguá si Tom de suyo bigote.
+We bought her a necklace.	Ya cumprá kamé un cadenita para cunele.
+We don't have to be here.	Hindê kitá necesita está aquí.
+We have lunch about noon.	Maga mediodía ya kamé ta comé.
+Welcome to San Francisco.	Bienvenidos na San Francisco.
+What are you waiting for?	Cosa tu ta esperá?
+Who said you could speak?	Quien ya hablá na puede tu man cuento?
+Why doesn't he come back?	Por que hindé le ta birá aquí?
+Why doesn't he come back?	Por que hindé le olét ta vené aquí?
+You three are very lucky.	Bien suerte gayót kamó tres.
+A fork fell off the table.	Ya cae un tenedor desde el mesa.
+Can you touch the ceiling?	Puede tu alcanzá cunel quísame?
+Could you look at me, Tom?	Tom, puede tu mirá cumigo?
+Do you have any questions?	Tiene tu mga pregunta?
+Do you know what Tom said?	Sabe tu cosa ya hablá si Tom?
+Do you know what to bring?	Sabe tu cosa llevá?
+Do you know where he went?	Sabe tu donde le ya andá?
+Do you know where we live?	Sabe tu donde kamé ta quedá?
+Do you know who said that?	Sabe tu quien ya hablá cunaquel?
+Do you think I don't care?	Ta pensá tu nuáy yo quever?
+Do you want to buy a duck?	Quiere tu comprá un pato?
+Don't make me do it again.	Numá mandá cumigo hacé cunese olét.
+Forgive me for being late.	Disculpá cumigo que atrasao yo.
+Fruits have seeds in them.	El maga fruta tiene pipita adentro.
+He always tells the truth.	Pirmi le ta ablá el verdad.
+He bought a dress for her.	Ya comprá le camisa para cunele.
+He didn't like being poor.	Nuáy le gustá quedá pobre.
+I can't reach the ceiling.	No puede yo alcanzá cunel quísame.
+I don't mind if you smoke.	Nuáy yo que ver si fumá tu.
+I don't understand German.	Hindé yo ta entendé alemán.
+I don't want to intervene.	No quiere yo entrameté.
+I don't want to leave Tom.	No quiere yo dejá cun Tom.
+I don't want to leave you.	No quiere yo dejá cuntigo.
+I don't want to scare you.	No quiere yo hacé miedo cuntigo.
+I don't want to shoot you.	No quiere yo tirá cuntigo.
+I don't want to sign that.	No quiere yo firmá cunese.
+I grew up in a small town.	Ya engrandá yo na un barrio diútay.
+I guess Tom already knows.	Ta pensá yo sabe ya si Tom.
+I heard a noise behind me.	Ya puede yo oí un alboroto atrás de mío.
+I know what that smell is.	Sabe yo cosa olor ese.
+I left my shoes at school.	Ya dejá yo de mío zapatos na escuela.
+I study Chinese every day.	Ta estudiá yo chino todo'l día.
+I'm afraid of earthquakes.	Tiene yo miedo na temblor.
+It's nearly three o'clock.	Cerca ya alás tres.
+Please don't smoke in bed.	Por favor no fumá na cama.
+Please lend me your knife.	Dale cumigo prestá de tuyo cuchillo.
+Stay away from that place.	Está lejos de aquel lugar.
+The bird has not returned.	Nuáy ya virá el pajaro.
+The bottle contained wine.	Tiene lamán vino el botella.
+The fly is on the ceiling.	Tallá na quísame el mosca.
+The glass is full of milk.	Lleno de leche el vaso.
+The meeting was held here.	Aquí ya hacé cunel meeting.
+The meeting was held here.	Aquí ya hacé cunel junta.
+There's a cat in my house.	Tiene un gato adentro de miyo casa.
+They sank ten enemy ships.	Ya hacé silá sumí diez barco del enemigo.
+This coffee tastes bitter.	Paít man esté café.
+Tom can touch the ceiling.	Ta alcanzá si Tom cunel quísame.
+Tom is playing the violin.	Ta tocá si Tom cunel violín.
+Tom really needs help now.	Necesita gayót si Tom ayuda ahora.
+Tom shot Mary in the knee.	Ya tirá si Tom cun María na rodilla.
+We began our work at noon.	Ya principiá kamé trabajá mediodía.
+What's become of your dog?	Cosa ya man ya pasá cun tuyo perro?
+What's your favorite song?	Cosa de tuyo favorito canción?
+When does the movie start?	Cuando ay principiá el salida?
+Where is the nearest bank?	Donde el pinakacerca banco?
+Why didn't you wake me up?	Por que nuáy tu cumigo despiertá?
+Why does Tom work at home?	Por que na casa ta trabajá si Tom?
+You should pay your debts.	Necesita tu pagá el tuyo mga debe.
+You should've expected us.	No tú debe anticipá kanámon.
+Be careful with that knife.	Cuidao cunese cuchillo!
+Be careful with that knife.	Tiene cuidao cunese cuchillo!
+Can I borrow your scissors?	Puede yo prestá de tuyo tijeras?
+Do you know a good dentist?	Tiene tu conoce un buen dentista?
+Do you know what Tom wants?	Sabe tu cosa quiere si Tom?
+Do you know what Tom wants?	Sabe tu cosa si Tom quiere?
+Do you know what they said?	Sabe tu cosa silá ya hablá?
+Do you know what they want?	Sabe tu cosa silá quiere?
+Do you know where Tom went?	Sabe tu donde ya andá si Tom?
+Do you know where he lives?	Sabe tu donde le ta quedá?
+Don't ask me to explain it.	Numa cumigo mandá explicá cunese.
+Dry your face with a towel.	Hacé secá de tuyo cara cun un toalla.
+Every ship needs a captain.	Todo barco necesita un capitán.
+Every ship needs an anchor.	Todo barco necesita ancla.
+Frogs are afraid of snakes.	Tiene miedo el mga palaká na mga culebra.
+Give me back the TV remote.	Devolvé cumigo el remote del TV.
+He bought his son a camera.	Ya comprá le un cámera para de suyo anak.
+He started washing his car.	Ya principiá le lavá cunel de suyo coche.
+He's always looking at you.	Pirmi le ta mirá cuntigo.
+His father was a policeman.	Pulís de suyo tata.
+I arrived in Tokyo at noon.	Mediodía yo ya llegá na Tokyo.
+I asked him if he was busy.	Ya preguntá yo con ele si ele ocupao.
+I asked him if he was busy.	Ya preguntá yo con ele si ele ocupado.
+I asked him if he was busy.	Yo ya preguntá con ele si ele ocupao.
+I asked him if he was busy.	Yo ya preguntá con ele si ele ocupado.
+I don't know what he'll do.	Nusabe yo cosa le ay hacé.
+I don't want to bother Tom.	No quiere yo distorbá cun Tom.
+I don't want to discuss it.	No quiere yo discutí cunese.
+I don't want to play cards.	No quiere yo jugá baraja.
+I don't want to scare them.	No quiere yo hacé miedo kanila.
+I don't want to work today.	No quiere yo trabajá este día.
+I left my hat on the plane.	Ya dejá yo de mío sombrero na eroplano.
+I left my umbrella at home.	Ya dejá yo de mío páyung na casa.
+I saw a little boy running.	Ya mirá yo un batâ hombre ta corré.
+I started reading the book.	Ya principiá yo lé cunel libro.
+I took him to the hospital.	Ya llevá yo cunele na hospital.
+I'm just going to sit here.	Ay sintá lang yo aquí.
+I'm just going to sit here.	Aquí lang yo sintá.
+I've never seen a real cow.	Nunca yo ya puede mirá vaca deberasan.
+Is there a hospital nearby?	Tiene hospital cerca aquí?
+Leave the baby in the crib.	Dejá cunel batâ na cuna.
+Mary took off her earrings.	Ya quitá si María de suyo maga aretes.
+My sister married a doctor.	Ya casá mi hermana un doctor.
+Not every man can be happy.	Hindé todo gente puede quedá alegre.
+Please take off your shirt.	Favor, quitá de tuyo camisa.
+She abandoned her children.	Ya abandoná le de suyo magá anák.
+She has long arms and legs.	Largo de suyo mga braso y pierna.
+That makes no sense at all.	Bien lasangán man ese.
+That's what I want to know.	Amó se cosa yo quiere sabé.
+The party finished at nine.	Alás nueve ya acabá el party.
+The scissors are not sharp.	Hindê agudo el tijeras.
+The trees are already bare.	Calvo ya el maga ponô.
+The trees are already bare.	Nuay más hojas el maga ponô.
+This hat is from Australia.	Ya salé na Australia este sumbrero.
+Tom and Mary followed John.	Ya sigui si Tom y Mary cun John.
+Tom hasn't called Mary yet.	Nuáy pa llamá si Tom cun Mary.
+Tom looked at the calendar.	Ya mirá si Tom cunel calendario.
+We painted the house green.	Ya pintá kamé verde cunel casa.
+We should be there by noon.	Necesita, mediodía, tallá ya kitá.
+We will discuss that later.	Ay discutí kitá cunese luego.
+What did you do last night?	Cosa tu ya hacé anoche?
+What kind of stone is this?	Cosa clase piedra esté?
+What time do you go to bed?	Que hora tu ta durmí?
+When will you go to school?	Cuando tu ay andá na escuela?
+Where's the nearest church?	Donde el pinakacerca iglesia?
+Who said I stole the money?	Quien ya hablá na ya robá yo cunel sen?
+Why did you give Tom money?	Por que tu ya dale sen cun Tom?
+You need to get a real job.	Necesita tu buscá trabajo verdadero.
+Your necklace is beautiful.	Bunito de tuyo cadenita.
+Are you sure he can do this?	Siguráo tu puedé le hacé conesté?
+Barack Obama is a Christian.	Cristiano si Barack Obama.
+Bring me that glass of milk.	Llevá cumigo ese vaso de leche.
+Did Tom come here yesterday?	Ya vené ba aquí si Tom ayer?
+Do you go to school on foot?	¿Usted ta andá na escuela de pie?
+Do you go to school on foot?	¿Tú ta andá na escuela de pie?
+Do you go to school on foot?	¿Vos ta andá na escuela de pie?
+Do you go to school on foot?	¿Evos ta andá na escuela de pie?
+Do you go to school on foot?	¿Ta andá usted escuela de pie?
+Do you go to school on foot?	¿Ta andá tú escuela de pie?
+Do you go to school on foot?	¿Ta andá vos escuela de pie?
+Do you know where Tom lives?	Sabe tu donde ta quedá si Tom?
+Do you know who has the key?	Sabe tu quien ta agarrá cunel llave?
+Do you know who that guy is?	Sabe tu quien ese hombre?
+Do you know who's in charge?	Sabe tu quien el encargao?
+Do you know why I came here?	Sabe tu por qué yo ya vené aquí?
+Don't fail to lock the door.	Numá olvidá trancá cunel puerta.
+Few students can read Latin.	Poco lang estudiante ta puedé lé Latín.
+Have you counted the towels?	Ya contá tu cunel maga toalla?
+He asked for a lot of money.	Ya pidi le mucho sen.
+He looked up at the ceiling.	Ya mirá le para na quísame.
+He told me his life's story.	Ya hacé le cuento cumigo el historia de suyo vida.
+He wet the towel with water.	Ya mojá le el toalla cun agua.
+How many worms did you find?	Cuanto gusano tu ya encontrá?
+How much does this hat cost?	¿Cuánto el precio de este sombrero?
+I am looking for my brother.	Ta buscá yo de mio hermano.
+I am very sensitive to heat.	Bien sensitivo yo na calor.
+I can't make it without you.	Hindé yo puede asé cunese si nuáy tu.
+I don't know where to begin.	Nusabe yo donde yo principiá.
+I don't know where to begin.	Nusabe yo donde principiá.
+I don't want to be involved.	No quiere yo quedá envuelto.
+I don't want to get married.	No quiere yo casá.
+I don't want to lie anymore.	No quiere más yo man-embusterías.
+I had to go there yesterday.	Necesita yo andá allá ayer.
+I have a thorn in my finger.	Tiene yo tunúk na de mío dedo.
+I have difficulty breathing.	Difícil yo resollá.
+I thought he was my brother.	Pensaba yo hermano le de mio.
+I won't eat breakfast today.	Ay hindé yo almuersá este día.
+I've seen this movie before.	Ya mirá ya yo cuneste salida antes.
+Most people think I'm crazy.	Manada gente ta pensá que loco yo.
+My grandfather raises ducks.	Ta cuidá maga pato de mío lolo.
+Pay attention to what I say.	Poné atención na cosa yo ta hablá.
+She has flowers in her hand.	Tiene le flores na de suyo mano.
+Take any two cards you like.	Sacá tu masquín cosa dos baraja quiere tu.
+Take off your socks, please.	Favor quitá tuyo calcetín.
+That small one is also mine.	De mío tamén se diútay alí.
+The bus went over the cliff.	Ya cái el bus na pampang.
+There is a hole in his sock.	Tiene agujero el de suyo calcetín.
+There was a moon that night.	Tiene luna aquel noche.
+There's no one sitting here.	Nuáy quien ta sintá aquí.
+They don't want you to know.	No quiere silá na sabé tu.
+They went to Chicago by car.	De coche silá ya anda na Chicago.
+Tom dialed the number again.	Yan dial si Tom cunel número otra vez.
+Tom has solved that problem.	Ya resolvé si Tom cunaquel problema.
+Tom is a pretty good driver.	Bien bueno manejá si Tom.
+Tom was shivering with cold.	Ta temblá si Tom por causa del frialdad.
+We all make mistakes, right?	Todo kita ta man camali, amo ba?
+We all make mistakes, right?	Todo kita ta hace malí, así?
+We have no idea where he is.	No hay kamé idea donde ya ele.
+We live close to the school.	Ta quedá kamé cerca na escuela.
+We've arrived a little late.	Ya llegá kamé un poco atrasáo.
+We've brought you a present.	Tiene kamé regalo para cuntigo.
+Why are you telling me this?	Por que tu ta ablá se cumigo?
+Why did you buy the flowers?	Por que tu ya comprá cunel maga flores?
+You can't come over tonight.	Hindé tu puede vené aqui luego de noche.
+You can't come over tonight.	No puede tu vené aqui luego de noche.
+All of my brothers have jobs.	Todo de mío maga hermano tiene trabajo.
+At what time are you leaving?	Que ora tu ay salé?
+Can you tell me what this is?	Puede tu hablá cumigo cosa esté?
+Children like climbing trees.	Quiere quiere el maga batâ subí ponô.
+Could you lend me some money?	Puede tu dale prestá cumigo sen?
+Do you know how to cook fish?	Sabe tu cucí pescáo?
+Do you know what causes that?	Sabe tu cosa ta causá cunese?
+Do you know what he has done?	Sabe tu cosa le ya hacé?
+Do you know what it's called?	Sabe tu cosa ta llamá cunese?
+Don't worry about me so much.	Numá gayót man lingasa cumigo.
+Fortunately, no one was hurt.	Suerte, nuay quien ya sintí duele.
+He came back at nine o'clock.	Ya virá le aquí a las nueve.
+He does not have any friends.	Nuáy le ni un amigo.
+He is from the United States.	De Estados Unidos ele.
+Helena is a secretary, right?	Secretaria si Helena, no?
+How much is a kilo of grapes?	Cuanto el un kilo de uvas?
+I can't forgive what you did.	No puede yo perdoná el cosa tu ya hacé.
+I don't want to die tomorrow.	No quiere yo murí mañana.
+I don't want to eat anything.	No quiere yo comé masquín cosa.
+I don't want to go to Boston.	No quiere yo andá na Boston.
+I don't want to study German.	No quiere yo estudiá Alemán.
+I don't want to talk anymore.	No quiere más yo man cuento.
+I gave the book to my friend.	Ya dale yo el libro na de mío amigo.
+I have a magazine in my room.	Tiene yo magazine na de mio cuarto.
+I have no money in my pocket.	No hay yo sen na mio bolsa.
+I learned a lot this weekend.	Manada yo cosa ya aprendé este fin de semana.
+I never get tired of talking.	Nunca yo ta cansá man cuento.
+I put my shoes under the bed.	Ya poné yo de mio sapatos abajo del cama.
+I saw Tom jump into the pool.	Ya mirá yo cun Tom saltá na swimming pool.
+I'm not your teacher anymore.	Hindé ya yo de tuyo maestro.
+I've already cleaned my room.	Ya limpiá ya yo de mio cuarto.
+It was a full moon yesterday.	Full moon ayer.
+My grandfather gets up early.	Temprano ta levantá de mío abuelo.
+My office door's always open.	PIrmi abierto el puerta de mío oficina.
+No one said it was a diamond.	Nuáy quien ya ablá na diamante aquel.
+She has a book under her arm.	Tiene libro ipit na de suyo subaco.
+That's none of your business.	Nuay tu quever.
+That's the reason she's late.	Ese el rasón por que ele atrasáo.
+The moon is shining brightly.	Ta brillá gayot el luna.
+The towel is in the bathroom.	Tallá na baño el toalla.
+There is no one in the house.	Nuáy gente na casa.
+They did what they were told.	Ellos ya hace el cósa kanila ya habla.
+They did what they were told.	Ya hace sila el cósa kanila ya habla.
+They did what they were told.	Sila ya hace el cósa kanila ya habla.
+Tom is Mary's brother-in-law.	Cuñáo si Tom de Mary.
+Tom put the baby in his crib.	Ya poné si Tom cunel batâ na cuna.
+Tom showed Mary his calendar.	Ya dale si Tom mirá cun María de suyo calendario.
+Tom wrung the chicken's neck.	Ya hacé palípit si Tom cunel pescuezo del gallina.
+Tom's birthday was yesterday.	Ayer el cumpleaño de Tom.
+We arrived there before noon.	Nuay pa mediodía kamé ya llegá allá.
+We have a party this evening.	Tiene kamé party luego de noche.
+What sort of a person is Tom?	Cosa clase de gente si Tom?
+What would you do without me?	Cosa tu hacé si nuay yo?
+When I'm with you, I'm happy.	Alegre yo si junto yo cuntigo.
+Why didn't somebody help Tom?	Por que nuáy quien ya ayudá cun Tom?
+Why do people dye their hair?	Por que ta mandá tiñí el maga gente cunel pelo?
+Will you lend me your pencil?	Dale tu prestá cumigo de tuyo lápiz?
+You can't live without water.	No puede tu viví si nuáy agua.
+You didn't tell him anything?	Nuáy tu ablá cunele nada?
+Your daughter is very pretty.	Bien bonita de tuyo hija.
+A fly can walk on the ceiling.	Ta puedé caminá el mosca na quísame.
+All that glitters is not gold.	Hindé todo ta brillá, oro.
+Are you interested in the job?	Interesáo ba tu na trabajo?
+Bring me another fork, please.	Favor, llevá cumigo otro tenedor.
+Did you clean your room today?	Ya limpiá tu de tuyo cuarto este día?
+Did you leave the window open?	Ya dejá tu cunel ventana abierto?
+Didn't you write him a letter?	Nuay tu escribí cunele carta?
+Do you hear the birds singing?	Ta oí tu ta cantá el magá pajaro?
+Do you know what Tom is doing?	Sabe tu cosa ta hacé si Tom?
+Do you know what happens next?	Sabe tu cosa pasá después?
+Do you know when he will come?	Sabe tu cuando le ay vené?
+Do you know where Tom is from?	Sabe tu de donde si Tom?
+Do you know where my watch is?	Sabe tu donde ya de mío reloj?
+Don't you have anything to do?	No hay ba tu cosa hacé?
+He admitted that he was wrong.	Ya admití le na malí le.
+He doesn't talk to me anymore.	Hindé ya le tan cuento cumigo.
+He likes coffee without sugar.	Quiere le cafe no hay asúcar.
+He started talking to the dog.	Ya principiá le conversá cunel perro.
+I got a lot of mosquito bites.	Bien manada yo mordedura de lamuk.
+I have been to the U.S. twice.	Dos veces yo ya andá na América.
+I helped Mommy in the kitchen.	Ya ayudá yo cun Mamang na cucina.
+I left my umbrella in the cab.	Ya dejá yo de mío páyung na taxi.
+I wonder who brought the cake.	Quien gahâ ya llevá cunel cake?
+I'm going to miss you so much.	Man miss gayót yo cuntigo.
+Mary is carrying a watermelon.	Ta cargá si María un pakwán.
+My friend lives in this house.	Aquí na este casa ta quedá de mío amigo.
+My parents know my girlfriend.	Conoce de mío tata'y nana cunel de mío novia.
+Our school is fifty years old.	Tiene ya cincuenta años diaton escuela.
+She is giving the baby a bath.	Ta dale le bañá cunel baby.
+She is giving the baby a bath.	Ta dale le bañá cunel batâ.
+Tell me what you have in mind.	Hablá cumigo cosa tu ta pensá allí na tuyo cabeza.
+That's my umbrella, not Tom's.	De mio se páyung, hindé se de Tom.
+The candle went out by itself.	Ya apagá solo solo el candela.
+The moon is lighting the room.	Ta alumbrá el luna cunel cuarto.
+This room is too small for us.	Bien diútay gayót este cuarto para kanamon.
+Tom has a lot of French books.	Manada si Tom libro acerca del lenguaje francés.
+Tom has something to ask Mary.	Tiene si Tom cosa preguntá cun María.
+Tom has something to ask Mary.	Tiene si Tom cosa quiere preguntá cun María.
+Tom is looking at the ceiling.	Ta mirá si Tom na quísame.
+Tom likes to go fishing alone.	Quiere quiere si Tom andá pescá solo.
+Tom wants to go, but he can't.	Quiere si Tom andá, pero no puede le andá.
+Two passenger ships were sunk.	Dos barco de pasajero ya sumí.
+We didn't stay home yesterday.	Nuáy kamé quedá na casa ayer.
+We play soccer every Saturday.	Todo'l Sábado ta jugá kamé soccer.
+We thought he was an American.	Pensaba kamé Americano ele.
+What kind of wine do you have?	Cosa clase de vino tu tiene?
+Where should I put my baggage?	Donde yo poné de mio mga bagaje?
+Why are you giving this to me?	Por que tu ta dale esté cumigo?
+Why do I have to go to school?	Por que necesita yo andá na escuela?
+Will you go on foot or by bus?	¿Hay andá usted de pie o de bús?
+Will you go on foot or by bus?	¿Hay andá tú de pie o de bús?
+Will you go on foot or by bus?	¿Hay andá vos de pie o de bús?
+Will you go on foot or by bus?	¿Evos hay andá de pie o de bús?
+Will you go on foot or by bus?	¿Usted hay andá de pie o de bús?
+Will you go on foot or by bus?	¿Tú hay andá de pie o de bús?
+You are a beautiful butterfly.	Usted es un bonita mariposa.
+You are a beautiful butterfly.	Usted un bonita mariposa.
+You are a beautiful butterfly.	Tú es un bonita mariposa.
+You are a beautiful butterfly.	Tú un bonita mariposa.
+You are a beautiful butterfly.	Vos un bonita mariposa.
+You are a beautiful butterfly.	Evos un bonita mariposa.
+Are you a teacher or a student?	Maestro ba tu o estudiante?
+Come inside. It's cold outside.	Vené aquí adentro. Frío allí afuera.
+Did I tell you I got a new job?	Ya hablá ba yo cuntigo na tiene yo nuevo trabajo?
+Do you know what else is wrong?	Sabe tu cosa pa el malî?
+Do you know what you're asking?	Sabe tu cosa tu ta pidí?
+Do you know when she will come?	Sabe tu cuando le ay vené?
+Do you know where she was born?	Sabe tu donde le ya nacé?
+Do you know who that person is?	Sabe tu quien ese gente?
+Do you know why she's so angry?	Sabe tu por qué le bien rabiao?
+He always leaves home at seven.	A las siete le pirmi ta salé na casa.
+How many more forks do we need?	Cuanto tenedor pa kitá necesita?
+I bought a dozen pencils today.	Este día ya comprá yo un docena de lápiz.
+I can't make out what he wants.	Hindé yo ta entendé cosa le quiere.
+I didn't know Tom was a doctor.	Nuay yo sabé que doctor galê si Tom.
+I didn't know you played chess.	Nusabe yo na ta jugá galê tu chess.
+I didn't know you played chess.	Nusabe yo que ta jugá galê tu chess.
+I don't remember what happened.	Hindé yo ta acordá cosa ya pasá.
+I don't want to go to the bank.	No quiere yo andá na banco.
+I don't want to read this book.	No quiere yo lé cuneste libro.
+I left the keys with my wallet.	Ya dejá yo el mana llaves con mi porta moneda.
+I left the keys with my wallet.	Ya dejá yo el maga llaves con mi porta moneda.
+I left the keys with my wallet.	Ya dejá yo el mana llaves con mi pitaca.
+I left the keys with my wallet.	Ya dejá yo el maga llaves con mi pitaca.
+I poured water into the bucket.	Ya vacia yo agua na balde.
+I would like to visit New York.	Quiere yo visitá na New York.
+I'm going to go feed the ducks.	Andá yo dale comé cunel maga pato.
+I'm not ashamed that I am poor.	Hindé yo ta tené huyá na pobre lang yo.
+I'm sure that he went to Tokyo.	Siguráo yo na Tokyo le ya andá.
+Parents need a lot of patience.	Necesita largo el paciencia del maga tata'y nana.
+She climbed down from the roof.	Ya abajá le del techo.
+She listens to religious music.	Ta oí le mga canción religioso.
+The baby is sucking his finger.	Ta chupá el batâ diútay de suyo dedo.
+The bird was looking for worms.	Ta buscá maga gusano el pajaro.
+The chair is close to the door.	Cerca del puerta el silla.
+The garden is behind the house.	Na detrás del casa el jardín.
+The ice watered down the juice.	Ya hacé aguáo el hielo cunel juice.
+The tines of the fork are bent.	Tikû el maga punta del tenedor.
+The train stopped in Baltimore.	Ya pará el tren na Baltimore.
+There are lots of things to do.	Bien manada cosa para hacé.
+There is no smoke without fire.	Nuáy umu si nuáy fuego.
+They eat with a knife and fork.	Ta comé silá de cuchillo patí tenedor.
+They eat with a knife and fork.	Ta usá silá cuchillo y tenedor si ta comé.
+They started picking up stones.	Ya principiá silá pipiná maga piedra.
+This building is made of stone.	De piedra esté edificio.
+Today's my grandson's birthday.	Este día el cumpleaño de mío apú hombre.
+Tom can't answer your question.	Nupuede si Tom man-answer de tuyo pregunta.
+Tom is playing cards with Mary.	Ta jugá si Tom baraja junto cun Mary.
+Tom is watching TV in his room.	Ta mirá si Tom TV na suyo cuarto.
+Tom understands what you don't.	Ta entendé si Tom el cosa tu hindé ta entendé.
+Why don't you take a seat here?	Por que man tu hindé sintá aqui?
+Will you look after my baggage?	Puede tu viciá de mío maga bagaje?
+You can't eat soup with a fork.	No puede tu comé un sopa cun un tenedor.
+You can't eat soup with a fork.	No puede tu comé un sopa usando un tenedor.
+You don't have to work so hard.	Hindé tu necesita trabajá gayót.
+You have to speak English here.	Necesita tu man cuento inglés aquí.
+You shouldn't drink this water.	No tú debe tomá este agua.
+You shouldn't drink this water.	No usted debe tomá este agua.
+An old woman was burnt to death.	Ya quemá el un vieja hasta ya murí.
+Are Tom and Mary really married?	De veras casáo ya kanda Tom patí Mary?
+Are Tom and Mary really married?	De veras casáo ya kanda Tom y Mary?
+Didn't you learn that in school?	Nuáy tu se aprendé na escuela?
+Do you eat rice in your country?	Ta comé ustedes canon alí na de ustedes país?
+Do you have a bigger frying pan?	Tiene tu más grande carajay?
+Do you know how his father died?	Sabe tu pakimodo ya murí de su tata?
+Do you know what Tom looks like?	Sabe tu cosa el hechura de Tom?
+Do you know what the problem is?	Sabe tu cosa el problema?
+Do you know what they're called?	Sabe tu cosa ta llamá cunesos?
+Do you know what time they came?	Sabe tu que hora silá ya vené?
+Do you know who sings that song?	Sabe tu quien ta cantá cunese canción?
+Do you know who this belongs to?	Sabe tu de quien esté?
+Do you know who wrote this book?	Sabe tu quien ya escribí cuneste libro?
+Do you know why the sky is blue?	Sabe tu por qué azul el cielo?
+Have you finished breakfast yet?	Ya acabá ya tu almorzá?
+He asked me whether I like math.	Ya priguntá le cumigo si quiere yo cunel Math.
+He doesn't want to go to school.	No quiere le andá na escuela.
+I caught him stealing the money.	Ya cogí yo cunele ta robá cunel sen.
+I don't like spiders and snakes.	Hindé yo ta gustá mga gagamba patí mga culebra.
+I don't understand the question.	Hindé yo ta entendé cunel pregunta.
+I have already finished the job.	Ya acabá ya yo el trabajo.
+I left my gloves in the library.	Ya dejá yo de mío maga guantes na library.
+I left my guitar in your office.	Ya dejá yo de mío guitarra na de tuyo oficina.
+I saw my mother hiding the cake.	Ya mirá yo de mío nana ta escondé cunel cake.
+I was caught with my pants down.	Ya cují cumigo abajáo el pantalón.
+I will bring back a lot of food.	Llevá yo volvé manada comida.
+I will complete what he started.	Hacé yo acabá cosa le ya principiá.
+I won't let him come here again.	Hindé yo cunele mandá vené aquí olét.
+I'd like to know if that's true.	Quiere yo sabé si verdad ese.
+I'm not telling you to go alone.	Hindé yo ta ablá que andá tu solo solo.
+It isn't easy to memorize dates.	Hindé fácil memorizá cunel mga fecha.
+May I see your passport, please?	Puede yo mirá de tuyo pasaporte?
+May I see your passport, please?	Puede yo mirá de tuyo passport?
+She gave the dog to her friends.	Ya dale le el perro na de suyo maga amigo.
+She is afraid of her own shadow.	Medutin ele.
+She is afraid of her own shadow.	Tiene le miedo de suyo propio sombra.
+She was very happy with my gift.	Bien alegre gayot le na de mío regalo.
+The baby cannot use a spoon yet.	Nusabe pa usá cuchara el batâ diútay.
+There is a church near my house.	Tiene iglesia cerca na de mío casa.
+There is always something to do.	Tiene pirmi cosa para hacé.
+There's a reason for everything.	Todo tiene razón.
+They wash their hands with soap.	Ta lavá silá diila mano cun jabón.
+Tom already knows what happened.	Sabe ya si Tom el cosa ya pasa.
+What did you do with the camera?	Cosa tu ya hacé cunel cámera?
+What is the price of this watch?	Cosa el precio desté reloj?
+Where were you when it happened?	Donde tu cuando ya ocurí ese?
+You didn't need to tell me that.	Hindé tu necesita ablá aquel cumigo.
+You know that I don't like eggs.	Sabe tu no quiere yo huevos.
+You may make use of his library.	Puede ustedes usá suyo library.
+"May I go with you?" "Of course."	"Puede yo siguí cuntigo?" "Siempre!"
+A drunk man fell down the stairs.	Un hombre borracho ya cae na escalera.
+Can you see the nest in the tree?	Ta puede tu mirá cunel pugarán na pónô?
+Close your eyes and count to ten.	Cerrá de tuyo ojos y contá hasta diez.
+Comb your hair before you go out.	Peiná de tuyo pelo antes tu salé.
+Did Tom teach you how to do that?	Ya ensiñá contigo si Tom pakichura hacé ese?
+Did you see what Tom did to Mary?	Ya puedé tu mirá cosa ya hacé si Tom cun Mary?
+Didn't you hear your name called?	Nuay tu oí ya llamá de tuyo nombre?
+Do not talk with your mouth full.	Numá man cuento si lleno el boca.
+Do you know what Tom was wearing?	Sabe tu cosa camisa si Tom ta usá?
+Do you know what color she likes?	Sabe tu cosa color le quiere?
+Do you know where Tom was hiding?	Sabe tu donde ta escondé si Tom?
+Do you know where the girl lives?	Sabe tu donde ta quedá el batâ mujer?
+Do you know who those people are?	Sabe tu quien esos maga gente?
+Do you know why Tom was arrested?	Sabe tu por qué silá ya arrestá cun Tom?
+Do you want me to comb your hair?	Quiere tu peiná yo de tuyo pelo?
+Don't forget to brush your teeth.	Numá olvidá cepillá tuyo diente.
+He is not a doctor but a teacher.	Hindé le doctor, sino maestro.
+He ran away as soon as he saw me.	Ya corré le apenas ya mirá cumigo.
+He wants to get a new dictionary.	Quiere le comprá nuevo diccionario.
+I don't want to embarrass myself.	No quiere yo man huyá.
+I got home and took my shoes off.	Ya llegá yo na casa y ya quitá yo mio sapatos.
+I pricked my thumb with a needle.	Yan túhug aguja na de mío dedo grande.
+I remember the first time we met.	Ta acordá yo el primer vez na yan mirahan kitá.
+I want to buy a cheap dictionary.	Quiere yo comprá dictionary barato.
+I'm sorry, I don't speak English.	Dispensá cumigo, nusabe yo man cuento inglés.
+She picked flowers in the garden.	Ya sacá ele flores na jardin.
+She still hasn't heard this news.	No hay pa le oí cuneste notícia.
+The little girl just kept crying.	Ya llorá que llorá el batita.
+The teacher collected the papers.	Ya colectá el maestra cunel maga papel.
+There's a big fly on the ceiling.	Tiene un mosca grande na quísame.
+There's a dictionary on the desk.	Tiene un diccionario na escritorio.
+There's a dictionary on the desk.	Tiene un diccionario na recepción.
+There's a dictionary on the desk.	Tiene un diccionario na mesa de trabajo.
+Tom didn't have to come so early.	Hindé si Tom necesita vené aqui bien temprano.
+Tom didn't know what to do first.	Nusabe si Tom cosa una hacé.
+Tom doesn't think it's his fault.	Hindé ta cré si Tom que de suyo se culpa.
+Uncle Tom is my mother's brother.	Hermano de mío nana si Tío Tom.
+Wait until your father gets home.	Espera tu hasta llega de tuyu tata.
+What are you going to do tonight?	Cosa tu hacé luego de noche?
+When will this be returned to me?	Cuando tu devolvé esté cumigo?
+Where in Austria did you grow up?	¿Dónde na Austria que tú ya engrandá?
+Where in Austria did you grow up?	¿Dónde na Austria que usted ya engrandá?
+Where in Austria did you grow up?	¿Dónde na Austria que vos ya engrandá?
+Where in Austria did you grow up?	¿Dónde na Austria que evos ya engrandá?
+Where shall I hang this calendar?	Donde yo hacé bítay cuneste calendario?
+Who else knows about your secret?	Quien otro sabe de tuyo sicreto?
+Why doesn't Tom like to eat fish?	Por que no quiere si Tom comé pescáo?
+Would you please open the window?	Puede tu abrí cunel ventana, favor?
+You're lucky you didn't get shot.	Suerte tu na nuáy cuntigo tupá bala.
+At first, they didn't believe him.	Una una, hindé silá ta cré cunele.
+Do you know when Tom will be back?	Sabe tu cuando ay virá si Tom?
+Do you know when they will arrive?	Sabe tu cuando silá ay llegá?
+Do you know who broke this window?	Sabe tu quien ya hacé quebrá cuneste ventana?
+Do you know why Tom was in prison?	Sabe tu por qué tallá na preso si Tom?
+Do you know why she couldn't come?	Sabe tu por qué le nuay puedé vené?
+He doesn't know that I have a cat.	Nusabe le kay tiene yo un gato.
+He is unsatisfied with the result.	Hindé le satisfechao cunel resulta.
+Hurry up or you'll miss the train.	Apurá si no hindê tu puedé montá tren.
+I cleared the table of the dishes.	Ya acabá yo quitá cunel maga plato na mesa.
+I have two daughters and two sons.	Tiene yo dos hijo y dos hija.
+I have two daughters and two sons.	Tiene yo dos anák mujer y dos anák hombre.
+I intend to stay there for a week.	Ta planeá yo quedá allá por un semana.
+I should wait until Tom gets here.	Necesita yo esperá hasta llegá aquí si Tom.
+I still have some pain in my knee.	Ta duelé pa de mío rodilla un poco.
+I want to learn Chinese next year.	Quiere yo aprendé el lenguaje chino na venedero año.
+I'm sorry that I can't come today.	Paciencia, pero no puede yo andá este dia.
+My wife and children depend on me.	Ta dependé cumigo el mío esposa patí magá anák.
+She hung the calendar on the wall.	Ya hacé le bítay cunel calendario na pader.
+She hung the calendar on the wall.	Ya hacé le bítay cunel calendario na dindín.
+She sews with a needle and thread.	Ta cusí le cun hilo patí aguja.
+She studied Japanese after dinner.	Ya estudiá le japonés después el cena.
+The mountain is covered with snow.	Tapao de nieve el monte.
+The mountain is covered with snow.	Tapao de snow el monte.
+There are five apples in this box.	Tiene cinco mansanas adentro de este cajón.
+They don't know that I'm Japanese.	Nusabe silá que Japón yo.
+Tom asked Mary why she was crying.	Ya preguntá si Tom cun Mary por que ele ta llorá.
+Tom is going to Boston next month.	Ay andá si Tom na Boston el venedero mes.
+Tom knew who Mary's boyfriend was.	Sabe si Tom quien el novio de Mary.
+Tom poured hot water into the cup.	Ya vaciá si Tom agua caliente na tasa.
+Tom told me he likes Chinese food.	Ya habla si Tom comigo na quiere quiere le comida chino.
+Tom was a witness to the accident.	Testigo si Tom del accidente.
+You are too young to travel alone.	Bien joven pa tu para man viaje solo solo.
+You can't always do what you want.	Hindé tu pirmi puede asé cosa tu quiere.
+You forgot to comb your hair, Tom.	Tom, ya olvidá tu peiná de tuyo pelo.
+You forgot to comb your hair, Tom.	Tom, ya olvidá ka peiná dikaw pelo.
+You have no obligation to help us.	Nuay tu obligación ayudá kanamon.
+You know Tom is telling the truth.	Sabe tu que verdad el cosa ta hablá si Tom.
+You may not smoke in the elevator.	No puede tu fumá adentro del elevator.
+You're the only one who bought it.	Tu lang el quien ya comprá ansina.
+Do you know if he has a girlfriend?	Sabe tu si tiene ele novia?
+Do you know what Tom did yesterday?	Sabe tu cosa ya hacé si Tom ayer?
+Do you know what the difference is?	Sabe tu cosa el diferencia?
+Do you know when Tom's birthday is?	Sabe tu cuando el cumpleaños de Tom?
+Do you know when they will be back?	Sabe tu cuando silá ay virá?
+Do you know where your father went?	Sabe tu donde ya andá de tuyo tata?
+Do you know who Tom is hiding from?	Sabe tu cun quien si Tom ta escondé?
+Do you know who stole Tom's laptop?	Sabe tu quien ya robá cunel laptop de Tom?
+Do you know why Tom went to Boston?	Sabe tu por qué si Tom ya andá na Boston?
+He is sometimes absent from school.	Tiene vez absent le na escuela.
+He made up his mind to be a doctor.	Ya decidí ele quedá un doctor.
+He took a photograph of the family.	Ya retratá le cunel familia.
+I am married and have two children.	Casáo ya yo y tiene yo dos anák.
+I am not rich, nor do I wish to be.	Hindé yo rico, hindé también yo quiere quedá.
+I brought some of my books to read.	Ya llevá yo algunos libros de mío para lé.
+I don't feed my dog in the morning.	Hindé yo ta dale comé de mio perro si ága.
+I don't know who wrote this letter.	Nusabe yo quien ya escribí cuneste carta.
+I need some sugar. Do you have any?	Necesita yo un poco de asucar. Tiene tu?
+I thanked him for the nice present.	Ya rindí yo gracias cunele por el bunito regalo.
+I've finished watering the flowers.	Ya acabá ya yo regá cunel mga flores.
+If he doesn't come, what'll you do?	Si hinde ele llega, cosa tu ay hace?
+It is difficult to give up smoking.	Difícil pará de fumá.
+It is going to rain this afternoon.	Ay cae ulán ahora tarde.
+It is going to rain this afternoon.	Ay cae ulán este tarde.
+Let's wait here till he comes back.	Esperá kitá aquí hasta volvé le.
+Many people were killed in the war.	Mucho gente ya murí na guerra.
+My grandfather never dyed his hair.	Nunca ya tiñí pelo el mio abuelo.
+My grandmother can't see very well.	No puede mirá enbuenamente de mío abuela.
+My mother gave me a pearl necklace.	Ya dale cumigo un cadenita de perlas de mío nana.
+Russian is very difficult to learn.	Bien difícil aprendé Russian.
+She accused me of making a mistake.	Ya acusá le cumigo na yan kamalí dao yo.
+The Queen's crown was made of gold.	De oro el corona del reina.
+The mountain has a beautiful shape.	Bonito el forma del monte.
+The policeman drove the crowd away.	Ya acabá mandá salé el pulís cunel maga mirón.
+We'll start whenever you are ready.	Comenzá kitá si preparáo ya tu.
+We'll start whenever you are ready.	Principiá kitá si preparáo ya tu.
+When I got home, I was very hungry.	Bien con hambre yo cuando ya llegá yo na casa.
+When did you begin studying French?	De cuando tu ya principiá aprendé francés?
+When he saw me, he started running.	Cuando ya mirá le cumigo, ya principiá le corré.
+When he saw me, he started running.	Cuando ya mirá le cumigo, ya pegá le el corrida.
+You know you don't have to do this.	Sabe tu na hindé tu necesita hacé cunesté.
+Your parents didn't come, did they?	Nuay llegá de tuyo tata y nana, no?
+Do you know who lives in that house?	Sabe tu quien ta viví na ese casa?
+Do you know who this car belongs to?	Sabe tu de quien esté coche?
+Does your brother know how to drive?	Sabe manejá de tuyo hermano?
+Few students use pencils these days.	Este maga tiempo poco estudiante ya lang ta usá lápiz.
+He put the key on the desk as usual.	Como de antes, ya dejá le cunel llave na mesa.
+I can feel pain in both of my knees.	Ta puede yo sintí dolor na ambos rodillas.
+I don't want to talk about my child.	No quiere yo man cuento sobre de mio hijo.
+I won't be going with you to Boston.	Ay hindé yo siguí cuntigo para na Boston.
+I would rather have tea than coffee.	Chá ya lang yo tomá contra café.
+I'm sorry I can't go with you today.	Pasensya ya no puedo yo siguí cuntigo este día.
+Is this the key you are looking for?	Este el llave que ta buscá tu?
+Many cities were destroyed by bombs.	Manada ciudad ya quedá destrosáo por causa del magá bomba.
+There is a dragonfly on the ceiling.	Tiene un apán na quísame.
+Tom doesn't know what's in this box.	Nusabe si Tom cosa taquí adentro del cajón.
+Tom doesn't need to go to the store.	Hindé necesita andá na tienda si Tom.
+Tom showed me how to make spaghetti.	Ya enseñá cumigo si Tom pakimodo cucí spaghetti.
+We talked to each other for a while.	Yan cuento kamé un rato.
+We want to learn some Spanish songs.	Quiere kamé aprendé cuantos maga canción español.
+What time do you usually leave home?	¿Cósa hora usted usualmente ta salé na casa?
+What time do you usually leave home?	¿Qué hora usted usualmente ta salé na casa?
+What time do you usually leave home?	¿Qué hora tú usualmente ta salé na casa?
+What time do you usually leave home?	¿Qué hora vos usualmente ta salé na casa?
+What time do you usually leave home?	¿Cósa hora tú usualmente ta salé na casa?
+What time do you usually leave home?	¿Cósa hora vos usualmente ta salé na casa?
+When I grow up, I want to be a king.	Quiere yo quedá un rey si grande ya yo.
+Which shoes are you going to put on?	Cosa sapatos tu ay usá?
+Can you tell me what happened to Tom?	Puede tu hablá cumigo cosa ya pasá cun Tom?
+Can you tell me what happened to Tom?	Puede tu hablá cumigo cosa ya sucedé cun Tom?
+Do you know who bought your painting?	Sabe tu quien ya cumprá de tuyo painting?
+Do you really want to live in Boston?	Quiere ba gayót tu quedá na Boston?
+He is content with his present state.	Contento le cosa le ahora.
+I asked Tom to sing my favorite song.	Ya mandá yo cun Tom cantá de mío favorito canción.
+I don't remember where I left my car.	Hindé yo ta acordá donde yo ya dejá de mío coche.
+I hear that you kissed my girlfriend.	Ya oi yo na ya besa daw tu de mio novia.
+Is there anybody who can drive a car?	Tiene ba aqui quien sabe maneja coche?
+It's only three days until Christmas.	Tres dias ya lang Pascua ya.
+My aunt grows tomatoes in her garden.	Ta siembrá mga tomates el de mio tia na su jardín.
+Please bring your own fork and spoon.	Favor llevá de tuyo propio cuchara y tenedor.
+Please close the door when you leave.	Si salé tu, favor cerrá cunel puerta.
+She was in a hurry to see her father.	Apuráo le para mirá de suyo tata.
+The ceiling is very low in this room.	Bien bajo el quísame de este cuarto.
+There's nothing more I can teach you.	Nuáy ya yo cosa mas pará enseñá cuntigo.
+There's so much I want to say to you.	Bien manada gayot yo cosa quiere ablá cuntigo.
+They were surprised to hear the news.	Surpresáo silá cuando ya oí silá el noticia.
+This cheese is made from goat's milk.	Este queso ya salé na leche del cabrito.
+Tom came home pretty late last night.	Bien de noche ya si Tom ya volvé anoche.
+Tom is washing his hands in the sink.	Ta lavá si Tom de suyo mano na lababo.
+Tom licked the honey off his fingers.	Ya lambé si Tom cunel miel na de suyo maga dedo.
+Tom licked the honey off his fingers.	Ya lambé si Tom cunel honey na de suyo maga dedo.
+Tom picked a needle up off the floor.	Ya pipiná si Tom un aguja na piso.
+Tom pretended not to know the answer.	Yan tampa nusabe si Tom el answer.
+Tom's house was completely destroyed.	El casa de Tom ya destruí completamente.
+Tom's house was completely destroyed.	El casa de Tom ya destruí totalmente.
+Tom's house was completely destroyed.	El casa de Tom ya destruí enteramente.
+Tom's house was completely destroyed.	El casa de Tom ya destruí absolutamente.
+Tom's house was completely destroyed.	El casa de Tom ya destruí plenamente.
+Tom's not exactly my favorite person.	Si Tom no es exactamente mi persona favorito.
+Tom's not exactly my favorite person.	Si Tom jendêh exactamente mi persona favorito.
+When was the last time Tom came here?	Cuando si Tom ulihi ya vené aquí?
+Will you come with me to the concert?	Siguí ba tu cumigo para na concierto?
+Your car is more expensive than mine.	Mas caro el de tuyo coche contra de mio.
+"Where's your cousin?" "He just left."	"Donde ya de tuyo primo?" "Nuevo lang le ya salé."
+After lunch, I returned to the office.	Después comé mediodia ya virá yo na oficina.
+Can you tell me who I need to talk to?	Puede tu hablá cun quien yo necesita man cuento?
+Can you tell me why Tom is doing that?	Puede tu hablá cumigo por que ta hacé si Tom cunaquel?
+Do you really want to live in a hotel?	De verasan quiere tu quedá na un hotel?
+He asked me if I could do him a favor.	Ya preguntá le cumigo si puede yo hacé cunele un favor.
+He knocked his knee against the chair.	Yan bunggû de suyo rodilla na silla.
+I don't know and I don't want to know.	Nusabe yo patí no quiere yo sabé.
+I had dinner with a friend last night.	Ya cená yo junto cun un amigo anoche.
+I like to comb my hair with this comb.	Quiere yo peiná de mío pelo usando este peine.
+I marked your birthday on my calendar.	Ya marcá yo de tuyo cumpleaños na de mío calendario.
+I'm never going to be able to do this.	Nunca yo ay puede hacé cuneste.
+I'm not sure Tom is going to be there.	Hindé yo sigurao si ay andá si Tom allá.
+It's OK with me if you take that book.	OK lang cumigo si llevá tu cunese libro.
+Look at the large building over there.	Mirá tu cunese grande edificio allí.
+My father has decided to quit smoking.	Ya decidí de mio tata pará el fumada.
+Please tell me how to get to the bank.	Favor ablá cumigo pakimodo andá na banco.
+She had to choose her words carefully.	Necesita le escují enbuenamente su maga palabra.
+The soup in the pot tasted very salty.	Bien saláo el sopas na cacerola.
+Tom lay on the bed with his eyes open.	Ya acostá si Tom na cama abierto el magá ojos.
+We are very grateful for what you did.	Ta agradecé gayot kamé cuntigo por el cosa tu ya hacé.
+We have to paint the bathroom ceiling.	Necesita kitá pintá cunel quísame del baño.
+Why do you need a comb if you're bald?	Por que pa tu necesita peine si calvo man tu?
+You mustn't depend on others for help.	Hindé tu debe dependé na ayuda del otro.
+You were absent from school yesterday.	Nuáy tu andá na escuela ayer.
+You were absent from school yesterday.	Nuáy tu allá na escuela ayer.
+Your daughter is not a child any more.	Hindé ya batâ diútay de tuyo hija.
+Did anyone see where I left my glasses?	Tiene quien ya puede mirá donde yo ya dejá de mío antipara?
+Do you know when his plane is arriving?	Sabe tu cuando llegá su eroplano?
+Do you know why this date is important?	Sabe tu por qué importante este fecha?
+He bumped his head against the ceiling.	Yam bunggû de suyo cabeza na quísame.
+He put his hand gently on her shoulder.	Hinay hinay le ya poné de suyo mano na de suyo ombro.
+I think I left my umbrella in your car.	Dol ya dejá yo de mío páyung na de tuyo coche.
+It would be nice if it stopped raining.	Bueno era si pará ya el ulán.
+My little brother asked for some money.	Ya pidí el de mío hermano diútay sen.
+Onions cook more quickly than potatoes.	Mas pronto cucí el cebollón contra el patatas.
+Onions cook more quickly than potatoes.	Mas pronto cucí el cebollón que cunel patatas.
+Onions cook more quickly than potatoes.	Mas paspás cucí el cebollón que cunel patatas.
+Raise your hand if you know the answer.	Alzá el mano si sabe tu cunel answer.
+The patient is feverish this afternoon.	Tiene calentura el paciente este tarde.
+Tom doesn't want to talk about it here.	No quiere si Tom man cuento sobre aquel asunto aquí.
+Tom is an honest person, so I like him.	Un persona honesto si Tom por eso ta gustá yo cunele.
+Tom tried to sit up, but was unable to.	Ya pricurá sintá si Tom, pero nuay le puede sintá.
+Tom wasn't the one who borrowed my car.	Hindê si Tom el quien ya prestá de mío coche.
+Tom's medication's not in the bathroom.	El maga medicamentos de Tom es no hay na baño.
+Tom's medication's not in the bathroom.	El medicamentos de Tom es no hay na baño.
+Tom's medication's not in the bathroom.	No hay na baño el medicamentos de Tom.
+Tom's medication's not in the bathroom.	El medicación de Tom es no hay na baño.
+Tom's medication's not in the bathroom.	No hay na baño el medicación de Tom.
+Which do you like better, meat or fish?	Cosa tu mas quiere, carne o pescáo?
+Do you know why I fell in love with Tom?	Sabe tu por qué yo ya queré cun Tom?
+I don't know what has become of the boy.	Nusabe yo cosa ya ya pasá cunel batâ hombre.
+I don't know what that animal is called.	Nusabe yo cosa el nombre de ese animal.
+I'm sorry, but I'll have to go home now.	Paciencia, pero necesita ya yo volvé.
+Mary helped her mother with the cooking.	Ya ayudá si Mary cun de suyo nana cucí.
+Somebody had drowned her in the bathtub.	Tiene quien ya hacé cunele lumús na bathtub.
+The accident occurred yesterday morning.	Ya ocurrí el accidente ayer aga.
+What do you want to be when you grow up?	Cosa tu quiere quedá grande?
+Without your help, I would have drowned.	Man lumús era yo si hindé por causa de tuyo ayuda.
+Without your help, I would have drowned.	Man lumús era yo si nuáy tu ayudá.
+You aren't allowed to go into that room.	Nuay tu permiso entrá na ese cuarto.
+A burglar broke into the bank last night.	Un ladrón ya entrá na banco anoche.
+How much do you leave for a tip in Spain?	Cuanto el tip ta dale na España?
+I don't care what you do with your money.	No hay yo quever cosa tu ta hacé con de tuyo sen.
+I gave him what little information I had.	Ya dale yo kunele el cosa poco informacion que tiene yo.
+I wanted Tom to know what happened to us.	Quiere yo, sabé si Tom cosa kanamon ya pasá.
+My boyfriend has a lot of female friends.	Bien manada amiga el de mío novio.
+Seeing me, they suddenly stopped talking.	Al mirá cumigo, biglá silá ya pará man cuento.
+She called him to say that she'd be late.	Ya llamá le cunele para habla kay ay atrasá le.
+She squeezed the juice from many oranges.	Ya hacé le puga manada naranja para sacá cunel juice.
+There are many red flowers in the garden.	Bien manada mga flores coloráo na jardín.
+Tom ran to the door and tried to get out.	Ya corré si Tom hasta na puerta y ya pricurá salé afuera.
+Tom was stabbed in the chest three times.	Ya lancéa con Tom na pecho tres veces.
+Tom was stabbed in the chest three times.	Ya man puñalada con Tom na pecho tres veces.
+Tom was stabbed in the chest three times.	Tres veces ya lancéa na pecho con Tom.
+Tom was stabbed in the chest three times.	Tres veces ya man puñalada con Tom na pecho.
+We watched a baseball game on television.	Ya mirá kamé juego de béisbol na TV.
+You can't separate language from culture.	No puede tu apartá el lenguaje na cultura.
+"Tatoeba" means "for example" in Japanese.	"Por ejemplo" el cosa quiere decir el "Tatoeba" na lenguaje de Hapon.
+Cockfighting is illegal in many countries.	Ilegal el sabungán na mucho país.
+Do you know who invented the Ferris wheel?	Sabe tu quien ya inventá cunel Ferrish wheel?
+Give us two knives and four forks, please.	Favor dale kanamon dos cuchillo patí cuatro tenedor.
+Have you ever eaten in a restaurant alone?	Ya comé ya tu na un restaurán solo solo?
+I'm tired of listening to your complaints.	Cansáo ya yo de oí tuyo mga reclamo.
+If he doesn't come, what will you do then?	Cosa ya tu asé si hindé ele vené?
+It is very dangerous to cross this street.	Peligroso gayot travesá na camino.
+The man reading a newspaper is his father.	De suyo kel tata aquel gente ta lé cunel diário.
+Tom didn't understand what Mary just said.	Nuay entendé si Tom el cosa ya hablá si Mary nuevo lang.
+I don't know what's going to happen to you.	Nusabe yo cosa cuntigo ay pasá.
+I don't know what's going to happen to you.	Nusabe yo cosa ay pasá cuntigo.
+I don't know what's going to happen to you.	Nusabe yo cosa ay pasá cun ustedes.
+I don't know what's going to happen to you.	Nusabe yo cosa ay pasá cun vosotros.
+I don't know what's going to happen to you.	Nusabe yo cosa ay pasá cuninyo.
+I don't know what's going to happen to you.	Nusabe yo cosa ay pasá cumbó.
+I would like to go to the concert with you.	Quiere yo siguí cuntigo na concierto.
+Smoking is not allowed inside the elevator.	No puede tu fumá adentro del elevator.
+The cold weather continued for three weeks.	Por tres semanas frio el tiempo.
+The streets in Tokyo are full on Saturdays.	Bien manada gente el maga camino de Tokyo si Sábado.
+Tom is busy now, so he can't talk with you.	Busy si Tom este mga momento, entonces no puede ele conversá cuntigo.
+Tom is busy now, so he can't talk with you.	Ocupao si Tom este mga momento, entonces no puede ele conversá cuntigo.
+Tom may use my video camera if he wants to.	Puede usá si Tom de mío videocam, si quiere le.
+Tom stared at the ceiling, unable to sleep.	Yan tunganga si Tom na quísame, no puede le durmí.
+Wash your hands before you handle the food.	Lavá de tuyo mano antes de agarrá cunel comida.
+Why do you need a comb if you have no hair?	Por que pa tu necesita peine si nuay man tu pelo?
+I finished reading this novel in three days.	Ya acabá yo lé cuneste novela dentro de tres dias.
+I think I left my keys on the kitchen table.	Dol allá yo ya dejá de mío maga llave na mesa na cocina.
+I think Tom is only pretending to be asleep.	Dol tampa-tampa lang man ta durmí si Tom.
+I wanted to be a bus driver when I was five.	Cuando cinco años pa lang yo, quiere yo quedá un motorista de bus.
+I will give you a bicycle for your birthday.	Ay dale yo cuntigo un bike na de tuyo cumpleaños.
+If you push this button, the door will open.	Si pichí tu cuneste botón, ay abrí el puerta.
+Tom asked me to pick Mary up at the airport.	Ya mandá si Tom cumigo man sundô cun María allá na aeropuerto.
+Tom didn't want to admit that he was scared.	No quiere admití si Tom na tiene le miedo.
+Which do you like better, apples or bananas?	Cosa tu mas quiere, mansanas o saguing?
+After she had lunch, she got ready to go out.	Ya prepará le para salé al acabar comé na mediodía.
+Are you going to cut down all the trees here?	Ay acabá tu cortá cun el magá pono aquí?
+Could you hand me the newspaper on the table?	Puede yo pidí favor alcanzá cumigo ese periódico encima del mesa?
+Could you hand me the newspaper on the table?	¿Puede tú favor entregá conmigo el periódico na mesa?
+His house is on the other side of the bridge.	El suyo casa tallá na otro lao del puente.
+I am always leaving my umbrella on the train.	Ta olvidá yo pirmi mío payung na tren.
+I don't understand what you're trying to say.	Hinde yo ta entendé cosa tu quiere hablá.
+The hotel I'm staying at is near the station.	Cerca na estación el hotel donde yo ta restá.
+There are still a lot of dishes on the table.	Manada pa plato na mesa.
+Tom doesn't want to talk about what happened.	No quiere si Tom man cuento acerca de cosa ya pasá.
+What will you be doing at this time tomorrow?	Cosa tu ay hacé ancina hora mañana?
+You have friends who can help you, don't you?	Tiene tu mga amigo quien puede ayudá cuntigo, no?
+Do you know where Tom bought his new computer?	Sabe tu donde ya cumprá si Tom de suyo nuevo computer?
+I feed my cat every morning and every evening.	Ta dale yo comé de mio gato todo'l ága y todo'l noche.
+I have to be home tonight before it gets dark.	Necesita que yo na casa ya este noche antes de oscurezca.
+I have to be home tonight before it gets dark.	Este noche debe na casa ya yo antes de oscurezca.
+I spent the whole afternoon cleaning my house.	Entero tarde yo ya limpiá de mío casa.
+She's sitting in the kitchen and drinking tea.	Talla le na cocina sentáo ta tomá chá.
+Though he is over eighty, he is still healthy.	Masquín más de ochenta años ya le, enbuenamente para siempre de suyo salud.
+Tom can't remember where he hid the documents.	No puede acordá si Tom donde le ya escondé cunel mga papeles.
+Tom lifted up his shirt and exposed his belly.	Ya alzá si Tom de suyo camiseta y ya dale mirá de suyo barriga.
+I thought we could dye our hair the same color.	Pensaba yo puedé kamé teñí diamon pelo igual color.
+If you have a car, you can come and go at will.	Si tiene tu coche, puede tu andá y vené masquín cuando tu quiere.
+Mary baked three dozen cookies for Tom's party.	Ya hacé si María tres docenas de cookies para el party de Tom.
+No matter what you say, I won't change my mind.	Masquín cosa tu ablá, ay hindé yo cambiá de mio pensamiento.
+Where is the most beautiful place in the world?	Donde el pinakabale lugar del entero mundo?
+The supermarket is open Monday through Saturday.	Abierto el grocery Lunes hasta Sábado.
+Tom arrived too early and Mary wasn't ready yet.	Bien temprano ya llegá si Tom; hindé pa preparáo si Mary.
+Father wants me to study abroad while I am young.	Mi tata quiere conmigo que estudía yo afuera mientras yo joven pa.
+Father wants me to study abroad while I am young.	Mío tata quiere conmigo que estudía yo afuera del país mientras yo joven pa.
+I don't want to sleep on the couch again tonight.	No quiere yo durmí ulét na sofá luego denoche.
+The paint is peeling off the weather-beaten wall.	Ta cascá el pintura del dingdíng bungkáo.
+You may take either the big box or the small one.	Puede tu escují cunel grande o diútay cajón.
+Didn't you know that he passed away two years ago?	Nuay tu sabé que ya murí ya le dos años ya?
+I'm not worried about Tom. I'm worried about Mary.	No hay yo lingasa cun Tom, pero cun Mary tiene.
+I couldn't sleep well because it was noisy outside.	No hay yo puede durmí enbuenamente kay alboroto afuera.
+I sometimes hear my father singing in the bathroom.	Tiene vez ta puede yo oí de mío tata ta cantá na baño.
+Tom is too drunk to drive. Could you take him home?	Bien borracho si Tom para puede manejá. Puede tu llevá cunele bolbe na casa?
+He can't do this kind of work, and she can't either.	No puede le hacé cuneste clase de trabajo, masquín ele no puede también.
+Children like to pretend to be adults when they play.	Quiere quiere el mga batâ pretendé como mga mayor silá si ta jugá silá.
+We can't make Tom do something he doesn't want to do.	No puede kitá mandá cun Tom hacé cosa le no quiere hacé.
+When you can't do what you want, you do what you can.	Si no puede tu hace el cosa tu quiere, ta hace tu el cosa tu puede.
+You can't force me to do anything I don't want to do.	No puede tu forsá cumigo hacé cosa yo no quiere hacé.
+Sometimes I say "yes," even though I want to say "no."	Tiene vez, ta hablá yo "sí" masquín quiere yo hablá "no".
+My English teacher recommended that I read these books.	Ya recomendá de mío maestro de inglés na lé yo cunestos maga libro.
+A mother is responsible for the conduct of her children.	El nana el responsable na conducta de suyo maga anák.
+I left my keys on the table. Could you bring them to me?	Ya dejá yo de mío maga llave na mesa. Puede tu llevá kanila aquí?
+According to today's paper, there was a fire in the city.	Segundo cunel diário de este dia, tiene quema na ciudad.
+Do you know why Tom doesn't want to go to Boston with us?	Sabe tu por qué no quiere si Tom siguí kanaton para Boston?
+Tom never told me why he had decided to become a teacher.	Nunca cumigo ya hablá si Tom por que le ya decidí quedá maestro.
+I ate half the apple before I noticed there was a worm in it.	Media ya yo del manzanas ya comé cuando ya mirá yo na tiene galê gusano adentro.
+The gardener planted a rose tree in the middle of the garden.	El jardinero ya siembrá un pono de rosas na medio del jardín.
+Tom has a lot of religious books, but he has never read them.	Bien manada libro si Tom acerca del religión, pero nunca le ya lé kanila.
+I have a cat and a dog. The cat is black and the dog is white.	Tiene yo un perro y un gato. Negro el gato y el perro blanco.
+The bird picked up the twig with its beak and flew to its nest.	Ya pipiná el pajaro un ramita con su pico y después ya volá hasta su pugarán.
+The roads were very muddy since it had rained during the night.	Bien malodo el mga camino kay ya cai ulán entero noche.
+Have you decided whether or not you're going to sell your house?	Ya decidí ya ba tu si vendé tu de tuyo casa o hindé?
+Have you decided whether or not you're going to sell your house?	Ya decidí ya ba ustedes si vendé ustedes de ustedes casa o hindé?
+The older you are, the more difficult it is to learn a language.	Mas viejo tu, mas dificil aprendé un lenguaje.
+Tom isn't the only one who has to study. I have to study as well.	Hindé lang si Tom el necesita estudiá. Yo también necesita estudiá.
+The best way to learn French is to live in a French-speaking country.	El más efectivo manera para aprendé francés es andá na un país donde tan cuento francés y viví allá.
+Don't worry! Even if I drink, it doesn't have an effect on my driving.	Numá tu man lingasa! Masquín tomá yo, no hay se efecto na mi manejada.
+If you stay out drinking every night, your wife is going to leave you.	Si pirmi tu tallá afuera ta tomá, ay dejá cuntigo de tuyo esposa.

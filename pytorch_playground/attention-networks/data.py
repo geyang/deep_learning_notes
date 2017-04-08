@@ -16,7 +16,7 @@ def normalize_strings(s):
 
 def read_language(l1, l2, normalize_fn=None):
     ledger.info('Reading Lines... ')
-    with open('./data/{}-{}.txt'.format(l1, l2)) as f:
+    with open('./language_data/{}-{}.txt'.format(l1, l2)) as f:
         lines = f.read().strip().split('\n')
         for l in lines:
             if normalize_fn is None:
@@ -34,13 +34,6 @@ def trim_by_length(length, token_sep=' '):
         return True
 
     return trim
-
-
-def sentence_to_indexes(lang, sentence):
-    if lang.name in language.CJK_LANGUAGES:
-        # ledger.warn('is CJK language!', lang.name)
-        return [lang.word2index[w] for w in language.tokenize(sentence, is_cjk=True)]
-    return [lang.word2index[w] for w in language.tokenize(sentence)]
 
 
 import math
@@ -64,10 +57,11 @@ def get_batch(pairs, batch_size):
             for p in pairs[i * batch_size:min((i + 1) * batch_size, n_pairs)]:
                 input_max_length = max(len(p[0]), input_max_length)
                 output_max_length = max(len(p[1]), output_max_length)
+
             for p in pairs[i * batch_size:min((i + 1) * batch_size, n_pairs)]:
-                # [0] is the ['NULL'] padding.
-                sent_1.append(p[0] + [0] * (input_max_length - len(p[0])))
-                sent_2.append(p[1] + [0] * (output_max_length - len(p[1])))
+                # [2] is [<EOS>], [0] [<NULL>]
+                sent_1.append([1] + p[0] + [2] + [0] * (input_max_length - len(p[0])))
+                sent_2.append([1] + p[1] + [2] + [0] * (output_max_length - len(p[1])))
             yield sent_1, sent_2
 
 

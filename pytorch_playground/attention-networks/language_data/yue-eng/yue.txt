@@ -1,0 +1,2495 @@
+Hello!	哈佬。
+Go away!	死開！
+Go away!	彈開！
+I get it.	我明。
+I get it.	我get到。
+I'm here.	我喺度。
+After you.	你先。
+Don't cry.	唔好喊啦。
+I'm angry.	我好嬲。
+I'm ready.	我準備好喇。
+I'm right.	我係啱嘅。
+It's easy.	好容易噃。
+Come on in!	入嚟啦！
+Don't move.	咪郁。
+How's work?	返工返成點呀？
+I know him.	我識佢。
+It matters.	重要。
+Let me die.	俾我死咗去算啦。
+Start over.	重新嚟過啦。
+Time is up.	夠鐘喇。
+We are men.	我哋係男人。
+What is it?	呢個咩嚟㗎？
+Who did it?	邊個做架？
+Who talked?	邊個講嘢？
+Don't worry.	唔使擔心。
+He helps us.	佢幫我哋。
+He stood up.	佢企咗起身。
+Please stay.	請留步。
+Please stay.	請你留低啦。
+Talk slower.	講慢少少。
+Abandon ship!	棄船呀！
+Come with us.	一齊嚟啦。
+Don't be sad.	唔好唔開心啦。
+I won't lose!	我唔會輸嘅！
+I'm busy now.	我而家好唔得閒。
+It's snowing.	落緊雪。
+It's too big.	太大喇。
+This is food.	嘢食嚟。
+Tom screamed.	Tom尖叫。
+You're right.	你講得啱。
+You're right.	你講得冇錯。
+Are you tired?	你唔攰咩？
+He has a cold.	佢冷親。
+He has a cold.	佢作感冒。
+He has a cold.	佢傷風。
+I lost my key.	我唔見咗我條鎖匙。
+I read a book.	我睇咗一本書。
+I want to cry.	我想喊。
+I'm on my way.	我嚟緊喇。
+Let me see it.	俾我睇吓。
+No, thank you.	唔使喇，唔該。
+Send Tom away.	送Tom走。
+Take him away.	帶佢走。
+Tom called me.	阿Tom打咗電話畀我。
+You all right?	你冇嘢吖嘛？
+Can you cancel?	你可唔可以取消？
+Do you love me?	你鍾唔鍾意我㗎？
+Don't run here.	唔好喺呢度跑嚟跑去。
+How's your job?	你返工返成點呀？
+I am a tourist.	我係旅客。
+I like reading.	我鍾意睇書。
+I study abroad.	我喺外國讀書。
+I'm all for it.	我舉腳贊成。
+It's too small.	太細喇。
+May I help you?	有咩幫到你呢？
+She's not here.	佢唔喺度。
+The man is old.	個男人好老。
+They found out.	佢哋發現咗喇。
+They let me go.	佢哋俾我走。
+What a big dog!	咁大隻狗嘅！
+Yes, of course.	梗係啦。
+Come on, get up.	喂，起身喇。
+Do you eat meat?	你食唔食肉㗎？
+Don't be afraid.	唔好驚！
+Double the dose.	加一倍藥量。
+Double the dose.	藥量加到兩倍。
+Has he come yet?	佢嚟咗未呀？
+He hit me twice.	佢打咗我兩下。
+He's on his way.	佢嚟緊喇。
+I broke a glass.	我打爛咗個玻璃杯。
+I like this dog.	我鍾意呢隻狗。
+I lost the game.	我輸咗場比賽。
+I prefer coffee.	我鍾意飲咖啡多啲。
+I read his book.	我睇咗佢本書。
+I think so, too.	我都係咁諗。
+I want a doctor.	我想要醫生。
+I want a guitar.	我想要支結他。
+It's almost six.	就嚟六點喇。
+It's cold today.	今日好凍。
+It's warm today.	今日幾暖。
+Merry Christmas!	聖誕節快樂！
+No one was hurt.	冇人受傷。
+Open your mouth!	擘大口！
+She got up late.	佢晏咗起身。
+The book is red.	本書係紅色嘅。
+Where's my book?	我本書去咗邊呀？
+You're reliable.	你好可靠。
+Are you new here?	你係咪新嚟㗎？
+Do you like rain?	你鍾唔鍾意落雨㗎？
+Don't waste time.	唔好浪費時間。
+Don't waste time.	唔好嘥時間。
+Glad you like it.	你鍾意就好喇。
+He has a Picasso.	佢有一幅畢加索嘅畫。
+He's always busy.	佢成日都咁忙嘅。
+Her bike is blue.	佢架單車係藍色嘅。
+Hold on a second.	等我一陣。
+How much is that?	嗰個幾錢？
+I don't know yet.	我仲未知。
+I jumped for joy.	我開心到彈咗起身。
+I read your book.	我讀咗你本書。
+I'm still single.	我仲係單身。
+Keep the dog out.	唔好俾隻狗入嚟。
+My nose is itchy.	我個鼻好痕。
+Please sign here.	麻煩你喺呢度簽個名吖。
+She is beautiful.	佢好靚。
+That couldn't be.	冇可能㗎。
+The can is empty.	個罐係吉嘅。
+This is Room 839.	呢度係839號房。
+Tom had no money.	Tom冇錢。
+Tom had no money.	Tom嗰陣冇錢。
+We study Chinese.	我哋學中文。
+We're on our way.	我哋嚟緊喇。
+What did you say?	你講咗咩？
+Who is this girl?	呢個女仔邊個嚟㗎？
+Why did you call?	你點解打電話嘅？
+You are a doctor.	你係醫生。
+You were jealous.	你妒忌。
+Can all birds fly?	係咪所有雀仔都識飛㗎？
+Can you handle it?	你搞唔搞得掂㗎？
+Do you guys smoke?	你哋食唔食煙㗎？
+Do you have a pen?	你有冇筆呀？
+Does he live here?	佢係咪喺呢度住㗎？
+Give me that book.	俾嗰本書我。
+He does not smoke.	佢唔食煙。
+He has a cold now.	佢依家傷風。
+He is influential.	佢好有影響力。
+He is still angry.	佢仲嬲緊。
+He keeps his word.	佢講得出就做得到。
+He may come today.	佢今日可能會嚟。
+He ordered a beer.	佢嗌咗杯啤酒。
+He will come soon.	佢好快就會嚟㗎喇。
+He wrote a letter.	佢寫咗封信。
+He's not an idiot.	佢唔係傻仔。
+He's not an idiot.	佢唔係傻㗎。
+He's not an idiot.	佢唔係白癡。
+Here's some water.	呢度有啲水。
+How could this be?	有冇搞錯啊。
+I am a vegetarian.	我係食齋嘅。
+I am not Canadian.	我唔係加拿大人。
+I cried all night.	我喊咗成晚。
+I forgot his name.	我唔記得咗佢叫咩名。
+I hope to make it.	我希望做到。
+I like my friends.	我好鍾意我班朋友。
+I owe him 100 yen.	我爭佢一百円。
+I saw him running.	我見到佢喺度跑步。
+I'm feeling dizzy.	我個頭好暈。
+I'm not ready yet.	我仲未準備好。
+I'm on my way out.	我出緊嚟。
+It's easy to sing.	唱歌好易。
+It's on the table.	佢喺張檯度。
+It's on the table.	喺張檯度。
+She began to sing.	佢開始唱歌。
+She must go there.	佢一定要去嗰度。
+She must go there.	佢需要過去。
+Tom is on his way.	阿Tom嚟緊喇。
+Tom is optimistic.	阿Tom份人好樂觀。
+What's that sound?	咩聲嚟？
+When are you free?	你幾時得閒呀？
+When was she born?	佢幾時出世㗎？
+Where is the pain?	邊度痛呀？
+Who is that woman?	嗰個女人係邊個嚟㗎？
+Why are you alone?	你做咩一個人呀？
+Wow! That's cheap!	嘩！咁抵？！
+You have to hurry.	你要趕喇喎。
+You may go in now.	你而家可以入去喇。
+You shouldn't lie.	你唔應該講大話。
+Your book is here.	你本書喺呢度。
+Anyone can do that.	係人都做到啦。
+Do you smell smoke?	你聞唔聞到有浸煙味？
+Don't laugh at him.	唔好笑佢啦。
+Don't throw stones.	唔好掟石頭。
+Get me up at eight.	唔該你八點叫我起身吖。
+He is playing golf.	佢喺度打緊哥爾夫球。
+He kicked me twice.	佢踢咗我兩腳。
+He sat next to her.	佢坐咗喺佢隔籬。
+Help is on the way.	有人嚟緊幫手㗎喇。
+I almost forgot it.	我爭啲唔記得咗。
+I bought a new bag.	我買咗個新袋。
+I can barely stand.	我連企都唔係好企得穩。
+I can't forget her.	我忘記唔到佢。
+I don't have a cat.	我冇養貓。
+I have no appetite.	我冇胃口。
+I heard explosions.	我聽到爆炸聲。
+I made my decision.	我已經決定咗喇。
+I'm about to leave.	我就快走喇。
+I'm afraid of owls.	我好驚貓頭鷹。
+I'm not a magician.	我唔係魔術師。
+I'm your boyfriend.	我係你男朋友。
+I'm your boyfriend.	我係你條仔。
+I've heard nothing.	我咩都聽唔到喎。
+Is breakfast ready?	早餐準備好未呀？
+Is this your house?	呢間係咪你間屋？
+It is almost three.	就快三點喇。
+My brother is rich.	我阿哥好有錢。
+My brother is rich.	我細佬好有錢。
+Skiing is very fun.	滑雪好好玩㗎。
+That doll is scary.	嗰個公仔好恐怖。
+The boy is jumping.	嗰男仔跳緊。
+This house is mine.	呢間屋係我嘅。
+Tom didn't give up.	Tom冇放棄。
+Tom has three dogs.	Tom 有三隻狗。
+Tom is really good.	Tom真係好好。
+Tom is really good.	Tom真係好勁。
+Tom isn't here yet.	Tom未到。
+Tomorrow is Sunday.	聽日係星期日。
+Was the movie good?	套戲好唔好睇呀？
+We are watching TV.	我哋喺度睇緊電視。
+We need to find it.	我哋要搵佢。
+We really miss Tom.	我哋真係好掛住阿Tom。
+When will it begin?	幾時開始㗎？
+Where can I buy it?	我喺邊度可以買到？
+Where does he live?	佢屋企喺邊？
+Where does he live?	佢住喺邊？
+Where's the toilet?	廁所喺邊？
+Why are you crying?	你做咩喊呀？
+Will you help them?	你會唔會幫佢哋？
+You did not say so.	你以前唔係噉講㗎喎。
+You need to resign.	你需要辭職。
+You'll regret this.	你一定會後悔㗎。
+Your place or mine?	你屋企定我屋企？
+Are you still angry?	你仲嬲緊呀？
+Bunnies are so cute.	兔仔真係太可愛喇。
+Do you like singing?	你鍾唔鍾意唱歌？
+Do you like to sing?	你鍾唔鍾意唱歌？
+Do you speak French?	你識唔識講法文㗎？
+Does she play piano?	佢識唔識彈鋼琴㗎？
+Excuse me, I'm lost.	唔好意思，我蕩失咗路。
+Guess how tall I am.	你估吓我有幾高？
+He crossed his legs.	佢翹埋對腳。
+Her bicycle is blue.	佢架單車係藍色嘅。
+His family is large.	佢屋企好多人。
+How was your summer?	夏天過成點呀？
+I arrived too early.	我太早到。
+I decided not to go.	我決定唔去。
+I didn't do a thing.	我乜都冇做。
+I don't like coffee.	我唔鍾意飲咖啡。
+I forgot to ask him.	我唔記得問佢添。
+I got married again.	我又結咗婚喇。
+I have but one wish.	我淨係得一個心願。
+I like light colors.	我鍾意啲淺啲嘅色。
+I must be on my way.	我要行喇。
+I wanna quit my job.	我想辭咗份工佢。
+I wanna quit my job.	我唔想撈喇。
+I'll let you decide.	我俾你決定啦。
+I'm dying of thirst.	我口渴到死。
+I'm still in school.	我仲讀緊書。
+I'm waiting for him.	我等緊佢。
+It's the same thing.	咪一樣嘅嘢。
+It's the same thing.	一樣嘅嘢嚟。
+My sister is pretty.	我阿妹好靚。
+Nobody can stop Tom.	冇人可以阻止Tom。
+Now it's your serve.	到你開波喇。
+Old habits die hard.	本性難移。
+Old habits die hard.	江山易改，本性難移。
+She can't cook well.	佢唔係好識煮飯。
+Tell her to call me.	叫佢打電話俾我。
+That's just a guess.	估估吓㗎咋。
+The button came off.	粒鈕甩咗出嚟。
+The street was dark.	條街好暗。
+Tom decided to stay.	Tom決定咗留低。
+Tom will get killed.	Tom會被人殺。
+Tom will get killed.	Tom會死。
+We sat in the front.	我哋坐咗喺前排。
+What was that noise?	咩聲嚟㗎？
+Where is the toilet?	廁所喺邊呀？
+Where is the toilet?	洗手間喺邊？
+Where is the toilet?	廁所喺邊？
+Which book is yours?	邊本書係你㗎？
+Who broke the plate?	邊嗰打爛隻碟？
+Why didn't you come?	你做咩無嚟到嘅？
+You look very tired.	你好似好攰咁喎。
+Are you free tonight?	你今晚得唔得閒呀？
+Can I turn on the TV?	你介唔介意我開電視呀？
+Do you have a pencil?	你有冇鉛筆呀？
+Do you have any pets?	你有冇養寵物㗎？
+Do you live in Tokyo?	你係咪喺東京住㗎？
+Do you speak English?	你識唔識講英文㗎？
+Get that book for me.	攞嗰本書俾我吖。
+He did nothing wrong.	佢無做錯。
+He gets tired easily.	佢好易攰。
+He has a hairy chest.	佢心口好多毛。
+He laid down the gun.	佢放低咗枝槍。
+He will be back soon.	佢好快就會返嚟㗎喇。
+How much is this tie?	呢條呔幾多錢呀？
+I am drinking coffee.	我飲緊咖啡。
+I am fond of reading.	我鍾意睇書。
+I am terribly hungry.	我真係好肚餓。
+I am terribly hungry.	我餓死喇。
+I broke your ashtray.	我打爛咗你個煙灰缸。
+I can tell you later.	我遲啲話你知。
+I can't speak French.	我唔識講法文。
+I have a sore throat.	我喉嚨痛。
+I have a stomachache.	我個肚好痛。
+I have been to Kyoto.	我去過京都。
+I have read the book.	我睇咗本書喇。
+I like reading books.	我鍾意睇書。
+I love reading books.	我鍾意睇書。
+I made a paper plane.	我摺咗隻紙飛機。
+I met Tom on the way.	我途中撞到阿Tom。
+I miss you very much.	我好掛住你。
+I need a few minutes.	俾幾分鐘時間我。
+I think I understand.	我諗我明㗎喇。
+I think you panicked.	我覺得你驚咗。
+I'll buy you a drink.	我請你飲嘢吖。
+I'm feeling stressed.	我覺得好大壓力。
+I'm not in on Sunday.	我星期日唔喺屋企。
+Is she a taxi driver?	佢係咪的士司機嚟㗎？
+Kids grow up so fast.	啲細路真係大得好快。
+Let me take you home.	我送你返屋企啦。
+Let's go by taxi, OK?	我哋搭的士去啦，好冇？
+Let's go by taxi, OK?	我哋飛的去啦，好冇？
+My camera was stolen.	我部相機俾人撻咗。
+My sister is a nurse.	我呀妹係護士。
+No, I don't think so.	我唔覺得係。
+No, I don't think so.	我唔覺得係噉。
+Our store isn't open.	我哋間舖頭閂咗門。
+Please open the door.	唔該你打開道門吖。
+She gets up at seven.	佢朝頭早七點起咗身。
+That changes nothing.	噉改變唔到任何嘢。
+They aren't my books.	呢啲書唔係我嘅。
+They're fast runners.	佢哋跑得好快。
+They're on their way.	佢哋嚟緊喇。
+This knife cuts well.	呢把刀好利。
+Tom isn't interested.	Tom冇興趣。
+We'll eat on the way.	我哋一路行一路食啦。
+We've run out of tea.	我哋冇晒茶喇。
+What am I to do next?	我而家點做好呢？
+What happened to you?	搞咩呀你？
+What happened to you?	你咩事呀？
+What's his real name?	佢個真名係咩？
+What's that building?	嗰座係咩建築物嚟㗎？
+Where are my glasses?	我副眼鏡喺邊呀？
+Where is your father?	你阿爸喺邊呀？
+Where is your school?	你間學校喺邊呀？
+Why do you know that?	你點解會知嘅？
+Are they still in bed?	佢哋仲未起身呀？
+Are you talking to me?	你同我講緊嘢呀？
+Can you speak English?	你識唔識講英文㗎？
+Come to lunch with us.	同我哋一齊食晏啦。
+Could you repeat that?	你可唔可以講多次呀？
+Do you have a lighter?	你有冇打火機呀？
+Do you really love me?	你係咪真係鍾意我㗎？
+Dog food is expensive.	狗糧好貴。
+Don't act like a jerk.	唔好咁仆街啦。
+Don't be fooled again.	唔好再俾人呃喇。
+Don't drink and drive.	飲咗酒唔好揸車。
+Don't drink and drive.	唔好酒後駕駛。
+Don't forget about us!	唔好唔記得我哋呀！
+Don't open the window.	唔好開窗。
+Don't slip on the ice.	唔好喺冰上面跣親呀。
+Don't tell anyone yet.	唔好話俾人聽住。
+Don't walk home alone.	唔好自己一個行返屋企。
+Don't you feel hungry?	你唔肚餓嘅咩？
+He adopted the orphan.	佢領養咗嗰個孤兒。
+He proved to be a spy.	佢證實咗係間諜。
+He was sick last week.	佢上個禮拜病咗。
+How could you help me?	你可以點樣幫到我？
+How difficult is that?	有幾難呀？
+I can't find my watch.	我隻錶唔知擺咗去邊。
+I can't stop sneezing.	我打乞嗤打到停唔到。
+I don't have a ticket.	我冇飛。
+I gave him my address.	我俾咗我個地址佢。
+I have to go to sleep.	我要去瞓覺喇。
+I know Tom quite well.	我同阿Tom都幾熟吓。
+I like playing tennis.	我鍾意打網球。
+I love talking to you.	我好鍾意同你講嘢。
+I met your girlfriend.	我見過你女朋友。
+I shave every morning.	我每朝早都會剃鬚。
+I will drive you home.	我揸車送你返屋企啦。
+I wish I'd known that.	如果我早啲知道就好喇。
+I'm a college student.	我係大學生。
+I'm a college student.	我讀緊大學。
+I've been rather busy.	我呢排都幾忙吓。
+I've lost my appetite.	我冇胃口食飯。
+Is it OK to sing here?	呢到可唔可以唱歌㗎？
+Is that today's paper?	嗰份報紙係咪今日㗎？
+Is this your umbrella?	呢把遮係咪你㗎？
+Is your watch correct?	你隻錶準唔準㗎？
+It was expensive, too.	仲好貴添。
+She decided to resign.	佢決定辭職。
+She is a good swimmer.	佢游水游得好叻。
+That cost him his job.	呢件事搞到佢冇咗份工。
+That's just an excuse.	呢個只不過係個藉口。
+That's not surprising.	唔出奇吖。
+The cat ate the mouse.	隻貓食咗隻老鼠。
+The pie was delicious.	個批好好食。
+The station is nearby.	車站就喺呢度附近。
+The sun is going down.	太陽落緊山。
+The sun is going down.	日落喇。
+They bought a new car.	佢哋買咗架新車。
+They tried to kill me.	佢哋嘗試殺我。
+They've changed a lot.	佢哋改變咗好多。
+This is a free ticket.	呢張係一張免費飛。
+This spoon is for tea.	呢支羹係愛嚟俾茶用嘅。
+This spoon is for tea.	呢支匙羹係俾茶用嘅。
+Tom is my old partner.	Tom係我舊拍檔。
+Tom is not old enough.	Tom未夠大。
+We named the cat Mimi.	我哋幫隻貓改咗個名，叫做 Mimi。
+We rested for a while.	我哋唞咗一陣。
+We're on our way home.	我哋返緊屋企。
+What are the symptoms?	有啲咩病徵㗎？
+What did you do there?	你喺嗰度做咗啲咩呀？
+What is on Channel 10?	第十台喺度播緊啲咩呀？
+What size do you wear?	你著咩嘥士㗎？
+What's the difference?	有咩唔同呀？
+When will you be back?	你幾時返嚟呀？
+Who did you come with?	你係同邊個一齊嚟㗎？
+Who is standing there?	企喺度嗰個邊個嚟？
+Whose books are these?	啲書邊個㗎？
+Will it rain tomorrow?	聽日會唔會落雨㗎？
+You should smoke less.	你應該食少啲煙。
+You're taller than me.	你高過我。
+Your hair is too long.	你啲頭髮長得濟。
+"Who is it?" "It's me."	「邊個呀？」「我呀。」
+Are you in a good mood?	你心情靚唔靚呀？
+Can you say that again?	你可唔可以講多次呀？
+Did you enjoy the film?	套戲好唔好睇呀？
+Did you enjoy yourself?	你玩得開唔開心呀？
+Do as I told you to do.	我叫你點做，你就點做。
+Give me a call tonight.	今晚打俾我啦。
+He asked me a question.	佢問咗我一條問題。
+He lives near my house.	佢住喺我屋企附近。
+He ordered a chop suey.	佢叫咗碟炒雜碎。
+He robbed me of my bag.	佢搶咗我個袋。
+He still remembers you.	佢仲記得你。
+He tore the book apart.	佢撕爛咗本書。
+He turned on the radio.	佢開着咗部收音機。
+I am eating a cucumber.	我食緊青瓜。
+I can't be without you.	我唔可以冇咗你。
+I can't stand the heat.	好熱呀，我就嚟頂唔順喇。
+I cried all night long.	我喊咗成晚。
+I drank too much again.	我又飲多咗喇。
+I got on the wrong bus.	我上錯咗巴士。
+I heard that he'd died.	聽講佢死咗。
+I just got a good idea.	我啱啱諗到條正橋。
+I love that commercial.	我好鍾意嗰個廣告。
+I prefer milk to juice.	我鍾意飲牛奶多過飲果汁。
+I shook hands with her.	我同佢握咗手。
+I thought it went well.	我覺得啱啱幾好吖。
+I want you to sit down.	我想你坐低。
+I was watching TV then.	我嗰陣喺度睇緊電視。
+I wasn't fired. I quit.	我唔係俾人炒魷魚，係自己劈炮唔撈嘅。
+I won't disappoint you.	我唔會令你失望。
+I'm dying to see Paris.	我真係好想去巴黎睇吓。
+Is her father a doctor?	佢阿爸係咪醫生嚟㗎？
+Is his father a doctor?	佢阿爸係咪醫生嚟㗎？
+Is that a cat or a dog?	嗰隻貓定係狗嚟㗎？
+It has started to rain.	開始落雨喇。
+It's ten o'clock sharp.	而家係十點踏正。
+It's time to go to bed.	夠鐘上床瞓覺喇。
+May I borrow your bike?	我可唔可以借你架單車嚟用吓呀？
+My stomach is growling.	我個肚喺度咕咕叫。
+No one listens anymore.	冇人會再聽㗎喇。
+Please don't bother me.	唔該你唔好煩我。
+She is very photogenic.	佢好上鏡。
+She runs a beauty shop.	佢開美容院。
+She was moved to tears.	佢感動到喊咗。
+She's learning to swim.	佢學緊游水。
+Staying home isn't fun.	吽喺屋企一啲都唔好玩。
+The woman is beautiful.	個女人好靚。
+They are a good couple.	佢哋好襯。
+This apple tastes sour.	呢粒蘋果好酸。
+This pen belongs to me.	呢支筆係我㗎。
+This spoon is for soup.	呢支匙羹係飲湯用嘅。
+This spoon is for soup.	呢支羹係愛嚟飲湯嘅。
+Tom looks pretty young.	Tom望落幾後生。
+Where are you guys now?	你哋而家喺邊？
+Who did you give it to?	你俾咗邊個呀？
+Whose notebook is that?	嗰本簿係邊個㗎？
+Will you take me there?	你可唔可以帶我去呀？
+"Shut up," he whispered.	「咪嘈啦！」佢細細聲噉講。
+Are you free on Tuesday?	你星期二得唔得閒呀？
+Can I borrow your radio?	可唔可以借你部收音機俾我呀？
+Can you play the violin?	你識唔識拉小提琴㗎？
+Can you read this kanji?	你識唔識讀呢個漢字呀？
+Did you push the button?	你有冇㩒到個掣呀？
+Do you have cough drops?	你有冇喉糖呀？
+Do you like eating fish?	你鍾唔鍾意食魚㗎？
+Do you really mean that?	你認真㗎？
+Does she play the piano?	佢識唔識彈琴㗎？
+Does she play the piano?	佢識唔識彈鋼琴㗎？
+Don't get your hopes up.	唔好咁有希望。
+Have you called her yet?	你打咗電話俾佢未呀？
+He doesn't eat raw fish.	佢唔食生魚。
+He sometimes watches TV.	佢有時會睇電視。
+He will always love her.	佢永遠都會咁愛佢。
+He'll be a good husband.	佢會係一個好老公。
+He'll lend you his book.	佢會借佢本書俾你。
+How long is this pencil?	呢支鉛筆有幾長呀？
+How much does that cost?	嗰個幾錢？
+I could hardly hear him.	我聽唔到佢咁濟。
+I couldn't do otherwise.	我冇第二啲方法。
+I don't even know where.	我連係邊度嚟都唔知。
+I don't like spicy food.	我唔鍾意食辣。
+I feel like throwing up.	我想嘔。
+I fell in love with you.	我愛上咗你。
+I have another question.	我仲有一條問題。
+I like grape jelly best.	我最鍾意食提子啫喱。
+I love studying history.	我好鍾意讀歷史。
+I take back what I said.	我收返我頭先講過嘅嘢。
+I think I can handle it.	我諗我搞得掂㗎喇。
+I think it could happen.	我覺得會發生。
+I want something to eat.	我想食啲嘢。
+I want to be a magician.	我想做魔術師。
+I want to eat something.	我想食啲嘢。
+I went to Kobe by train.	我搭火車去咗神戶。
+I wish we had more time.	如果我哋有多啲時間咪好囉。
+I'm sorry if I woke you.	唔好意思呀，我係咪嘈醒咗你呀？
+I'm waiting for a reply.	我等緊回覆。
+It's fun to knead dough.	搓麵粉好好玩㗎。
+Most of the plants died.	啲植物大部分都枯死咗。
+Must I go there at once?	我係咪一定要即刻去呀？
+My father has been busy.	我老豆呢排好忙。
+My mother gets up early.	我阿媽好早起身。
+My mother made me a bag.	我阿媽整咗個袋俾我。
+Nara is as old as Kyoto.	京都同奈良兩座城都有好耐歷史。
+The bus hasn't come yet.	架巴士仲未嚟。
+They are about to start.	佢哋就開始。
+This cloth feels smooth.	呢塊布摸上手好滑。
+This is all that I know.	我知道嘅就係得咁多。
+This looks kind of cute.	好似好得意噃。
+Tom is my older brother.	Tom係我呀哥。
+Tom is my older brother.	Tom係我哥哥。
+Tom is not fond of pets.	阿Tom唔鍾意寵物。
+Tomorrow is my birthday.	聽日係我生日。
+We have a cat and a dog.	我哋養咗一隻貓同埋一隻狗。
+We have no school today.	我哋今日唔使返學。
+What are you looking at?	望咩呀望？
+What are you looking at?	你望咩啫？
+What do you want to eat?	你想食啲咩呀？
+What does SFX stand for?	SFX 啫係咩呀？
+Who is that pretty girl?	嗰個靚女係邊個嚟㗎？
+You should study harder.	你應該努力啲讀書。
+You're driving too fast.	你揸得太快喇。
+You're no match for him.	你唔夠佢鬥㗎喇。
+"Can I join you?" "Sure."	“一齊得唔得呀？” “得。”
+Did you go to the doctor?	你去睇咗醫生未呀？
+Did you sew this by hand?	呢個係咪你親手縫㗎？
+Do not play with the key.	唔好玩條匙啦。
+Do not play with the key.	咪玩條鎖匙啦。
+Give me a coffee, please.	唔該俾杯咖啡我吖。
+Have you made a decision?	你決定咗未呀？
+He did not die of cancer.	佢唔係癌症死㗎。
+He fell in love with her.	佢鍾意咗佢。
+He showed me his new car.	佢俾咗佢架新車我睇。
+He tasted the cheesecake.	佢試咗啖芝士蛋糕。
+He wrote a book on China.	佢寫咗一本關於中國嘅書。
+Here is a letter for you.	呢封信係俾你㗎。
+I can't thank you enough.	感激不盡。
+I can't thank you enough.	真係唔知點多謝你好。
+I could not speak to him.	我同唔到佢講嘢。
+I don't care if it snows.	我唔care落唔落雪。
+I don't know for certain.	我唔肯定。
+I had two cups of coffee.	我飲咗兩杯咖啡。
+I like playing the piano.	我好鍾意彈琴。
+I like to eat watermelon.	我好鍾意食西瓜。
+I met him on my way home.	我返屋企嗰陣撞到佢。
+I ordered two hamburgers.	我叫咗兩個漢堡包。
+I was waiting for a taxi.	我等緊的士。
+I've lost about 80 cents.	我唔見咗大概八毫子。
+Is the rat alive or dead?	隻老鼠生定死架？
+It's because he got lost.	因為佢蕩失路。
+Let me think for a while.	俾我諗陣先。
+Let's see what we can do.	睇吓我哋可以做到啲咩啦。
+May I ask where you work?	我想問吓你喺邊度做嘢㗎？
+May I ask you a question?	可以問個問題嘛？
+May I eat a little of it?	我可唔可以食少少呀？
+My father died of cancer.	我老豆係生cancer死嘅。
+My father is always busy.	我個老豆成日都好忙。
+No wonder he is so angry.	唔怪得佢咁嬲啦。
+She didn't read the book.	佢冇睇到嗰本書。
+She disliked her husband.	佢唔鍾意佢老公。
+She goes to night school.	佢讀夜校。
+The boy fell off the bed.	個細路喺張床度跌咗落嚟。
+The food is getting cold.	啲嘢食凍喇。
+The soup is terribly hot.	碗湯辣到噴火。
+This is my email address.	呢個係我個電郵地址。
+This isn't a competition.	而家唔係比賽。
+Tom hasn't been so lucky.	阿Tom就冇咁好彩喇。
+Tom is able to swim well.	阿Tom游水好勁。
+Turtles don't have teeth.	龜係冇牙㗎。
+We buy eggs by the dozen.	雞蛋係一打一打咁買嘅。
+We discussed the problem.	我哋傾咗嗰個問題。
+We elected him president.	我哋選咗佢做總統。
+We need to pay attention.	我哋要專心。
+When will you ever learn?	你幾時先肯學精唧？
+Who are you referring to?	你講緊邊個呀？
+Will you make it in time?	你會唔會準時到㗎？
+You came out of the room.	你喺間房度走咗出嚟。
+You're the reason I came.	我係因為你先嚟㗎咋。
+Are you free this weekend?	你今個禮拜六日得唔得閒呀？
+Bring the water to a boil.	煲滾啲水。
+Do you have a double room?	我想問吓有冇雙人房呀？
+Do you like Japanese food?	你鍾唔鍾意食日本嘢㗎？
+Does the room have a bath?	間房有無浴缸㗎？
+Either you or he is wrong.	一係你錯，一係佢錯。
+Everything is upside down.	啲嘢掉轉曬。
+Everything is upside down.	乜都掉轉曬。
+Everything is upside down.	所有嘢掉轉曬。
+Have you been busy lately?	你最近忙唔忙呀？
+He asked me if I was busy.	佢問我係咪好忙。
+He asked me two questions.	佢問咗我兩條問題。
+He came down to breakfast.	佢落咗嚟食早餐。
+He caught hold of my hand.	佢捉住我隻手。
+He fixed the watch for me.	佢幫我整好咗隻錶。
+He has a house of his own.	佢自己有間屋。
+He takes after his father.	佢同佢阿爸好似樣。
+He wants you to stay here.	佢想你留喺呢度。
+Her name often escapes me.	我成日都醒唔起佢個名。
+His request is as follows.	佢嘅要求如下。
+How did your interview go?	你面試面成點呀？
+I am watering the flowers.	我喺度幫緊啲花淋水。
+I arrived there too early.	我太早到。
+I ate a hot dog for lunch.	我食咗隻熱狗做午餐。
+I didn't ask Tom for help.	我冇搵阿Tom幫手。
+I didn't want to help Tom.	我唔想幫阿Tom。
+I don't forget my friends.	我唔會唔記得我啲朋友。
+I don't like men like him.	我唔鍾意佢呢種人。
+I don't like paying taxes.	我唔鍾意交稅。
+I don't need a babysitter.	我唔使保母。
+I hear you have been sick.	聽講話你病咗喎。
+I knew Tom would ask that.	我知道阿Tom會咁問。
+I know Tom didn't do this.	我知道呢件事唔係阿Tom做嘅。
+I speak a little Japanese.	我識講少少日文。
+I usually get up at eight.	我通常八點起身。
+I usually go home at four.	我通常四點返屋企。
+I want to eat out tonight.	我今晚想出街食飯。
+I'd better drive you home.	我都係車你返屋企啦。
+I'd like a glass of water.	唔該俾杯水我吖。
+I'm not sure of it either.	我都唔係好肯定。
+I'm very happy to see you.	我見到你真係好開心。
+I've got to see a dentist.	我要去睇吓牙醫喇。
+It is quiet here at night.	呢度夜晚好靜。
+It really depends on when.	真係要睇吓幾時喎。
+It snowed a lot last year.	舊年落咗好多雪。
+Lend me your book, please.	唔該借你本書俾我吖。
+Let me tell you something.	我講啲嘢俾你聽吖。
+My mobile has been stolen.	我部手提電話俾人撻咗。
+No one goes there anymore.	冇人會再去嗰度喇。
+No wonder he was arrested.	唔怪得佢俾人拉咗啦。
+On my way home, I met him.	我返緊屋企嗰陣撞到佢。
+Playing golf is great fun.	哥爾夫球好好玩㗎。
+Please give me an ashtray.	畀個煙灰缸我吖唔該。
+Please lend me your knife.	唔該你借把刀俾我吖。
+She cut the apple in half.	佢將個蘋果切開咗兩分。
+She is a very poor driver.	佢唔係好識揸車。
+She likes taking pictures.	佢鍾意影相。
+Snow fell in large flakes.	啲雪一大片一大片噉落咗落嚟。
+Staying at home is boring.	留喺屋企好悶。
+There's a hole in my coat.	我件褸穿咗個窿。
+This TV was made in China.	呢部電視係中國製造嘅。
+Tom is a very good friend.	阿Tom係一個好好嘅朋友。
+We painted the door green.	我哋將道門油咗做綠色。
+We'll meet in three hours.	我哋三個鐘之後見啦。
+What shall we eat tonight?	我哋今晚食咩好呀？
+What's your date of birth?	你生日幾多號？
+Who are you talking about?	你講緊邊個呀？
+Who is playing the guitar?	邊個喺度彈結他呀？
+Why are you so interested?	點解你咁有興趣嘅？
+Why didn't Tom wake me up?	點解阿Tom唔叫我起身嘅？
+Why didn't you believe me?	你點解唔信我呀？
+Why is this computer here?	點解部電腦喺呢到嘅？
+You can leave your hat on.	你頂帽可以照戴住。
+You can tear the box open.	你直接撕開個箱咪得囉。
+You need to stop drinking.	你唔好再飲酒喇。
+You should eat more fruit.	你應該食多啲生果。
+You'd better not tell him.	你最好都係唔好同佢講。
+Beware of pickpockets here.	呢度要因住俾人撻嘢。
+Both spellings are correct.	兩個串法都啱。
+Bring a couple more chairs.	攞多兩三張凳嚟吖。
+Can you give me some money?	你可唔可以俾啲錢我呀？
+Did you enjoy your holiday?	放假玩得開唔開心呀？
+Do you come here every day?	你係咪每日都嚟呢度㗎？
+Do you need our assistance?	你需唔需要我哋嘅協助？
+Don't trample on the grass.	唔好喺個草地度行。
+Excuse me, what time is it?	唔好意思，依家幾點？
+Five plus two equals seven.	五加二喺七。
+Have you read this article?	你有冇睇過呢篇文章呀？
+He forgot to lock the door.	佢唔記得咗鎖門。
+He had a lot of work to do.	佢有好多嘢要做。
+He pays with a credit card.	佢用信用咭俾錢。
+He showed us some pictures.	佢俾咗啲相我哋睇。
+He's always looking at you.	佢成日都望住你。
+His girlfriend is Japanese.	佢個女朋友係日本人。
+His son is eight years old.	佢個仔今年八歲。
+Hurry up, or we'll be late.	快啲啦，如果唔係我哋就遲到㗎喇。
+I already have an envelope.	我已經有信封㗎喇。
+I am not used to hard work.	我做唔慣粗重嘢。
+I can read without glasses.	我唔戴眼鏡都睇到書。
+I can't really describe it.	我唔知應該點形容。
+I don't care for green tea.	我唔鍾意綠茶。
+I don't know where that is.	我唔知邊度嚟。
+I forget your phone number.	我唔記得咗你個電話號碼。
+I got up late this morning.	我今朝晏咗起身。
+I grew up in the mountains.	我喺山區長大。
+I have a lot of work to do.	我有好多嘢要做。
+I have something in my eye.	有啲嘢入咗我隻眼。
+I know nothing about music.	音樂嘅嘢我真係識條鐵。
+I know nothing about music.	音樂嘅嘢我真係識條春。
+I know nothing about music.	音樂嘅嘢我真係識條毛。
+I think he'll never return.	我諗佢永遠都唔會返嚟㗎喇。
+I think it's going to rain.	我諗就快落雨喇。
+I'll give you five dollars.	我俾五蚊你啦。
+I'm going to do that again.	我會再做多次。
+I've lost interest in golf.	我對哥爾夫球已經冇晒興趣喇。
+It is likely to rain today.	今日好可能會落雨。
+Let me get you some coffee.	我斟杯咖啡俾你飲吖。
+My hometown is very pretty.	我鄉下好靚。
+Please let me try the game.	唔該俾我試下隻game啦。
+Please let me try the game.	請你俾我試吓隻遊戲啦。
+Please send me a catalogue.	唔該寄本目錄俾我。
+She has a house by the sea.	佢喺海邊有間屋。
+She is playing with a doll.	佢喺度玩緊毛公仔。
+She's loved by her friends.	佢好受朋友歡迎。
+Silk feels soft and smooth.	絲綢摸上手又軟又滑。
+Stay here and wait for her.	留喺呢度等佢。
+That's too good to be true.	邊有咁大隻蛤乸隨街跳呀？
+The box he found was empty.	佢搵到嗰個箱係吉嘅。
+They advanced on the enemy.	佢哋向住敵人前進。
+They are on their way home.	佢哋返緊屋企。
+They recognized each other.	佢哋認得對方。
+This book is worth reading.	呢本書值得一睇。
+Tom is writing a novel now.	阿Tom而家寫緊一本小說。
+Tom wanted to come with us.	Tom想嚟同我哋一齊。
+Tom wants to take you home.	Tom想帶你返屋企。
+Tom was my first boyfriend.	阿Tom係我第一個男朋友。
+We have no school tomorrow.	我哋聽日唔使返學。
+Well, that's what Tom said.	咁Tom係咁講嘅。
+What did they hit you with?	佢哋係用咩嚟打你㗎？
+When did you learn to swim?	你幾時學識游水㗎？
+When was this temple built?	呢座廟係幾時起㗎？
+Where is the changing room?	試身室喺邊㗎？
+Why are you looking so sad?	你做咩好似好唔開心噉嘅？
+Why did you tell this joke?	點解你會講呢個笑話嘅？
+Why did you tell this joke?	你做乜講呢個笑話？
+You don't have to go there.	你唔使去。
+At first, I didn't like him.	我一開頭唔係好鍾意佢。
+Canada is larger than Japan.	加拿大大過日本。
+Could you drive more slowly?	你可唔可以揸慢少少呀？
+Did you ever see that movie?	你有冇睇過嗰套戲呀？
+Did you read the whole book?	你有冇睇晒成本書呀？
+Did you watch TV last night?	你尋晚有冇睇電視呀？
+Do you have shoes and socks?	你有冇鞋同埋襪呀？
+Does he go to school by bus?	佢係咪搭巴士返學㗎？
+Don't lean against the wall.	唔好挨埋埲牆度。
+Have you ever been to Tokyo?	你有冇去過東京呀？
+He banged the door in anger.	佢嬲爆爆噉砰埋咗道門。
+He can speak five languages.	佢識講五國語言。
+He did not know where to go.	佢唔知去邊好。
+He doesn't like to eat fish.	佢唔鍾意食魚。
+He failed the entrance exam.	佢炒咗個入學試。
+He is a bit like his father.	佢有啲似佢老豆。
+He went up the steps slowly.	佢一步一步噉上咗樓梯。
+He's always been kind to me.	佢一路都對我好好。
+Her beauty is indescribable.	佢靚到唔知點形容好。
+How did you get to know him?	你點識佢㗎？
+How old do you think she is?	你話佢幾多歲吖嗱？
+I believe you like your job.	我諗你一定好鍾意你份工喇！
+I don't feel like going out.	我冇乜心情出街。
+I fell asleep while reading.	我睇書睇到一半就瞓著咗。
+I prefer swimming to skiing.	我鍾意游水多過滑雪。
+I want to go to see a movie.	我想睇戲。
+I will never be your friend.	我永遠都唔會係你朋友。
+I wonder where he is hiding.	佢究竟匿埋咗喺邊呢？
+I wrote a letter last night.	我尋晚寫咗一封信。
+I'll be seventeen next year.	我下年就十七歲喇。
+I'm sorry, my father is out.	唔好意思，我阿爸唔喺屋企。
+I've worn holes in my socks.	我著到對襪穿咗窿。
+It's boring to stay at home.	留喺屋企好無聊。
+Leave me a bit of ice cream.	留啲雪糕俾我。
+Lenin ordered them to rebel.	列寧命令佢哋反抗。
+Let me spell it out for you.	等我串俾你聽啦。
+May I bring my family along?	我可唔可以同屋企人一齊嚟㗎？
+My daughter likes egg yolks.	我個女好鍾意食蛋黃。
+My father came home at nine.	我老豆九點返咗屋企。
+Oil does not mix with water.	油同水溝唔埋。
+Several delegates disagreed.	幾位代表唔同意。
+She borrows novels from Tom.	佢同Tom借啲小說。
+She saved a hundred dollars.	佢儲咗一百蚊。
+The dog didn't eat the meat.	隻狗冇食到啲肉。
+The family lived in poverty.	嗰家人活喺貧窮之中。
+There are too many tourists.	太多遊客喇。
+There is a hole in his sock.	佢隻襪有個窿。
+There's a hole in this sock.	呢隻襪穿咗個窿。
+They were very tired indeed.	佢哋真係好攰。
+This is too good to be true.	邊有咁大隻蛤乸隨街跳呀？
+To the Hilton Hotel, please.	去希爾頓酒店吖唔該。
+Tom got Mary to cook dinner.	Tom搵咗Mary煮晚飯。
+Tom jogs three times a week.	湯姆一個禮拜跑三次步。
+Tom took off his sunglasses.	阿Tom除咗副太陽眼鏡。
+Tom took off his sunglasses.	阿Tom除咗副黑超。
+Tom took off his sunglasses.	阿Tom除咗副超。
+Twenty years already passed.	已經過咗廿年喇。
+We all want Tom to be happy.	我哋全部都想Tom開心㗎。
+We drink our tea with sugar.	我哋飲茶會落糖。
+We dug a hole in the ground.	我哋喺地下掘咗個窿。
+We know everything you know.	你知嘅嘢我哋都知。
+We were very busy last week.	我哋上個禮拜好忙。
+What are you thinking about?	你喺度諗緊啲咩呀？
+What do you do after dinner?	你食完晚飯通常做乜嘢？
+What will you have to drink?	你想飲啲咩呀？
+Which house did you live in?	你以前住邊間屋㗎？
+Who is the person in charge?	負責人係邊個？
+Why don't you just fire Tom?	點解你唔直接炒咗 Tom 啫？
+You can always quit the job.	大不了咪辭咗份工佢囉。
+You don't fool me, you know.	你唔好蝦我呀，知唔知。
+You don't fool me, you know.	你唔好呃我呀，知唔知。
+You have only to ask for it.	你出聲就得㗎喇。
+You may be right about that.	話唔定你啱嘅。
+You said you had a contract.	你話過你有合約。
+Are you proud of your father?	你老竇係咪令你好光榮？
+Are you proud of your father?	你係咪為你阿爸感到自豪？
+Can I pay with a credit card?	可唔可以用信用卡找數？
+Do you know what he has done?	你知唔知佢做咗乜嘢呀？
+Don't tell Father about this.	唔好講呢件事俾阿爸聽。
+Everybody is waiting for you.	成村人喺度等緊你呀。
+He came home late last night.	佢尋晚遲咗返屋企。
+He did better than last time.	佢做得好過上一次。
+He is a doctor and an author.	佢係個醫生，又係個作家。
+He is good at riding a horse.	佢騎馬好叻。
+He seemed to have thought so.	佢好似係咁諗。
+He spent the evening reading.	佢成晚喺度睇書。
+Her mother has gone shopping.	佢阿媽去咗買嘢。
+How did you come to know her?	你點識佢㗎？
+How do you know where I live?	你點知我喺邊到住㗎？
+How much do the carrots cost?	啲甘筍點賣呀？
+How much is the entrance fee?	入場費幾多錢呀？
+I bought two bottles of milk.	我買咗兩枝牛奶。
+I don't have time to be sick.	得閒死唔得閒病。
+I don't know where she lives.	我唔知佢喺邊度住。
+I don't like your girlfriend.	我唔鍾意你女朋友。
+I don't like your girlfriend.	我唔鍾意你條女。
+I don't understand this word.	我唔識呢個字。
+I followed her into the room.	我跟佢走咗入間房度。
+I have to go to the bank now.	我要去銀行嚹。
+I just bought some cardboard.	我啱啱買咗啲紙板。
+I kept the seat warm for you.	我幫你坐暖咗張凳。
+I left something in the room.	我漏低咗啲嘢喺間房度。
+I met your parents yesterday.	我尋日見咗你父母。
+I met your parents yesterday.	我尋日見咗你爸爸媽媽。
+I thought Tom was a musician.	我以為阿Tom玩音樂嘅添。
+I was just going to call you.	我啱啱諗住打俾你。
+I went there dozens of times.	嗰個地方我去過幾廿次喇。
+I will be free next Saturday.	我下個禮拜六得閒。
+I've already eaten breakfast.	我已經食咗早餐喇。
+I've been to Hokkaido before.	我去過北海道。
+I've done what I can for you.	我可以為你做嘅都做咗喇。
+I've fallen in love with you.	我愛上咗你。
+It is dangerous to swim here.	呢度游水好危險㗎。
+It's no use arguing with him.	同佢拗嚟都嘥氣。
+May I have your phone number?	我想問吓你個電話號碼幾多號呀？
+Mine is not so good as yours.	我嗰個冇你嗰個咁好。
+Now they have three children.	佢哋而家有三個細路。
+Our garden was full of weeds.	我哋個花園生滿晒雜草。
+Our team lost the first game.	我哋組輸咗第一回合。
+Please give us some examples.	可唔可以舉幾個例子呀？
+Please wake me for breakfast.	唔該你叫我起身食早餐吖。
+She can make her own dresses.	佢識自己整裙。
+She got married in her teens.	佢十幾歲就結咗婚。
+She has a bath every morning.	佢日日朝頭早都會去沖涼。
+She is leading by two meters.	佢而家領先緊兩米。
+She is sensitive to the heat.	佢好怕熱。
+That book had a lot of pages.	嗰本書有好多版。
+That shop has many customers.	嗰間舖頭有好多人幫襯。
+The meeting went pretty well.	個會開得幾順利。
+The war with France was over.	同法國嘅戰爭已經結束。
+There is a house on the hill.	座山上面有一間屋。
+There's no chair to sit upon.	冇凳坐。
+This morning, I saw an angel.	我今朝見到個天使。
+Tom gave me a ride to school.	Tom車咗我返學。
+Tom is as tall as his father.	阿Tom同佢老豆一樣咁高。
+Tom is more famous than Mary.	阿Tom有名過Mary。
+Tom owns a yellow sports car.	Tom有架黃色跑車。
+Turn down the volume, please.	唔該你較細聲啲吖。
+We don't have another choice.	我哋冇其他選擇。
+We have lots of things to do.	我哋有好多嘢要做。
+We weren't at home yesterday.	我哋尋日唔喺屋企。
+We'll see who finishes first.	咪睇吓邊個衝線先囉。
+What does your car look like?	你架車係點樣㗎？
+Why are you doing this to me?	點解你要噉對我？
+Why did you say such a thing?	你做咩講埋啲噉嘅嘢呀？
+Why does Tom need to do that?	點解阿Tom要咁做？
+Will it take long to recover?	會唔會好耐先好得返㗎？
+Will you have dinner with me?	夜晚一唔一齊食飯呀？
+You two have a lot in common.	你哋兩個有好多共通點。
+A bird is singing in the tree.	有隻雀仔喺樹上面唱歌。
+Are you guys talking about me?	你哋係咪講緊我呀？
+Could you turn down the radio?	可唔可以將部收音機較細聲少少呀？
+Cut the meat into thin slices.	將啲肉切到一片片好薄噉。
+Did you call him up yesterday?	你尋日有無打電話俾佢？
+Did you have a nice Christmas?	你聖誕節過得開唔開心呀？
+Do you have a Twitter account?	你有冇Twitter帳戶呀？
+Do you live with your parents?	你係咪同你阿爸阿媽一齊住㗎？
+Do you study French at school?	你有冇喺學校到讀法文？
+Do you think Tom is all right?	你覺唔覺得Tom冇嘢？
+Driving too fast is dangerous.	超速駕駛好危險㗎。
+Eleven o'clock is good for me.	十一點我OK。
+Eleven o'clock is good for me.	十一點我得呀。
+Have you finished packing yet?	你執好晒啲嘢未呀？
+He has just bought a used car.	佢啱啱買咗架二手車。
+He likes coffee without sugar.	佢飲咖啡唔鍾意落糖。
+He lives in this neighborhood.	佢住喺呢度附近。
+He thinks he knows everything.	佢以為自己咩都識。
+He threw a rock into the pond.	佢抌咗塊石頭落個池度。
+I bought a pen, but I lost it.	我買咗枝筆，但係唔見咗。
+I bought this T-shirt on sale.	我買咗呢件減緊價嘅 T 恤。
+I can eat anything but onions.	我除咗洋葱之外咩都食。
+I don't think that he'll come.	佢應該唔會嚟㗎喇。
+I found this book interesting.	我覺得呢本書好有趣。
+I hope you'll get better soon.	希望你快啲好返啦。
+I planted roses in the garden.	我喺個花園度種咗啲玫瑰花。
+I promise you I'll come early.	我保證我好快就會嚟到。
+I really like this restaurant.	我真係好鍾意呢間餐廳。
+I smell smoke in the elevator.	我喺部𨋢度聞到啲煙味。
+I want to see the movie again.	我想再睇多次套戲。
+I want to sleep a little more.	我想瞓多陣。
+I want you to meet my parents.	我想你見吓我阿爸阿媽。
+I will deal with this problem.	我會處理呢個問題。
+I wish I had a room of my own.	如果我有自己一間房就好喇。
+I wish I were as smart as you.	如果我有你咁醒目就好
+I wrote a letter to my mother.	我寫咗封信俾我阿媽。
+I'll be sure to tell Tom that.	我一定會同Tom講㗎喇。
+I'll certainly go and see him.	我一定會去探佢嘅。
+I'm not too worried about Tom.	我唔係太擔心阿Tom。
+I'm sorry, I'm busy right now.	唔好意思，我而家好忙呀。
+I'm used to working all night.	我慣咗通頂做嘢。
+I'm used to working all night.	我慣咗通宵做嘢。
+I've asked Tom not to do that.	我叫咗阿Tom唔好咁做。
+I've got no time for that now.	我依家冇時間理嗰樣嘢。
+Look at me when I talk to you!	我同你講嘢嗰陣望住我！
+Most of his friends are girls.	佢班friend大多數都係女仔。
+My father has gone to America.	我阿爸去咗美國。
+My son is now as tall as I am.	我個仔而家同我一樣咁高喇。
+She plays tennis every Sunday.	佢逢禮拜日都會去打網球。
+Someone locked me in the room.	有人鎖咗我喺間房度。
+That bridge is very beautiful.	嗰座橋好靚。
+That's what we're looking for.	呢樣就係我哋搵緊嘅嘢。
+The car crashed into the wall.	架車撞咗埋埲牆度。
+The girl resembles her mother.	個女仔同佢阿媽好似樣。
+The noise set the dog barking.	啲噪音搞到隻狗喺度吠。
+There is a fly on the ceiling.	個天花板上面有隻烏蠅。
+This is the best time of year.	全年最正就係呢個時候。
+This river is one mile across.	呢條河有一咪闊。
+Tom always keeps his promises.	Tom 好守信用。
+Tom always keeps his promises.	Tom 好有口齒。
+Tom is probably still at home.	斷估阿Tom應該仲喺屋企。
+Tom went back to his hometown.	阿 Tom 返咗鄉下。
+We took turns driving the car.	我哋輪流揸車。
+Why didn't you dance with him?	你做咩唔同佢跳舞嘅？
+Will you let me try once more?	你可唔可以俾我試多一次呀？
+You cannot smoke in this room.	呢間房唔俾食煙。
+You don't understand anything.	你乜都唔明。
+You will soon be able to swim.	你好快就會學識游水㗎喇。
+You will soon get to like him.	你好快就會開始鍾意佢㗎喇。
+You'd better go there on foot.	你最好行路去。
+You'd better take an umbrella.	你最好帶埋把遮去。
+Your birthday is drawing near.	你生日就到啦噃。
+Your handwriting is very good.	你手字好靚。
+Your purse is similar to mine.	你個銀包同我嗰個好似樣。
+"What time is it?" "It's 3:20."	「而家幾點呀？」「三點四。」
+"What's the time?" "It's 2:30."	「而家幾多點呀？」「兩點半。」
+Are you going to learn English?	你係咪諗住學英文呀？
+Could you turn the volume down?	你可唔可以較細聲啲呀？
+Did he come by bus or by train?	佢係搭巴士嚟定係搭火車嚟㗎？
+Do they speak French in Canada?	加拿大係咪講法文㗎？
+Don't step on the broken glass.	唔好踩落啲碎玻璃度。
+Fighting won't settle anything.	打交解決唔到問題。
+He asked me whether I was busy.	佢問我係咪好忙。
+He asked me why I was laughing.	佢問我做咩喺度笑。
+He has lived here for one week.	佢已經喺度住咗一個禮拜喇。
+He has no friends to talk with.	佢冇朋友啱傾。
+He is hiding something from me.	佢有啲嘢瞞住我。
+He seldom writes to his father.	佢好少寫信俾佢老豆。
+He's obsessed with cleanliness.	佢有潔癖。
+He's popular with the students.	佢好受學生歡迎。
+He's the laziest person I know.	佢係我識嘅人入面最懶嘅一個。
+He's the laziest person I know.	我識嘅人入面係佢最懶嘞。
+His car has just been repaired.	佢架車啱啱整返好喇。
+His writing is very subjective.	佢寫文章寫得好主觀。
+I am busy now and can't go out.	我而家好忙，唔出得街。
+I cannot lend this book to you.	我唔可以借呢本書俾你。
+I didn't know what to do, then.	我嗰陣時唔知點做先好。
+I don't put sugar in my coffee.	我飲咖啡唔落糖。
+I forget your telephone number.	我唔記得咗你個電話號碼。
+I forgot to lock the storeroom.	我唔記得咗鎖士多房道門。
+I found a dollar in the street.	我喺街度執到一蚊。
+I have not eaten breakfast yet.	我仲未食早餐。
+I held my breath in excitement.	我興奮到講唔到嘢。
+I know what you did last night.	我知你尋晚做過咩嚟。
+I put my suitcase in the trunk.	我將啲行李擺咗喺個車尾箱入面。
+I really want to know her name.	我好想知道佢個名。
+I take my camera wherever I go.	我去到邊都帶住部相機。
+I think it's still worth a try.	我覺得都可以搏下嘅。
+I walk in the forest every day.	我日日都去森林度散步。
+I want something cold to drink.	我想飲啲凍嘢。
+I want to know why you're here.	我想知點解你會喺到。
+I'd like a window seat, please.	要窗口位吖唔該。
+I'll take that as a compliment.	我當你讚我㗎喇。
+I'm waiting for you to help me.	我等緊你幫我。
+I'm working for a trading firm.	我喺一間貿易公司度打工。
+I've worked here for ten years.	我已經喺呢度做咗十年喇。
+If that happens again, call me.	如果再有啲咁嘅事發生就打俾我啦。
+If that happens again, call me.	如果再係咁就打俾我啦。
+If you bite me, I'll bite back.	你咬我，我就咬返你。
+Japanese eat three meals a day.	日本人每日食三餐。
+Like it or not, you must do it.	鐘唔鐘意你都要做。
+Modern art doesn't interest me.	我對現代藝術冇乜興趣。
+My brother likes horror movies.	我阿哥好鍾意睇恐怖片。
+My mother has good handwriting.	我阿媽手字好靚。
+My plane leaves at six o'clock.	我坐嗰架飛機六點開。
+My shoes are bigger than yours.	我對鞋大過你嗰對。
+Pay the cashier on the way out.	去出口個收銀處俾錢啦。
+She held on to my hand tightly.	佢捉實我隻手。
+She is a woman of great beauty.	佢係一個好靚嘅女人。
+She is certain to be surprised.	佢一定會好驚喜。
+She was arrested by the police.	佢俾警察拉咗。
+Tell me about it. I'm all ears.	話俾我聽啦，我好想知呀。
+The baby is sucking his finger.	個BB喺到吮手指。
+The boy I love doesn't love me.	我鍾意嗰個男仔唔鍾意我。
+The desk was covered with dust.	張枱舖滿咗塵。
+The waiter brought a new plate.	個侍應拎咗個新碟俾我哋。
+This box is filled with apples.	呢個箱裏面裝滿晒蘋果。
+This bus can hold fifty people.	呢架巴士載到五十個人。
+This is a very complex problem.	呢個係一個非常複雜嘅問題。
+This machine is easy to handle.	呢部機好易用。
+This telephone is out of order.	呢部電話壞咗。
+Tom and Mary grew up in Boston.	阿Tom同阿Mary係喺波士頓大嘅。
+Tom bought a camera like yours.	Tom買咗部相機好似你嗰部。
+Tom bought a camera like yours.	Tom買咗部好似你嗰部嘅相機。
+Tom pretended to be interested.	阿Tom扮晒有興趣咁。
+Tom won $10,000 in the lottery.	湯姆買六合彩贏咗一皮嘢。
+We live in a civilized society.	我哋生活喺文明社會。
+What do you need the money for?	你要筆錢嚟做咩呀？
+What prevented him from coming?	佢做咩無嚟到嘅？
+What was the weather yesterday?	尋日啲天氣點呀？
+What, may I ask, are you doing?	我可唔可以問你做緊咩？
+When are we eating? I'm hungry!	幾時食飯呀？好鬼肚餓呀！
+When does the restaurant close?	間餐廳幾點閂㗎？
+Why do bees die after stinging?	蜜蜂針完人點解會死嘅？
+Why were you late this morning?	你今朝做咩遲到嘅？
+Will you cook something for me?	你可唔可以煮啲嘢俾我食呀？
+Would you mind me smoking here?	你介唔介意我喺度食煙呀？
+You don't have to talk so loud.	你講嘢唔使講到咁大聲。
+You may come whenever you like.	你鍾意幾時嚟就幾時嚟啦。
+You may not smoke in this room.	呢間房唔俾食煙㗎。
+You need to pay more attention.	你要專心啲。
+You should eat more vegetables.	你應該食多啲菜。
+You should have come yesterday.	你尋日應該嚟吖嘛。
+Your name is first on the list.	你個名喺張表度第一個。
+Your watch is ten minutes slow.	你隻錶慢咗十分鐘。
+Can I have a few words with you?	可唔可以同你傾幾句呀？
+Can you help me wash the dishes?	可唔可以幫我洗碗？
+China is much larger than Japan.	中國大過日本好多。
+Does anyone here speak Japanese?	呢度有冇人識講日文㗎？
+Does this dress look good on me?	呢條裙襯唔襯我呀？
+Don't let her go out after dark.	個天黑咗之後就唔好俾佢出街喇。
+He came home at almost midnight.	佢差唔多半夜嗰陣返到屋企。
+He can speak English and French.	佢識講英文同法文。
+He doesn't want to wait for you.	佢唔想等你。
+He gave his seat to the old man.	佢讓咗個位俾個老人家。
+He gave his seat to the old man.	佢讓咗個位俾個阿伯。
+He is taller than any other boy.	佢高過晒第二啲男仔。
+He likes to sing in the bathtub.	佢好鍾意一路沖涼一路唱歌。
+He looks just like a guy I know.	佢個樣好熟口熟面。
+He seldom writes to his parents.	佢好少寫信俾佢阿爸阿媽。
+He's gone to Nagoya on business.	佢去咗名古屋公幹。
+I am afraid I must be going now.	唔好意思，我要走喇。
+I can't hear what you're saying.	我聽唔到你喺到講咩。
+I did not understand him at all.	我完全聽唔明佢講啲嘢。
+I don't have a computer at home.	我屋企冇電腦。
+I got terrible grades this term.	我今個學期啲成績好差。
+I have an urge to buy something.	我有種衝動想買嘢。
+I left your umbrella on the bus.	我漏咗你把遮喺架巴士度。
+I ordered the book from Britain.	本書係喺英國訂返返嚟㗎。
+I remember meeting him in Paris.	我記得喺巴黎見過佢。
+I said that to please my mother.	我噉樣講係想氹我阿媽開心㗎咋。
+I saw him swim across the river.	我睇到佢游過河。
+I shouldn't have left you alone.	我唔應該漏低你一個。
+I took your umbrella by mistake.	我唔小心拎錯咗你把遮。
+I want to improve my penmanship.	我想寫字寫靚啲。
+I want to speak to your manager.	我想見你哋經理。
+I'm looking for my contact lens.	我喺度搵緊我副隱形眼鏡。
+I've got enough money for a car.	我夠錢買車。
+It is exactly three o'clock now.	而家係三點正。
+It is getting cooler and cooler.	呢排啲天氣愈嚟愈涼爽喇。
+It's hard to speak English well.	英文好難講得好。
+John is two years older than me.	阿John大我兩歲。
+Let me help you with the dishes.	我幫你洗碗啦。
+My mother is reading a magazine.	我阿媽喺度睇緊雜誌。
+My watch gains one minute a day.	我隻錶每日快一分鐘。
+No one cares about that anymore.	冇人會理㗎喇。
+Oranges are sweeter than lemons.	橙甜過檸檬。
+Please give me a sheet of paper.	唔該俾張紙我吖。
+Please give me some more coffee.	可唔可以再俾啲咖啡我呀？
+Please shut the door behind you.	唔該你閂咗你後面嗰道門佢吖。
+See you tomorrow in the library.	聽日圖書館見啦。
+She broke the window on purpose.	佢特登打爛咗個窗。
+She could not cope with anxiety.	佢處理唔到緊張嘅情緒。
+She refused to accept the money.	佢唔肯收筆錢。
+Sorry, the book is out of stock.	唔好意思呀，呢本書賣晒㗎喇。
+The doctor is not available now.	醫生而家唔得閒。
+The kite got caught in the tree.	隻紙鷂𠽤咗喺棵樹度。
+The lady moved here a month ago.	嗰位小姐喺一個月之前搬咗嚟呢度。
+The moon moves around the earth.	月亮圍住地球轉。
+The teacher told me to stand up.	老師叫我企起身。
+The weather is just right today.	今日啲天氣啱啱好。
+These fireworks are spectacular!	呢啲煙花真係好靚呀！
+They are pushing me for payment.	佢哋係咁追我俾錢。
+They arrived half an hour early.	佢哋早咗半個鐘到。
+They moved here three years ago.	佢哋喺三年前搬咗嚟呢度住。
+Tom enjoys playing tricks on me.	阿Tom好鍾意整蠱我。
+Tom is always trying to be cool.	Tom成日懶係型咁。
+Tom is always trying to be cool.	Tom成日嘗試令自己型啲。
+We have way too much work to do.	我哋有太多嘢做喇。
+We killed time by playing cards.	我哋打啤牌消磨時間。
+We've only got one shot at this.	我哋淨係得一次機會。
+What are you learning at school?	你喺學校學緊啲咩呀？
+What is the price of this radio?	呢部收音機幾多錢呀？
+What time do you usually get up?	你通常幾點起身㗎？
+Who's your favorite philosopher?	你最鍾意嘅哲學家係邊個？
+Who's your favorite philosopher?	你最鍾意邊個哲學家？
+Why did you paint the bench red?	你做咩油咗張長凳做紅色嘅？
+Why is it that she looks so sad?	佢做咩好似好唔開心咁嘅？
+Yesterday a truck hit this wall.	尋日有架貨車撞咗埋呢埲牆度。
+Your English has improved a lot.	你啲英文進步咗好多。
+Your shirt button is coming off.	你件恤衫粒鈕就嚟甩喇。
+Be careful not to tamper with it.	小心唔好立亂搞佢。
+By the way, are you free tonight?	話時話，你今晚得唔得閒呀？
+By the way, what is your address?	吖，係啦，可唔可以俾你個地址我呀？
+Call me when you are ready to go.	你準備好出發就打電話俾我啦。
+Comb your hair before you go out.	梳好你啲頭髮先好出門口呀。
+Does Tom have to stay home today?	阿 Tom 今日使唔使留喺屋企呀？
+Don't speak with your mouth full!	唔好一路食嘢一路講嘢！
+Don't you feel the house shaking?	你唔覺得間屋喺度震緊咩？
+Each country has its own customs.	唔同國家有唔同習俗。
+Father doesn't allow me to drive.	我老豆唔俾我揸車。
+From now on, let's keep in touch.	我哋以後要保持聯絡呀。
+Have you called an ambulance yet?	你call咗白車未？
+Have you called an ambulance yet?	你叫咗救傷車未？
+He has a lot of books on history.	佢有好多講歷史嘅書。
+He's three years older than I am.	佢大我三年。
+His picture was in the newspaper.	佢幅相上咗報紙。
+How come you didn't say anything?	你做咩粒聲唔出嘅？
+How many are there in your class?	你嗰班有幾多人㗎？
+I am a member of the tennis club.	我係網球俱樂部嘅會員。
+I don't have anything else to do.	我冇第啲嘢做喇。
+I don't think Tom will hurt Mary.	我唔覺得Tom會傷害Mary。
+I had a bite at around 3 o'clock.	我三點到係噉意食咗啲嘢。
+I heard you were getting married.	聽講你就嚟結婚喎。
+I held up my hand to stop a taxi.	我舉高咗隻手嚟截的士。
+I hope we don't get into trouble.	希望我哋唔會遇到啲咩麻煩嘢啦。
+I know a good Italian restaurant.	我識一間好食嘅意大利餐廳。
+I made up my mind to be a doctor.	我決定咗要做醫生。
+I plan to go to France next year.	我諗住下年去法國。
+I remember meeting you somewhere.	我好似喺邊到見過你。
+I screwed up the very first note.	我一開波就已經吹錯咗音。
+I want to learn standard English.	我想學標準英文。
+I was told the news by Hashimoto.	個消息係橋本話俾我聽嘅。
+I wish you were here with me now.	如果你依家喺度同我一齊就好喇。
+I wish you were here with me now.	我好想你依家喺度陪我。
+I would like to buy some aspirin.	我想買啲阿士匹靈。
+I wrote three letters last night.	我尋晚寫咗三封信。
+I'd like to have a glass of wine.	唔該俾杯酒我吖。
+I'd like to live near your house.	我想住近啲你間屋。
+I'm afraid it will rain tomorrow.	我驚聽日會落雨。
+I'm looking for a small suitcase.	我搵緊個細喼。
+I'm tired of watching television.	我睇電視睇到厭喇。
+I'm too tired to walk any longer.	我攰到行唔郁喇。
+It's the shortest route to Paris.	呢條係去巴黎最短嘅路線。
+Let me tell you what I did today.	等我話俾你聽我今日做過啲咩嚟啦。
+Let's take it one step at a time.	我哋一步一步噉嚟啦。
+Look at the blackboard, everyone.	大家唔該望吓黑板。
+Mary wants kids, but Tom doesn't.	Mary想生BB，但係阿Tom唔想。
+May I have a look at your ticket?	我可唔可以睇一睇你張飛呀？
+May I have another piece of cake?	我可唔可以食多嚿蛋糕呀？
+My father would often go fishing.	我阿爸以前成日去釣魚。
+No one comes to visit me anymore.	冇人會再嚟探我喇。
+Please make yourself comfortable.	隨便坐啦，當自己屋企得喇。
+She gave me a nice pair of shoes.	佢送咗對好靚嘅鞋俾我。
+She has left her umbrella behind.	佢漏低咗佢把遮。
+She introduced me to her brother.	佢介紹咗我俾佢細佬識。
+She took a walk before breakfast.	佢食早餐之前去咗散步。
+She's promised to give me a ring.	佢應承咗話會打電話俾我。
+She's promised to give me a ring.	佢應承咗話會送隻戒指俾我。
+That word describes it perfectly.	呢個字形容得好啱。
+The red dress looked good on her.	條紅色裙好襯佢。
+The room was devoid of furniture.	間房冇傢俬。
+The sisters look like each other.	個家姐同個細妹好似樣。
+The situation there was critical.	嗰度情況好危急。
+The two answers are both correct.	兩個答案都啱。
+There is an apple under the desk.	張枱下面有粒蘋果。
+There is no school during August.	八月唔使返學。
+These trees were planted by them.	呢啲樹係佢哋種嘅。
+They are both colleagues of mine.	佢哋兩個都係我啲同事。
+They fell asleep after the movie.	佢哋睇完套戲之後就瞓著咗。
+This building is near completion.	呢座建築物就起完㗎喇。
+This is a difficult math problem.	呢條係一條好深嘅數學題。
+This is the house he was born in.	佢就係喺呢間屋度出世㗎喇。
+We came back by way of Hong Kong.	我哋經香港番嚟。
+We don't know what causes cancer.	我哋唔知道癌症嘅成因係咩。
+What do you eat on Christmas Day?	你聖誕節會食啲咩㗎？
+What do you say to taking a rest?	不如唞吓先啦？
+What was his motive for doing it?	佢噉樣做嘅動機係咩呢？
+What's the length of this bridge?	呢條橋有幾長？
+When did you get up this morning?	你今朝幾點起身呀？
+Why are you so sure Tom is wrong?	點解你咁肯定Tom唔啱呢？
+Why do you want to buy this book?	你點解想買呢本書呀？
+Will you show me what you bought?	你可唔可以俾我睇吓你買咗啲咩呀？
+Will you sing me a Beatles' song?	可唔可以唱首披頭四嘅歌俾我聽呀？
+You don't have to answer quickly.	你唔使趕住答。
+You don't need to worry about it.	你唔使擔心。
+You may always use my dictionary.	你可以隨時攞我本字典去用。
+You might at least say thank you.	你至少都講返句多謝吖。
+"Are you students?" "Yes, we are."	「你哋係唔係學生嚟㗎？」「係呀。」
+A fallen tree obstructed the road.	有棵樹冧咗落嚟，塞住咗條路。
+A few were drunk most of the time.	有幾個通常都係醉嘅。
+Are they able to read these words?	佢哋識唔識讀呢幾隻字呀？
+Bring me a sheet of paper, please.	可唔可以幫我攞張紙嚟呀？
+Could I get one more beer, please?	可唔可以俾多支啤酒我呀？
+Could I have a pillow and blanket?	我可唔可以要個枕頭同張毯？
+Do you have any further questions?	你仲有冇嘢問呀？
+Do you understand what I'm saying?	你知唔知我講緊咩呀？
+Does she still have a temperature?	佢係咪仲發緊燒呀？
+Don't be afraid to make a mistake.	唔好驚錯。
+Everybody wants to sit beside her.	大家都想坐喺佢隔籬。
+He is rich enough to buy that car.	佢買得起嗰架車。
+He is too young to go there alone.	佢仲細，唔應該自己一個人去。
+He pretended not to hear his boss.	佢扮聽唔到老細同佢講嘢。
+He talks as if he knew the secret.	佢講到好似佢知道咗個秘密噉。
+He was scared you would shoot him.	佢好驚你會開槍射佢。
+His brother goes to school by bus.	佢阿哥坐巴士返學。
+I broke his heart, but I love him.	我傷咗佢嘅心，但係我愛佢。
+I didn't need to pay for the food.	啲嘢食唔使我俾錢。
+I had a horrible dream last night.	我尋晚發咗個惡夢。
+I had my hair cut at the barber's.	我去咗髮型屋剪頭髮。
+I had my wallet stolen on the bus.	我喺架巴士度俾人偷咗銀包。
+I have complete confidence in Tom.	我對Tom有百分百嘅信心。
+I sharpened a pencil with a knife.	我攞把刀嚟刨尖咗支鉛筆。
+I spilled my coffee on the carpet.	我倒瀉咗啲咖啡落張地毯度。
+I usually get up at eight o'clock.	我通常八點起身。
+I'll have a cup of coffee, please.	一杯咖啡吖唔該。
+I'll tell you all I know about it.	等我將我知嘅嘢話晒比你聽啦。
+I'm sorry, but where are the eggs?	唔好意思呀，我想問吓啲雞蛋喺邊度呀？
+It's eight o'clock in the morning.	而家係朝頭早八點。
+John is two years older than I am.	阿John大我兩歲。
+Keep your hands off my typewriter.	唔好掂我部打字機呀。
+Let me get you something to drink.	我買啲嘢俾你飲吖。
+Let's leave that matter for later.	呢樣嘢遲啲先搞。
+Let's leave that matter for later.	呢樣等遲啲先。
+Mary is too stubborn to apologize.	阿Mary咁硬頸，唔會識道歉架嘞。
+My father plays golf every Sunday.	我阿爸逢親禮拜日都會去打哥爾夫球。
+She asked him to not quit his job.	佢叫佢唔好辭咗份工佢。
+She didn't appear to recognize me.	佢好似唔認得我。
+She didn't appear to recognize me.	佢望落唔似認得我。
+She is a native speaker of French.	佢嘅母語係法文。
+She may be a nurse. I am not sure.	佢可能係個護士，我唔係咁肯定。
+She taught music for thirty years.	佢教咗三十年音樂。
+Thank you for lending us the book.	多謝你借本書俾我哋喎。
+That bus will take you to the zoo.	搭嗰架巴士就可以去到動物園喇。
+The plane arrived exactly at nine.	架飛機啱啱好九點鐘到。
+There was a lot of snow last year.	舊年落咗好多雪。
+There was an earthquake yesterday.	尋日發生咗一場地震。
+Twelve years old is old for a dog.	十二歲對一隻狗嚟講算係好老㗎喇。
+We still have plenty of time left.	我哋仲有大把時間剩。
+We won't have a chance to do that.	我哋唔會有機會咁做。
+We're not all as tired as you are.	我哋唔係個個都好似你咁攰。
+We're still the best in the world.	我哋仍然係世界第一。
+What color do you think she likes?	你話佢鍾意啲咩顏色吖嗱？
+What time is it now by your watch?	你隻錶而家幾點呀？
+What will you do after graduation?	你畢咗業之後諗住做啲咩呀？
+What will you do on Christmas Day?	你聖誕節諗住做啲咩呀？
+When did you get back from London?	你幾時喺倫敦返返嚟㗎？
+Where did you spend your holidays?	你去咗邊度渡假呀？
+Which is larger, Japan or England?	日本大啲定英國大啲？
+Who is the man playing the violin?	拉緊小提琴嗰個人係邊個嚟㗎？
+Will you drive me to the hospital?	你可唔可以車我去醫院呀？
+Will you tell me where I am wrong?	你可唔可以話我知我錯喺邊呀？
+You may choose whichever you like.	任你揀。
+You're the smartest person I know.	你係我識嘅人入面最醒目嗰個。
+A young man barged in unexpectedly.	有個後生仔突然間衝咗入嚟。
+All the girls in my class are kind.	我嗰班嗰啲女仔全部都好好人。
+Can you read that sign ahead of us?	你見唔見到前面嗰個標誌寫住啲咩呀？
+Close the door before going to bed.	上床之前閂門。
+Could you call again later, please?	你可唔可以晏啲再打電話嚟呀？
+Did anyone call me while I was out?	我出咗去嗰陣有冇人打電話嚟搵我呀？
+Do you know how to use this camera?	你識唔識用呢部相機呀？
+Do you think I'm too materialistic?	你會唔會覺得我份人太過物質呀？
+Don't call me up after ten o'clock.	十點之後唔好打電話俾我。
+Einstein was a mathematical genius.	愛因斯坦係一個數學天才。
+Frankly speaking, I don't like him.	老實講，我其實真係唔係好鍾意佢。
+Have you arrived at a decision yet?	你決定好未呀？
+He has made the same mistake twice.	他犯咗兩次相同嘅錯誤。
+He has more books than he can read.	佢啲書多到睇唔晒。
+He has no sense of right and wrong.	佢唔識分啱同錯。
+He is worried about losing his job.	佢好驚會冇咗份工。
+He made up his mind to be a doctor.	佢決定咗要做醫生。
+His breath smells like goat cheese.	佢啲口氣聞落好似山羊芝士咁。
+His parents expect too much of him.	佢阿爸阿媽對佢期望過高。
+How dare you speak to me like that!	你竟然夠膽咁樣同我講嘢！
+How did you come by all this money?	你喺邊度搵到咁多錢返嚟㗎？
+How many magazines are on the desk?	張枱上面有幾多本雜誌呀？
+How much did you pay for the dress?	條裙你買咗幾多錢呀？
+I am afraid that you will get lost.	我驚你會蕩失路。
+I am not always at home on Sundays.	我唔係個個星期日都喺屋企。
+I burned myself with boiling water.	我俾滾水淥親。
+I can't think of his name just now.	我頭先醒唔起佢個名。
+I do not want to clean up dog poop.	我唔想清理狗屎。
+I don't have time to eat right now.	我依家冇時間食嘢。
+I don't want to get my hands dirty.	我唔想整污糟我隻手。
+I get dizzy spells when I stand up.	我一企起身就會頭暈。
+I have lived here for thirty years.	我喺呢度住咗卅年喇。
+I have no money, but I have dreams.	我冇錢，但係我有夢想。
+I like this skirt. May I try it on?	呢條裙都幾靚喎，可唔可以試著㗎？
+I think they'll make a cute couple.	我覺得佢哋兩個應該會幾襯吖。
+I took to her the moment I met her.	我對佢一見鐘情。
+I want to be a pilot in the future.	我第時想做飛機師。
+I want to tell you a strange thing.	我想講件怪事俾你聽。
+I would like to learn how to dance.	我想學跳舞。
+I'll let you know when she arrives.	佢到咗嗰陣我會話你知。
+I'm going to bring Tom some dinner.	我帶啲嘢食俾Tom做晚餐。
+I'm going to bring Tom some dinner.	我帶啲嘢俾Tom食夜晚。
+I'm sorry, my mother's not at home.	唔好意思呀，我呀媽唔喺屋企。
+I'm very sorry I came home so late.	我咁夜先返真係對唔住呀。
+Is there a gas station around here?	呢度附近有無加油站㗎？
+Is there a post office around here?	呢度附近有無郵政局？
+It's time for you to buy a new car.	你係時候買返㗎新車喇喎。
+May I have a glass of beer, please?	一杯啤酒吖唔該。
+My sister made me a beautiful doll.	我家姐整咗個好靚嘅公仔俾我。
+My sister made me a beautiful doll.	我阿妹整咗個好靚嘅公仔俾我。
+My watch loses three minutes a day.	我隻錶每日慢三分鐘。
+Please fill this bucket with water.	唔該你裝啲水落呢個桶度吖。
+Please introduce me to a cute girl.	介紹個靚女俾我識啦。
+Please turn up the air conditioner.	唔該你開大啲冷氣吖。
+She became engaged to the rich man.	佢同嗰個有錢佬訂咗婚。
+She couldn't suppress her emotions.	佢壓抑唔到感情。
+She gave birth to twins a week ago.	佢一個禮拜之前生咗個雙胞胎。
+She put down her thoughts on paper.	佢將佢諗到嘅嘢寫咗落張紙到。
+She took an examination in English.	佢用英文考咗個試。
+Since I was thirsty, I drank water.	因為我好頸渴，所以我飲咗啲水。
+Tell me you didn't see that coming.	同我講你冇預計到啱啱件事。
+The clock gains five minutes a day.	個鐘每日都會快五分鐘。
+The door opened and a man came out.	有個男人開門走咗出嚟。
+The old man possesses great wealth.	個阿伯坐擁巨額身家。
+The sushi at this shop tastes good.	呢間舖頭啲壽司好好食。
+The tickets sold out within a week.	啲飛一個禮拜都唔使就賣晒喇。
+There are many craters on the moon.	月球上面有好多坑。
+There are six people including him.	計埋佢有六個人。
+There is a television in this room.	呢間房裏面有部電視機。
+They are generous with their money.	佢哋俾錢俾得好豪爽。
+This is the second time I've flown.	今次係我第二次搭飛機。
+Three people were slightly injured.	有三個人受咗輕傷。
+Tom doesn't know where Mary is now.	Tom唔知依家Mary喺邊。
+Tomorrow, he will land on the moon.	聽日佢會喺月球著陸。
+Tomorrow, he will land on the moon.	聽日佢會喺月球降落。
+We have a long journey ahead of us.	我哋嚟緊仲有好長嘅路要走。
+We have lots of snow in the winter.	一到咗冬天就會落好多雪。
+We have time to sing one more song.	我哋夠時間唱多一首歌。
+We have to do the best that we can.	我哋要出盡全力做到最好。
+We haven't had any problems so far.	我哋暫時仲未遇到問題。
+We were attacked by swarms of bees.	我哋俾成班蜜蜂攻擊。
+We're sure that it was an accident.	我哋好肯定嗰個係一場意外。
+What do you think she is doing now?	你話佢而家喺度做緊啲咩吖嗱？
+When I got home, I was very hungry.	我返到屋企嗰陣好鬼肚餓。
+Where did you pick up your Italian?	你啲意大利文喺邊度學返嚟㗎？
+Write these words in your notebook.	將呢啲生字寫落你本簿度吖。
+You can keep this one for yourself.	呢個你可以自己keep返。
+You might as well go kill yourself.	你唔好去死？
+You might as well go kill yourself.	你不如死咗去算啦。
+Your daughter isn't a girl anymore.	你個女唔係女仔喇。
+"Is he seriously ill?" "I hope not."	「佢係咪病得好犀利？」「希望唔係啦。」
+"Whose chair is this?" "It is mine."	「呢張櫈邊個㗎？」「我㗎。」
+Did you have breakfast this morning?	你今朝有無食早餐呀？
+Didn't I tell you to close the door?	我冇叫你閂埋道門咩？
+Do you know how to use this machine?	你識唔識得用呢部機呀？
+Get your mother to do your homework!	叫你阿媽幫你做功課啦！
+He does not know how to drive a car.	佢唔識揸車㗎。
+He got hurt in the accident at work.	佢返工嗰陣出咗意外，受咗傷。
+He is good at dealing with children.	佢好識同小朋友相處。
+He lent me what little money he had.	佢將佢淨返嗰少少錢都借晒俾我。
+He plays the piano better than I do.	佢彈琴彈得好過我。
+His name is on the tip of my tongue.	佢個名已經到咗口唇邊喇。
+How did you come to know each other?	你哋係點識㗎？
+How long is your Christmas vacation?	你聖誕假放幾耐呀？
+I always read the sports page first.	我永遠都係睇咗體育版先。
+I am very pleased with my new house.	我對我間新屋好滿意。
+I bought this camera for 25,000 yen.	我用二萬五千円買咗呢部相機。
+I don't know what to do from now on.	我唔知由而家開始我要做乜。
+I don't like the substitute teacher.	我唔鍾意個代課老師。
+I don't remember where I put my key.	我醒唔起我擺咗條鎖匙喺邊度。
+I don't think I need to lose weight.	我唔覺得我要減肥喎。
+I don't want anything for Christmas.	我聖誕節冇乜特別嘢想要。
+I forgot that Cristina read English.	我唔記得咗Cristina讀過英文。
+I had my pocket picked on the train.	我喺架火車度俾人撻咗嘢。
+I will never tell a lie from now on.	我由而家開始唔會再講大話㗎喇。
+I will stay here till three o'clock.	我會喺呢度留到三點。
+I'd like to reserve a table for two.	我想訂一張雙人枱。
+I'm sorry you got dragged into this.	拖埋你落水真係唔好意思呀。
+I'm trying to save room for dessert.	我盡量留肚食甜品。
+It is necessary for you to help her.	你一定要幫吓佢。
+It seems like there's no money left.	睇嚟好似冇晒錢囉喎。
+It seems to me that you don't agree.	我見到你好似唔同意。
+It's OK with me if it's OK with you.	如果你冇所謂，我都冇所謂。
+It's all over for me. I lost my job.	我玩完喇。我冇咗份工呀。
+Korean food is generally very spicy.	韓國菜一般都好辣。
+Life is often compared to a journey.	我哋成日將人生比做一場旅程。
+Miniskirts have gone out of fashion.	迷你裙已經 out 咗啦。
+My camera is much better than yours.	我部相機靚過你嗰部好多。
+My cat ran away and never came back.	我隻貓走甩咗，跟住就冇返過嚟。
+My father neither drinks nor smokes.	我老豆唔飲酒唔食煙。
+My father works for a power company.	我老豆喺電力公司度做嘢。
+My house was broken into last night.	我屋企尋晚俾人爆格。
+My mother bakes bread every morning.	我阿媽每朝都會焗麵包食。
+My watch loses three minutes a week.	我隻錶每個禮拜慢三分鐘。
+Next summer, I want to go to Hawaii.	我出年夏天想去夏威夷。
+Open the door and let me in, please.	求吓你開門俾我入嚟啦。
+Rome has a lot of ancient buildings.	羅馬有好多古建築。
+Some apples fell down from the tree.	有啲蘋果喺棵樹度跌咗落嚟。
+Sunday is the day when I am busiest.	星期日係我喺一個禮拜入面最忙嘅一日。
+The United States is next to Canada.	美國喺加拿大隔離。
+The actors are waiting on the stage.	班演員喺舞台上面等緊。
+The bus drivers are on strike today.	啲巴士司機今日罷工。
+The calculator on the table is mine.	張枱上面嗰部計數機係我嘅。
+The driver asked me which way to go.	個司機問我應該行邊邊。
+There are sixty seconds in a minute.	一分鐘有六十秒。
+This movie is suitable for children.	呢套電影啱小朋友睇。
+This table is just as large as ours.	呢張枱同我哋屋企嗰張一樣大。
+Tom can swim much faster than I can.	阿Tom游水快過我好多。
+Tom doesn't give me flowers anymore.	阿Tom冇送花俾我喇。
+Water becomes solid when it freezes.	水結咗冰就會變做固體。
+We don't know what we're up against.	我哋唔知我哋嘅對手係邊個。
+We were crowded into the small room.	我哋逼咗入間細房度。
+What did you buy for your boyfriend?	你買咗啲咩俾你男朋友呀？
+What if he should happen to be late?	萬一佢遲到噉點算呀？
+Where do you want to go this summer?	今個夏天你諗住去邊度玩呀？
+Would you speak more slowly, please?	你可唔可以講慢少少呀？
+You're the only one who can help me.	你係唯一一個幫到我嘅人。
+Am I pronouncing your name correctly?	我有冇讀錯你個名呀？
+Am I pronouncing your name correctly?	我讀啱你個名個可？
+Call me up whenever you need my help.	你有咩要我幫手就打電話嚟搵我囉喎。
+China is the largest country in Asia.	中國係亞洲最大嘅國家。
+Christmas is just two weeks from now.	仲有兩個禮拜就到聖誕節喇。
+Do they sell notebooks at that store?	嗰間舖頭賣唔賣筆記簿㗎？
+Do you enjoy singing Christmas songs?	你鍾唔鍾意唱聖誕歌呀？
+Do you go to church on Christmas Day?	你聖誕節會唔會返教會㗎？
+Do you have an extra shelf I can use?	你有冇多一個架可以俾我用㗎？
+Do you know if she can speak English?	你知唔知佢識講英文㗎？
+Do you know the meaning of this word?	你知唔知呢個字點解呀？
+Everybody says I look like my father.	啲人個個都話我同我老豆好似樣。
+French was the language of diplomacy.	法文曾經係外交語言。
+Have you already signed the contract?	你係咪已經簽咗份約喇？
+He got up an hour early this morning.	佢今朝早咗一個鐘起身。
+He must be crazy to say such a thing.	佢講埋啲噉嘅嘢，實係痴咗線喇。
+He went from Tokyo to Osaka by plane.	佢喺東京搭飛機去咗大阪。
+His dog follows him wherever he goes.	佢行到邊度，佢隻狗就跟到邊度。
+I didn't have breakfast this morning.	我今朝冇食早餐。
+I don't have anything to write about.	我冇嘢好寫。
+I feel like I've become someone else.	我覺得好似變咗第二個人咁。
+I had my hair cut at a barber's shop.	我去咗髮型屋剪頭髮。
+I haven't finished reading this book.	我仲未睇完呢本書。
+I love music, particularly classical.	我好鍾意音樂，尤其係古典音樂。
+I miss my elementary school teachers.	我好掛住小學啲老師。
+I remember that man's name very well.	佢個名我記得好清楚。
+I said nothing, which made her angry.	我粒聲唔出，搞到佢好嬲。
+I see why you don't want to go there.	我明你點解唔想去喇。
+I thought that would be a great idea.	我以為係好主意。
+I want to spend all my time with you.	我想啲時間用曬嚟同你一齊。
+I was in the hospital for a few days.	我入咗幾日醫院。
+I was in the hospital for a few days.	我入咗幾日廠。
+I would like to have a cup of coffee.	我想飲杯咖啡。
+I'm sorry I couldn't be more helpful.	唔好意思呀，幫你唔到。
+If you need a pen, I'll lend you one.	如果你要筆，我就借支俾你啦。
+Imagine that you have a time machine.	如果你有一部時光機⋯⋯
+Jeans are now in fashion among girls.	呢排啲女仔好興著牛仔褲。
+Let's walk on the beach after dinner.	我哋食完晚飯，不如去海灘散步吖。
+My ballpoint pen just ran out of ink.	我支原子筆冇晒墨喇。
+My father listens to classical music.	我阿爸聽古典音樂。
+My father takes a walk every morning.	我阿爸每朝都會去散步。
+On a clear day, you can see Mt. Fuji.	出太陽嗰陣，就見到富士山㗎喇。
+Only my mother really understands me.	真正明白我嘅人淨係得我阿媽一個。
+She used to play tennis every Sunday.	佢以前逢親禮拜日都會去打網球。
+She was beautiful when she was young.	佢後生嗰陣好靚。
+That all happened in just three days.	呢一切一切都喺三日之內發生。
+The doors on the left side will open.	左邊嘅車門將會打開。
+The girl standing over there is Mary.	企喺嗰度嗰個女仔就係 Mary 喇。
+The school will provide tents for us.	學校會提供帳篷俾我哋。
+There is no water left in the bottle.	個樽入面已經冇晒水喇。
+There's nothing more to be done here.	呢度冇嘢做喇喎。
+They are likely to agree to our plan.	佢哋好有可能會贊成我哋個計劃。
+This is the watch I bought yesterday.	呢隻錶我尋日買嘅。
+This song reminds me of my childhood.	呢首歌令我諗返起我細個嗰陣啲嘢。
+Three more passengers got on the bus.	跟住又有三個人上咗架巴士。
+Tom comes here almost every Saturday.	Tom差唔多個個星期六都嚟呢度。
+Tom said there's problem with the TV.	阿Tom話部電視機有啲問題。
+Tom taught me a lot of useful things.	阿Tom教咗我好多有用嘅嘢。
+We chose her a nice birthday present.	我哋揀咗份好靚嘅生日禮物俾佢。
+We differ from them in some respects.	我哋有某啲地方同佢哋唔同。
+We don't have to talk about this now.	我哋依家唔一定要講呢樣嘢。
+We need to find a safe place to hide.	我哋要搵一個安全嘅地方匿埋。
+We need to get rid of all this stuff.	我哋要抌晒呢堆嘢佢。
+We ran into them at the bus terminal.	我哋喺巴士總站度撞到佢哋。
+What do you want to talk to me about?	你想同我傾啲咩呀？
+What's your favorite Christmas carol?	你最鍾意邊首聖誕歌呀？
+Where will you be this time tomorrow?	你聽日呢個時間會喺邊度？
+Who is the man sitting in the corner?	坐喺角落頭嗰個男人係邊個嚟㗎？
+Will you come with me to the concert?	你同唔同我一齊去聽音樂會呀？
+Would you like another piece of cake?	你要唔要多舊蛋糕呀？
+You aren't afraid of ghosts, are you?	你唔怕鬼個可？
+You can swim much better than he can.	你游水游得好過佢好多。
+You have only to sign your name here.	你喺呢度簽個名就得㗎喇。
+You shouldn't be so picky about food.	你唔應該咁揀飲擇食。
+"The phone is ringing." "I'll get it."	「電話響喎。」「我聽吖。」
+"What happened?" "The car broke down."	「咩事呀？」「架車死咗火。」
+Break the chocolate into small pieces.	將塊朱古力整成細塊。
+Can I borrow your tennis racket today?	今日可唔可以借你個網球拍嚟用呀？
+Do you go to school on foot every day?	你係咪日日都行路返學㗎？
+Everyone was listening very carefully.	個個都好專心噉聽緊。
+From now on, I promise to be punctual.	我保證我以後都會準時㗎喇。
+He earns more money than he can spend.	佢賺咁多錢，根本都用唔晒。
+He gets a haircut three times a month.	佢一個月剪三次頭髮。
+His car broke down on the way to work.	佢揸揸吓車返工，架車就突然間死咗火。
+How many Christmas cards did you send?	你寄咗幾多張聖誕卡俾人呀？
+How many apples do you want me to buy?	你想我買幾多個蘋果呀？
+How many books are there on the table?	張枱上面有幾多本書呀？
+How many cats are there in this house?	呢間屋入面有幾多隻貓呀？
+How many hours did you work this week?	你今個禮拜返咗幾多個鐘呀？
+I can't come up with a plan right now.	我依家諗唔到個計劃呀。
+I can't come up with a plan right now.	我依家諗唔到方法。
+I don't want to talk to Tom right now.	我而家唔想同阿Tom講嘢。
+I feel uneasy in my father's presence.	我阿爸喺度嗰陣，我就會周身唔自在。
+I give you plenty of money each month.	我每個月俾好多錢你。
+I have a friend who cuts his own hair.	我有個朋友會自己幫自己剪頭髮。
+I have something I want to say to you.	我有啲嘢想同你講。
+I prefer traveling by train to flying.	我鍾意坐火車多過搭飛機。
+I thought I told you to cut your hair.	我唔係叫咗你去剪頭髮嘅咩？
+I wish none of this had ever happened.	如果呢一切都冇發生過就好喇。
+I'll give you a day to think about it.	我俾一日時間你考慮。
+In Japan, it's very hot in the summer.	日本夏天好熱。
+It is said that truth always triumphs.	有人話真理必勝。
+Last night, he studied all night long.	佢尋日溫咗成晚書。
+Look at that building. Is it a temple?	睇吓嗰座建築物。係咪廟嚟㗎？
+May I have the menu and the wine list?	麻煩你俾個餐牌同酒單我吖唔該。
+My boy can't do addition properly yet.	我個仔仲未識計加數。
+No one believes what Tom says anymore.	冇人會再信阿Tom講嘅嘢。
+Nothing is more important than health.	無咩嘢重要得過健康。
+Politicians are good at raising money.	啲政客好識賺錢。
+She gave the children two apples each.	佢俾啲細路每人兩個蘋果。
+She plays piano as well as the guitar.	佢除咗識彈琴，仲識彈結他添。
+She poured boiling water into the cup.	佢倒咗啲滾水落個杯度。
+That dress seems to be very expensive.	嗰條裙睇落好似好貴噉。
+The boy standing over there is my son.	企喺嗰度嗰個男仔係我個仔嚟㗎。
+The boy went to bed with his socks on.	個男仔連襪都未除就走咗去瞓覺。
+The child missed his mother very much.	個細路好掛住佢阿媽。
+The wet vase left a mark on the table.	個花樽喺張枱度留低咗啲水跡。
+Their equipment is extremely advanced.	佢哋嘅設備非常先進。
+There are several forms of government.	政府有幾種形態。
+They are very interested in astronomy.	佢哋對天文學好有興趣。
+They went into the woods for a picnic.	佢哋去咗森林野餐。
+This is the pen that I lost yesterday.	呢支就係我尋日整唔見嗰支筆喇。
+This rule doesn't apply to every case.	呢條規則唔係幾時都啱用㗎。
+Thomas Edison invented the light bulb.	愛迪生發明咗電燈膽。
+We are leaving early tomorrow morning.	我哋聽朝好早出發。
+What is the language spoken in Brazil?	巴西講咩文㗎？
+When Dad came home, I was watching TV.	阿爸返到屋企嗰陣，我喺度睇緊電視。
+Why do some people not like Christmas?	點解有啲人會唔鍾意聖誕節嘅？
+Would you mind turning down the radio?	可唔可以較細聲啲部收音機呀？
+You can stay here till the snow stops.	你可以等啲雪停咗先走。
+You may go cycling if it doesn't rain.	如果唔落雨嘅話，你可以去踩單車。
+You should learn to restrain yourself.	你應該學吓控制自己嘅情緒。
+"Will he come?" "No, I don't think so."	「佢會唔會嚟㗎？」「我諗唔會喇。」
+Are there any movie theaters near here?	呢頭有無戲院㗎？
+Are you coming home for dinner tonight?	你今晚返唔返嚟食㗎？
+Can I speak to you for a moment please?	可唔可以同你講幾句？
+Can I speak to you for a moment please?	可唔可以同你講兩句？
+Could you please speak a little slower?	你可唔可以講慢少少？
+December is the last month of the year.	十二月係一年嘅最後一個月。
+Did you see a brown wallet around here?	你有冇喺附近見過一個啡色銀包？
+Don't judge a person by his appearance.	唔好以貌取人。
+Eating too much is bad for your health.	食太多嘢對身體唔好㗎。
+Get rid of that heap of old newspapers.	抌咗疊舊報紙佢啦。
+Have you ever gone to see a horse race?	你有冇去睇過跑馬？
+He caused his parents a lot of anxiety.	佢搞到阿爸阿媽好擔心。
+He would be very glad to hear the news.	佢聽到呢個消息，實會開心到彈起。
+He's a professor of biology at Harvard.	佢係哈佛大學嘅生物學教授。
+I am certain that he will quit his job.	我肯定佢會辭咗份工。
+I asked her to call me at five o'clock.	我叫佢五點打電話俾我。
+I can't see anything with my right eye.	我隻右眼咩都睇唔到。
+I feel that I understand your feelings.	你嘅心情我諗我明白嘅。
+I get bored quickly in everything I do.	我做咩都係三分鐘熱度。
+I like grapes, but I can't eat so many.	我係鍾意食提子，不過咁多就真係食唔落。
+I looked up the words in my dictionary.	我攞我本字典嚟查咗嗰幾隻字。
+I may have left my umbrella in the bus.	我可能漏咗把遮喺巴士度。
+I prefer French films to American ones.	我鍾意法國電影多過美國電影。
+I think watching TV is a waste of time.	我覺得睇電視好嘥時間。
+I was sure I had never seen her before.	我肯定我冇見過佢。
+I wonder if I should answer his letter.	我應唔應該回信俾佢呢？
+I would like to pay with a credit card.	我想用信用卡俾錢。
+I'm looking for books on Roman history.	我喺度搵緊啲講古羅馬歷史嘅書。
+It is important for him to get the job.	嗰份工對佢嚟講好重要。
+It will go away by itself in two weeks.	兩個禮拜就會自己好返㗎喇。
+Make sure that the dog does not escape.	唔好俾隻狗走甩。
+My father does not always walk to work.	我阿爸唔係日日都行路返工㗎。
+Now it's time for the weather forecast.	宜家係天氣報告嘅時間。
+Nowadays children do not play outdoors.	而家啲細路唔會通山跑㗎喇。
+Only a handful of people know the fact.	知道個真相嘅人淨係得幾個。
+She is particular about what she wears.	佢著衫好講究。
+Stop complaining and do as you're told.	唔好喺度嫌三嫌四，叫你點做就點做。
+That's why I told you not to go by car.	所以我咪叫你咪鬼搭車去囉。
+The dress I like most is the black one.	我最鍾意嗰條裙係黑色嗰條。
+The news finally reached me last night.	尋晚單消息終於傳到我度。
+The noise is getting louder and louder.	啲噪音愈嚟愈大聲。
+The picture looks better at a distance.	幅畫遠啲睇好啲。
+There are a lot of dishes on the table.	張枱上面有好多隻碟。
+There are a lot of dishes on the table.	張枱上面有好多碟餸。
+Three children are playing in the park.	有三個細路哥喺公園到玩緊。
+Tom knocked on the door to Mary's room.	Tom 敲咗 Mary 房門。
+Tom's great-grandfather was born blind.	Tom嘅太爺一出世就盲㗎喇。
+Tom's great-grandfather was born blind.	Tom嘅太公天生係盲嘅。
+We have a lot of problems to deal with.	我哋有好多問題要處理。
+What do you usually have for breakfast?	你早餐通常食啲咩㗎？
+What is the emergency telephone number?	緊急聯絡電話幾多號呀？
+What's that picture inside your locker?	你儲物櫃入面幅相係咩嚟？
+Where were you when I needed your help?	我需要你嗰陣你去咗邊？
+Where would you like to go next Sunday?	你下個禮拜日諗住去邊呀？
+Who can tell me how a light bulb works?	有冇人可以話我聽電燈膽嘅原理係點㗎？
+You seem to know a great deal about me.	你好似知道好多關於我嘅嘢噉喎。
+You should eat something before you go.	你應該食啲嘢先走。
+You should sleep for eight hours a day.	你應該每日瞓八粒鐘。
+You should think about your retirement.	你應該諗吓你退休。
+You were asleep by the time I got home.	我返到屋企嗰陣你已經瞓著咗喇。
+A rabbit has long ears and a short tail.	兔仔對耳好長、條尾好短。
+As soon as I got home, it began to rain.	我一返到屋企就開始落雨喇。
+Can you recommend any vegetarian dishes?	可唔可以介紹幾味齋菜呀？
+China is twenty times as large as Japan.	中國有日本二十倍咁大。
+China is twenty times bigger than Japan.	中國大過日本二十倍。
+Did you practice the piano this morning?	你今朝有冇練琴呀？
+Do you have any grounds for thinking so?	你噉嘅諗法有冇根據㗎？
+Do you have time the day after tomorrow?	你後日得唔得閒呀？
+Do you know where the police station is?	你知唔知差館喺邊呀？
+Father and I go fishing once in a while.	我同我阿爸間唔中會去釣吓魚。
+Give this ticket to whoever comes first.	邊個第一個嚟，就俾呢張飛佢。
+Have you ever been to a foreign country?	你有無去過外國呀？
+Have you finished reading the newspaper?	你睇完份報紙未呀？
+He doesn't want me to go, but I mean to.	佢唔想我去，但係我諗住去。
+He got mad at me for calling him Shorty.	我叫佢做「矮仔」，佢就嬲到紮紮跳。
+He is the last man to break his promise.	佢絕對唔係嗰種下巴輕輕嘅人。
+He promised to return and yet he didn't.	佢應承咗話會返嚟，但係都係冇返嚟。
+He was standing at the side of the road.	佢企喺路邊。
+I am not sure how to pronounce the word.	我唔係好肯定呢個字應該點讀。
+I don't know if I'll have time to do it.	我唔知我有無時間搞呢件事。
+I don't know whether to cry or to laugh.	我真係唔知笑好定喊好。
+I had trouble falling asleep last night.	我尋晚瞓唔著。
+I have to introduce Mary to the manager.	我要介紹阿Mary俾經理識。
+I haven't seen him for a very long time.	我好耐冇見過佢喇。
+I like white roses better than red ones.	我鍾意白玫瑰多過紅玫瑰。
+I miss my elementary teachers very much.	我好掛住小學啲老師。
+I still have not learned to drive a car.	我仲未學識揸車。
+I will be leaving for Morocco next week.	我下個禮拜出發去摩洛哥。
+I'll eat my hat if she turns up on time.	如果佢準時嚟到，我就切個頭落嚟俾你當凳坐。
+I'm sorry I opened your mail by mistake.	唔好意思呀，我唔小心拆咗你封信。
+I'm sorry, but there's nothing I can do.	對唔住呀，但係我都冇嘢可以做到。
+I'm sorry, could you repeat that please?	唔好意思，你可唔可以講多次呀？
+Ice turns back into water when it melts.	冰溶嗰陣，就會變返做水。
+It is not easy to get rid of bad habits.	壞習慣唔係咁易戒㗎。
+It is not easy to get rid of bad habits.	壞習慣好難戒。
+It was obvious that they had told a lie.	佢哋擺到明講咗大話。
+Let me have a look at your video camera.	俾我睇吓你部錄影機。
+Let's leave the decision to our teacher.	我哋都係等老師話事啦。
+My father has gone to the United States.	我阿爸去咗美國。
+Pianos are quite expensive, aren't they?	鋼琴都幾貴吓㗎喎，係咪呀？
+Please write about your real experience.	請你寫低你嘅真實經驗。
+She loves watching tennis matches on TV.	佢好鍾意喺電視度睇網球比賽。
+She may have to quit her job next month.	佢下個月可能要辭佢份工佢。
+She put salt into her coffee by mistake.	佢唔小心落咗啲鹽落佢杯咖啡度。
+She raised her hand for the bus to stop.	佢舉高咗隻手嚟截架巴士。
+She'll come even if you tell her not to.	你就算叫佢唔嚟佢都照嚟㗎啦。
+Short skirts are already out of fashion.	而家已經唔興著短裙喇。
+Since I was sick, I didn't go to school.	我病咗，所以冇返到學。
+Solar power is environmentally friendly.	太陽能好環保。
+Somebody has been sleeping on this sofa.	有人喺呢張梳化度瞓過。
+Someone stepped on my foot on the train.	我喺火車到俾人踩咗一腳。
+Soon after that, I began to fall asleep.	跟住我好快就瞓著咗喇。
+Tell us the story from beginning to end.	唔該你將個故事由頭到尾講晒俾我地聽。
+The bridge is approximately a mile long.	條橋大約有一咪長。
+The police officer arrested the burglar.	個差人拉咗個賊。
+The policeman arrested him for speeding.	佢超速駕駛，俾差佬拉咗。
+They have been married for twenty years.	佢哋結咗婚廿年。
+They say that a large dam will be built.	佢哋話會起座大壩。
+To my knowledge, she hasn't married yet.	據我所知，佢應該仲未結婚。
+We will take your feelings into account.	我哋會考慮到你嘅情感。
+What do you usually do on Christmas Day?	你聖誕節通常會做啲咩㗎？
+When I was a boy, I always got up early.	我細個嗰時差唔多日日都好早起身。
+When he finished the work, he went home.	佢搞掂晒啲嘢就返咗屋企。
+Would you mind my using this dictionary?	你介唔介意我攞呢本字典去用呀？
+Would you mind speaking a little louder?	你介唔介意講大聲少少呀？
+You don't have to hide anything from me.	你唔使對我隱瞞啲咩㗎。
+You should talk to the teacher yourself.	你應該自己同老師講。
+You'll find it impossible to live there.	嗰度都唔係人住嘅。
+Admission is free during Christmas break.	聖誕假期間免費入場。
+As a result of the war, many people died.	嗰場仗死咗好多人。
+Both those students passed all the tests.	呢兩個學生測驗都係全部合格。
+By the way, I have something to tell you.	係喇，我有啲嘢要話你知。
+By the way, I have something to tell you.	話時話，我有啲嘢要同你講。
+Can you tell me how to fill in this form?	你可唔可以教我填呢份表格呀？
+Divide this line into twenty equal parts.	將呢條線分做二十個等分。
+Give me your word that you won't do that.	應承我你唔會咁做。
+Have you ever tried skating on the river?	你有冇試過喺條河度溜冰呀？
+Have you finished cleaning your room yet?	你執好你間房未呀？
+He drinks a glass of water every morning.	佢朝朝早都會飲一杯水。
+He is always giving presents to his wife.	佢成日都送禮物俾老婆。
+He looked as if he hadn't eaten for days.	佢望落好似幾日冇食過嘢噉。
+He squeezed the toothpaste out of a tube.	佢喺條管度擳咗啲牙膏出嚟。
+He wants to be a policeman in the future.	佢第時想當差。
+He was disappointed at not being invited.	佢好失望，因為冇人請佢去。
+He was disappointed at not being invited.	冇人請佢去，所以佢好失望。
+How can I make a telephone call to Japan?	我想問吓點打電話去日本呀？
+How much do you leave for a tip in Spain?	西班牙俾貼士要俾幾多到㗎？
+I bought these medications for my father.	呢啲藥係買俾我老豆嘅。
+I didn't know how to answer his question.	我都唔知點答佢好。
+I don't like to speak in front of people.	我唔鍾意喺公眾場合講嘢。
+I don't think she takes after her mother.	我覺得佢同佢呀媽都唔係好似。
+I failed the exam because I didn't study.	我因為冇溫書，所以考試肥佬咗。
+I go to the library at least once a week.	我一個禮拜至少去一次圖書館。
+I often played baseball when I was young.	我後生嗰陣成日去打棒球。
+I received a letter written one week ago.	我收到一封一個禮拜前寫嘅信。
+I remember seeing her once on the street.	我記得我有一次喺街度見過佢。
+I spent a lot of time listening to music.	我花好多時間聽音樂。
+I spent the whole day reading that novel.	我睇本小說睇咗成日。
+I think you should come stay at my place.	我覺得你應該嚟我屋企瞓。
+I was watching TV at this time yesterday.	我尋日呢個時間喺度睇緊電視。
+I will give you a bike for your birthday.	你生日嗰陣，我送架單車俾你吖。
+I wonder if life exists on other planets.	唔知第二啲星球度有冇生物嘅呢？
+I'll talk the matter over with my father.	我會同我老豆傾吓呢件事㗎喇。
+I'll write you as soon as I arrive there.	我一去到就會寫信俾你㗎喇。
+I'm available in case you need something.	有咩需要我會喺度。
+If you want to take a break, just say so.	如果你想抖吓就出聲啦。
+Is this a picture that you yourself drew?	呢幅畫係咪你自己畫㗎？
+It was raining on and off all night long.	成晚又落吓雨，又停吓雨。
+It won't be long before they get married.	佢哋好快就拉埋天窗喇。
+Just out of curiosity, what would you do?	我好奇想問吓呢，你會點做呀？
+Nobody can foresee when the war will end.	無人知場仗幾時會打完。
+Please tell me how to get to the airport.	唔該你話我聽機場點去吖。
+Sometimes you just want to eat chocolate.	有時會無啦啦好想食朱古力。
+The building will be completed in a year.	嗰座建築物會喺一年之內起完。
+The children are out playing in the snow.	班細路喺出面玩緊雪。
+The elephant is liked by little children.	隻大笨象好受小朋友歡迎。
+The houses caught fire one after another.	啲屋一間一間噉著咗火。
+The man tried to install his own antenna.	個人嘗試裝自己條天線。
+There are hundreds of books in his study.	佢間書房有幾百本書。
+There are many beautiful parks in London.	倫敦有好多好靚嘅公園。
+There's almost no milk left in the glass.	個杯入面冇乜牛奶淨喇。
+They installed a vending machine at work.	佢哋喺辦公室度裝咗部自動販賣機。
+This is the church where Blake is buried.	Blake 葬喺呢間教堂。
+This is the finest view I have ever seen.	呢個係我見過最靚嘅景。
+Tom is the captain of this baseball team.	湯姆係呢隊棒球隊嘅隊長。
+Tom joined his high school's debate team.	阿Tom參加咗佢間中學嘅辯論隊。
+Tom poured some cold water over his head.	阿Tom倒咗啲凍水落個頭到。
+We must sleep at least seven hours a day.	我哋一日至少要瞓七個鐘。
+What do you study a foreign language for?	你點解要學外語呀？
+What prevented her from coming yesterday?	佢尋日做咩唔嚟嘅？
+Which came first, the chicken or the egg?	有雞先定有蛋先？
+Who cared for the dog when you were away?	你走咗嗰陣邊個幫你睇住隻狗呀？
+Why must you give away all of my secrets?	你點解係都要講晒我啲秘密俾人知㗎？
+Would you like to go see a movie with me?	不如一齊去睇戲吖。
+Would you please not leave the door open?	你可唔可以唔好開住道門呀？
+You don't seem to be yourself these days.	你最近唔係好似你。
+You have a lot of money, and I have none.	你有好多錢，但係我就冇。
+Your new hair style makes you look older.	你個新髮型望落好似老咗。
+"When do you get up?" "I get up at eight."	「你幾點鐘起身㗎？」「我八點鐘起身。」
+After a while, the man came into the room.	過咗一陣，嗰個人就走咗入間房度。
+All you have to do is sign your name here.	你喺度簽個名就得㗎喇。
+Although he may be clever, he is not wise.	佢只不過係有啲小聰明。
+Aren't you supposed to be at school today?	你今日唔使返學咩？
+Both of my parents are not strict with me.	我阿爸阿媽都好鬆。
+Do you consider yourself a good guitarist?	你認唔認為自己係一個好嘅結他手？
+Give us two knives and four forks, please.	唔該俾兩把刀同埋四支叉我哋吖。
+He is richer than anyone else in the town.	佢係成座城最有錢嗰個。
+He must be very angry to say such a thing.	佢實係嬲得好犀利喇，如果唔係佢唔會講埋啲噉嘅嘢㗎。
+How did you celebrate Christmas last year?	你舊年點慶祝聖誕呀？
+I don't want to go outside this afternoon.	我今日晏晝唔想出街。
+I had been reading a book when he came in.	佢入嚟嗰陣我睇緊書。
+I had instant noodles as a midnight snack.	我宵夜食咗公仔麵。
+I let him sleep at my house for the night.	我俾佢喺我屋企瞓咗一晚。
+I made friends with a student from abroad.	我同個外國學生做咗好朋友。
+I must remember to buy that book tomorrow.	我聽日一定要記得去買嗰本書。
+I promise I'll be nice to you from now on.	我應承你從今開始對你好。
+I saw all eight of them about an hour ago.	我大約一個鐘之前見到佢哋八個。
+I think of watching TV as a waste of time.	我覺得睇電視好嘥時間。
+I went to many shops to look for the book.	我去咗好多間舖頭度搵嗰本書。
+I wish I had treated the girl more kindly.	我好後悔以前無好好咁對佢。
+I'd like to play tennis with you some day.	我想搵日同你打返場網球。
+I'm hungry because I didn't eat breakfast.	我冇食早餐，所以好肚餓。
+I'm so tired that I can't walk any longer.	我攰到行唔郁喇。
+If God is with us, then who is against us?	如果主與我們同在，邊個會同我哋作對？
+If you need an umbrella I'll lend you one.	如果你要遮嘅話我就借把俾你啦。
+It will not be long before she comes back.	佢好快就會返嚟㗎喇。
+Let me see the pictures you took in Paris.	俾我睇吓你喺巴黎影嗰啲相吖。
+Let's let the workers go home early today.	我哋今日俾班伙記早啲返屋企啦。
+Many economists are ignorant of that fact.	好多經濟學家都唔知道呢樣嘢。
+Most Hollywood movies have a happy ending.	荷李活啲電影多數都係大團圓結局。
+My mother is still working in the kitchen.	我阿媽仲喺廚房度做緊嘢。
+Nothing is more valuable than good health.	冇乜嘢重要得過健康。
+Now we have enough people to play mahjong.	夠腳開枱喇。
+She accompanied her friend to the concert.	佢陪佢朋友去音樂會。
+She depends on her husband for everything.	佢咩事都靠晒個老公。
+She looked as if she hadn't eaten in days.	佢個樣好似幾日冇食過嘢噉。
+She looks pretty no matter what she wears.	佢著咩都咁靚。
+She was late because of the heavy traffic.	佢塞車遲到。
+Some of my friends can speak English well.	我有啲朋友講英文講得好好。
+The bus drivers are going on strike today.	啲巴士司機今日罷工。
+The garden was larger than I had expected.	個花園比我想像中大。
+The point is whether she will come or not.	問題係佢到底嚟定係唔嚟。
+The president laughed in spite of himself.	個總統忍唔住笑咗出嚟。
+There is a little milk left in the bottle.	個樽入面仲有少少牛奶淨。
+There were only six people at the meeting.	個會淨係得六個人去咗。
+This machine is too heavy for me to carry.	呢部機重得濟喇，我拎唔郁。
+We live in the neighborhood of the school.	我哋喺間學校附近住。
+Which color do you like more, blue or red?	你鍾意藍色定係紅色？
+You ought to finish your homework at once.	你應該即刻做晒啲功課佢。
+All of a sudden, the door shut with a bang.	道門突然之間砰一聲閂埋咗。
+As he talked, he got more and more excited.	佢越講越興奮。
+Could you please turn your television down?	可唔可以將部電視較細聲少少呀？
+Did the newspaper say it was going to rain?	報紙有冇話會落雨呀？
+He often walks with his hand in his pocket.	佢行路嗰陣成日插隻手落個褲袋度。
+How about going out for a drink after work?	我哋放工不如去飲返杯囉？
+How much do these two honey doughnuts cost?	呢兩個蜜糖冬甩幾多錢呀？
+I caught my son stealing from a cookie jar.	我捉到我個仔喺個罌度偷曲奇食。
+I don't like him any more than he likes me.	我同佢已經無晒感情喇。
+I don't like walking home alone after dark.	我唔鍾意天黑之後一個人行返屋企。
+I overslept because my alarm didn't go off.	我個鬧鐘冇響到，所以我瞓過咗龍。
+I waited for an hour, but he didn't appear.	我等咗一個鐘，但係佢冇出現。
+I wonder what the weather will be tomorrow.	唔知聽日天氣會點呢？
+I'll let you know when it has been decided.	決定咗我就會話俾你聽㗎喇。
+I'm planning to leave for Europe next week.	我諗住下個禮拜去歐洲。
+I've been waiting for you for over an hour.	我已經等咗你成個幾鐘喇。
+If you don't want to go, you don't have to.	你唔想去唔使夾硬去㗎喎。
+Illness prevented me from coming to school.	我病咗，所以無返到學。
+Is the cat on the chair or under the chair?	隻貓喺張凳上面，定係喺張凳下面呀？
+It is more blessed to give than to receive.	施比受更為有福。
+It's unlikely she's as stupid as you think.	佢冇乜機會會係你想像中咁蠢。
+Knock on the door before entering the room.	敲咗門先好走入間房度。
+My father and I go fishing once in a while.	我同我阿爸得閒就會去釣吓魚。
+My father teaches English at a high school.	我阿爸喺中學度教英文。
+Please help yourself to the chocolate cake.	啲朱古力蛋糕隨便食喎。
+Please let me know the schedule beforehand.	唔該你事先講定個計劃俾我知吖。
+She gave me a watch for a birthday present.	佢送咗隻錶俾我做生日禮物。
+She participates in many school activities.	佢喺學校參加咗好多活動。
+Thank you for all the help you've given us.	好多謝你一路幫咗我哋咁多。
+The bike parked over there is my brother's.	泊咗喺嗰邊嗰架單車係我呀哥嘅。
+The car is parked in front of the building.	架車泊咗喺座大廈前面。
+The heroine of this story is a little girl.	呢個故仔嘅女主角係一個細路女。
+The police suspect that he robbed the bank.	警察懷疑佢打劫咗間銀行。
+The question is how we can raise the money.	問題係我哋點先可以籌到筆錢。
+There's a hole in the bottom of the bucket.	個桶底穿咗個窿。
+They always wake up early, even on Sundays.	佢哋成日好早起身，連星期日都。
+They were stuck for hours in a traffic jam.	佢哋塞車塞咗幾粒鐘。
+This book is too difficult for you to read.	呢本書對你嚟講可能難咗啲。
+This poem was originally written in French.	呢首詩原本係用法文寫嘅。
+We have to sing at an old folks home today.	我哋今日要去老人院唱歌。
+We heard something moving in the next room.	我哋聽到隔離有嘢郁緊。
+We still have many other things to discuss.	我哋仲有好多嘢要傾。
+We tried to come to a compromise with them.	我哋嘗試同佢達成共識。
+What did you do last year on Christmas Day?	你舊年聖誕節做咗啲咩呀？
+What language do they speak in Switzerland?	瑞士啲人講咩話㗎？
+Where are you going for Christmas vacation?	你聖誕假諗住去邊玩呀？
+Where are you going to go on your vacation?	你放假諗住去邊度玩呀？
+Who is the boy that is swimming over there?	喺嗰度游緊水嗰個男仔係邊個嚟㗎？
+Will you look after my dog while I am away?	我走咗嗰陣，你可唔可以幫我照顧我隻狗呀？
+Will you show me what you bought yesterday?	你可唔可以俾我睇吓你尋日買咗啲咩呀？
+You have to change trains at the next stop.	你要喺下一個站度轉車。
+You will soon get accustomed to the noises.	你好快就會習慣咗啲噪音㗎喇。
+All the answers to this question were wrong.	呢條問題啲答案全部錯晒。
+Christmas is definitely my favorite holiday.	聖誕節絕對係我最鍾意嘅節日。
+Don't bother me with such foolish questions.	唔好問埋啲咁戇居嘅問題嚟煩我啦。
+Five hundred dollars is a small sum for him.	五舊水對佢嚟講係一個小數目。
+Frankly speaking, I don't like your haircut.	老實講吖，我真係唔係好鍾意你個髮型。
+He began to work for that company last year.	佢舊年開始喺嗰間公司度返工。
+He never drinks except on special occasions.	佢淨係喺啲特別場合到先會飲酒。
+He put his tools away after he had finished.	佢搞掂咗之後就將啲架生擺埋咗喺一邊。
+How much is the car you are planning to buy?	你諗住買嗰架車幾多錢㗎？
+I am angry that she didn't keep her promise.	我嬲佢冇守諾言。
+I am hungry because I did not eat breakfast.	我冇食早餐，所以好肚餓。
+I ate some bread and a boiled egg for lunch.	我午餐食咗幾塊麵包同埋一隻烚蛋。
+I bought him a drink in return for his help.	佢幫咗我手，我就請返佢飲嘢。
+I could hear the dog barking all night long.	我成晚都聽到隻狗喺到吠。
+I don't want to know what's going to happen.	我唔想知會發生咩事。
+I don't want to live on this planet anymore.	不如一槍打死我。
+I don't want to live on this planet anymore.	我唔想再生存喺呢個星球上喇。
+I had almost finished my work when she came.	佢嚟到嗰陣，我已經差唔多做好晒啲嘢。
+I have a friend waiting for me in the lobby.	有個朋友喺大堂度等緊我。
+I haven't had a chance to see the movie yet.	我仲未有機會睇嗰套戲。
+I saw the old man two or three times a week.	我一個禮拜見個老坑兩三次。
+I think you've mistaken me for someone else.	我諗你認錯人喇。
+I've got little time for reading these days.	我呢排無乜時間睇書。
+If you want this pen, I will lend it to you.	你想用呢支筆，我就借俾你啦。
+It is difficult for me to get up before six.	我朝頭早六點之前硬係起唔到身。
+It seems that he is interested in astronomy.	佢好似對天文學幾有興趣。
+My car is large enough to carry five people.	我架車裝得落五個人。
+My son always gets sick when he rides a bus.	我個仔搭親巴士都會暈車浪。
+Our teacher said that water boils at 100ºC.	我哋個老師話水到咗一百度就會滾。
+Please don't interrupt me while I'm talking.	我講緊嘢嗰陣唔該你唔好加把口埋嚟。
+Please drop in at my house on your way home.	你返屋企嗰陣順便嚟探吓我吖。
+Please write down your contact address here.	請喺啲度寫上你嘅連絡地址。
+She frequently gets sugar and salt mixed up.	佢成日都撈亂糖同鹽。
+She seems to be possessed by an evil spirit.	佢好似鬼上身噉。
+That's why I told you not to go by yourself.	所以我咪叫你唔好一個人去囉。
+The girl begged her mother to accompany her.	個細路女囈佢阿媽陪佢。
+There's only one bath towel in our bathroom.	我哋個沖涼房淨係得一條浴巾。
+This camera is less expensive than that one.	呢部相機冇嗰部咁貴。
+This is the hotel where we stayed last year.	呢間就係我哋舊年住嗰間酒店喇。
+Tom couldn't live up to Mary's expectations.	Tom達唔到Mary嘅期望。
+Tom has no idea how Mary ended up in Boston.	Tom唔知點解Mary最後會出現係波士頓。
+Tom poured some milk in a bowl for his cats.	阿Tom倒咗啲牛奶落個碗到俾佢啲貓飲。
+Tom probably can't do that as well as I can.	阿Tom應該冇我做得咁好。
+Tom was sitting under a tree, drinking wine.	阿Tom坐咗喺棵樹下面飲葡萄酒。
+Tomorrow, I'm going to study at the library.	我聽日去圖書館溫書。
+Try to estimate how much you spent on books.	計吓你用咗幾多錢買書。
+We had better go home rather than wait here.	我哋唔好喺度等喇，都係快啲返屋企啦。
+We lost our way and did not know what to do.	我哋蕩失路，唔知點算好。
+What sort of coats are in fashion this year?	今年興啲咩款嘅外套呀？
+What was the hotel called? I can't remember.	間酒店叫咩名話？我唔記得咗喇。
+Why don't we go and see her in the hospital?	我哋不如去醫院探吓佢囉？
+You can't be hungry. You've just had dinner.	你啱啱先食完晚餐，無理由咁快就肚餓嗰喎。
+You can't buy anything if you have no money.	如果你冇錢，根本咩都買唔到。
+You had better do as the doctor advised you.	你最好聽個醫生講。
+You haven't washed your hands yet, have you?	你仲未洗手喎，係唔係呀？
+A man whose wife is dead is called a widower.	死咗老婆嘅人叫做鰥夫。
+As far as I know, this is the latest edition.	據我所知，呢隻應該係最新版。
+Because of the bad weather, he couldn't come.	因為天氣好差，所以佢嚟唔到。
+Can I have two hamburgers and a coke, please?	兩個漢堡包同埋一罐可樂吖唔該。
+Can the meeting be finished within two hours?	個會可唔可以喺兩個鐘頭之內開完呢？
+Don't talk about business while we're dining.	食飯時間唔好講公事啦。
+Even though he apologized, I'm still furious.	雖然佢講咗對唔住，但係我都仲係好嬲。
+He may be clever, but he is not very helpful.	佢好醒目，但係就唔係好幫到手。
+He's always looking at you. He must love you.	佢成日𥄫實你，實係鍾意你啦。
+He's always looking at you. He must love you.	佢成日𥄫實你，仲唔係冧你？
+I can't keep up with you if you walk so fast.	你行得咁快，我跟唔到呀。
+I have an older brother and a younger sister.	我有一個阿哥同一個細妹。
+I hear that his father is in another country.	聽講佢老豆去咗外國喎。
+I started working for this company last year.	我上年開始喺呢間公司度做嘢。
+I started working for this company last year.	我上年開始幫呢間公司做嘢。
+I think it's you who should apologize to her.	我覺得應該同佢講對唔住嗰個人係你。
+I think the eggs that I just ate were rotten.	我覺得我啱啱食啲蛋壞咗。
+I'll come and see you at 3:00 p.m. on Sunday.	我星期日晏晝三點會嚟探你。
+I'll do my homework after I watch television.	我睇埋電視先去做功課。
+I'm going to make a cake for Mary's birthday.	阿 Mary 就嚟生日喇，我諗住整件蛋糕俾佢。
+I'm trying hard, but can't think of her name.	我諗極都諗唔起佢叫咩名。
+If you are going to smoke, please go outside.	食煙唔該去出面食吖。
+Let's have lunch downtown and take in a show.	我哋去市區食飯，跟住再睇返場戲吖。
+Little did I dream that I would see you here.	我發夢都無諗過會喺呢度撞到你。
+My older sister takes a shower every morning.	我家姐每朝早都會去沖涼。
+Please put some candles on the birthday cake.	唔該喺個生日蛋糕上面插幾支蠟燭吖。
+Please remind me to mail the report tomorrow.	你聽日記住提我寄份報告出去喎。
+She doesn't have to go to school on Saturday.	佢禮拜六唔使返學。
+She made a promise to write to me every week.	佢應承咗我話每個禮拜都會寫封信俾我。
+She said to herself, "Where shall I go next?"	佢自言自語噉話：「我跟住去邊度好呢？」
+The audience clapped loudly after his speech.	佢一講完，班觀眾就拍爛晒手掌。
+The money was hidden beneath the floorboards.	嗰啲錢收埋咗喺地板下面。
+This book is too difficult to read in a week.	呢本書好難一個禮拜就睇晒。
+This isn't my umbrella; it's somebody else's.	呢把遮唔係我㗎，係人哋㗎。
+Though he knew the truth, he told us nothing.	雖然佢知道個真相，但係就乜都冇同我哋講。
+Today's paper contains nothing of importance.	今日份報紙無咩值得睇嘅新聞。
+Tom didn't know that Mary could speak French.	Tom唔知Mary識講法文。
+Tom goes to the supermarket almost every day.	阿Tom差唔多每日都會去超級市場買嘢。
+Tom has asked us to buy him something to eat.	阿Tom叫我哋買啲嘢俾佢食。
+Tom hung the ornaments on the Christmas tree.	阿Tom將啲裝飾掛咗上棵聖誕樹到。
+Tom is very likely to know what we should do.	阿Tom好大機會知道我哋應該做咩。
+Tom wanted to buy a new pair of tennis shoes.	阿Tom想買對新嘅網球鞋。
+We had better start before it begins to rain.	我哋最好喺個天開始落雨之前出發。
+We want to know if it will be sunny tomorrow.	我哋想知聽日會唔會晴天。
+We'd like a table in the non-smoking section.	唔該要張非吸煙區嘅枱吖。
+What do you say to taking a walk in the park?	不如去公園散步囉？
+When I try to walk, I get an awful pain here.	我一行路，呢度就痛到好犀利。
+Will you have a Christmas party at your home?	你會唔會喺屋企搞聖誕party呀？
+Yokohama is the second largest city in Japan.	橫濱係日本第二大嘅城市。
+You don't look like you're having a good day.	你好似唔係好開心噉喎。
+A button came off when I was playing baseball.	我打棒球嗰陣有粒鈕甩咗出嚟。
+Come and see me when it is convenient for you.	你方便嘅時候嚟見我吖。
+Did you go abroad for pleasure or on business?	你出國係去玩定係去做嘢呀？
+He is always complaining about his low salary.	佢成日都喺到呻話人工好低。
+He is one of the candidates running for mayor.	佢係其中一個市長嘅候選人。
+He would like to take part in the competition.	佢想參加比賽。
+His plan is to build a bridge over that river.	佢嘅計劃係喺嗰條河上面起一條橋。
+I don't understand what you are talking about.	我唔係好明你喺度噏乜。
+I know nothing except that she left last week.	我淨係知道佢上個禮拜走咗。
+I must apologize to you for breaking the vase.	我打爛咗你個花樽，真係好對唔住呀。
+I sprained my finger while playing volleyball.	我打排球嗰陣篤咗魚蛋。
+I thought your dad took away your credit card.	你老豆唔係沒收咗你張信用卡咩？
+In case anything happens, call me immediately.	如果出咗咩事，即刻打電話俾我。
+It is no use blaming him for the accident now.	件事都發生咗咯，而家怪佢都無用啦。
+It took ten years to build the amusement park.	個遊樂場起咗十年先至起好。
+It will take him two hours to finish the work.	我諗佢要用兩粒鐘先至做得晒啲嘢。
+My father is two years younger than my mother.	我阿爸後生過我阿媽兩年。
+My friends dropped by to see me the other day.	我班friend前幾日嚟咗探我。
+Never did I expect to see her in such a place.	我諗都冇諗過會喺啲噉嘅地方度撞到佢。
+Please tell me your name and telephone number.	唔該你話你個名同電話號碼俾我聽吖。
+She kept on talking after I asked her to stop.	我叫咗佢停，佢都繼續講嘢。
+She plays tennis with her friends once a week.	佢每個禮拜都會搵日去同佢啲朋友打網球。
+She spends a lot of time practicing the piano.	佢用好多時間嚟練琴。
+She took her dog to the park before breakfast.	佢食早餐之前去咗公園放狗。
+The boy who is swimming is my younger brother.	喺度游緊水嗰個男仔就係我細佬嚟㗎喇。
+The children are learning to add and subtract.	班小朋友喺度學緊加數同減數。
+The two men were seen to steal into the house.	嗰兩個人偷偷地入咗間屋，俾人見到咗。
+There are more girls than boys in this school.	呢間學校女仔多過男仔。
+This hotel has accommodations for 1000 guests.	呢間酒店裝得落一千人。
+This is the best time of year to visit Boston.	呢個時候嚟波士頓就啱晒喇。
+Tom quickly realized that something was wrong.	阿Tom好快就察覺到有啲嘢唔係好對路。
+Tom sang a lot better than I thought he would.	阿Tom唱歌比我想像中好好多。
+Tom told Mary she should get her eyes checked.	Tom叫Mary去驗吓眼。
+Walking along the street, I met an old friend.	我喺街度撞到個舊朋友。
+What time does the next train leave for Tokyo?	下一班去東京嘅列車幾時開？
+What will happen if there's power failure now?	如果而家停電，會發生啲咩事呢？
+Where are you going spend the summer holidays?	你諗住去邊度過你個暑假呀？
+Who was it that read my diary while I was out?	係邊個趁我唔喺度嗰陣睇我本日記呀？
+Who'll take care of the dog while we are gone?	我哋走咗個陣，邊個嚟照顧隻狗呀？
+You are always complaining about your husband.	你成日都喺度話你個老公呢樣唔好嗰樣唔好。
+You will soon adapt yourself to this new life.	你好快就會適應呢種新生活㗎喇。
+"Do you mind opening the window?" "Not at all."	「你可唔可以幫手開一開窗呀？」「梗係可以啦。」
+"Thank you for helping me." "Don't mention it."	「唔該晒你喎。」「唔使唔該。」
+All the apples that fall are eaten by the pigs.	跌落嚟啲蘋果全部都俾啲豬食晒。
+Although her house is nearby, I seldom see her.	雖然我同佢住得好近，但係都好少見到佢。
+An Englishman would not pronounce it like that.	啲英國人唔會噉讀㗎。
+Could you place your bags on the scale, please?	唔該你將你啲袋擺落個磅上面吖。
+Do you think we'll reach his house before noon?	你話我哋可唔可以喺十二點之前去到佢屋企吖嗱？
+Don't forget that it's Tom's birthday tomorrow.	唔好唔記得Tom聽日生日。
+Don't forget to return the book to the library.	唔好唔記得還返本書俾圖書館喎。
+How many Christmas cards did you get last year?	你舊年收到幾多張聖誕卡呀？
+I bought this book for myself, not for my wife.	呢本書我係買俾自己㗎，唔係買俾老婆㗎。
+I don't want an apology. I want an explanation.	我唔係要你道歉，我要你解釋。
+I had my hair cut at the barber shop yesterday.	我尋日去咗髮型屋剪頭髮。
+I hear he's just begun looking for another job.	聽講佢又開始搵工囉喎。
+I saw him go into the toilet a few minutes ago.	我幾分鐘之前見到佢走咗入個廁所度。
+I shouldn't have drunk so much beer last night.	我尋晚唔應該飲咁多啤酒。
+I used a ribbon to tie my hair into a ponytail.	我搵條絲帶喺個頭度紮咗個馬尾。
+I want to learn how to say this word in Arabic.	我想學吓呢個字用阿拉伯文點樣講。
+I would like to sit in the non-smoking section.	我想坐非吸煙區。
+In high school, French was my favorite subject.	高中嘅時候，法文係我最鍾意嗰科。
+Is it just me or does he look a bit like Obama?	其實有冇人覺得佢個樣有啲似奧巴馬？
+Is there anything to drink in the refrigerator?	雪櫃有冇嘢飲呀？
+It's because I was asked to come that I'm here.	有人叫我嚟，我先嚟咋。
+Last week five students were absent from class.	上個禮拜有五個人冇返學。
+My brother helps me with my homework sometimes.	我阿哥有時會幫我做功課。
+My father is so old that he is hard of hearing.	我老豆好大年紀喇，聽嘢都聽得唔係好清楚喇。
+She bought a vacuum cleaner at the supermarket.	佢喺超級市場度買咗部吸塵機。
+The beauty of the scene was beyond description.	嗰度啲風景真係靚到唔知點形容。
+The doctor prescribed medicine for the patient.	個醫生開咗啲藥俾個病人。
+The man cheated the old woman out of her money.	佢呃咗個阿婆啲錢。
+The man reading a book over there is my father.	喺嗰度睇緊書嗰個就係我阿爸喇。
+The old man told the children an amusing story.	個伯伯講咗個好搞笑嘅故仔俾班小朋友聽。
+There are a lot of French books in the library.	圖書館有好多法文書。
+They booted him out of school for not studying.	佢唔讀書，所以就俾人踢咗出校。
+This year, Valentine's Day falls on a Thursday.	今年情人節係星期四。
+We have two dogs, three cats, and six chickens.	我哋養咗兩隻狗，三隻貓同埋六隻雞。
+We'll try to stop by sometime tomorrow morning.	我哋盡量聽朝嚟啦。
+What does the word "get" mean in this sentence?	呢句句子個「get」字係咩意思呢？
+What does your family eat for Christmas dinner?	你哋屋企聖誕節通常會食咩做晚餐㗎？
+What kind of music do you want at your wedding?	你婚禮想要啲咩類型嘅音樂？
+What would it cost to have this chair repaired?	我想問吓修理呢張凳要幾多錢呀？
+When you yawn, cover your mouth with your hand.	你打喊露嗰陣要用隻手揞住個口。
+Why don't you just tell us what's on your mind?	做咩你唔直接將你嘅諗法話俾我哋聽啫？
+You had better not walk around in such a place.	你最好唔好喺嗰啲地方度行嚟行去。
+You've left out a word in copying the textbook.	你抄書嗰陣抄漏咗一隻字喎。
+Apart from her, everybody answered the question.	淨係得佢無答到條問題。
+Are there any English magazines in this library?	呢間圖書館有冇英文雜誌㗎？
+Dark as it was, we managed to find our way home.	個天好黑，但係我哋都搵到路返屋企。
+Do you have any idea what they're talking about?	你知唔知佢哋喺度講緊啲咩呀？
+Frankly speaking, I don't want to work with him.	老實講吖，其實我真係唔係好想同佢一齊做嘢。
+Having met him before, I recognized him at once.	我之前見過佢，所以一眼就認得。
+He has only a superficial knowledge of Japanese.	佢淨係識啲好表面嘅日文。
+How long did it take you to translate this book?	你譯呢本書譯咗幾耐呀？
+I am at a loss what to buy him for his birthday.	我諗唔到買啲咩送俾佢做生日禮物先好。
+I am sure this book will be of great use to you.	我肯定呢本書會對你好有用。
+I didn't answer your letter, because I was busy.	我係因為忙得濟，所以先至冇回信俾你㗎咋。
+I didn't realize you couldn't understand French.	我唔知你唔識法文。
+I don't really know why, but they don't like me.	我都唔知點解，但係佢哋唔係好鍾意我。
+I felt out of place in the expensive restaurant.	我喺間高級餐廳度覺得好唔自在。
+I had just written the letter when he came back.	佢返到嚟嗰陣，我啱啱好寫完封信。
+I haven't eaten anything in the past three days.	我三日冇食嘢喇。
+I lost the door key, so I can't enter the house.	我唔見咗條門匙，所以我入唔到間屋。
+I often used to play tennis with him on Sundays.	我以前星期日成日同佢去打網球。
+I realize I'm new here, but I have a suggestion.	我知我係新嚟嘅，但係我有一個建議。
+I was searching for something that didn't exist.	我搵緊一樣唔存在嘅嘢。
+I will study abroad when I have finished school.	我畢咗業之後諗住去外國讀書。
+I'd like a wake-up call at six tomorrow morning.	唔該聽朝六點鐘打電話嚟叫我起身吖。
+I'd like to know why you weren't here yesterday.	我想知你尋日點解唔喺到。
+I'll have exams right after the summer holidays.	我放完暑假即刻就要考試喇。
+I'm thinking about putting my house up for sale.	我諗緊好冇賣咗棟樓佢。
+I've spent an entire hour waiting for my friend.	我等咗我個friend成粒鐘。
+It happened that I sat next to her at a meeting.	我開會嗰陣咁啱得咁橋坐正喺佢隔籬。
+It isn't easy to write a love letter in English.	用英文寫情信好難寫得好。
+It looks like they're satisfied with the result.	佢哋好似對個結果好滿意噉。
+Mary made a cake without her mother's knowledge.	瑪莉唔俾佢阿媽知，自己整咗一件蛋糕。
+Only a few people came to the meeting yesterday.	尋日淨係得幾個人嚟咗開會。
+She stayed at home all day instead of going out.	佢成日冇出街留喺屋企。
+She was not merely beautiful, but also talented.	佢唔單止靚女，仲好有才華添。
+The teacher has a great influence on his pupils.	個老師對班學生影響好大。
+There's a possibility that the man was murdered.	佢有可能係俾人謀殺嘅。
+This is the most beautiful flower in the garden.	呢朵係成個花園最靚嘅花。
+Tom doesn't take very good care of his children.	阿Tom冇好好噉照顧佢啲仔女。
+Tom isn't the only one here who's a good singer.	呢到除咗阿Tom之外仲有好多人唱歌唱得好好聽。
+Tom wants his children to have a good education.	阿Tom想佢啲仔女接受優良嘅教育。
+We have to take this problem into consideration.	我哋要考慮呢個問題。
+We hope to reach the summit before it gets dark.	我哋希望可以喺天黑之前上到山頂。
+What were you doing when I called you yesterday?	尋日我打電話嚟嗰陣，你喺度做緊啲咩呀？
+Why do you always have to overcomplicate things?	你點解係都要搞到啲嘢咁複雜啫？
+You haven't shown this to anyone else, have you?	你冇俾其他人睇過㗎可？
+As soon as she read the letter, she began to cry.	佢一開始讀嗰封信就喊咗出嚟。
+Australia is the smallest continent in the world.	澳洲喺世界上最細嘅大洲。
+Divide this line segment into twenty equal parts.	將呢條線分做二十個等分。
+Do you think this jelly's firm enough to eat yet?	你話兜啫喱凝咗未吖嗱？
+Here. Take this with you. It might come in handy.	嗱，攞去啦，可能會有用。
+How many Christmas cards did you write last year?	你舊年寫咗幾多張聖誕卡？
+I got up early in order to catch the first train.	我為咗搭頭班火車，晨咁早就起咗身。
+I take my clothes to the cleaner's twice a month.	我每半個月就會攞我啲衫去乾洗舖度洗。
+I took it for granted that he would win the race.	我以為佢一定會跑第一。
+I used to keep a diary when I was at high school.	我讀中學嗰陣時有寫日記㗎。
+I'll travel across Europe by bicycle this summer.	我今個夏天諗住踩單車環遊歐洲。
+If you touch that wire, you will receive a shock.	你掂嗰條電線就會觸電㗎喇。
+My dad bought a model plane for me for Christmas.	我阿爸買咗部模型飛機俾我做聖誕禮物。
+That problem has been shelved for the time being.	呢個問題擺埋一邊先。
+The children were so noisy that I couldn't study.	啲細路嘈到我溫唔到書。
+The problem has more to do with you than with me.	呢個問題關你事多過關我事。
+The rocket ought to have reached the moon by now.	支火箭而家應該已經到咗月球喇。
+The teacher wrote French words on the blackboard.	個老師喺黑板度寫咗啲法文字。
+There's no need to panic. There's plenty of time.	唔使急，仲有大把時間。
+This is very good ice cream. Won't you have some?	呢隻雪糕好好味㗎，你試唔試少少呀？
+We hurried to the airport only to miss the plane.	我哋急急腳趕咗去機場，但係班機已經走咗。
+What is the temperature of the water in the pool?	泳池啲水幾多度呀？
+What was the best present you got last Christmas?	你舊年聖誕收過最正嘅禮物係咩呀？
+You are not to speak to him while he is studying.	你唔應該喺佢溫緊書嗰陣同佢講嘢。
+You will miss Japanese food in the United States.	你去到美國就會掛住日本啲嘢食㗎喇。
+"Why aren't you going?" "Because I don't want to."	「你做咩唔去嘅？」「因為我唔想去囉。」
+After they had finished their work, they went out.	佢哋做完啲嘢就出咗去。
+At that time, my mother was younger than I am now.	我阿媽嗰陣仲後生過我。
+Didn't you know that he passed away two years ago?	你唔知佢兩年前瓜咗老襯咩？
+Don't forget to take your umbrella when you leave.	你出門口嗰陣記住攞遮呀。
+For him to finish it in a day would be impossible.	佢冇可能一日之內就搞得掂。
+He was angry because I wouldn't give him any help.	佢嬲我唔幫佢手。
+I can't remember how to say "Thank you" in German.	我諗唔起「多謝」用德文點講。
+I think it's time for me to make some new friends.	我諗我係時候識返幾個新朋友喇。
+I will include the author's and publisher's names.	我會擺埋個作者名同埋個出版社名落去。
+I'm not saying that your answers are always wrong.	我唔係話你啲答案一定錯。
+People are more educated now than they used to be.	而家啲人啲教育程度高過以前好多。
+Radishes might be more expensive than the carrots.	啲白蘿蔔可能貴過啲紅蘿蔔。
+She tasted the cake to see if it was sweet enough.	佢試個蛋糕夠唔夠甜。
+She was kind enough to lend me large sum of money.	佢好好人，借咗一大筆錢俾我。
+Since the weather is so good, can I open a window?	天氣咁好，我開窗得唔得呀？
+The cottage looked as if nobody were living in it.	間屋仔睇落好似冇人住噉。
+The matter will be brought up at the next meeting.	呢個問題等下次開會先傾。
+We had less snow this winter than we had expected.	今個秋天冇我哋想像中落咁多雪。
+What do you want Santa to bring you for Christmas?	你想聖誕老人送咩禮物俾你呀？
+When are you going to stop laughing like an idiot?	你可唔可以唔好成個傻仔噉喺度笑呀？
+Who will you give Christmas presents to this year?	你今年諗住送聖誕禮物俾咩人呀？
+You shouldn't go swimming after eating a big meal.	食到好飽嗰陣唔應該去游水。
+Your composition was good except for the spelling.	你啲文章寫得好好，但係有好多字串錯咗。
+"Have you seen my cell phone?" "It's on the table."	「你有冇見過我部手提電話呀？」「咪喺張枱度囉。」
+Could you please tell me how to get to the station?	我想問吓火車站點行呀？
+Don't people tell you you look like Audrey Hepburn?	乜啲人冇同你講話你好似Audrey Hepburn咩？
+Don't put off until tomorrow what you can do today.	今日嘅嘢今日做。
+Drive more carefully, or you will have an accident.	小心啲揸車呀，如果唔係就會出事㗎喇。
+He suddenly hung up the phone while I was speaking.	我講講吓嘢，佢就突然間收咗線。
+How many Christmas cards did you receive last year?	你舊年收到幾多張聖誕卡呀？
+How many Christmas presents did you give this year?	你今年送咗幾多份聖誕禮物俾人呀？
+I can't get over how different the weather is here.	我唔慣呢度啲天氣，太唔同喇。
+I don't use taxis unless it's absolutely necessary.	如非必要我都唔會搭的士。
+I promise you that you'll get a raise after a year.	我保證你一年之後就會加人工。
+I saw my neighbor's dog running around in the yard.	我見到隔籬屋養嗰隻狗喺個花園裏面跑嚟跑去。
+I want to clean the house before my parents return.	我想喺阿爸阿媽返嚟之前執乾淨間屋。
+I'll meet him at the earliest opportunity possible.	我有機會會盡快見佢。
+I'm not going to need a heavy coat where I'm going.	我去嗰度唔使厚褸。
+In order to buy a foreign car, he worked very hard.	為咗買外國車，佢好努力做嘢。
+It is impossible to master English in a year or so.	用一年半載就精通到英文係冇可能嘅事。
+It occurred to me that I had left my purse at home.	我突然間醒起個銀包漏咗喺屋企。
+It would seem that you know something that I don't.	好似你知道啲我唔知嘅嘢噃。
+It's already eleven o'clock. I must be leaving now.	而家已經十一點喇。我一定要走喇。
+It's getting dark. Please turn the light on for me.	個天開始黑囉喎。唔該幫我開咗盞燈佢吖。
+My cat likes it when I scratch her behind the ears.	我隻貓好鍾意我幫佢𢯎耳仔。
+No matter how he tried, he could not open the door.	佢出盡晒力都開唔到嗰道門。
+Please remove your shoes before entering the house.	麻煩你入屋之前除咗對鞋先吖。
+The accident was brought about by his carelessness.	因為佢唔小心，所以先會出事。
+The committee consists of scientists and engineers.	個委員會係由科學家同工程師組成嘅。
+The judge sentenced him to one year's imprisonment.	個法官判咗佢坐一年監。
+The knight swore an oath of allegiance to the king.	個騎士發誓向國王忠誠。
+There has been no rain here for the past two weeks.	我哋呢度已經兩個禮拜冇落過雨喇。
+There were few students remaining in the classroom.	個班房裏面剩返好少學生。
+This flower is yellow, but all the others are blue.	呢朵花係黃色嘅，但係其他嗰啲全部都係藍色嘅。
+Tom was running around the streets drunk and naked.	阿Tom飲醉咗，冇著衫通街走。
+Tufts University is a very famous school in Boston.	塔夫斯大學係波士頓一間好出名嘅大學。
+You must consider what kind of work you want to do.	你一定要諗清楚你想做啲點嘅工。
+You shouldn't talk about people behind their backs.	你唔應該喺背後講人壞話。
+Can you make sashimi out of this fish I just caught?	你可唔可以用呢條我啱啱釣到嘅魚嚟整魚生呀？
+Do you think a little salt would improve the flavor?	你話落少少鹽會唔會好味啲吖嗱？
+Do you think we'll have a white Christmas this year?	你話今年聖誕會唔會落雪吖嗱？
+Do you think you could lend me some of your records?	可唔可以借幾張 CD 俾我聽吓呀？
+Do you want to eat French, Japanese or Chinese food?	你想食法國嘢，日本嘢定係中國嘢？
+Don't make any noise or you'll scare the birds away.	唔好嘈呀，會嚇走啲雀仔㗎。
+Drinking on an empty stomach is bad for your health.	空肚飲酒對身體唔好㗎。
+Enter the laboratory and press the emergency button.	入實驗室㩒緊急掣。
+He said he knew the famous actress, which was a lie.	佢話佢識得嗰個出名嘅女演員，但係佢講緊大話。
+How much is the monthly fee of this swimming school?	呢間游水學校每個月要俾幾多學費㗎？
+I avoid crossing the street here if I am in a hurry.	我趕時間嗰陣唔會喺呢到過馬路。
+I don't like him because he loses his temper easily.	佢郁吓就發脾氣，所以我唔係好鍾意佢。
+I regret having fallen in love with a girl like her.	我好後悔愛上咗一個咁樣樣嘅女仔。
+If I eat too much chocolate, I break out in pimples.	我食得太多朱古力就會爆瘡。
+If the hay caught fire, it would be a real disaster.	如果啲乾草著咗火就大劑喇。
+It is impossible for me to finish the work in a day.	我用一日時間冇可能做得晒啲嘢。
+It took him three months to learn to ride a bicycle.	佢學咗三個月先學識踩單車。
+Last night, I went to bed without brushing my teeth.	尋晚我冇刷牙就走咗去瞓覺。
+Most Swiss people can speak three or four languages.	瑞士人多數識講三、四種語言。
+My coworker really knows how to suck up to the boss.	我個同事真係好識擦老細鞋㗎。
+She breaks something every time she cleans the room.	佢執親房都要打爛咁啲嘢先至安樂。
+Since I couldn't pay the rent, I asked him for help.	我冇錢交租，所以就搵佢幫手。
+The children are sleeping. Please don't be so noisy.	班小朋友瞓緊覺㗎。唔該你細聲啲啦。
+The teacher said that we must memorize these idioms.	個老師話我哋一定要背熟晒呢啲諺語佢。
+There are over 800,000 Basque speakers in the world.	世界上有超過八十萬人講巴斯克文。
+Three Chinese students were admitted to the college.	間大學收咗三個中國學生。
+What is the good of having a car if you don't drive?	你都唔揸車，要架車嚟做咩啫？
+While swimming in the pool, she lost her locker key.	佢喺個泳池游水嗰陣整唔見咗儲物櫃條鎖匙。
+You may take this book as long as you keep it clean.	你可以拎呢本書走，但係唔好整污糟佢喎。
+"Would you mind shutting the door?" "No, not at all."	「你可唔可以幫手閂埋道門呀？」「可以，梗係可以啦。」
+A bad habit, once formed, is difficult to get rid of.	一養成咗壞習慣，就好難改返正㗎喇。
+Anyone over eighteen years of age counts as an adult.	所有十八歲以上嘅人都算係大人。
+As soon as you get the wall painted, you can go home.	你一油好埲牆就可以返屋企㗎喇。
+Cambridge is the most famous university in the world.	劍橋大學係世界最有名嘅大學。
+Did you believe in Santa Claus when you were a child?	你細個嗰陣信唔信有聖誕老人㗎？
+He lived in France for some time, then went to Italy.	佢喺法國住咗一排，跟住就走咗去意大利。
+I don't know whether he's younger or older than I am.	我唔知佢大過我定係細過我。
+I'm really bad with names, but I never forget a face.	我記名好差，但係認人好叻。
+If you don't want this, I'll give it to someone else.	如果你唔想要我就俾第個㗎喇。
+It is dangerous to ride a motorbike without a helmet.	揸電單車唔戴頭盔好危險㗎。
+It took a lot of time and money to build the machine.	呢部機係用咗好多時間同埋錢先至起好㗎。
+It was a long war because neither side would give in.	因為雙方都唔肯投降，所以場仗打咗好耐。
+There is no need to be frightened. He won't harm you.	唔使驚，佢唔會傷害你嘅。
+This is the restaurant where we had dinner last week.	我哋上個禮拜就係喺呢間餐廳度食飯㗎喇。
+We kept on working for hours without eating anything.	我哋一粒飯都冇落過肚，一路做咗幾個鐘頭。
+We've been having strange weather the past few years.	呢幾年啲天氣好唔正常。
+What's the best Christmas present you've ever gotten?	你成世人收過最正嘅聖誕禮物係咩呀？
+Whether he comes or not, the result will be the same.	佢嚟又好，唔嚟又好，個結果都係一樣。
+Why didn't you try the dress on before you bought it?	你做咩唔試吓條裙先買嘅？
+You had better put out the fire before you go to bed.	你瞓覺之前最好整熄啲火先。
+An article about our school appeared in the newspaper.	我哋間學校上咗報紙。
+As soon as I hung up, the phone started ringing again.	我啱啱收線，個電話又響喇。
+He asked me my age, my name, my address, and so forth.	他問咗我幾多歲、叫咩名、住邊度等等。
+He not only speaks French, but he speaks Spanish, too.	佢唔單止識講法文，仲識講西班牙文。
+How many hours does it take to go to Okinawa by plane?	坐飛機去沖繩要坐幾多個鐘㗎？
+I can't conceive how I could have made such a mistake.	我唔明點解我可以犯埋啲咁嘅錯。
+I don't have time to be bothered by such small things.	我冇時間煩埋啲咁芝蔴綠豆嘅嘢。
+I hear that even taxi drivers often get lost in Tokyo.	我聽講連啲的士司機都成日喺東京蕩失路個喎。
+I put in a good word for my friend at today's meeting.	我喺今日個會度幫我個朋友講咗啲好說話。
+I think that everyone should study a foreign language.	我覺得所有人都應該學外語。
+I was lucky that I was able to find a good babysitter.	我好好彩，搵到一個好嘅保姆。
+I wonder if she'll recognize me after all these years.	過咗咁多年，唔知佢仲認唔認得我呢？
+It is questionable whether this data can be relied on.	呢啲資料未必可靠。
+It's a ten-minute ride from here to the train station.	由呢度坐車去火車站十分鐘就到。
+Make sure to turn off all the lights before going out.	出去之前記住熄晒啲燈佢喎。
+No sooner had Tom turned on the TV than the fuse blew.	阿 Tom 一開電視就跳咗 fuse。
+Students are forbidden to smoke on the school grounds.	學生唔可以喺學校裏面食煙。
+The largest English dictionary has over 450,000 words.	最大型嗰本英文字典收錄咗超過四十五萬個字。
+The speed of light is much greater than that of sound.	光速快過音速好多。
+We want to know what this project is going to cost us.	我哋想知呢個計劃大約要用幾多錢。
+What was the best present you received last Christmas?	你舊年聖誕收過最正嘅禮物係咩呀？
+You'll have to work hard if you want to pass the exam.	如果你唔想考試肥佬，就要勤力啲溫書喇。
+Could you give me some change for this ten dollar bill?	你可唔可以幫我唱散呢張十蚊紙呀？
+Do you think you can live on a dollar a day in America?	你覺得你喺美國每日淨係用一美金生唔生活到？
+For some reason or other I cannot bring myself to work.	唔知點解我硬係無心機做嘢。
+He is sure to pass the exam if he studies at this rate.	佢保持住而家呢種速度溫書嘅話，考試合格絕對無問題。
+He sometimes forgets to take books back to the library.	佢有時會唔記得將啲書還返去圖書館。
+How long does it take to walk from here to the station?	喺呢度行到去車站要幾耐㗎？
+How much time did it take you to learn Chinese so well?	你啲中文學咗幾耐先學到咁好㗎？
+I would rather read a book at home than go out tonight.	我今晚想喺屋企睇書，唔想出街。
+I'd like to marry a girl who likes to play video games.	我想同一個鍾意打機嘅女仔結婚。
+If it were not for my family, I would give up this job.	如果唔係為咗養家，我會辭咗份工。
+If you listen closely enough you'll be able to hear it.	你聽真啲就聽到㗎喇。
+Nowadays, almost every home has one or two televisions.	而家差唔多每家每戶都有一兩部電視喇。
+One of my sons is a teacher, and the other is a doctor.	我有兩個仔，一個係老師，一個係醫生。
+That man knows how to get on the president's good side.	嗰個人好識擦老細鞋㗎。
+The child had no overcoat on although it was very cold.	雖然天氣好凍，但係個細路都無著到外套。
+The man you saw in my office yesterday is from Belgium.	你尋日喺我辦工室度見到嗰個人係比利時人嚟嘅。
+The train is traveling at the rate of 50 miles an hour.	架火車行緊五十咪。
+The train is traveling at the rate of 50 miles an hour.	架火車每個鐘行緊五十咪。
+The train is traveling at the rate of 50 miles an hour.	架火車每個鐘行緊五十英里。
+This dictionary is very expensive, but is worth buying.	呢本字典雖然好貴，但係都係值得買嘅。
+Tom and Mary sat on the beach and talked to each other.	Tom 同 Mary 坐喺沙灘傾偈。
+We're expecting a lot of people to attend the ceremony.	我哋預計會有好多人出席典禮。
+We've come to the conclusion that this is a true story.	我哋嘅結論就係，個傳言係真嘅。
+What's the best Christmas present you've ever received?	你成世人收過最正嘅聖誕禮物係咩呀？
+You had better not tell your father about the accident.	你最好唔好講件事俾你阿爸聽。
+Are you sure there wasn't some kind of misunderstanding?	你肯定一啲誤會都冇？
+Didn't you know that he passed away about two years ago?	你唔知佢兩年前死咗咩？
+First of all, you should talk it over with your parents.	你應該同你阿爸阿媽傾吓先。
+Frankly speaking, his new novel is not very interesting.	老實講，佢新出嗰本小說真係有啲悶。
+He has not come yet. Something may have happened to him.	佢仲未到呀，唔知係咪發生咗啲咩意外呢？
+He went out of the room without being noticed by anyone.	佢靜雞雞噉行出咗間房，冇人發現到佢。
+How about having a drink after we finish our work today?	我哋今日做完嘢不如去飲返杯囉？
+I feel like going out rather than staying at home today.	我今日想出街，唔想留喺屋企。
+I would like to have something to munch on with my beer.	我想要啲嘢嚟送酒。
+I would like to invite you to lunch, if you're not busy.	如果你得閒嘅話不如一齊食飯吖？
+I'm so embarrassed I could dig a hole and crawl into it.	我瘀到想搵窿捐。
+It struck me that the girl was trying to hide something.	我突然間覺得個女仔好似有啲嘢瞞住我。
+It would be better for you to stay away from such a man.	呢啲噉嘅人，你都係唔好同佢行得咁埋好啲。
+It's a good thing to read good books when you are young.	後生嗰陣睇多啲書好呀。
+No matter how fast you run, you won't catch up with him.	你跑得幾快都追唔上佢㗎喇。
+The police were unable to get anything out of the woman.	警察喺個女人度問唔到任何嘢。
+The taste of wine is largely dependent upon the weather.	葡萄酒嘅味道好受天氣影響。
+We all chipped in to buy our teacher a birthday present.	我哋一齊夾份買咗份生日禮物俾我哋個老師。
+We have not been notified about their change of address.	我哋冇收到通知話佢哋改咗地址。
+You can get a fine view of the sea from the mountaintop.	喺山頂度可以睇到好靚嘅海景。
+Even plastic surgery won't do anything for your ugliness.	你咁樣衰，整容都冇用㗎喇。
+I dozed off in the train and slept right past my station.	我喺火車度瞌着咗，最尾搞到過咗站。
+I stayed home last night to be able to receive your call.	我尋晚留喺屋企等聽你電話。
+I think it's time for me to discuss the problem with her.	我諗我係時候同佢傾傾個問題喇。
+I was mistaken in thinking that he was a trustworthy man.	我仲以為佢好信得過添。
+I wonder why anyone would want to do something like that.	我都唔明點解啲人會做埋啲咁嘅嘢。
+I'll lend you the book, provided you return it next week.	如果你下個禮拜還到俾我嘅話，呢本書就借俾你啦。
+If you flunk this exam, you'll have to repeat the course.	你炒咗呢個考試就要重讀㗎喇。
+It is often said that nothing is more precious than time.	啲人成日話無乜嘢重要得過時間。
+My father bought me a digital watch for birthday present.	我老豆送咗隻電子錶俾我做生日禮物。
+People used to think that only humans could use language.	以前啲人以為淨係得人類先識用語言溝通。
+She has been looking after her sick sister for ten years.	佢照顧佢個病咗嘅細妹已經照顧咗十年喇。
+Some college teachers come to class late and leave early.	有啲大學教授好鍾意遲嚟早走。
+The reason why you failed is you did not try hard enough.	因為你唔夠努力，所以先會失敗。
+The teacher suggested that we go to the library to study.	個老師提議我哋去圖書館溫書。
+Tom didn't want to interrupt Mary while she was studying.	阿Tom唔想喺Mary讀書嗰陣打攪佢。
+We're thinking of adding on another bedroom to the house.	我哋諗緊好冇喺間屋到間多一間睡房。
+What difference does it make if people are looking at us?	啲人望住我哋又點啫？
+What difference does it make if people are looking at us?	啲人望住我哋又有分別咩？
+Who do you think was watching TV in this room last night?	你話尋晚係邊個喺呢間房度睇緊電視嘅吖嗱？
+You have changed so much that I can hardly recognize you.	你變咗咁多嘅，我都差唔多唔認得你喇。
+You'll get a clear picture with this antenna on the roof.	擺咗呢條天線喺屋頂度，個畫面就會清啲㗎喇。
+Did you have a lot of happy experiences in your childhood?	你細個嗰陣係咪有好多開心嘅經歷呢？
+I asked the waiter to see about getting us a better table.	我叫個侍應睇吓可唔可以幫我哋換張好啲嘅枱。
+I don't care where we eat dinner. It's entirely up to you.	去邊度食我都冇所謂，你話事得㗎喇。
+I have a lot of flowers. Some are red and some are yellow.	我種咗好多花，有啲係紅色嘅，有啲係黃色嘅。
+I met her by chance on the train the day before yesterday.	我前日喺火車度撞到佢。
+I want all of the furniture taken to our house right away.	唔該即刻將啲傢俬送晒去我哋屋企吖。
+I wonder if he can lend me his guitar during the vacation.	唔知佢放假嗰陣可唔可以借部結他俾我呢？
+Living abroad is the best way to learn a foreign language.	喺外國生活係學外語嘅最佳方法。
+The doctor told me to inhale and exhale slowly and deeply.	個醫生叫我慢慢噉深呼吸。
+We need to burn all this stuff before the police get here.	我哋要喺警察嚟之前將呢啲嘢全部燒晒佢。
+Would you read my letter and correct the mistakes, if any?	你可唔可以睇吓我封信，有咩錯嘅地方就幫我改咗佢呀？
+You should hand in your homework by Friday, at the latest.	呢份功課最遲禮拜五交。
+After thinking long and hard, I put the plan into practice.	我認真咁諗咗好耐，終於決定將個計劃付諸行動。
+Are you aware of how much money your son has been spending?	你知唔知你個仔最近使咗幾多錢？
+As is usual with him, he arrived a quarter of an hour late.	佢例牌遲咗十五分鐘嚟。
+Excuse me, but is this the right way to the subway station?	唔好意思呀，我想問吓呢條路去唔去到地鐵站㗎？
+I'm not interested in the tea ceremony or flower arranging.	我對茶道同插花都冇乜興趣。
+It is no use going to school if you are not going to study.	你唔讀書，返學都冇用㗎。
+Japanese is often said to be a difficult language to learn.	啲人成日話日文好難學。
+Leaving something unfinished is the worst thing you can do.	冇乜嘢衰得過半途而廢。
+My sister was robbed of her bag on her way home last night.	我家姐尋晚返屋企嗰陣俾人搶咗個手袋。
+Now that you're a college student, you should study harder.	你而家係大學生喇，應該努力啲讀書。
+This is a very important meeting. You ought not to miss it.	呢個會好緊要㗎，你唔好唔嚟呀。
+To tell the truth, I would rather stay at home than go out.	老實講，我其實想留喺屋企，唔想出街㗎。
+Tom likes to listen to music while he's doing his homework.	阿Tom好鍾意一路聽歌一路做功課。
+With the approach of Christmas, business improved somewhat.	聖誕節就快到，生意都好咗啲。
+All the doctor's efforts were in vain and the man soon died.	個醫生雖然已經盡晒力，但係個病人都係冇幾耐就死咗。
+By the time the sun sets, we will arrive at the destination.	喺太陽落山之前，我哋就會到達目的地㗎喇。
+It's been almost ten years, but you're as beautiful as ever.	過咗差唔多十年，你都仲係同以前一樣咁靚。
+Now that you are grown up, you must not behave like a child.	你而家係大人嚟㗎喇，唔好再好似成個細路咁喇。
+They were clearing the snow from the sidewalk with a shovel.	佢哋用鏟清理緊行人路啲雪。
+We need to get this truck unloaded before it starts raining.	我哋要喺落雨之前將呢架貨車上面啲嘢搬晒落嚟。
+We used to sing together all the time when we were children.	我哋細個嗰陣成日一齊唱歌。
+You can take a horse to water, but you can't make him drink.	牛唔飲水唔㩒得牛頭低。
+You should go to the dentist and have that tooth pulled out.	你應該去睇牙醫，掹咗隻牙佢。
+Do you know how many people turned up at the dance last week?	你知唔知上個禮拜個舞會有幾多人嚟咗呀？
+He must be a good walker to have walked such a long distance.	佢行咗咁遠路，啲腳力實好好喇。
+How many people did you buy Christmas presents for this year?	你今年買咗聖誕禮物俾幾多個人呀？
+I'd like to teach in a school with highly-motivated students.	我想教間同學好有動力嘅學校。
+If you leave now, I'm sure you'll be caught in a traffic jam.	你而家出門口，實塞車啦。
+Over ten thousand messages are sent every second on Facebook.	喺Facebook每一秒都有超過一萬個訊息發出。
+The car crashed into the guard-rail and rolled down the hill.	架車撞咗埋個欄杆度，碌咗落山。
+Tom might not want to sing in front of such a large audience.	阿Tom未必想喺咁多人面前唱歌。
+I'm a vegetarian, so I'd rather not have meat, if that's okay.	我食齋嘅，所以如果可以嘅話我唔想食肉。
+If I should be late getting home, please don't wait up for me.	如果我好夜都未返，你就自己瞓先啦，唔使等我。
+Mother insists that we should be home by seven in the evening.	阿媽一定要我哋喺夜晚七點之前返到屋企。
+Organic vegetables are popular because they're safe and tasty.	有機菜咁多人鍾意係因為佢哋又安全又好食。
+Organic vegetables are popular because they're safe and tasty.	有機菜安全好食，所以咁多人食。
+The student became very nervous with the teacher watching him.	個學生俾個老師望到周身唔自在。
+Tom didn't learn how to play the guitar until he was thirteen.	阿Tom十三歲先開始學結他。
+Tom promised me that tonight he'd sing that new song he wrote.	阿Tom應承我話今晚會唱佢寫嗰首新歌。
+Tom reached into his pocket and pulled out a handful of coins.	阿Tom伸咗隻手落個袋到，拎咗幾個銀仔出嚟。
+We probably don't have enough time to finish doing that today.	我哋應該唔夠時間喺今日之內搞掂佢。
+What is still better is that the house has a beautiful garden.	更加正嘅係間屋仲有一個好靚嘅花園。
+When Mary reached the bus stop, the last bus had already left.	瑪莉到咗個巴士站嗰陣，架尾班巴士已經走咗喇。
+Yesterday I was caught in a shower on my way home from school.	我尋日放學返屋企嗰陣突然間落大雨。
+You must get this homework finished by the day after tomorrow.	你後日一定要做完呢份功課。
+All the words underlined in red should be checked for spelling.	有紅色底線嗰啲字全部都要檢查吓有冇串錯。
+I am sure I met him somewhere, but I do not remember who he is.	我好肯定係邊度見過佢，但係又唔認得佢。
+I'm going through my closet to find clothes to give to charity.	我喺我個衣櫃度摷緊有冇衫可以捐出去做善事。
+If you can see your breath when you exhale, you know it's cold.	如果你呼氣嗰陣見到有啲氣噴出嚟，就啫係天氣好凍喇。
+It makes little difference to me whether you believe it or not.	你信又好，唔信又好，對我嚟講無咩分別。
+Showing your real feelings is not considered a virtue in Japan.	直率喺日本人嘅眼裏面並唔係一種美德。
+They looked everywhere for him, but couldn't find him anywhere.	佢哋已經周圍搵過佢，但係就邊度都搵唔到佢。
+Tom has finished reading the book that Mary gave him yesterday.	阿Tom已經睇完Mary尋日俾佢嗰本書喇。
+We have probably about three hundred of those in our warehouse.	我哋倉到應該有三百個左右。
+We wouldn't be in this mess if you'd just done what I told you.	如果你照住我嘅說話去做，我哋而家就唔會搞成噉啦。
+Why did you tear the cloth instead of cutting it with scissors?	你做咩搵隻手嚟搣塊布，唔用較剪剪呀？
+I may be unsociable, but it doesn't mean I don't talk to people.	我可能社交唔係好好，但係唔代表我唔同人講嘢。
+It would be better for both of us not to see each other anymore.	我哋都係唔好再見面喇。
+We associate the name of Einstein with the theory of relativity.	一提到愛因斯坦，我哋就會諗起相對論。
+After a six month period, his leg was healed and is normal again.	過咗六個月，佢隻腳就醫返好，變返正常喇。
+Father has lost his job, and what's worse, Mother has fallen ill.	阿爸冇咗份工，更加慘嘅係阿媽又病咗。
+I spoke to him in English, but I couldn't make myself understood.	我用英文同佢講嘢，但係佢聽唔明。
+If I had eaten breakfast this morning, I would not be hungry now.	如果我今朝食咗早餐，而家就唔使咁肚餓啦。
+It is difficult, if not impossible, for me to beat him at tennis.	要我打網球打贏佢唔係冇可能都好難啦。
+No sooner had the child seen his mother than he burst into tears.	個細路一見到阿媽就喊咗出嚟。
+Tom put his money in the box, and then put the box in the drawer.	阿Tom擺咗啲錢落個箱到，再將個箱擺咗落個櫃桶到。
+Unfortunately, I can't afford to buy everything I need right now.	真係唔好彩，我買唔起我所有依家要嘅嘢。
+We can continue playing, as long as we don't make too much noise.	我哋可以繼續玩，唔好嘈到人就得喇。
+We're going up into the mountains, so why don't you come with us?	我哋諗住去行山，你一唔一齊呀？
+When you shake hands with somebody, you must look him in the eye.	同人哋握手嗰陣，一定要有眼神接觸。
+You had better go to bed right away, or your cold will get worse.	你都係快啲去瞓啦，如果唔係啲感冒就會愈嚟愈勁㗎啦。
+Human beings differ from animals in that they can think and speak.	人類識得諗嘢同講嘢，但係動物就唔識。呢個就係人類同動物嘅分別喇。
+It is not until you go abroad that you realize how small Japan is.	你出國睇吓，先會知道日本係幾咁細。
+When I was in high school, I used to earn extra money babysitting.	我讀中學嗰陣做過保姆嚟賺外快。
+When he arrived at the bus stop, the bus was already out of sight.	佢去到個巴士站嗰陣，已經見唔到架巴士喇。
+Which is the capital of the United States, Washington or New York?	美國嘅首都係華盛頓定係紐約呀？
+You must have been surprised to meet your teacher in such a place.	你實係估都估唔到會喺啲噉嘅地方度撞到你個老師啦。
+I can't imagine why anyone would want to steal something like that.	我都唔明點解噉嘅嘢都會有人想偷。
+If you go by bus, you can get there in about one-third of the time.	你搭巴士去嘅話，可以慳返三分二時間。
+Every foreigner who visits Japan says that prices here are too high.	嚟日本旅行啲外國人個個都話呢度啲物價貴得濟。
+I thought she was angry at me because I didn't pay the bill in time.	我以為佢係因為我俾唔切錢而嬲咗我。
+It's not that I seriously like him. I just find him very attractive.	我唔係真係鍾意佢，我淨係覺得佢好靚仔啫。
+Now that you mention it, I don't remember seeing Tom in class today.	講吓講吓今日阿 Tom 好似真係冇返學喎。
+She made it clear that she couldn't make it in time for the meeting.	佢講得好清楚佢冇得準時嚟開會。
+Today's weather forecast says that it is likely to be fine tomorrow.	今日個天氣報告話聽日應該會好天。
+He managed to pass his driving test even though he was a poor driver.	佢啲駕駛技術好差，但係都勉強通過咗個駕駛考試。
+If you'll keep an eye on the kids, I'll take your suit to be cleaned.	你幫我睇住啲細路，我就幫你攞套西裝去洗。
+It's not all that uncommon for people to live past the age of ninety.	活到九十幾歲都唔算係好罕有嘅事。
+Of course you can trust me. Have I ever given you a bum steer before?	我梗係信得過啦。我之前有冇俾過流料你吖？
+The burglar was traced by one of the things he had left on the scene.	啲警察根據現場留低嘅證物搵到個賊仔。
+There's nothing I could ever say that would make Tom change his mind.	我講咩都改變唔到Tom嘅諗法。
+These old customs have been handed down from generation to generation.	呢啲古老嘅習俗都係一代一代噉傳落嚟嘅。
+Alcohol consumption is higher in Eastern Europe than in Western Europe.	東歐嘅酒精消耗量高過西歐。
+If you agree to buy 3,000 of them, we'll give you a 3 percent discount.	如果你肯買夠三千個，我哋就俾個九七折你。
+It will make little difference whether you go there by taxi or on foot.	你搭的士去同行路去都無咩分別。
+We're always going there! Let's go to a French restaurant for a change.	我哋次次都係去嗰度食！今次轉吓口味，去食法國嘢啦。
+Even if you know the truth, you had better pretend otherwise at present.	你就算真係知道個真相，而家都係扮唔知好啲。
+Everybody in the car said they wanted to get out and stretch their legs.	喺車入邊嗰嗰話要出嚟伸吓隻腳。
+I can put up with a house being untidy, but I don't like it to be dirty.	啲屋狗竇咁亂我都頂得順，但係污糟嘅話我就接受唔到。
+I didn't get much sleep last night so I was nodding off all day at work.	我尋晚冇乜點瞓過，所以今日成日返工都喺度瞌眼瞓。
+If you want to go, then go. If you don't want to, then it's no big deal.	你想去就去啦。如果你唔想去都冇乜所謂。
+It's a good rule to look both ways before you cross the street anywhere.	無論喺咩地方，過馬路之前都應該望清楚左右先。
+At Christmas she went out of her way to buy me a really nice model plane.	佢聖誕節嗰陣專登買咗架好靚嘅模型飛機俾我。
+He claims to be a socialist, and yet he has two houses and a Rolls Royce.	佢話佢係社會主義者，但係佢就有兩間屋同埋一架勞斯萊斯。
+I don't have to study tonight. I think I'll watch television for a while.	我今晚唔使溫書。我諗我會睇陣電視。
+Life is like riding a bicycle. To keep your balance you must keep moving.	人生就好似踩單車咁，想保持平衡，就一定要不斷向前進。
+Even though he has turned twenty, he's still too timid to chat with girls.	佢都廿歲喇，但係都仲係唔夠膽同女仔傾計。
+I'm going to ask him for an autograph. Do you have anything to write with?	我諗住問佢攞簽名呀，你有冇嘢可以攞嚟寫字㗎？
+Should anyone call on me in my absence, tell him that I will be back soon.	如果我唔喺度嗰陣有人嚟搵我，唔該你話佢知我好快返嚟。
+After asking for my key at the front desk, I took the elevator to my floor.	我去個櫃檯度攞咗條鑰匙，跟住就搭𨋢去咗我間房嗰層樓。
+If he had been a little more careful, the accident would have been avoided.	如果佢再小心啲，就唔會出事啦。
+If it had not been for your aid, I would not have succeeded in my business.	如果唔係有你幫手，我生意一定唔會咁成功。
+If I had known about your illness, I could have visited you in the hospital.	如果我知道你病咗，實會趕嚟探你㗎。
+The passengers were asleep in their cabins when the ship hit a huge iceberg.	隻船撞咗埋個巨型冰山嗰陣，班乘客全部都喺客艙度瞓緊覺。
+We'll be broke soon if we don't stop spending money on things we don't need.	如果我哋繼續洗錢買埋啲無謂嘢，好快就會窮到燶。
+A person views things differently according to whether they are rich or poor.	窮人睇嘢同埋有錢人睇嘢會好唔同。
+A woman wrote 30 books about how to become happy, and then committed suicide.	有個女人寫咗卅本書講點樣做一個快樂嘅人，跟住就自殺死咗。
+Had they known what was about to happen, they would have changed their plans.	如果佢哋知道會發生埋啲噉嘅事，實會改用第二啲計劃啦。
+Oceans are expected to rise by 50 centimeters by the end of the next century.	下世紀末海面預計會升五十厘米。
+Almost all of the passenger in the bus were asleep when the accident happened.	出事嗰陣巴士上面啲乘客差唔多全部都瞓晒覺。
+I hadn't recognized the importance of this document until you told me about it.	你話咗俾我聽之後，我先知呢份文件有幾咁緊要。
+The police will just take the money and probably won't even look for the owner.	啲警察剩係會呑咗啲錢，應該連物主都唔會搵。
+There are only five minutes left till the train leaves and she hasn't appeared.	班火車仲淨返一個字就開㗎喇，但係佢都仲未見人。
+They say you shouldn't take rumors seriously, but that's easier said than done.	啲人成日話唔好亂咁信啲謠言，但係講就容易做就難。
+"Just go in and tell the boss you want a raise." "That's easier said than done."	「走入去同老細講話你想加人工咪得囉。」「講就容易啫。」
+I have been typing this report since this morning, but I'm only halfway through.	我由今朝開始就一路喺度打呢份報告書，但係到而家都淨係打咗一半。
+Even though I studied English for 6 years in school, I'm not good at speaking it.	我喺學校讀咗六年英文，但係都唔係講得好好。
+If we don't hit the road soon, we'll get caught in the morning rush hour traffic.	就嚟到朝頭早嘅繁忙時段喇，我哋仲唔行就塞車㗎喇。
+My mother and father are sending me to Boston for the summer to visit my cousins.	我阿爸阿媽今個夏天諗住送我去波士頓探我啲表兄弟姊妹。
+Yesterday I was on my way home from work when I ran smack into my old girlfriend.	我尋日放工返屋企嗰陣同我個舊女朋友撞到正。
+If you go to that supermarket, you can buy most things you use in your daily life.	你去嗰個超級市場，差唔多咩日用品都買到。
+When he reached the station, the train had already left almost half an hour before.	佢去到個火車站嗰陣，班火車已經走咗差唔多半粒鐘。
+If you want to hear a scary story, I'll tell you about a dream I had a few weeks ago.	如果你想聽恐怖故事嘅話，我就講一個我喺幾個禮拜之前發嘅夢俾你聽啦。
+This movement from rural to urban areas has been going on for over two hundred years.	喺呢二百年裏面，有好多人喺鄉下搬咗去市區度住。
+Could you stand behind my car for a minute and tell me if my brake lights are working?	你可唔可以去架車後面睇吓啲車尾燈係咪著緊？
+Democracy is the worst form of government, except all the others that have been tried.	民主係最差嘅政治制度，除咗其他嘗試過嘅之外。
+Louis Braille, who was blind from the age of three, invented a way for the blind to read.	三歲就失明嘅路易·布拉耶，發明咗一種俾盲人閱讀嘅方法。
+Tom has a framed photo of his parents on their wedding day hanging on his lounge room wall.	呀Tom屋企客廳埲牆到掛咗一張呀爸呀媽嘅結婚相。
+A little knowledge of Spanish will go a long way toward making your trip to Mexico enjoyable.	識返啲西班牙文嘅話，你去墨西哥實會玩得開心啲。
+If we don't receive Tom's reply within the next three days, I think we should write him again.	如果阿Tom嚟緊呢三日都唔覆我哋，我諗我哋應該寫多封信俾佢。
+As an Englishman, he is particularly sensitive to the differences between English and American usage.	佢係英國人，所以對英式用法同美式用法之間嘅分別特別敏感。
+"If you're tired, why don't you go to sleep?" "Because if I go to sleep now I will wake up too early."	「你攰做咩唔去瞓覺呀？」「因為我而家去瞓呢，就會早得濟醒㗎喇。」
+When I was a kid, touching bugs didn't bother me a bit. Now I can hardly stand looking at pictures of them.	我細個嗰陣，搵隻手掂啲昆蟲都未驚過。到咗而家，我淨係望住佢哋啲相，就已經連企都企唔穩喇。
+When I was studying to become a lawyer, my teachers told me to never ask a question that I didn't know the answer to.	我讀法律嗰陣，啲老師教我唔好問啲自己唔知道答案嘅問題。
+The people here are particular about what they eat, so even if a restaurant is inexpensive, it'll soon go out of business if the food doesn't taste good.	呢到嘅人對食好講究，所以就算係幾平嘅餐廳都好，如果啲嘢食唔好食，都會好快執笠。
