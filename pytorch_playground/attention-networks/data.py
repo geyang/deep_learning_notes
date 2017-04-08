@@ -16,7 +16,7 @@ def normalize_strings(s):
 
 def read_language(l1, l2, normalize_fn=None):
     ledger.info('Reading Lines... ')
-    with open('./language_data/{}-{}.txt'.format(l1, l2)) as f:
+    with open('./training-data/{}-{}.txt'.format(l1, l2)) as f:
         lines = f.read().strip().split('\n')
         for l in lines:
             if normalize_fn is None:
