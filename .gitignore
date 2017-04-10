@@ -3,6 +3,7 @@
 nohup.out
 .ipynb_checkpoints
 data
+training-data
 
 MNIST_data
 .gitignore
