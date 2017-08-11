@@ -93,14 +93,12 @@ class Add:  # Add with broadcasting
     def backward(self):
         xred, yred = bcast(self.x.value, self.y.value)
         if self.x.grad is not None:
-            self.x.grad = self.x.grad + np.reshape(
-                np.sum(self.grad, axis=xred, keepdims=True),
-                self.x.value.shape)
+            self.x.grad += np.reshape(np.sum(self.grad, axis=xred, keepdims=True),
+                                      self.x.value.shape)
 
         if self.y.grad is not None:
-            self.y.grad = self.y.grad + np.reshape(
-                np.sum(self.grad, axis=yred, keepdims=True),
-                self.y.value.shape)
+            self.y.grad += np.reshape(np.sum(self.grad, axis=yred, keepdims=True),
+                                      self.y.value.shape)
 
 
 class Mul:  # Multiply with broadcasting
@@ -124,14 +122,12 @@ class Mul:  # Multiply with broadcasting
     def backward(self):
         xred, yred = bcast(self.x.value, self.y.value)
         if self.x.grad is not None:
-            self.x.grad = self.x.grad + np.reshape(
-                np.sum(self.grad * self.y.value, axis=xred, keepdims=True),
-                self.x.value.shape)
+            self.x.grad += np.reshape(np.sum(self.grad * self.y.value, axis=xred, keepdims=True),
+                                      self.x.value.shape)
 
         if self.y.grad is not None:
-            self.y.grad = self.y.grad + np.reshape(
-                np.sum(self.grad * self.x.value, axis=yred, keepdims=True),
-                self.y.value.shape)
+            self.y.grad += np.reshape(np.sum(self.grad * self.x.value, axis=yred, keepdims=True),
+                                      self.y.value.shape)
 
 
 class VDot:  # Matrix multiply (fully-connected layer)
@@ -159,7 +155,7 @@ class VDot:  # Matrix multiply (fully-connected layer)
         if self.y.grad is not None:
             nabla = np.matmul(self.x.value.T.reshape(list(self.x.value.shape) + [1]),
                               self.grad.reshape([1] + list(self.grad.shape)))
-            self.y.grad = self.y.grad + nabla
+            self.y.grad += nabla
 
 
 class Log:  # Elementwise Log
@@ -181,7 +177,7 @@ class Log:  # Elementwise Log
 
     def backward(self):
         if self.x.grad is not None:
-            self.x.grad = self.x.grad + self.grad / self.x.value
+            self.x.grad += self.grad / self.x.value
 
 
 class Sigmoid:
@@ -203,7 +199,7 @@ class Sigmoid:
 
     def backward(self):
         if self.x.grad is not None:
-            self.x.grad = self.x.grad + self.grad * self.value * (1. - self.value)
+            self.x.grad += self.grad * self.value * (1. - self.value)
 
 
 class Tanh:
@@ -228,7 +224,7 @@ class Tanh:
 
     def backward(self):
         if self.x.grad is not None:
-            self.x.grad = self.x.grad + self.grad * (1 - self.value * self.value)
+            self.x.grad += self.grad * (1 - self.value * self.value)
 
 
 class RELU:
@@ -250,7 +246,7 @@ class RELU:
 
     def backward(self):
         if self.x.grad is not None:
-            self.x.grad = self.x.grad + self.grad * (self.value > 0)
+            self.x.grad += self.grad * (self.value > 0)
 
 
 class LeakyRELU:
@@ -272,7 +268,7 @@ class LeakyRELU:
 
     def backward(self):
         if self.x.grad is not None:
-            self.x.grad = self.x.grad + self.grad * np.maximum(0.01, self.value > 0)
+            self.x.grad += self.grad * np.maximum(0.01, self.value > 0)
 
 
 class Softplus:
@@ -294,7 +290,7 @@ class Softplus:
 
     def backward(self):
         if self.x.grad is not None:
-            self.x.grad = self.x.grad + self.grad * 1. / (1. + np.exp(-self.x.value))
+            self.x.grad += self.grad * 1. / (1. + np.exp(-self.x.value))
 
 
 class SoftMax:
@@ -320,7 +316,7 @@ class SoftMax:
         if self.x.grad is None:
             return
         gvdot = np.matmul(self.grad[..., np.newaxis, :], self.value[..., np.newaxis]).squeeze(-1)
-        self.x.grad = self.x.grad + self.value * (self.grad - gvdot)
+        self.x.grad += self.value * (self.grad - gvdot)
 
 
 class LogLoss:
@@ -342,7 +338,7 @@ class LogLoss:
 
     def backward(self):
         if self.x.grad is not None:
-            self.x.grad = self.x.grad + (-1) * self.grad / np.maximum(eps, self.x.value)
+            self.x.grad -= self.grad / np.maximum(eps, self.x.value)
 
 
 class Mean:
@@ -364,13 +360,15 @@ class Mean:
 
     def backward(self):
         if self.x.grad is not None:
-            self.x.grad = self.x.grad + self.grad * np.ones_like(self.x.value) / self.x.value.shape[0]
+            self.x.grad += self.grad * np.ones_like(self.x.value) / self.x.value.shape[0]
+
 
 class Sum:
     """
     Class Name: Sum
     Class Usage: compute the sum of a matrix.
     """
+
     def __init__(self, x):
         components.append(self)
         self.x = x
@@ -381,7 +379,7 @@ class Sum:
 
     def backward(self):
         if self.x.grad is not None:
-            self.x.grad = self.x.grad + self.grad * np.ones_like(self.x.value)
+            self.x.grad += self.grad * np.ones_like(self.x.value)
 
 
 class MeanwithMask:
@@ -404,7 +402,7 @@ class MeanwithMask:
 
     def backward(self):
         if self.x.grad is not None:
-            self.x.grad = self.x.grad + self.grad * np.ones_like(self.x.value) * self.mask.value / np.sum(
+            self.x.grad += self.grad * np.ones_like(self.x.value) * self.mask.value / np.sum(
                 self.mask.value)
 
 
@@ -437,7 +435,7 @@ class Aref:  # out = x[idx]
             grad = np.zeros_like(self.x.value)
             gflat = grad.reshape(-1)
             gflat[self.pick] = self.grad.reshape(-1)
-            self.x.grad = self.x.grad + grad
+            self.x.grad += grad
 
 
 class Accuracy:
@@ -482,7 +480,7 @@ class Reshape:
 
     def backward(self):
         if self.x.grad is not None:
-            self.x.grad = self.x.grad + np.reshape(self.grad, self.x.value.shape)
+            self.x.grad += np.reshape(self.grad, self.x.value.shape)
 
 
 def Momentum(lr, mom):
@@ -501,7 +499,7 @@ def AdaGrad(lr, ep=1e-8):
             p.grad_G = DT(0)
     for p in params:
         p.grad_G = p.grad_G + p.grad * p.grad
-        p.grad = p.grad / np.sqrt(p.grad_G + DT(ep))
+        p.grad /= np.sqrt(p.grad_G + DT(ep))
     SGD(lr)
 
 
@@ -511,7 +509,7 @@ def RMSProp(lr, g=0.9, ep=1e-8):
             p.grad_hist = DT(0)
     for p in params:
         p.grad_hist = g * p.grad_hist + (1 - g) * p.grad * p.grad
-        p.grad = p.grad / np.sqrt(p.grad_hist + DT(ep))
+        p.grad /= np.sqrt(p.grad_hist + DT(ep))
     SGD(lr)
 
 
@@ -604,9 +602,9 @@ class ConCat:
         dim_y = self.y.value.shape[1]
 
         if self.x.grad is not None:
-            self.x.grad = self.x.grad + self.grad[:, 0:dim_x]
+            self.x.grad += self.grad[:, 0:dim_x]
         if self.y.grad is not None:
-            self.y.grad = self.y.grad + self.grad[:, dim_x:dim_x + dim_y]
+            self.y.grad += self.grad[:, dim_x:dim_x + dim_y]
 
 
 class ArgMax:
