@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+.DS_Store
+MNIST_data
+nohup.out
+network.ckpt
+checkpoint
+network.ckpt.meta
+summaries/

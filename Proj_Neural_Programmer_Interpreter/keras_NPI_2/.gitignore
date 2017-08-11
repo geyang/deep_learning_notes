@@ -1,0 +1,8 @@
+.idea/
+.python-version
+*.pyc
+*.log
+*.png
+*.model
+*.pkl
+.DS_Store

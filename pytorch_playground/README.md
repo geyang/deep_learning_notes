@@ -27,3 +27,5 @@ List of readings on Sequence to Sequence networks:
 
 
 
+# tacotron-pytorch
+# char2wav_pytorch

@@ -6,16 +6,10 @@ data
 training-data
 
 MNIST_data
-.gitignore
-__pycache__/
-checkpoint
-checkpoints/1024_hidden/network.ckpt
-checkpoints/1024_hidden/network.ckpt.meta
-checkpoints/90_pc_trial_001/checkpoint
-checkpoints/90_pc_trial_001/network.ckpt
-checkpoints/90_pc_trial_001/network.ckpt.meta
-checkpoints/90_pc_trial_001/summaries/
+**/__pycache__
+checkpoints
+
 figures/MNIST LeNet++ with 2 Deep Features.png
 network.ckpt
 network.ckpt.meta
-summaries/
+summaries

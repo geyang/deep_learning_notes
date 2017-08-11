@@ -1,0 +1,12 @@
+.idea
+__pychache__
+.ipynb_checkpoints/
+
+**/*.pyc
+
+
+# log files
+*.log
+
+# data files
+data
